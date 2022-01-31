@@ -1,0 +1,599 @@
+,price,Address,moreinfo,bedroom,bathroom,size_sqf,types,city,province
+0,"2,000",Crestwood Springfarm Yorkhill,"1 bd
+1 ba
+600 - 699 sf",1,1,600,Apt/Condo,vaughan,Ontario
+1,"2,500",Concord,"1 + 1 bd
+2 ba
+700 - 799 sf",1 + 1,2,700,Apt/Condo,vaughan,Ontario
+2,"8,000",Maple,"4 bd
+4 ba
+2500 - 3000 sf",4,4,2500,House,vaughan,Ontario
+3,"2,250",Concord,"2 bd
+2 ba
+650 sf",2,2,650,Apt/Condo,vaughan,Ontario
+4,"3,050",Concord,"3 bd
+2 ba
+1250 sf",3,2,1250,Apt/Condo,vaughan,Ontario
+5,"3,300",Vellore Village,"3 + 1 bd
+3 ba",3 + 1,3,,Townhouse,vaughan,Ontario
+6,"1,850",Concord,"2 bd
+1 ba",2,1,,Apt/Condo,vaughan,Ontario
+7,"2,750",West Woodbridge,"3 bd
+1 ba",3,1,,House,vaughan,Ontario
+8,750,Brownridge,"1 bd
+1 ba",1,1,,House,vaughan,Ontario
+9,"2,499",Glen Shields,"3 bd
+1 ba",3,1,,House,vaughan,Ontario
+10,"4,800",Patterson,"4 bd
+4 ba
+3000 - 3500 sf
+12 x 45 ft",4,4,3000,House,vaughan,Ontario
+11,"1,900",Beverley Glen,"1 bd
+1 ba
+500 - 599 sf",1,1,500,Apt/Condo,vaughan,Ontario
+12,"1,500",Patterson,"2 bd
+1 ba
+1500 - 2000 sf
+42 x 82 ft",2,1,1500,House,vaughan,Ontario
+13,"1,750",Vellore Village,"2 bd
+1 ba",2,1,,House,vaughan,Ontario
+14,"3,200",Concord,"3 bd
+2 ba",3,2,,Apt/Condo,vaughan,Ontario
+15,"3,650",Patterson,"3 bd
+3 ba
+2000 - 2500 sf",3,3,2000,Townhouse,vaughan,Ontario
+16,"2,375",Concord,"2 bd
+2 ba
+700 - 799 sf",2,2,700,Apt/Condo,vaughan,Ontario
+17,"1,300",Elder Mills,"0 bd
+1 ba
+700 - 1100 sf",0,1,700,House,vaughan,Ontario
+18,"2,150",Lakeview Estates,"1 + 1 bd
+1 ba
+700 - 799 sf",1 + 1,1,700,Apt/Condo,vaughan,Ontario
+19,"2,795",Concord,"2 + 1 bd
+2 ba
+800 - 899 sf",2 + 1,2,800,Apt/Condo,vaughan,Ontario
+20,"5,600",Patterson,"6 bd
+7 ba",6,7,,House,vaughan,Ontario
+21,"2,550",Concord,"2 + 1 bd
+2 ba
+700 - 799 sf",2 + 1,2,700,Apt/Condo,vaughan,Ontario
+22,"2,400",Concord,"1 + 1 bd
+2 ba
+700 - 799 sf",1 + 1,2,700,Apt/Condo,vaughan,Ontario
+23,"2,200",Concord,"1 + 1 bd
+2 ba
+600 - 699 sf",1 + 1,2,600,Apt/Condo,vaughan,Ontario
+24,"4,350",East Woodbridge,"4 + 1 bd
+4 ba
+2500 - 3000 sf
+50 x 120 ft",4 + 1,4,2500,House,vaughan,Ontario
+25,"3,780",Vellore Village,"3 + 1 bd
+4 ba",3 + 1,4,,House,vaughan,Ontario
+26,"2,900",Sonoma Heights,"3 bd
+3 ba
+1500 - 2000 sf
+24 x 109 ft",3,3,1500,House,vaughan,Ontario
+27,"3,900",Patterson,"3 + 1 bd
+4 ba
+25 x 109 ft",3 + 1,4,25,House,vaughan,Ontario
+28,"1,600",Sonoma Heights,"1 bd
+1 ba
+700 - 1100 sf",1,1,700,House,vaughan,Ontario
+29,"2,000",Beverley Glen,"1 bd
+1 ba
+500 - 599 sf",1,1,500,Apt/Condo,vaughan,Ontario
+30,"1,800",Beverley Glen,"2 bd
+1 ba",2,1,,House,vaughan,Ontario
+31,"2,300",Crestwood Springfarm Yorkhill,"2 bd
+2 ba",2,2,,Apt/Condo,vaughan,Ontario
+32,"4,000",Uplands,"3 bd
+2 ba",3,2,,House,vaughan,Ontario
+33,"1,390",Brownridge,"1 + 1 bd
+1 ba
+29 x 112 ft",1 + 1,1,29,House,vaughan,Ontario
+34,"2,750",Maple,"2 bd
+2 ba
+1000 - 1199 sf",2,2,1000,Apt/Condo,vaughan,Ontario
+35,"1,950",Concord,"2 bd
+2 ba
+600 - 699 sf",2,2,600,Apt/Condo,vaughan,Ontario
+36,"2,250",Concord,"2 bd
+2 ba
+600 - 699 sf",2,2,600,Apt/Condo,vaughan,Ontario
+37,"3,400",Patterson,"3 bd
+4 ba
+2000 - 2500 sf",3,4,2000,Townhouse,vaughan,Ontario
+38,"3,200",West Woodbridge,"3 bd
+3 ba
+41 x 117 ft",3,3,41,House,vaughan,Ontario
+39,"2,690",Beverley Glen,"V Tour
+
+2 bd
+2 ba
+1000 - 1199 sf",2,,1000,"
+
+
+Apt/Condo",vaughan,Ontario
+40,"1,650",Islington Woods,"2 bd
+1 ba",2,1,,House,vaughan,Ontario
+41,"2,100",Concord,"2 bd
+2 ba
+600 - 699 sf",2,2,600,Apt/Condo,vaughan,Ontario
+42,"2,100",Patterson,"1 bd
+1 ba",1,1,,House,vaughan,Ontario
+43,"5,900",Beverley Glen,"4 + 1 bd
+4 ba
+2500 - 3000 sf
+40 x 111 ft",4 + 1,4,2500,House,vaughan,Ontario
+44,"3,500",East Woodbridge,"3 bd
+2 ba
+60 x 118 ft",3,2,60,House,vaughan,Ontario
+45,"2,350",East Woodbridge,"2 bd
+2 ba
+700 - 799 sf",2,2,700,Apt/Condo,vaughan,Ontario
+46,"2,450",Concord,"2 + 1 bd
+2 ba
+700 - 799 sf",2 + 1,2,700,Apt/Condo,vaughan,Ontario
+47,"1,850",Concord,"1 bd
+1 ba
+500 - 599 sf",1,1,500,Apt/Condo,vaughan,Ontario
+48,"2,300",Vaughan Corporate Centre,"1 + 1 bd
+1 ba
+600 - 699 sf",1 + 1,1,600,Apt/Condo,vaughan,Ontario
+49,"3,400",Kleinburg,"4 bd
+3 ba",4,3,,House,vaughan,Ontario
+50,"2,795",West Woodbridge,"3 bd
+3 ba
+1000 - 1199 sf",3,3,1000,Apt/Condo,vaughan,Ontario
+51,"5,700",Vellore Village,"V Tour
+
+4 bd
+4 ba
+3500 - 5000 sf",4,,3500,"
+
+
+House",vaughan,Ontario
+52,"2,150",Concord,"2 bd
+2 ba
+600 - 699 sf",2,2,600,Apt/Condo,vaughan,Ontario
+53,"4,250",Rural Vaughan,"5 + 1 bd
+6 ba
+3000 - 3500 sf
+4 x 99 ft",5 + 1,6,3000,House,vaughan,Ontario
+54,"2,400",West Woodbridge,"2 bd
+2 ba
+800 - 899 sf",2,2,800,Apt/Condo,vaughan,Ontario
+55,"1,500",Patterson,"1 bd
+1 ba",1,1,,House,vaughan,Ontario
+56,"4,300",Kleinburg,"5 bd
+5 ba
+3500 - 5000 sf
+43 x 101 ft",5,5,3500,House,vaughan,Ontario
+57,"1,900",Crestwood Springfarm Yorkhill,"1 bd
+1 ba
+500 - 599 sf",1,1,500,Apt/Condo,vaughan,Ontario
+58,"2,250",Concord,"1 + 1 bd
+2 ba
+600 - 699 sf",1 + 1,2,600,Apt/Condo,vaughan,Ontario
+59,"3,000",East Woodbridge,"3 + 1 bd
+4 ba
+34 x 119 ft",3 + 1,4,34,House,vaughan,Ontario
+60,"2,550",Concord,"2 + 1 bd
+2 ba
+800 - 899 sf",2 + 1,2,800,Apt/Condo,vaughan,Ontario
+61,"1,995",Concord,"1 bd
+2 ba
+600 - 699 sf",1,2,600,Apt/Condo,vaughan,Ontario
+62,"2,000",Vaughan Corporate Centre,"1 + 1 bd
+1 ba
+600 - 699 sf",1 + 1,1,600,Apt/Condo,vaughan,Ontario
+63,"1,700",Crestwood Springfarm Yorkhill,"1 bd
+1 ba",1,1,,Apt/Condo,vaughan,Ontario
+64,"4,250",Patterson,"3 + 1 bd
+4 ba",3 + 1,4,,House,vaughan,Ontario
+65,"3,000",Vellore Village,"3 bd
+3 ba",3,3,,House,vaughan,Ontario
+66,"3,042",Concord,"3 + 1 bd
+2 ba
+1200 - 1399 sf",3 + 1,2,1200,Townhouse,vaughan,Ontario
+67,"4,280",Patterson,"3 bd
+4 ba
+2000 - 2500 sf",3,4,2000,Townhouse,vaughan,Ontario
+68,"3,300",Patterson,"3 bd
+3 ba
+2000 - 2500 sf",3,3,2000,Townhouse,vaughan,Ontario
+69,"2,600",Concord,"2 bd
+1 ba
+600 - 699 sf",2,1,600,Apt/Condo,vaughan,Ontario
+70,"2,700",Rural Vaughan,"2 + 1 bd
+2 ba
+800 - 899 sf",2 + 1,2,800,Apt/Condo,vaughan,Ontario
+71,"1,800",Concord,"1 bd
+1 ba
+500 - 599 sf",1,1,500,Apt/Condo,vaughan,Ontario
+72,"1,850",Concord,"1 + 1 bd
+1 ba
+500 - 599 sf",1 + 1,1,500,Apt/Condo,vaughan,Ontario
+73,"1,900",Beverley Glen,"1 bd
+1 ba
+500 - 599 sf",1,1,500,Apt/Condo,vaughan,Ontario
+74,"3,500",Vellore Village,"3 bd
+3 ba",3,3,,House,vaughan,Ontario
+75,"4,800",Kleinburg,"4 bd
+4 ba
+3000 - 3500 sf
+43 x 101 ft",4,4,3000,House,vaughan,Ontario
+76,"1,950",Concord,"1 bd
+1 ba",1,1,,Apt/Condo,vaughan,Ontario
+77,"2,600",Concord,"2 bd
+2 ba
+600 - 699 sf",2,2,600,Apt/Condo,vaughan,Ontario
+78,"2,950",Brownridge,"2 + 1 bd
+2 ba
+1000 - 1199 sf",2 + 1,2,1000,Apt/Condo,vaughan,Ontario
+79,"2,650",Rural Vaughan,"V Tour
+
+2 + 1 bd
+2 ba
+800 - 899 sf",2 + 1,,800,"
+
+
+Apt/Condo",vaughan,Ontario
+80,"1,500",Patterson,"1 bd
+1 ba",1,1,,House,vaughan,Ontario
+81,"2,600",Concord,"2 + 1 bd
+2 ba
+800 - 899 sf",2 + 1,2,800,Apt/Condo,vaughan,Ontario
+82,"2,149",Concord,"2 bd
+2 ba
+700 - 799 sf",2,2,700,Apt/Condo,vaughan,Ontario
+83,"2,100",Concord,"2 bd
+2 ba
+600 - 699 sf",2,2,600,Apt/Condo,vaughan,Ontario
+84,"3,000",East Woodbridge,"2 bd
+2 ba
+800 - 899 sf",2,2,800,Apt/Condo,vaughan,Ontario
+85,"2,400",West Woodbridge,"3 bd
+1 ba
+70 x 115 ft",3,1,70,House,vaughan,Ontario
+86,"2,000",Crestwood Springfarm Yorkhill,"1 bd
+1 ba
+600 - 699 sf",1,1,600,Apt/Condo,vaughan,Ontario
+87,"2,150",Concord,"1 bd
+2 ba
+600 - 699 sf",1,2,600,Apt/Condo,vaughan,Ontario
+88,"2,900",Brownridge,"2 + 1 bd
+2 ba
+1000 - 1199 sf",2 + 1,2,1000,Apt/Condo,vaughan,Ontario
+89,"2,200",Concord,"1 + 1 bd
+2 ba
+700 - 799 sf",1 + 1,2,700,Apt/Condo,vaughan,Ontario
+90,"1,300",East Woodbridge,"1 bd
+1 ba",1,1,,House,vaughan,Ontario
+91,"2,200",Vellore Village,"2 bd
+1 ba",2,1,,House,vaughan,Ontario
+92,"1,650",Vellore Village,"2 bd
+1 ba",2,1,,Apt/Condo,vaughan,Ontario
+93,"3,250",Maple,"3 bd
+3 ba
+1500 - 2000 sf",3,3,1500,Townhouse,vaughan,Ontario
+94,"10,800",Uplands,"5 + 1 bd
+6 ba",5 + 1,6,,House,vaughan,Ontario
+95,"2,150",Concord,"1 bd
+2 ba
+600 - 699 sf",1,2,600,Apt/Condo,vaughan,Ontario
+96,"3,250",Rural Vaughan,"3 bd
+4 ba",3,4,,Townhouse,vaughan,Ontario
+97,"3,250",Vellore Village,"4 bd
+3 ba",4,3,,House,vaughan,Ontario
+98,"2,150",Concord,"2 bd
+2 ba
+600 - 699 sf",2,2,600,Apt/Condo,vaughan,Ontario
+99,"2,150",Vellore Village,"2 + 1 bd
+2 ba",2 + 1,2,,Townhouse,vaughan,Ontario
+100,"2,150",Vellore Village,"2 bd
+2 ba",2,2,,House,vaughan,Ontario
+101,"1,450",Crestwood Springfarm Yorkhill,"2 bd
+2 ba",2,2,,House,vaughan,Ontario
+102,"1,350",Patterson,"V Tour
+
+1 bd
+1 ba
+19 x 101 ft",1,,19,"
+
+
+House",vaughan,Ontario
+103,"1,850",Sonoma Heights,"1 bd
+1 ba",1,1,,House,vaughan,Ontario
+104,"3,100",Vellore Village,"4 bd
+4 ba",4,4,,Townhouse,vaughan,Ontario
+105,"1,850",Concord,"1 bd
+1 ba
+500 - 599 sf",1,1,500,Apt/Condo,vaughan,Ontario
+106,"1,550",Sonoma Heights,"1 bd
+1 ba",1,1,,Apt/Condo,vaughan,Ontario
+107,"1,800",Concord,"1 bd
+1 ba
+500 - 599 sf",1,1,500,Apt/Condo,vaughan,Ontario
+108,"1,550",Patterson,"2 bd
+1 ba",2,1,,House,vaughan,Ontario
+109,"2,300",Concord,"2 bd
+2 ba
+700 - 799 sf",2,2,700,Apt/Condo,vaughan,Ontario
+110,"2,300",East Woodbridge,"2 bd
+2 ba
+700 - 799 sf",2,2,700,Apt/Condo,vaughan,Ontario
+111,"2,700",West Woodbridge,"2 bd
+2 ba
+900 - 999 sf",2,2,900,Apt/Condo,vaughan,Ontario
+112,"4,500",Crestwood Springfarm Yorkhill,"V Tour
+
+3 + 2 bd
+4 ba
+29 x 115 ft",3 + 2,,29,"
+
+
+House",vaughan,Ontario
+113,"3,300",Maple,"3 bd
+4 ba
+2000 - 2500 sf",3,4,2000,Townhouse,vaughan,Ontario
+114,"2,680",Concord,"V Tour
+
+2 + 1 bd
+2 ba
+800 - 899 sf",2 + 1,,800,"
+
+
+Apt/Condo",vaughan,Ontario
+115,"1,600",East Woodbridge,"1 bd
+1 ba
+1100 - 1500 sf
+55 x 137 ft",1,1,1100,House,vaughan,Ontario
+116,"2,500",Concord,"2 bd
+2 ba
+700 - 799 sf",2,2,700,Apt/Condo,vaughan,Ontario
+117,"2,150",Crestwood Springfarm Yorkhill,"1 + 1 bd
+2 ba
+700 - 799 sf",1 + 1,2,700,Apt/Condo,vaughan,Ontario
+118,"2,400",Vaughan Corporate Centre,"1 + 1 bd
+1 ba
+600 - 699 sf",1 + 1,1,600,Apt/Condo,vaughan,Ontario
+119,"2,500",East Woodbridge,"2 bd
+2 ba
+700 - 799 sf",2,2,700,Apt/Condo,vaughan,Ontario
+120,"3,395",Patterson,"4 bd
+3 ba
+2000 - 2500 sf
+8 x 32 ft",4,3,2000,House,vaughan,Ontario
+121,"1,800",Vellore Village,"2 + 1 bd
+1 ba
+20 x 82 ft",2 + 1,1,20,House,vaughan,Ontario
+122,"1,450",Patterson,"1 + 1 bd
+1 ba
+700 - 1100 sf",1 + 1,1,700,Apt/Condo,vaughan,Ontario
+123,"3,000",Vaughan Grove,"4 bd
+3 ba",4,3,,Townhouse,vaughan,Ontario
+124,"3,800",Kleinburg,"4 bd
+4 ba",4,4,,House,vaughan,Ontario
+125,"2,900",Maple,"3 bd
+3 ba",3,3,,Townhouse,vaughan,Ontario
+126,"2,400",West Woodbridge,"3 bd
+1 ba
+35 x 125 ft",3,1,35,House,vaughan,Ontario
+127,"1,250",Vellore Village,"1 bd
+1 ba",1,1,,House,vaughan,Ontario
+128,"2,300",Concord,"1 + 1 bd
+2 ba
+700 - 799 sf",1 + 1,2,700,Apt/Condo,vaughan,Ontario
+129,"2,700",Vaughan Grove,"3 bd
+2 ba
+1000 - 1199 sf",3,2,1000,Townhouse,vaughan,Ontario
+130,"2,700",West Woodbridge,"3 bd
+1 ba
+1500 - 2000 sf
+47 x 203 ft",3,1,1500,House,vaughan,Ontario
+131,"1,900",Concord,"1 bd
+1 ba",1,1,,Apt/Condo,vaughan,Ontario
+132,"1,675",Vellore Village,"1 + 1 bd
+2 ba",1 + 1,2,,House,vaughan,Ontario
+133,"3,999",Sonoma Heights,"V Tour
+
+4 bd
+3 ba",4,,,"
+
+
+House",vaughan,Ontario
+134,"1,450",Glen Shields,"2 bd
+1 ba
+29 x 98 ft",2,1,29,House,vaughan,Ontario
+135,"3,200",Patterson,"4 bd
+3 ba",4,3,,Townhouse,vaughan,Ontario
+136,"1,445",Vellore Village,"1 bd
+1 ba",1,1,,Townhouse,vaughan,Ontario
+137,"2,800",Concord,"2 bd
+2 ba
+900 - 999 sf",2,2,900,Apt/Condo,vaughan,Ontario
+138,"1,800",East Woodbridge,"1 bd
+1 ba",1,1,,House,vaughan,Ontario
+139,"1,375",Vellore Village,"1 bd
+1 ba
+700 - 1100 sf",1,1,700,House,vaughan,Ontario
+140,"1,290",Vellore Village,"1 bd
+1 ba",1,1,,House,vaughan,Ontario
+141,"2,200",Concord,"1 bd
+2 ba
+600 - 699 sf",1,2,600,Apt/Condo,vaughan,Ontario
+142,"2,600",West Woodbridge,"2 bd
+2 ba
+900 - 999 sf",2,2,900,Apt/Condo,vaughan,Ontario
+143,"2,600",Brownridge,"2 bd
+2 ba
+1200 - 1399 sf",2,2,1200,Apt/Condo,vaughan,Ontario
+144,"1,500",Glen Shields,"1 bd
+1 ba
+30 x 110 ft",1,1,30,House,vaughan,Ontario
+145,"1,900",Patterson,"2 bd
+1 ba",2,1,,House,vaughan,Ontario
+146,"3,275",Brownridge,"2 bd
+2 ba",2,2,,Apt/Condo,vaughan,Ontario
+147,"1,920",Beverley Glen,"1 bd
+1 ba
+500 - 599 sf",1,1,500,Apt/Condo,vaughan,Ontario
+148,"2,200",Vellore Village,"2 bd
+1 ba",2,1,,House,vaughan,Ontario
+149,"1,400",Islington Woods,"1 bd
+1 ba
+65 x 132 ft",1,1,65,House,vaughan,Ontario
+150,"3,850",Patterson,"3 bd
+4 ba
+2000 - 2500 sf",3,4,2000,Townhouse,vaughan,Ontario
+151,"2,100",Patterson,"1 bd
+1 ba",1,1,,House,vaughan,Ontario
+152,"2,200",Islington Woods,"1 + 1 bd
+1 ba
+700 - 799 sf",1 + 1,1,700,Apt/Condo,vaughan,Ontario
+153,"3,450",Crestwood Springfarm Yorkhill,"2 + 1 bd
+2 ba
+1600 - 1799 sf",2 + 1,2,1600,Apt/Condo,vaughan,Ontario
+154,"2,300",Vaughan Grove,"1 + 1 bd
+2 ba
+800 - 899 sf",1 + 1,2,800,Apt/Condo,vaughan,Ontario
+155,"3,300",Rural Vaughan,"3 + 1 bd
+4 ba
+1500 - 2000 sf",3 + 1,4,1500,Townhouse,vaughan,Ontario
+156,"2,200",Concord,"2 bd
+2 ba",2,2,,House,vaughan,Ontario
+157,"2,500",Vellore Village,"3 bd
+3 ba
+1500 - 2000 sf
+40 x 104 ft",3,3,1500,House,vaughan,Ontario
+158,"1,950",Kleinburg,"2 bd
+1 ba",2,1,,House,vaughan,Ontario
+159,"1,550",Vaughan Grove,"1 bd
+1 ba",1,1,,House,vaughan,Ontario
+160,"4,200",Kleinburg,"5 bd
+4 ba
+3000 - 3500 sf",5,4,3000,House,vaughan,Ontario
+161,"2,600",East Woodbridge,"2 bd
+2 ba
+800 - 899 sf",2,2,800,Apt/Condo,vaughan,Ontario
+162,"1,600",West Woodbridge,"2 bd
+1 ba",2,1,,Apt/Condo,vaughan,Ontario
+163,"1,750",Patterson,"2 bd
+1 ba",2,1,,Apt/Condo,vaughan,Ontario
+164,"4,200",Patterson,"4 + 1 bd
+5 ba",4 + 1,5,,House,vaughan,Ontario
+165,"8,800",Crestwood Springfarm Yorkhill,"V Tour
+
+4 bd
+3 ba
+100 x 180 ft",4,,100,"
+
+
+House",vaughan,Ontario
+166,"3,800",Patterson,"3 + 1 bd
+4 ba",3 + 1,4,,Townhouse,vaughan,Ontario
+167,"2,000",Vellore Village,"2 bd
+1 ba",2,1,,House,vaughan,Ontario
+168,"1,788",Beverley Glen,"1 bd
+1 ba",1,1,,House,vaughan,Ontario
+169,"3,250",Rural Vaughan,"3 + 1 bd
+3 ba",3 + 1,3,,Townhouse,vaughan,Ontario
+170,"1,599",Crestwood Springfarm Yorkhill,"1 + 1 bd
+1 ba
+1100 - 1500 sf
+33 x 159 ft",1 + 1,1,1100,House,vaughan,Ontario
+171,"3,350",Patterson,"3 bd
+3 ba",3,3,,Townhouse,vaughan,Ontario
+172,"3,800",Patterson,"3 + 1 bd
+4 ba",3 + 1,4,,House,vaughan,Ontario
+173,"1,400",Patterson,"1 bd
+1 ba
+35 x 108 ft",1,1,35,House,vaughan,Ontario
+174,"2,350",Crestwood Springfarm Yorkhill,"3 bd
+1 ba
+1100 - 1500 sf",3,1,1100,House,vaughan,Ontario
+175,"1,700",Vellore Village,"V Tour
+
+1 bd
+1 ba",1,,,"
+
+
+House",vaughan,Ontario
+176,"1,600",Glen Shields,"2 bd
+1 ba
+24 x 150 ft",2,1,24,House,vaughan,Ontario
+177,"1,700",Patterson,"1 bd
+1 ba
+700 - 1100 sf",1,1,700,Townhouse,vaughan,Ontario
+178,"1,800",Maple,"2 bd
+1 ba",2,1,,Apt/Condo,vaughan,Ontario
+179,"1,700",Patterson,"1 bd
+1 ba
+700 - 1100 sf
+36 x 110 ft",1,1,700,House,vaughan,Ontario
+180,"1,350",West Woodbridge,"1 bd
+1 ba",1,1,,House,vaughan,Ontario
+181,"1,850",Patterson,"1 bd
+1 ba",1,1,,House,vaughan,Ontario
+182,"4,500",Patterson,"4 bd
+4 ba
+3000 - 3500 sf",4,4,3000,House,vaughan,Ontario
+183,"1,800",West Woodbridge,"2 bd
+1 ba",2,1,,House,vaughan,Ontario
+184,"1,700",Crestwood Springfarm Yorkhill,"V Tour
+
+1 bd
+1 ba",1,,,"
+
+
+House",vaughan,Ontario
+185,"2,250",Concord,"1 + 1 bd
+2 ba
+700 - 799 sf",1 + 1,2,700,Apt/Condo,vaughan,Ontario
+186,700,Concord,"1 bd
+1 ba
+900 - 999 sf",1,1,900,Apt/Condo,vaughan,Ontario
+187,"1,650",Crestwood Springfarm Yorkhill,"2 bd
+1 ba
+14 x 135 ft",2,1,14,House,vaughan,Ontario
+188,"2,200",Concord,"2 bd
+2 ba",2,2,,Apt/Condo,vaughan,Ontario
+189,"2,000",Patterson,"2 bd
+2 ba",2,2,,House,vaughan,Ontario
+190,"1,875",Concord,"1 + 1 bd
+1 ba
+500 - 599 sf",1 + 1,1,500,Apt/Condo,vaughan,Ontario
+191,"2,950",Lakeview Estates,"3 bd
+3 ba
+1500 - 2000 sf
+ ft",3,3,1500,House,vaughan,Ontario
+192,"2,950",Crestwood Springfarm Yorkhill,"V Tour
+
+2 bd
+2 ba
+1000 - 1199 sf",2,,1000,"
+
+
+Apt/Condo",vaughan,Ontario
+193,"2,350",Concord,"2 bd
+2 ba
+600 - 699 sf",2,2,600,Apt/Condo,vaughan,Ontario
+194,"1,700",Concord,"V Tour
+
+1 + 1 bd
+1 ba
+500 - 599 sf",1 + 1,,500,"
+
+
+Apt/Condo",vaughan,Ontario
+195,"3,100",Patterson,"4 bd
+4 ba",4,4,,Townhouse,vaughan,Ontario
+196,"1,725",Concord,"2 bd
+2 ba
+600 - 699 sf",2,2,600,Apt/Condo,vaughan,Ontario
+197,"1,990",East Woodbridge,"2 bd
+2 ba
+2000 - 2500 sf",2,2,2000,Apt/Condo,vaughan,Ontario

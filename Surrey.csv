@@ -1,28 +1,28 @@
-,price,Address,moreinfo,bedroom,bathroom,size_sqf,types,city
+,price,Address,moreinfo,bedroom,bathroom,size_sqf,types,city,province
 0,"1,800",Whalley,"2 bd
 1 ba
-655 sf",2,1,655,Apt/Condo,Surrey
+655 sf",2,1,655,Apt/Condo,Surrey,BC
 1,"2,100",Whalley,"2 bd
 2 ba
-750 sf",2,2,750,Apt/Condo,Surrey
+750 sf",2,2,750,Apt/Condo,Surrey,BC
 2,"1,425",Whalley,"0 bd
 1 ba
-446 sf",0,1,446,Apt/Condo,Surrey
+446 sf",0,1,446,Apt/Condo,Surrey,BC
 3,"1,500",Whalley,"1 bd
 1 ba
-512 sf",1,1,512,Apt/Condo,Surrey
+512 sf",1,1,512,Apt/Condo,Surrey,BC
 4,"2,300",Whalley,"2 bd
 2 ba
-802 sf",2,2,802,Apt/Condo,Surrey
+802 sf",2,2,802,Apt/Condo,Surrey,BC
 5,"1,800",Grandview,"2 bd
 1 ba
-800 sf",2,1,800,House,Surrey
+800 sf",2,1,800,House,Surrey,BC
 6,"1,400",Cedar Hills,"1 bd
 1 ba
-572 sf",1,1,572,Apt/Condo,Surrey
+572 sf",1,1,572,Apt/Condo,Surrey,BC
 7,"1,300",Whalley,"0 bd
 1 ba
-305 sf",0,1,305,Apt/Condo,Surrey
+305 sf",0,1,305,Apt/Condo,Surrey,BC
 8,"2,300",Whalley,"V Tour
 
 2 bd
@@ -30,7 +30,7 @@
 827 sf",2,,827,"
 
 
-Apt/Condo",Surrey
+Apt/Condo",Surrey,BC
 9,"2,300",Whalley,"V Tour
 
 2 bd
@@ -38,131 +38,131 @@ Apt/Condo",Surrey
 827 sf",2,,827,"
 
 
-Apt/Condo",Surrey
+Apt/Condo",Surrey,BC
 10,"1,500",West Newton,"2 bd
-1 ba",2,1,,Apt/Condo,Surrey
+1 ba",2,1,,Apt/Condo,Surrey,BC
 11,"1,900",West Newton,"3 bd
-2 ba",3,2,,Apt/Condo,Surrey
+2 ba",3,2,,Apt/Condo,Surrey,BC
 12,"2,295",Morgan Creek,"2 bd
 2 ba
-886 sf",2,2,886,Apt/Condo,Surrey
+886 sf",2,2,886,Apt/Condo,Surrey,BC
 13,"1,375",Guildford,"1 bd
 1 ba
-625 sf",1,1,625,Apt/Condo,Surrey
+625 sf",1,1,625,Apt/Condo,Surrey,BC
 14,"1,650",Guildford,"2 bd
 1 ba
-864 sf",2,1,864,Apt/Condo,Surrey
+864 sf",2,1,864,Apt/Condo,Surrey,BC
 15,"1,850",Guildford,"3 bd
 1 ba
-1039 sf",3,1,1039,Apt/Condo,Surrey
+1039 sf",3,1,1039,Apt/Condo,Surrey,BC
 16,"1,350",Guildford,"1 bd
 1 ba
-550 sf",1,1,550,Apt/Condo,Surrey
+550 sf",1,1,550,Apt/Condo,Surrey,BC
 17,"1,625",Guildford,"2 bd
 1 ba
-750 sf",2,1,750,Apt/Condo,Surrey
+750 sf",2,1,750,Apt/Condo,Surrey,BC
 18,"1,800",Guildford,"3 bd
 1 ba
-900 sf",3,1,900,Apt/Condo,Surrey
+900 sf",3,1,900,Apt/Condo,Surrey,BC
 19,"1,800",Queen Mary Park,"3 bd
 1 ba
-1102 sf",3,1,1102,Apt/Condo,Surrey
+1102 sf",3,1,1102,Apt/Condo,Surrey,BC
 20,"1,275",Cedar Hills,"1 bd
 1 ba
-600 sf",1,1,600,Apt/Condo,Surrey
+600 sf",1,1,600,Apt/Condo,Surrey,BC
 21,"1,575",Cedar Hills,"2 bd
 1 ba
-750 sf",2,1,750,Apt/Condo,Surrey
+750 sf",2,1,750,Apt/Condo,Surrey,BC
 22,"1,750",Cedar Hills,"3 bd
 1 ba
-950 sf",3,1,950,Apt/Condo,Surrey
+950 sf",3,1,950,Apt/Condo,Surrey,BC
 23,"1,350",Queen Mary Park,"1 bd
 1 ba
-550 sf",1,1,550,Apt/Condo,Surrey
+550 sf",1,1,550,Apt/Condo,Surrey,BC
 24,"1,600",Queen Mary Park,"2 bd
 1 ba
-950 sf",2,1,950,Apt/Condo,Surrey
+950 sf",2,1,950,Apt/Condo,Surrey,BC
 25,"1,800",Queen Mary Park,"3 bd
 1 ba
-1000 sf",3,1,1000,Apt/Condo,Surrey
+1000 sf",3,1,1000,Apt/Condo,Surrey,BC
 26,"1,350",Queen Mary Park,"1 bd
 1 ba
-669 sf",1,1,669,Apt/Condo,Surrey
+669 sf",1,1,669,Apt/Condo,Surrey,BC
 27,"1,550",Queen Mary Park,"2 bd
 1 ba
-818 sf",2,1,818,Apt/Condo,Surrey
+818 sf",2,1,818,Apt/Condo,Surrey,BC
 28,"1,325",West Newton,"1 bd
 1 ba
-585 sf",1,1,585,Apt/Condo,Surrey
+585 sf",1,1,585,Apt/Condo,Surrey,BC
 29,"1,600",West Newton,"2 bd
 1 ba
-773 sf",2,1,773,Apt/Condo,Surrey
+773 sf",2,1,773,Apt/Condo,Surrey,BC
 30,"1,900",West Newton,"3 bd
 1 ba
-1093 sf",3,1,1093,Apt/Condo,Surrey
+1093 sf",3,1,1093,Apt/Condo,Surrey,BC
 31,"1,575",Bolivar Heights,"2 bd
 1 ba
-975 sf",2,1,975,Apt/Condo,Surrey
+975 sf",2,1,975,Apt/Condo,Surrey,BC
 32,"1,400",Guildford,"1 bd
 1 ba
-664 sf",1,1,664,Apt/Condo,Surrey
+664 sf",1,1,664,Apt/Condo,Surrey,BC
 33,"1,800",Bolivar Heights,"3 bd
 1 ba
-1100 sf",3,1,1100,Apt/Condo,Surrey
+1100 sf",3,1,1100,Apt/Condo,Surrey,BC
 34,"1,700",Guildford,"2 bd
 1 ba
-912 sf",2,1,912,Apt/Condo,Surrey
+912 sf",2,1,912,Apt/Condo,Surrey,BC
 35,"1,900",Guildford,"3 bd
 1 ba
-1120 sf",3,1,1120,Apt/Condo,Surrey
+1120 sf",3,1,1120,Apt/Condo,Surrey,BC
 36,"1,250",Queen Mary Park,"0 bd
 1 ba
-510 sf",0,1,510,Apt/Condo,Surrey
+510 sf",0,1,510,Apt/Condo,Surrey,BC
 37,"1,400",Guildford,"1 bd
 1 ba
-662 sf",1,1,662,Apt/Condo,Surrey
+662 sf",1,1,662,Apt/Condo,Surrey,BC
 38,"1,700",Guildford,"2 bd
 1 ba
-928 sf",2,1,928,Apt/Condo,Surrey
+928 sf",2,1,928,Apt/Condo,Surrey,BC
 39,"1,900",Guildford,"3 bd
 1 ba
-1120 sf",3,1,1120,Apt/Condo,Surrey
+1120 sf",3,1,1120,Apt/Condo,Surrey,BC
 40,"11,000",Serpentine,"7 bd
 6 ba
-8725 sf",7,6,8725,House,Surrey
+8725 sf",7,6,8725,House,Surrey,BC
 41,"2,300",White Rock,"2 bd
 1 ba
-1000 sf",2,1,1000,House,Surrey
+1000 sf",2,1,1000,House,Surrey,BC
 42,"3,000",Cloverdale,"4 bd
 4 ba
-2010 sf",4,4,2010,House,Surrey
+2010 sf",4,4,2010,House,Surrey,BC
 43,"2,300",Whalley,"2 bd
 2 ba
-802 sf",2,2,802,House,Surrey
+802 sf",2,2,802,House,Surrey,BC
 44,"1,450",Whalley,"1 bd
 1 ba
-443 sf",1,1,443,Apt/Condo,Surrey
+443 sf",1,1,443,Apt/Condo,Surrey,BC
 45,"2,800",Whalley,"3 bd
 2 ba
-1017 sf",3,2,1017,House,Surrey
+1017 sf",3,2,1017,House,Surrey,BC
 46,800,Fleetwood Tynehead,"1 bd
 1 ba
-400 sf",1,1,400,House,Surrey
+400 sf",1,1,400,House,Surrey,BC
 47,"1,750",Queen Mary Park,"1 bd
 1 ba
-605 sf",1,1,605,House,Surrey
+605 sf",1,1,605,House,Surrey,BC
 48,"3,800",King George Corridor,"3 bd
 3 ba
-2000 sf",3,3,2000,House,Surrey
+2000 sf",3,3,2000,House,Surrey,BC
 49,"2,300",Morgan Creek,"2 bd
 1 ba
-778 sf",2,1,778,House,Surrey
+778 sf",2,1,778,House,Surrey,BC
 50,"2,600",White Rock,"2 bd
 2 ba
-880 sf",2,2,880,House,Surrey
+880 sf",2,2,880,House,Surrey,BC
 51,"1,100",Fleetwood Tynehead,"1 bd
 1 ba
-650 sf",1,1,650,House,Surrey
+650 sf",1,1,650,House,Surrey,BC
 52,"2,300",King George Corridor,"2 bd
 2 ba
-1650 sf",2,2,1650,House,Surrey
+1650 sf",2,2,1650,House,Surrey,BC

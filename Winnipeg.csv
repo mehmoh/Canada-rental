@@ -1,15 +1,15 @@
-,price,Address,moreinfo,bedroom,bathroom,size_sqf,types,city
+,price,Address,moreinfo,bedroom,bathroom,size_sqf,types,city,province
 0,948,Winnipeg,"1 bd
-1 ba",1,1,,Apt/Condo,Winnipeg
+1 ba",1,1,,Apt/Condo,winnipeg,Manitoba
 1,"1,085",Winnipeg,"2 bd
 1 ba
-780 sf",2,1,780,Apt/Condo,Winnipeg
+780 sf",2,1,780,Apt/Condo,winnipeg,Manitoba
 2,"1,125",Winnipeg,"2 bd
 1 ba
-800 sf",2,1,800,Apt/Condo,Winnipeg
+800 sf",2,1,800,Apt/Condo,winnipeg,Manitoba
 3,825,Winnipeg,"0 bd
 1 ba
-447 sf",0,1,447,Apt/Condo,Winnipeg
+447 sf",0,1,447,Apt/Condo,winnipeg,Manitoba
 4,"1,845",Winnipeg,"V Tour
 
 3 bd
@@ -17,46 +17,46 @@
 1221 sf",3,,1221,"
 
 
-Townhouse",Winnipeg
+Townhouse",winnipeg,Manitoba
 5,"1,179",Winnipeg,"2 bd
 1 ba
-740 sf",2,1,740,Apt/Condo,Winnipeg
+740 sf",2,1,740,Apt/Condo,winnipeg,Manitoba
 6,813,Winnipeg,"1 bd
 1 ba
-608 sf",1,1,608,Apt/Condo,Winnipeg
+608 sf",1,1,608,Apt/Condo,winnipeg,Manitoba
 7,"1,805",Winnipeg,"2 bd
 2 ba
-752 sf",2,2,752,Apt/Condo,Winnipeg
+752 sf",2,2,752,Apt/Condo,winnipeg,Manitoba
 8,"1,655",Winnipeg,"2 bd
 2 ba
-993 sf",2,2,993,Apt/Condo,Winnipeg
+993 sf",2,2,993,Apt/Condo,winnipeg,Manitoba
 9,"1,750",Winnipeg,"2 bd
 2 ba
-1014 sf",2,2,1014,Apt/Condo,Winnipeg
+1014 sf",2,2,1014,Apt/Condo,winnipeg,Manitoba
 10,"2,200",Winnipeg,"3 bd
 2 ba
-1150 sf",3,2,1150,Apt/Condo,Winnipeg
+1150 sf",3,2,1150,Apt/Condo,winnipeg,Manitoba
 11,"1,435",Winnipeg,"1 bd
 1 ba
-752 sf",1,1,752,Apt/Condo,Winnipeg
+752 sf",1,1,752,Apt/Condo,winnipeg,Manitoba
 12,"1,400",Winnipeg,"1 bd
 1 ba
-662 sf",1,1,662,Apt/Condo,Winnipeg
+662 sf",1,1,662,Apt/Condo,winnipeg,Manitoba
 13,"1,295",Winnipeg,"1 bd
 1 ba
-529 sf",1,1,529,Townhouse,Winnipeg
+529 sf",1,1,529,Townhouse,winnipeg,Manitoba
 14,"1,226",Winnipeg,"2 bd
 1 ba
-903 sf",2,1,903,Apt/Condo,Winnipeg
+903 sf",2,1,903,Apt/Condo,winnipeg,Manitoba
 15,"1,175",Winnipeg,"2 bd
 1 ba
-714 sf",2,1,714,Apt/Condo,Winnipeg
+714 sf",2,1,714,Apt/Condo,winnipeg,Manitoba
 16,638,Winnipeg,"0 bd
 1 ba
-0 sf",0,1,0,Apt/Condo,Winnipeg
+0 sf",0,1,0,Apt/Condo,winnipeg,Manitoba
 17,"1,085",Winnipeg,"2 bd
 1 ba
-792 sf",2,1,792,Apt/Condo,Winnipeg
+792 sf",2,1,792,Apt/Condo,winnipeg,Manitoba
 18,"1,375",Winnipeg,"V Tour
 
 2 bd
@@ -64,33 +64,33 @@ Townhouse",Winnipeg
 916 sf",2,,916,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 19,827,Winnipeg,"1 bd
 1 ba
-0 sf",1,1,0,Apt/Condo,Winnipeg
+0 sf",1,1,0,Apt/Condo,winnipeg,Manitoba
 20,"1,595",Winnipeg,"4 bd
 1 ba
-0 sf",4,1,0,Multifamily,Winnipeg
+0 sf",4,1,0,Multifamily,winnipeg,Manitoba
 21,895,Winnipeg,"1 bd
 1 ba
-0 sf",1,1,0,House,Winnipeg
+0 sf",1,1,0,House,winnipeg,Manitoba
 22,"1,085",Winnipeg,"2 bd
 1 ba
-780 sf",2,1,780,Apt/Condo,Winnipeg
+780 sf",2,1,780,Apt/Condo,winnipeg,Manitoba
 23,"1,095",Winnipeg,"1 bd
-1 ba",1,1,,Apt/Condo,Winnipeg
+1 ba",1,1,,Apt/Condo,winnipeg,Manitoba
 24,"1,760",Winnipeg,"2 bd
 1 ba
-1007 sf",2,1,1007,Apt/Condo,Winnipeg
+1007 sf",2,1,1007,Apt/Condo,winnipeg,Manitoba
 25,"1,440",Winnipeg,"2 bd
 1 ba
-891 sf",2,1,891,Apt/Condo,Winnipeg
+891 sf",2,1,891,Apt/Condo,winnipeg,Manitoba
 26,"1,600",Winnipeg,"2 bd
 1 ba
-914 sf",2,1,914,Apt/Condo,Winnipeg
+914 sf",2,1,914,Apt/Condo,winnipeg,Manitoba
 27,"1,200",Winnipeg,"1 bd
 1 ba
-641 sf",1,1,641,Apt/Condo,Winnipeg
+641 sf",1,1,641,Apt/Condo,winnipeg,Manitoba
 28,"1,610",Winnipeg,"V Tour
 
 2 bd
@@ -98,7 +98,7 @@ Apt/Condo",Winnipeg
 922 sf",2,,922,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 29,"1,200",Winnipeg,"V Tour
 
 1 bd
@@ -106,7 +106,7 @@ Apt/Condo",Winnipeg
 661 sf",1,,661,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 30,"1,250",Winnipeg,"V Tour
 
 1 bd
@@ -114,7 +114,7 @@ Apt/Condo",Winnipeg
 713 sf",1,,713,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 31,"1,420",Winnipeg,"V Tour
 
 2 bd
@@ -122,22 +122,22 @@ Apt/Condo",Winnipeg
 847 sf",2,,847,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 32,"1,296",Winnipeg,"2 bd
 1 ba
-1020 sf",2,1,1020,Apt/Condo,Winnipeg
+1020 sf",2,1,1020,Apt/Condo,winnipeg,Manitoba
 33,"1,220",Winnipeg,"1 bd
 1 ba
-736 sf",1,1,736,Apt/Condo,Winnipeg
+736 sf",1,1,736,Apt/Condo,winnipeg,Manitoba
 34,"1,215",Winnipeg,"1 bd
 1 ba
-736 sf",1,1,736,Apt/Condo,Winnipeg
+736 sf",1,1,736,Apt/Condo,winnipeg,Manitoba
 35,"1,237",Winnipeg,"1 bd
 1 ba
-695 sf",1,1,695,Apt/Condo,Winnipeg
+695 sf",1,1,695,Apt/Condo,winnipeg,Manitoba
 36,"1,394",Winnipeg,"2 bd
 1 ba
-930 sf",2,1,930,Apt/Condo,Winnipeg
+930 sf",2,1,930,Apt/Condo,winnipeg,Manitoba
 37,"1,595",Winnipeg,"V Tour
 
 3 bd
@@ -145,7 +145,7 @@ Apt/Condo",Winnipeg
 975 sf",3,,975,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 38,"1,435",Winnipeg,"V Tour
 
 2 bd
@@ -153,7 +153,7 @@ Apt/Condo",Winnipeg
 876 sf",2,,876,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 39,"1,465",Winnipeg,"V Tour
 
 2 bd
@@ -161,7 +161,7 @@ Apt/Condo",Winnipeg
 916 sf",2,,916,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 40,"1,335",Winnipeg,"V Tour
 
 1 bd
@@ -169,7 +169,7 @@ Apt/Condo",Winnipeg
 754 sf",1,,754,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 41,"1,475",Winnipeg,"V Tour
 
 1 bd
@@ -177,7 +177,7 @@ Apt/Condo",Winnipeg
 790 sf",1,,790,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 42,"1,355",Winnipeg,"V Tour
 
 1 bd
@@ -185,13 +185,13 @@ Apt/Condo",Winnipeg
 779 sf",1,,779,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 43,"1,425",Winnipeg,"2 bd
 1 ba
-908 sf",2,1,908,Apt/Condo,Winnipeg
+908 sf",2,1,908,Apt/Condo,winnipeg,Manitoba
 44,"1,315",Winnipeg,"2 bd
 1 ba
-958 sf",2,1,958,Apt/Condo,Winnipeg
+958 sf",2,1,958,Apt/Condo,winnipeg,Manitoba
 45,"1,312",Winnipeg,"V Tour
 
 1 bd
@@ -199,16 +199,16 @@ Apt/Condo",Winnipeg
 490 sf",1,,490,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 46,765,Winnipeg,"0 bd
 1 ba
-545 sf",0,1,545,Apt/Condo,Winnipeg
+545 sf",0,1,545,Apt/Condo,winnipeg,Manitoba
 47,"1,171",Winnipeg,"1 bd
 1 ba
-734 sf",1,1,734,Apt/Condo,Winnipeg
+734 sf",1,1,734,Apt/Condo,winnipeg,Manitoba
 48,"1,295",Winnipeg,"2 bd
 1 ba
-965 sf",2,1,965,Apt/Condo,Winnipeg
+965 sf",2,1,965,Apt/Condo,winnipeg,Manitoba
 49,"1,305",Winnipeg,"V Tour
 
 1 bd
@@ -216,16 +216,16 @@ Apt/Condo",Winnipeg
 529 sf",1,,529,"
 
 
-Townhouse",Winnipeg
+Townhouse",winnipeg,Manitoba
 50,830,Winnipeg,"1 bd
 1 ba
-605 sf",1,1,605,Apt/Condo,Winnipeg
+605 sf",1,1,605,Apt/Condo,winnipeg,Manitoba
 51,"1,405",Winnipeg,"2 bd
 1 ba
-973 sf",2,1,973,Apt/Condo,Winnipeg
+973 sf",2,1,973,Apt/Condo,winnipeg,Manitoba
 52,"1,393",Winnipeg,"2 bd
 1 ba
-942 sf",2,1,942,Apt/Condo,Winnipeg
+942 sf",2,1,942,Apt/Condo,winnipeg,Manitoba
 53,"1,199",Winnipeg,"V Tour
 
 1 bd
@@ -233,16 +233,16 @@ Townhouse",Winnipeg
 754 sf",1,,754,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 54,985,Winnipeg,"2 bd
 1 ba
-655 sf",2,1,655,Apt/Condo,Winnipeg
+655 sf",2,1,655,Apt/Condo,winnipeg,Manitoba
 55,985,Winnipeg,"2 bd
 1 ba
-655 sf",2,1,655,Apt/Condo,Winnipeg
+655 sf",2,1,655,Apt/Condo,winnipeg,Manitoba
 56,985,Winnipeg,"2 bd
 1 ba
-655 sf",2,1,655,Apt/Condo,Winnipeg
+655 sf",2,1,655,Apt/Condo,winnipeg,Manitoba
 57,"1,688",Winnipeg,"V Tour
 
 2 bd
@@ -250,13 +250,13 @@ Apt/Condo",Winnipeg
 1047 sf",2,,1047,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 58,970,Winnipeg,"1 bd
 1 ba
-621 sf",1,1,621,Apt/Condo,Winnipeg
+621 sf",1,1,621,Apt/Condo,winnipeg,Manitoba
 59,865,Winnipeg,"1 bd
 1 ba
-500 sf",1,1,500,Apt/Condo,Winnipeg
+500 sf",1,1,500,Apt/Condo,winnipeg,Manitoba
 60,"1,953",Winnipeg,"V Tour
 
 1 bd
@@ -264,7 +264,7 @@ Apt/Condo",Winnipeg
 490 sf",1,,490,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 61,"1,250",Winnipeg,"V Tour
 
 1 bd
@@ -272,7 +272,7 @@ Apt/Condo",Winnipeg
 497 sf",1,,497,"
 
 
-Townhouse",Winnipeg
+Townhouse",winnipeg,Manitoba
 62,"1,438",Winnipeg,"V Tour
 
 2 bd
@@ -280,16 +280,16 @@ Townhouse",Winnipeg
 863 sf",2,,863,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 63,"1,085",Winnipeg,"2 bd
 1 ba
-780 sf",2,1,780,Apt/Condo,Winnipeg
+780 sf",2,1,780,Apt/Condo,winnipeg,Manitoba
 64,"1,085",Winnipeg,"2 bd
 1 ba
-780 sf",2,1,780,Apt/Condo,Winnipeg
+780 sf",2,1,780,Apt/Condo,winnipeg,Manitoba
 65,"1,289",Winnipeg,"2 bd
 1 ba
-956 sf",2,1,956,House,Winnipeg
+956 sf",2,1,956,House,winnipeg,Manitoba
 66,"1,710",Winnipeg,"V Tour
 
 3 bd
@@ -297,10 +297,10 @@ Apt/Condo",Winnipeg
 1162 sf",3,,1162,"
 
 
-Townhouse",Winnipeg
+Townhouse",winnipeg,Manitoba
 67,"1,000",Winnipeg,"1 bd
 1 ba
-625 sf",1,1,625,Apt/Condo,Winnipeg
+625 sf",1,1,625,Apt/Condo,winnipeg,Manitoba
 68,"1,644",Winnipeg,"V Tour
 
 2 bd
@@ -308,7 +308,7 @@ Townhouse",Winnipeg
 640 sf",2,,640,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 69,"1,708",Winnipeg,"V Tour
 
 3 bd
@@ -316,7 +316,7 @@ Apt/Condo",Winnipeg
 1047 sf",3,,1047,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 70,"1,540",Winnipeg,"V Tour
 
 2 bd
@@ -324,13 +324,13 @@ Apt/Condo",Winnipeg
 946 sf",2,,946,"
 
 
-Townhouse",Winnipeg
+Townhouse",winnipeg,Manitoba
 71,"1,195",Winnipeg,"2 bd
 1 ba
-874 sf",2,1,874,Apt/Condo,Winnipeg
+874 sf",2,1,874,Apt/Condo,winnipeg,Manitoba
 72,"1,181",Winnipeg,"1 bd
 1 ba
-763 sf",1,1,763,Apt/Condo,Winnipeg
+763 sf",1,1,763,Apt/Condo,winnipeg,Manitoba
 73,"1,298",Winnipeg,"V Tour
 
 1 bd
@@ -338,7 +338,7 @@ Townhouse",Winnipeg
 651 sf",1,,651,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 74,"1,748",Winnipeg,"V Tour
 
 3 bd
@@ -346,7 +346,7 @@ Apt/Condo",Winnipeg
 1047 sf",3,,1047,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 75,"1,448",Winnipeg,"V Tour
 
 2 bd
@@ -354,10 +354,10 @@ Apt/Condo",Winnipeg
 915 sf",2,,915,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 76,"1,415",Winnipeg,"1 bd
 1 ba
-662 sf",1,1,662,Apt/Condo,Winnipeg
+662 sf",1,1,662,Apt/Condo,winnipeg,Manitoba
 77,"1,428",Winnipeg,"V Tour
 
 2 bd
@@ -365,7 +365,7 @@ Apt/Condo",Winnipeg
 892 sf",2,,892,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 78,"1,718",Winnipeg,"V Tour
 
 2 bd
@@ -373,16 +373,16 @@ Apt/Condo",Winnipeg
 1047 sf",2,,1047,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 79,"1,025",Winnipeg,"1 bd
 1 ba
-599 sf",1,1,599,Apt/Condo,Winnipeg
+599 sf",1,1,599,Apt/Condo,winnipeg,Manitoba
 80,"1,265",Winnipeg,"2 bd
 1 ba
-782 sf",2,1,782,Apt/Condo,Winnipeg
+782 sf",2,1,782,Apt/Condo,winnipeg,Manitoba
 81,"1,065",Winnipeg,"1 bd
 1 ba
-572 sf",1,1,572,Apt/Condo,Winnipeg
+572 sf",1,1,572,Apt/Condo,winnipeg,Manitoba
 82,"1,455",Winnipeg,"V Tour
 
 1 bd
@@ -390,7 +390,7 @@ Apt/Condo",Winnipeg
 920 sf",1,,920,"
 
 
-Townhouse",Winnipeg
+Townhouse",winnipeg,Manitoba
 83,"1,595",Winnipeg,"V Tour
 
 2 bd
@@ -398,10 +398,10 @@ Townhouse",Winnipeg
 1082 sf",2,,1082,"
 
 
-Townhouse",Winnipeg
+Townhouse",winnipeg,Manitoba
 84,"1,440",Winnipeg,"1 bd
 1 ba
-662 sf",1,1,662,Apt/Condo,Winnipeg
+662 sf",1,1,662,Apt/Condo,winnipeg,Manitoba
 85,"1,720",Winnipeg,"V Tour
 
 2 bd
@@ -409,22 +409,22 @@ Townhouse",Winnipeg
 893 sf",2,,893,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 86,"1,057",Winnipeg,"1 bd
 1 ba
-650 sf",1,1,650,Apt/Condo,Winnipeg
+650 sf",1,1,650,Apt/Condo,winnipeg,Manitoba
 87,"1,085",Winnipeg,"1 bd
 1 ba
-679 sf",1,1,679,Apt/Condo,Winnipeg
+679 sf",1,1,679,Apt/Condo,winnipeg,Manitoba
 88,925,Winnipeg,"1 bd
 1 ba
-440 sf",1,1,440,Apt/Condo,Winnipeg
+440 sf",1,1,440,Apt/Condo,winnipeg,Manitoba
 89,"1,189",Winnipeg,"1 bd
 1 ba
-737 sf",1,1,737,Apt/Condo,Winnipeg
+737 sf",1,1,737,Apt/Condo,winnipeg,Manitoba
 90,"1,810",Winnipeg,"1 bd
 1 ba
-1033 sf",1,1,1033,Apt/Condo,Winnipeg
+1033 sf",1,1,1033,Apt/Condo,winnipeg,Manitoba
 91,"1,790",Winnipeg,"V Tour
 
 3 bd
@@ -432,43 +432,43 @@ Apt/Condo",Winnipeg
 1109 sf",3,,1109,"
 
 
-Townhouse",Winnipeg
+Townhouse",winnipeg,Manitoba
 92,"4,015",Winnipeg,"2 bd
 2 ba
-1464 sf",2,2,1464,Apt/Condo,Winnipeg
+1464 sf",2,2,1464,Apt/Condo,winnipeg,Manitoba
 93,"1,175",Winnipeg,"2 bd
 1 ba
-783 sf",2,1,783,Apt/Condo,Winnipeg
+783 sf",2,1,783,Apt/Condo,winnipeg,Manitoba
 94,"1,232",Winnipeg,"1 bd
 1 ba
-741 sf",1,1,741,Apt/Condo,Winnipeg
+741 sf",1,1,741,Apt/Condo,winnipeg,Manitoba
 95,975,Winnipeg,"1 bd
 1 ba
-563 sf",1,1,563,Apt/Condo,Winnipeg
+563 sf",1,1,563,Apt/Condo,winnipeg,Manitoba
 96,869,Winnipeg,"1 bd
 1 ba
-0 sf",1,1,0,Apt/Condo,Winnipeg
+0 sf",1,1,0,Apt/Condo,winnipeg,Manitoba
 97,"1,079",Winnipeg,"2 bd
 1 ba
-0 sf",2,1,0,Apt/Condo,Winnipeg
+0 sf",2,1,0,Apt/Condo,winnipeg,Manitoba
 98,"1,717",Winnipeg,"2 bd
-2 ba",2,2,,Apt/Condo,Winnipeg
+2 ba",2,2,,Apt/Condo,winnipeg,Manitoba
 99,"1,351",Winnipeg,"2 bd
-1 ba",2,1,,Apt/Condo,Winnipeg
+1 ba",2,1,,Apt/Condo,winnipeg,Manitoba
 100,"1,225",Winnipeg,"1 bd
-1 ba",1,1,,Apt/Condo,Winnipeg
+1 ba",1,1,,Apt/Condo,winnipeg,Manitoba
 101,"1,289",Winnipeg,"1 bd
-1 ba",1,1,,Apt/Condo,Winnipeg
+1 ba",1,1,,Apt/Condo,winnipeg,Manitoba
 102,829,Winnipeg,"1 bd
-1 ba",1,1,,Apt/Condo,Winnipeg
+1 ba",1,1,,Apt/Condo,winnipeg,Manitoba
 103,"1,456",Winnipeg,"2 bd
-1 ba",2,1,,Apt/Condo,Winnipeg
+1 ba",2,1,,Apt/Condo,winnipeg,Manitoba
 104,"2,010",Winnipeg,"2 bd
 2 ba
-926 sf",2,2,926,Apt/Condo,Winnipeg
+926 sf",2,2,926,Apt/Condo,winnipeg,Manitoba
 105,869,Winnipeg,"0 bd
 1 ba
-0 sf",0,1,0,Apt/Condo,Winnipeg
+0 sf",0,1,0,Apt/Condo,winnipeg,Manitoba
 106,"1,398",Winnipeg,"V Tour
 
 1 bd
@@ -476,16 +476,16 @@ Townhouse",Winnipeg
 604 sf",1,,604,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 107,"1,425",Winnipeg,"1 bd
 1 ba
-662 sf",1,1,662,Apt/Condo,Winnipeg
+662 sf",1,1,662,Apt/Condo,winnipeg,Manitoba
 108,"1,300",Winnipeg,"1 bd
-1 ba",1,1,,Apt/Condo,Winnipeg
+1 ba",1,1,,Apt/Condo,winnipeg,Manitoba
 109,"1,589",Winnipeg,"2 bd
-1 ba",2,1,,Apt/Condo,Winnipeg
+1 ba",2,1,,Apt/Condo,winnipeg,Manitoba
 110,"1,057",Winnipeg,"1 bd
-1 ba",1,1,,Apt/Condo,Winnipeg
+1 ba",1,1,,Apt/Condo,winnipeg,Manitoba
 111,"1,882",Winnipeg,"V Tour
 
 3 bd
@@ -493,27 +493,27 @@ Apt/Condo",Winnipeg
 966 sf",3,,966,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 112,"1,780",Winnipeg,"2 bd
 2 ba
-1188 sf",2,2,1188,Apt/Condo,Winnipeg
+1188 sf",2,2,1188,Apt/Condo,winnipeg,Manitoba
 113,"1,098",Winnipeg,"1 bd
-1 ba",1,1,,Apt/Condo,Winnipeg
+1 ba",1,1,,Apt/Condo,winnipeg,Manitoba
 114,900,Winnipeg,"1 bd
 1 ba
-580 sf",1,1,580,Apt/Condo,Winnipeg
+580 sf",1,1,580,Apt/Condo,winnipeg,Manitoba
 115,"1,050",Winnipeg,"2 bd
 1 ba
-780 sf",2,1,780,Apt/Condo,Winnipeg
+780 sf",2,1,780,Apt/Condo,winnipeg,Manitoba
 116,"1,050",Winnipeg,"2 bd
 1 ba
-780 sf",2,1,780,Apt/Condo,Winnipeg
+780 sf",2,1,780,Apt/Condo,winnipeg,Manitoba
 117,900,Winnipeg,"1 bd
 1 ba
-580 sf",1,1,580,Apt/Condo,Winnipeg
+580 sf",1,1,580,Apt/Condo,winnipeg,Manitoba
 118,"2,070",Winnipeg,"2 bd
 2 ba
-1664 sf",2,2,1664,Apt/Condo,Winnipeg
+1664 sf",2,2,1664,Apt/Condo,winnipeg,Manitoba
 119,"1,116",Winnipeg,"V Tour
 
 0 bd
@@ -521,10 +521,10 @@ Apt/Condo",Winnipeg
 396 sf",0,,396,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 120,"1,086",Winnipeg,"1 bd
 1 ba
-586 sf",1,1,586,Apt/Condo,Winnipeg
+586 sf",1,1,586,Apt/Condo,winnipeg,Manitoba
 121,"1,298",Winnipeg,"V Tour
 
 1 bd
@@ -532,9 +532,9 @@ Apt/Condo",Winnipeg
 648 sf",1,,648,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 122,"1,166",Winnipeg,"2 bd
-1 ba",2,1,,Apt/Condo,Winnipeg
+1 ba",2,1,,Apt/Condo,winnipeg,Manitoba
 123,"2,648",Winnipeg,"V Tour
 
 2 bd
@@ -542,7 +542,7 @@ Apt/Condo",Winnipeg
 915 sf",2,,915,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 124,"1,388",Winnipeg,"V Tour
 
 2 bd
@@ -550,7 +550,7 @@ Apt/Condo",Winnipeg
 837 sf",2,,837,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 125,"1,748",Winnipeg,"V Tour
 
 3 bd
@@ -558,7 +558,7 @@ Apt/Condo",Winnipeg
 1047 sf",3,,1047,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 126,"1,258",Winnipeg,"V Tour
 
 1 bd
@@ -566,7 +566,7 @@ Apt/Condo",Winnipeg
 638 sf",1,,638,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 127,"1,668",Winnipeg,"V Tour
 
 3 bd
@@ -574,7 +574,7 @@ Apt/Condo",Winnipeg
 1217 sf",3,,1217,"
 
 
-Townhouse",Winnipeg
+Townhouse",winnipeg,Manitoba
 128,"1,168",Winnipeg,"V Tour
 
 1 bd
@@ -582,7 +582,7 @@ Townhouse",Winnipeg
 651 sf",1,,651,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 129,"1,298",Winnipeg,"V Tour
 
 1 bd
@@ -590,7 +590,7 @@ Apt/Condo",Winnipeg
 651 sf",1,,651,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 130,"1,388",Winnipeg,"V Tour
 
 1 bd
@@ -598,7 +598,7 @@ Apt/Condo",Winnipeg
 641 sf",1,,641,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 131,"1,498",Winnipeg,"V Tour
 
 2 bd
@@ -606,7 +606,7 @@ Apt/Condo",Winnipeg
 949 sf",2,,949,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 132,"1,648",Winnipeg,"V Tour
 
 3 bd
@@ -614,7 +614,7 @@ Apt/Condo",Winnipeg
 1047 sf",3,,1047,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 133,"1,328",Winnipeg,"V Tour
 
 2 bd
@@ -622,7 +622,7 @@ Apt/Condo",Winnipeg
 914 sf",2,,914,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 134,"1,298",Winnipeg,"V Tour
 
 2 bd
@@ -630,7 +630,7 @@ Apt/Condo",Winnipeg
 904 sf",2,,904,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 135,"1,298",Winnipeg,"V Tour
 
 1 bd
@@ -638,7 +638,7 @@ Apt/Condo",Winnipeg
 676 sf",1,,676,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 136,"1,398",Winnipeg,"V Tour
 
 2 bd
@@ -646,7 +646,7 @@ Apt/Condo",Winnipeg
 938 sf",2,,938,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 137,"1,318",Winnipeg,"V Tour
 
 2 bd
@@ -654,7 +654,7 @@ Apt/Condo",Winnipeg
 859 sf",2,,859,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 138,"1,398",Winnipeg,"V Tour
 
 2 bd
@@ -662,7 +662,7 @@ Apt/Condo",Winnipeg
 859 sf",2,,859,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 139,"1,248",Winnipeg,"V Tour
 
 2 bd
@@ -670,7 +670,7 @@ Apt/Condo",Winnipeg
 860 sf",2,,860,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 140,"1,248",Winnipeg,"V Tour
 
 2 bd
@@ -678,7 +678,7 @@ Apt/Condo",Winnipeg
 850 sf",2,,850,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 141,"1,308",Winnipeg,"V Tour
 
 2 bd
@@ -686,7 +686,7 @@ Apt/Condo",Winnipeg
 852 sf",2,,852,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 142,"1,318",Winnipeg,"V Tour
 
 2 bd
@@ -694,10 +694,10 @@ Apt/Condo",Winnipeg
 835 sf",2,,835,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 143,"1,370",Winnipeg,"1 bd
 1 ba
-483 sf",1,1,483,Apt/Condo,Winnipeg
+483 sf",1,1,483,Apt/Condo,winnipeg,Manitoba
 144,"1,600",Winnipeg,"V Tour
 
 2 bd
@@ -705,16 +705,16 @@ Apt/Condo",Winnipeg
 944 sf",2,,944,"
 
 
-Apt/Condo",Winnipeg
+Apt/Condo",winnipeg,Manitoba
 145,"1,830",Winnipeg,"1 bd
 1 ba
-1108 sf",1,1,1108,Apt/Condo,Winnipeg
+1108 sf",1,1,1108,Apt/Condo,winnipeg,Manitoba
 146,"1,011",Winnipeg,"1 bd
 1 ba
-600 sf",1,1,600,Apt/Condo,Winnipeg
+600 sf",1,1,600,Apt/Condo,winnipeg,Manitoba
 147,"1,196",Winnipeg,"2 bd
 1 ba
-800 sf",2,1,800,Apt/Condo,Winnipeg
+800 sf",2,1,800,Apt/Condo,winnipeg,Manitoba
 148,"1,640",Winnipeg,"V Tour
 
 2 bd
@@ -722,7 +722,7 @@ Apt/Condo",Winnipeg
 987 sf",2,,987,"
 
 
-Townhouse",Winnipeg
+Townhouse",winnipeg,Manitoba
 149,"1,425",Winnipeg,"V Tour
 
 1 bd
@@ -730,7 +730,7 @@ Townhouse",Winnipeg
 812 sf",1,,812,"
 
 
-Townhouse",Winnipeg
+Townhouse",winnipeg,Manitoba
 150,"1,550",Winnipeg,"V Tour
 
 2 bd
@@ -738,104 +738,104 @@ Townhouse",Winnipeg
 807 sf",2,,807,"
 
 
-Townhouse",Winnipeg
+Townhouse",winnipeg,Manitoba
 151,844,Winnipeg,"1 bd
 1 ba
-0 sf",1,1,0,Apt/Condo,Winnipeg
+0 sf",1,1,0,Apt/Condo,winnipeg,Manitoba
 152,"1,590",Winnipeg,"2 bd
 1 ba
-1135 sf",2,1,1135,Townhouse,Winnipeg
+1135 sf",2,1,1135,Townhouse,winnipeg,Manitoba
 153,750,Winnipeg,"1 bd
 1 ba
-0 sf",1,1,0,Apt/Condo,Winnipeg
+0 sf",1,1,0,Apt/Condo,winnipeg,Manitoba
 154,850,Winnipeg,"1 bd
 1 ba
-0 sf",1,1,0,Apt/Condo,Winnipeg
+0 sf",1,1,0,Apt/Condo,winnipeg,Manitoba
 155,850,Winnipeg,"1 bd
 1 ba
-450 sf",1,1,450,Apt/Condo,Winnipeg
+450 sf",1,1,450,Apt/Condo,winnipeg,Manitoba
 156,800,Winnipeg,"1 bd
 1 ba
-500 sf",1,1,500,Apt/Condo,Winnipeg
+500 sf",1,1,500,Apt/Condo,winnipeg,Manitoba
 157,795,Winnipeg,"0 bd
 1 ba
-0 sf",0,1,0,Apt/Condo,Winnipeg
+0 sf",0,1,0,Apt/Condo,winnipeg,Manitoba
 158,900,Winnipeg,"1 bd
 1 ba
-575 sf",1,1,575,Apt/Condo,Winnipeg
+575 sf",1,1,575,Apt/Condo,winnipeg,Manitoba
 159,"1,750",Winnipeg,"2 bd
 2 ba
-800 sf",2,2,800,Apt/Condo,Winnipeg
+800 sf",2,2,800,Apt/Condo,winnipeg,Manitoba
 160,890,Winnipeg,"1 bd
 1 ba
-550 sf",1,1,550,Apt/Condo,Winnipeg
+550 sf",1,1,550,Apt/Condo,winnipeg,Manitoba
 161,"1,050",Winnipeg,"2 bd
 1 ba
-750 sf",2,1,750,Duplex,Winnipeg
+750 sf",2,1,750,Duplex,winnipeg,Manitoba
 162,"1,550",Winnipeg,"4 bd
 1 ba
-1300 sf",4,1,1300,Apt/Condo,Winnipeg
+1300 sf",4,1,1300,Apt/Condo,winnipeg,Manitoba
 163,895,Winnipeg,"2 bd
 1 ba
-650 sf",2,1,650,House,Winnipeg
+650 sf",2,1,650,House,winnipeg,Manitoba
 164,905,Winnipeg,"1 bd
 1 ba
-0 sf",1,1,0,Apt/Condo,Winnipeg
+0 sf",1,1,0,Apt/Condo,winnipeg,Manitoba
 165,825,Winnipeg,"2 bd
 1 ba
-0 sf",2,1,0,Apt/Condo,Winnipeg
+0 sf",2,1,0,Apt/Condo,winnipeg,Manitoba
 166,839,Winnipeg,"1 bd
 1 ba
-0 sf",1,1,0,Apt/Condo,Winnipeg
+0 sf",1,1,0,Apt/Condo,winnipeg,Manitoba
 167,877,Winnipeg,"1 bd
 1 ba
-0 sf",1,1,0,Apt/Condo,Winnipeg
+0 sf",1,1,0,Apt/Condo,winnipeg,Manitoba
 168,995,Winnipeg,"1 bd
 1 ba
-0 sf",1,1,0,Apt/Condo,Winnipeg
+0 sf",1,1,0,Apt/Condo,winnipeg,Manitoba
 169,850,Winnipeg,"1 bd
 1 ba
-0 sf",1,1,0,Apt/Condo,Winnipeg
+0 sf",1,1,0,Apt/Condo,winnipeg,Manitoba
 170,"1,550",Winnipeg,"1 bd
 1 ba
-900 sf",1,1,900,Apt/Condo,Winnipeg
+900 sf",1,1,900,Apt/Condo,winnipeg,Manitoba
 171,"1,250",Winnipeg,"2 bd
 1 ba
-500 sf",2,1,500,House,Winnipeg
+500 sf",2,1,500,House,winnipeg,Manitoba
 172,"1,200",Winnipeg,"4 bd
 2 ba
-1200 sf",4,2,1200,House,Winnipeg
+1200 sf",4,2,1200,House,winnipeg,Manitoba
 173,"1,900",Winnipeg,"3 bd
 1 ba
-990 sf",3,1,990,Apt/Condo,Winnipeg
+990 sf",3,1,990,Apt/Condo,winnipeg,Manitoba
 174,"1,400",Winnipeg,"2 bd
 1 ba
-797 sf",2,1,797,Apt/Condo,Winnipeg
-175,"1,280",Winnipeg,"V Tour
+797 sf",2,1,797,Apt/Condo,winnipeg,Manitoba
+175,"2,600",Winnipeg,"V Tour
 
 0 bd
-623 sf",0,,,"
+1117 sf",0,,,"
 
 
-Recreational",Winnipeg
+Recreational",winnipeg,Manitoba
 176,867,Winnipeg,"1 bd
 1 ba
-0 sf",1,1,0,Apt/Condo,Winnipeg
+0 sf",1,1,0,Apt/Condo,winnipeg,Manitoba
 177,944,Winnipeg,"1 bd
 1 ba
-0 sf",1,1,0,Apt/Condo,Winnipeg
+0 sf",1,1,0,Apt/Condo,winnipeg,Manitoba
 178,925,Winnipeg,"1 bd
 1 ba
-0 sf",1,1,0,Apt/Condo,Winnipeg
+0 sf",1,1,0,Apt/Condo,winnipeg,Manitoba
 179,"1,175",Winnipeg,"3 bd
 1 ba
-0 sf",3,1,0,Duplex,Winnipeg
+0 sf",3,1,0,Duplex,winnipeg,Manitoba
 180,895,Winnipeg,"1 bd
 1 ba
-0 sf",1,1,0,Apt/Condo,Winnipeg
+0 sf",1,1,0,Apt/Condo,winnipeg,Manitoba
 181,722,Winnipeg,"0 bd
 1 ba
-0 sf",0,1,0,Apt/Condo,Winnipeg
+0 sf",0,1,0,Apt/Condo,winnipeg,Manitoba
 182,500,Winnipeg,"0 bd
 2 ba
-0 sf",0,2,0,House,Winnipeg
+0 sf",0,2,0,House,winnipeg,Manitoba

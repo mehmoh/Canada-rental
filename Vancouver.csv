@@ -1,119 +1,119 @@
-,price,Address,moreinfo,bedroom,bathroom,size_sqf,types,city
+,price,Address,moreinfo,bedroom,bathroom,size_sqf,types,city,province
 0,"2,747",Downtown West,"1 bd
 1 ba
-670 sf",1,1,670,Apt/Condo,Vancouver
+670 sf",1,1,670,Apt/Condo,Vancouver,BC
 1,"2,850",South Marine,"2 bd
 2 ba
-887 sf",2,2,887,Apt/Condo,Vancouver
+887 sf",2,2,887,Apt/Condo,Vancouver,BC
 2,"2,795",Victoria East,"2 bd
-2 ba",2,2,,Apt/Condo,Vancouver
+2 ba",2,2,,Apt/Condo,Vancouver,BC
 3,"2,700",False Creek,"2 bd
 2 ba
-710 sf",2,2,710,House,Vancouver
+710 sf",2,2,710,House,Vancouver,BC
 4,"1,450",Fairview,"1 bd
-1 ba",1,1,,Apt/Condo,Vancouver
+1 ba",1,1,,Apt/Condo,Vancouver,BC
 5,"2,200",West End,"1 bd
-1 ba",1,1,,Apt/Condo,Vancouver
+1 ba",1,1,,Apt/Condo,Vancouver,BC
 6,"1,700",Fairview,"1 bd
-1 ba",1,1,,Apt/Condo,Vancouver
+1 ba",1,1,,Apt/Condo,Vancouver,BC
 7,"2,250",Downtown West,"1 bd
 1 ba
-626 sf",1,1,626,Apt/Condo,Vancouver
+626 sf",1,1,626,Apt/Condo,Vancouver,BC
 8,"3,495",Mount Pleasant East,"1 bd
 2 ba
-1025 sf",1,2,1025,House,Vancouver
+1025 sf",1,2,1025,House,Vancouver,BC
 9,"2,695",West End,"1 bd
 1 ba
-592 sf",1,1,592,House,Vancouver
+592 sf",1,1,592,House,Vancouver,BC
 10,"10,500",Fairview,"4 bd
 3 ba
-2268 sf",4,3,2268,House,Vancouver
+2268 sf",4,3,2268,House,Vancouver,BC
 11,"2,300",Marpole,"1 bd
 1 ba
-605 sf",1,1,605,Apt/Condo,Vancouver
+605 sf",1,1,605,Apt/Condo,Vancouver,BC
 12,"1,195",West End,"0 bd
 1 ba
-325 sf",0,1,325,Apt/Condo,Vancouver
+325 sf",0,1,325,Apt/Condo,Vancouver,BC
 13,"3,100",Yaletown,"2 bd
 2 ba
-897 sf",2,2,897,Apt/Condo,Vancouver
+897 sf",2,2,897,Apt/Condo,Vancouver,BC
 14,"2,400",Downtown West,"1 bd
 1 ba
-761 sf",1,1,761,Apt/Condo,Vancouver
+761 sf",1,1,761,Apt/Condo,Vancouver,BC
 15,"1,900",Downtown East,"1 bd
 1 ba
-755 sf",1,1,755,Apt/Condo,Vancouver
+755 sf",1,1,755,Apt/Condo,Vancouver,BC
 16,"3,700",Downtown West,"2 bd
 2 ba
-1001 sf",2,2,1001,House,Vancouver
+1001 sf",2,2,1001,House,Vancouver,BC
 17,"4,500",University (Ubc),"2 bd
 2 ba
-950 sf",2,2,950,Apt/Condo,Vancouver
+950 sf",2,2,950,Apt/Condo,Vancouver,BC
 18,"4,150",West End,"2 bd
 2 ba
-855 sf",2,2,855,Apt/Condo,Vancouver
+855 sf",2,2,855,Apt/Condo,Vancouver,BC
 19,"3,200",Mount Pleasant West,"1 bd
 1 ba
-917 sf",1,1,917,Apt/Condo,Vancouver
+917 sf",1,1,917,Apt/Condo,Vancouver,BC
 20,"3,000",False Creek,"2 bd
 1 ba
-715 sf",2,1,715,Apt/Condo,Vancouver
+715 sf",2,1,715,Apt/Condo,Vancouver,BC
 21,"2,990",Fairview,"2 bd
 1 ba
-1200 sf",2,1,1200,Apt/Condo,Vancouver
+1200 sf",2,1,1200,Apt/Condo,Vancouver,BC
 22,"2,250",South Vancouver,"2 bd
 1 ba
-800 sf",2,1,800,House,Vancouver
+800 sf",2,1,800,House,Vancouver,BC
 23,"1,880",Kitsilano,"1 bd
 1 ba
-575 sf",1,1,575,Apt/Condo,Vancouver
+575 sf",1,1,575,Apt/Condo,Vancouver,BC
 24,"3,200",West End,"2 bd
-2 ba",2,2,,Apt/Condo,Vancouver
+2 ba",2,2,,Apt/Condo,Vancouver,BC
 25,"2,300",Yaletown,"1 bd
 1 ba
-705 sf",1,1,705,Apt/Condo,Vancouver
+705 sf",1,1,705,Apt/Condo,Vancouver,BC
 26,"2,995",Downtown West,"2 bd
 2 ba
-919 sf",2,2,919,Apt/Condo,Vancouver
+919 sf",2,2,919,Apt/Condo,Vancouver,BC
 27,"3,100",South Vancouver,"3 bd
 2 ba
-992 sf",3,2,992,Apt/Condo,Vancouver
+992 sf",3,2,992,Apt/Condo,Vancouver,BC
 28,"2,150",Yaletown,"1 bd
 1 ba
-479 sf",1,1,479,Apt/Condo,Vancouver
+479 sf",1,1,479,Apt/Condo,Vancouver,BC
 29,"3,975",Yaletown,"2 bd
 3 ba
-1556 sf",2,3,1556,Apt/Condo,Vancouver
+1556 sf",2,3,1556,Apt/Condo,Vancouver,BC
 30,"4,300",West End,"3 bd
-3 ba",3,3,,Apt/Condo,Vancouver
+3 ba",3,3,,Apt/Condo,Vancouver,BC
 31,"2,400",West End,"1 bd
 1 ba
-525 sf",1,1,525,Apt/Condo,Vancouver
+525 sf",1,1,525,Apt/Condo,Vancouver,BC
 32,"2,500",Downtown West,"1 bd
 1 ba
-625 sf",1,1,625,Apt/Condo,Vancouver
+625 sf",1,1,625,Apt/Condo,Vancouver,BC
 33,"7,600",Yaletown,"3 bd
 4 ba
-2495 sf",3,4,2495,Apt/Condo,Vancouver
+2495 sf",3,4,2495,Apt/Condo,Vancouver,BC
 34,"2,250",West End,"1 bd
-1 ba",1,1,,Apt/Condo,Vancouver
+1 ba",1,1,,Apt/Condo,Vancouver,BC
 35,"2,650",South Vancouver,"2 bd
 2 ba
-840 sf",2,2,840,House,Vancouver
+840 sf",2,2,840,House,Vancouver,BC
 36,"3,100",Fairview,"2 bd
 2 ba
-1111 sf",2,2,1111,Apt/Condo,Vancouver
+1111 sf",2,2,1111,Apt/Condo,Vancouver,BC
 37,"14,000",Shaughnessy,"8 bd
 8 ba
-8895 sf",8,8,8895,House,Vancouver
+8895 sf",8,8,8895,House,Vancouver,BC
 38,"5,500",Downtown West,"1 bd
 1 ba
-1 sf",1,1,1,House,Vancouver
+1 sf",1,1,1,House,Vancouver,BC
 39,"1,200",Grandview East,"1 bd
-1 ba",1,1,,Apt/Condo,Vancouver
+1 ba",1,1,,Apt/Condo,Vancouver,BC
 40,"2,600",West End,"2 bd
 1 ba
-830 sf",2,1,830,Apt/Condo,Vancouver
+830 sf",2,1,830,Apt/Condo,Vancouver,BC
 41,"2,900",West End,"V Tour
 
 1 bd
@@ -121,57 +121,57 @@
 840 sf",1,,840,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 42,"3,900",Yaletown,"2 bd
 2 ba
-719 sf",2,2,719,House,Vancouver
+719 sf",2,2,719,House,Vancouver,BC
 43,"2,950",Yaletown,"2 bd
 2 ba
-871 sf",2,2,871,Apt/Condo,Vancouver
+871 sf",2,2,871,Apt/Condo,Vancouver,BC
 44,"3,000",Yaletown,"V Tour
 
 0 bd
 1 ba",0,,,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 45,"7,500",Fairview,"2 bd
 2 ba
-1438 sf",2,2,1438,House,Vancouver
+1438 sf",2,2,1438,House,Vancouver,BC
 46,"1,995",Kitsilano,"0 bd
 1 ba
-523 sf",0,1,523,Apt/Condo,Vancouver
+523 sf",0,1,523,Apt/Condo,Vancouver,BC
 47,"2,230",Kitsilano,"1 bd
 1 ba
-531 sf",1,1,531,Apt/Condo,Vancouver
+531 sf",1,1,531,Apt/Condo,Vancouver,BC
 48,"3,450",Kitsilano,"2 bd
 2 ba
-854 sf",2,2,854,Apt/Condo,Vancouver
+854 sf",2,2,854,Apt/Condo,Vancouver,BC
 49,"3,980",Downtown West,"2 bd
 2 ba
-851 sf",2,2,851,House,Vancouver
+851 sf",2,2,851,House,Vancouver,BC
 50,"2,600",Main,"2 bd
 1 ba
-945 sf",2,1,945,Multifamily,Vancouver
+945 sf",2,1,945,Multifamily,Vancouver,BC
 51,"3,495",West End,"V Tour
 
 2 bd
 2 ba",2,,,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 52,"6,200",West End,"V Tour
 
 3 bd
 2 ba",3,,,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 53,"4,095",West End,"3 bd
-3 ba",3,3,,Apt/Condo,Vancouver
+3 ba",3,3,,Apt/Condo,Vancouver,BC
 54,"7,500",Downtown West,"3 bd
 3 ba
-1811 sf",3,3,1811,House,Vancouver
+1811 sf",3,3,1811,House,Vancouver,BC
 55,"3,200",Fairview,"V Tour
 
 2 bd
@@ -179,17 +179,17 @@ Apt/Condo",Vancouver
 893 sf",2,,893,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 56,"2,415",Fairview,"1 bd
 1 ba
-618 sf",1,1,618,Apt/Condo,Vancouver
+618 sf",1,1,618,Apt/Condo,Vancouver,BC
 57,"12,500",Yaletown,"3 bd
 3 ba
-1982 sf",3,3,1982,House,Vancouver
+1982 sf",3,3,1982,House,Vancouver,BC
 58,"3,275",West End,"2 bd
-1 ba",2,1,,Apt/Condo,Vancouver
+1 ba",2,1,,Apt/Condo,Vancouver,BC
 59,"2,100",Southwest Marine,"1 bd
-1 ba",1,1,,Apt/Condo,Vancouver
+1 ba",1,1,,Apt/Condo,Vancouver,BC
 60,"2,800",West End,"V Tour
 
 1 bd
@@ -197,62 +197,62 @@ Apt/Condo",Vancouver
 600 sf",1,,600,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 61,"3,100",West End,"2 bd
 1 ba
-705 sf",2,1,705,Apt/Condo,Vancouver
+705 sf",2,1,705,Apt/Condo,Vancouver,BC
 62,"1,660",West End,"1 bd
-1 ba",1,1,,Apt/Condo,Vancouver
+1 ba",1,1,,Apt/Condo,Vancouver,BC
 63,"1,975",Victoria East,"1 bd
 1 ba
-700 sf",1,1,700,Apt/Condo,Vancouver
+700 sf",1,1,700,Apt/Condo,Vancouver,BC
 64,"4,650",West End,"2 bd
 2 ba
-790 sf",2,2,790,Apt/Condo,Vancouver
+790 sf",2,2,790,Apt/Condo,Vancouver,BC
 65,"1,950",West End,"1 bd
-1 ba",1,1,,Apt/Condo,Vancouver
+1 ba",1,1,,Apt/Condo,Vancouver,BC
 66,"2,175",West End,"1 bd
 1 ba
-465 sf",1,1,465,Apt/Condo,Vancouver
+465 sf",1,1,465,Apt/Condo,Vancouver,BC
 67,"4,500",West End,"3 bd
 2 ba
-745 sf",3,2,745,Apt/Condo,Vancouver
+745 sf",3,2,745,Apt/Condo,Vancouver,BC
 68,"2,550",Collingwood,"2 bd
 2 ba
-799 sf",2,2,799,Apt/Condo,Vancouver
+799 sf",2,2,799,Apt/Condo,Vancouver,BC
 69,"4,250",West End,"2 bd
 2 ba
-780 sf",2,2,780,Apt/Condo,Vancouver
+780 sf",2,2,780,Apt/Condo,Vancouver,BC
 70,"6,800",West End,"2 bd
 2 ba
-871 sf",2,2,871,Apt/Condo,Vancouver
+871 sf",2,2,871,Apt/Condo,Vancouver,BC
 71,"3,950",West End,"1 bd
 1 ba
-585 sf",1,1,585,Apt/Condo,Vancouver
+585 sf",1,1,585,Apt/Condo,Vancouver,BC
 72,"5,800",West End,"2 bd
 2 ba
-823 sf",2,2,823,Apt/Condo,Vancouver
+823 sf",2,2,823,Apt/Condo,Vancouver,BC
 73,"4,250",West End,"1 bd
 2 ba
-689 sf",1,2,689,Apt/Condo,Vancouver
+689 sf",1,2,689,Apt/Condo,Vancouver,BC
 74,"2,395",Victoria East,"2 bd
 1 ba
-764 sf",2,1,764,Apt/Condo,Vancouver
+764 sf",2,1,764,Apt/Condo,Vancouver,BC
 75,"2,303",Coal Harbour,"0 bd
 1 ba
-463 sf",0,1,463,Apt/Condo,Vancouver
+463 sf",0,1,463,Apt/Condo,Vancouver,BC
 76,"3,100",West End,"2 bd
 2 ba
-705 sf",2,2,705,Apt/Condo,Vancouver
+705 sf",2,2,705,Apt/Condo,Vancouver,BC
 77,"1,200",Fairview,"0 bd
 1 ba
-150 sf",0,1,150,Apt/Condo,Vancouver
+150 sf",0,1,150,Apt/Condo,Vancouver,BC
 78,"1,860",Kitsilano,"1 bd
 1 ba
-575 sf",1,1,575,Apt/Condo,Vancouver
+575 sf",1,1,575,Apt/Condo,Vancouver,BC
 79,"1,780",Kitsilano,"1 bd
 1 ba
-575 sf",1,1,575,Apt/Condo,Vancouver
+575 sf",1,1,575,Apt/Condo,Vancouver,BC
 80,"2,950",Coal Harbour,"V Tour
 
 1 bd
@@ -260,56 +260,56 @@ Apt/Condo",Vancouver
 960 sf",1,,960,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 81,"1,975",West End,"V Tour
 
 1 bd
 1 ba",1,,,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 82,"2,600",West End,"2 bd
 2 ba
-578 sf",2,2,578,Apt/Condo,Vancouver
+578 sf",2,2,578,Apt/Condo,Vancouver,BC
 83,"3,500",West End,"3 bd
 2 ba
-754 sf",3,2,754,Apt/Condo,Vancouver
+754 sf",3,2,754,Apt/Condo,Vancouver,BC
 84,"4,200",West End,"3 bd
 2 ba
-890 sf",3,2,890,Apt/Condo,Vancouver
+890 sf",3,2,890,Apt/Condo,Vancouver,BC
 85,"2,000",West End,"0 bd
 1 ba
-259 sf",0,1,259,Apt/Condo,Vancouver
+259 sf",0,1,259,Apt/Condo,Vancouver,BC
 86,"4,200",West End,"2 bd
 2 ba
-945 sf",2,2,945,Apt/Condo,Vancouver
+945 sf",2,2,945,Apt/Condo,Vancouver,BC
 87,"2,700",West End,"2 bd
 1 ba
-512 sf",2,1,512,Apt/Condo,Vancouver
+512 sf",2,1,512,Apt/Condo,Vancouver,BC
 88,"2,150",West End,"1 bd
 1 ba
-480 sf",1,1,480,Apt/Condo,Vancouver
+480 sf",1,1,480,Apt/Condo,Vancouver,BC
 89,"2,400",West End,"1 bd
 2 ba
-541 sf",1,2,541,Apt/Condo,Vancouver
+541 sf",1,2,541,Apt/Condo,Vancouver,BC
 90,"2,200",West End,"1 bd
 1 ba
-500 sf",1,1,500,Apt/Condo,Vancouver
+500 sf",1,1,500,Apt/Condo,Vancouver,BC
 91,"3,400",West End,"2 bd
 2 ba
-690 sf",2,2,690,Apt/Condo,Vancouver
+690 sf",2,2,690,Apt/Condo,Vancouver,BC
 92,"2,850",West End,"2 bd
 1 ba
-560 sf",2,1,560,Apt/Condo,Vancouver
+560 sf",2,1,560,Apt/Condo,Vancouver,BC
 93,"2,750",West End,"1 bd
 2 ba
-616 sf",1,2,616,Apt/Condo,Vancouver
+616 sf",1,2,616,Apt/Condo,Vancouver,BC
 94,"2,250",West End,"0 bd
 1 ba
-400 sf",0,1,400,Apt/Condo,Vancouver
+400 sf",0,1,400,Apt/Condo,Vancouver,BC
 95,"2,400",West End,"0 bd
 1 ba
-415 sf",0,1,415,Apt/Condo,Vancouver
+415 sf",0,1,415,Apt/Condo,Vancouver,BC
 96,"1,825",West End,"V Tour
 
 0 bd
@@ -317,7 +317,7 @@ Apt/Condo",Vancouver
 418 sf",0,,418,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 97,"1,700",West End,"V Tour
 
 0 bd
@@ -325,33 +325,33 @@ Apt/Condo",Vancouver
 433 sf",0,,433,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 98,"3,200",West End,"V Tour
 
 2 bd
 2 ba",2,,,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 99,"1,875",West End,"V Tour
 
 1 bd
 1 ba",1,,,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 100,"1,815",Collingwood,"1 bd
 1 ba
-509 sf",1,1,509,Apt/Condo,Vancouver
+509 sf",1,1,509,Apt/Condo,Vancouver,BC
 101,"2,225",West End,"1 bd
 1 ba
-484 sf",1,1,484,Apt/Condo,Vancouver
+484 sf",1,1,484,Apt/Condo,Vancouver,BC
 102,"2,050",Coal Harbour,"0 bd
 1 ba
-670 sf",0,1,670,Apt/Condo,Vancouver
+670 sf",0,1,670,Apt/Condo,Vancouver,BC
 103,"5,113",Coal Harbour,"3 bd
 2 ba
-1401 sf",3,2,1401,Apt/Condo,Vancouver
+1401 sf",3,2,1401,Apt/Condo,Vancouver,BC
 104,"2,650",Coal Harbour,"V Tour
 
 1 bd
@@ -359,13 +359,13 @@ Apt/Condo",Vancouver
 952 sf",1,,952,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 105,"3,552",Yaletown,"2 bd
 2 ba
-975 sf",2,2,975,Apt/Condo,Vancouver
+975 sf",2,2,975,Apt/Condo,Vancouver,BC
 106,"2,365",West End,"1 bd
 1 ba
-550 sf",1,1,550,Apt/Condo,Vancouver
+550 sf",1,1,550,Apt/Condo,Vancouver,BC
 107,"3,895",West End,"V Tour
 
 2 bd
@@ -373,10 +373,10 @@ Apt/Condo",Vancouver
 918 sf",2,,918,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 108,"2,295",West End,"0 bd
 1 ba
-500 sf",0,1,500,Apt/Condo,Vancouver
+500 sf",0,1,500,Apt/Condo,Vancouver,BC
 109,"3,850",West End,"V Tour
 
 2 bd
@@ -384,10 +384,10 @@ Apt/Condo",Vancouver
 735 sf",2,,735,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 110,"2,132",Downtown West,"1 bd
 1 ba
-513 sf",1,1,513,Apt/Condo,Vancouver
+513 sf",1,1,513,Apt/Condo,Vancouver,BC
 111,"1,975",University (Ubc),"V Tour
 
 1 bd
@@ -395,7 +395,7 @@ Apt/Condo",Vancouver
 665 sf",1,,665,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 112,"3,447",Yaletown,"V Tour
 
 2 bd
@@ -403,35 +403,35 @@ Apt/Condo",Vancouver
 1014 sf",2,,1014,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 113,"4,195",West End,"V Tour
 
 2 bd
 2 ba",2,,,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 114,"2,395",West End,"V Tour
 
 1 bd
 1 ba",1,,,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 115,"4,245",West End,"V Tour
 
 2 bd
 2 ba",2,,,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 116,"5,295",West End,"V Tour
 
 3 bd
 2 ba",3,,,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 117,"2,625",West End,"V Tour
 
 0 bd
@@ -439,19 +439,19 @@ Apt/Condo",Vancouver
 475 sf",0,,475,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 118,"3,150",Yaletown,"2 bd
 2 ba
-733 sf",2,2,733,Apt/Condo,Vancouver
+733 sf",2,2,733,Apt/Condo,Vancouver,BC
 119,"2,405",Yaletown,"1 bd
 1 ba
-525 sf",1,1,525,Apt/Condo,Vancouver
+525 sf",1,1,525,Apt/Condo,Vancouver,BC
 120,"2,309",Coal Harbour,"1 bd
 1 ba
-595 sf",1,1,595,Apt/Condo,Vancouver
+595 sf",1,1,595,Apt/Condo,Vancouver,BC
 121,"3,250",Kerrisdale,"2 bd
 2 ba
-946 sf",2,2,946,Apt/Condo,Vancouver
+946 sf",2,2,946,Apt/Condo,Vancouver,BC
 122,"2,695",Fairview,"V Tour
 
 1 bd
@@ -459,7 +459,7 @@ Apt/Condo",Vancouver
 528 sf",1,,528,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 123,"4,100",West End,"V Tour
 
 2 bd
@@ -467,7 +467,7 @@ Apt/Condo",Vancouver
 1000 sf",2,,1000,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 124,"3,860",West End,"V Tour
 
 2 bd
@@ -475,7 +475,7 @@ Apt/Condo",Vancouver
 945 sf",2,,945,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 125,"2,320",West End,"V Tour
 
 1 bd
@@ -483,7 +483,7 @@ Apt/Condo",Vancouver
 650 sf",1,,650,"
 
 
-Apt/Condo",Vancouver
+Apt/Condo",Vancouver,BC
 126,"1,965",West End,"V Tour
 
 1 bd
@@ -491,390 +491,414 @@ Apt/Condo",Vancouver
 480 sf",1,,480,"
 
 
-Apt/Condo",Vancouver
-127,"3,280",University (Ubc),"2 bd
-2 ba
-774 sf",2,2,774,House,Vancouver
-128,"1,900",Marpole,"1 bd
+Apt/Condo",Vancouver,BC
+127,"3,300",Downtown West,"2 bd
 1 ba
-505 sf",1,1,505,House,Vancouver
-129,"3,200",Fairview,"2 bd
+614 sf",2,1,614,Apt/Condo,Vancouver,BC
+128,"2,950",Downtown West,"1 bd
+1 ba
+505 sf",1,1,505,Apt/Condo,Vancouver,BC
+129,"2,750",Downtown West,"1 bd
+1 ba
+500 sf",1,1,500,Apt/Condo,Vancouver,BC
+130,"2,500",Downtown West,"0 bd
+1 ba
+439 sf",0,1,439,Apt/Condo,Vancouver,BC
+131,"2,850",West End,"1 bd
+1 ba
+516 sf",1,1,516,Apt/Condo,Vancouver,BC
+132,"2,500",Downtown West,"0 bd
+1 ba
+439 sf",0,1,439,Apt/Condo,Vancouver,BC
+133,"2,875",Yaletown,"1 bd
+1 ba
+508 sf",1,1,508,Apt/Condo,Vancouver,BC
+134,"2,950",Downtown West,"1 bd
+1 ba
+505 sf",1,1,505,Apt/Condo,Vancouver,BC
+135,"3,280",University (Ubc),"2 bd
+2 ba
+774 sf",2,2,774,House,Vancouver,BC
+136,"1,900",Marpole,"1 bd
+1 ba
+505 sf",1,1,505,House,Vancouver,BC
+137,"3,200",Fairview,"2 bd
 3 ba
-1200 sf",2,3,1200,House,Vancouver
-130,"8,800",Coal Harbour,"2 bd
+1200 sf",2,3,1200,House,Vancouver,BC
+138,"8,800",Coal Harbour,"2 bd
 3 ba
-1867 sf",2,3,1867,Apt/Condo,Vancouver
-131,"2,000",Downtown West,"0 bd
+1867 sf",2,3,1867,Apt/Condo,Vancouver,BC
+139,"2,000",Downtown West,"0 bd
 1 ba
-420 sf",0,1,420,House,Vancouver
-132,"2,800",Kitsilano,"1 bd
+420 sf",0,1,420,House,Vancouver,BC
+140,"2,800",Kitsilano,"1 bd
 1 ba
-500 sf",1,1,500,House,Vancouver
-133,"2,600",Yaletown,"0 bd
+500 sf",1,1,500,House,Vancouver,BC
+141,"2,600",Yaletown,"0 bd
 1 ba
-434 sf",0,1,434,Apt/Condo,Vancouver
-134,"2,600",Yaletown,"0 bd
+434 sf",0,1,434,Apt/Condo,Vancouver,BC
+142,"2,600",Yaletown,"0 bd
 1 ba
-437 sf",0,1,437,Apt/Condo,Vancouver
-135,"3,000",West End,"2 bd
+437 sf",0,1,437,Apt/Condo,Vancouver,BC
+143,"3,000",West End,"2 bd
 1 ba
-599 sf",2,1,599,Apt/Condo,Vancouver
-136,"3,600",Yaletown,"3 bd
+599 sf",2,1,599,Apt/Condo,Vancouver,BC
+144,"3,600",Yaletown,"3 bd
 2 ba
-1262 sf",3,2,1262,Apt/Condo,Vancouver
-137,"2,290",South Marine,"2 bd
+1262 sf",3,2,1262,Apt/Condo,Vancouver,BC
+145,"2,290",South Marine,"2 bd
 2 ba
-780 sf",2,2,780,Apt/Condo,Vancouver
-138,"2,100",Downtown West,"1 bd
+780 sf",2,2,780,Apt/Condo,Vancouver,BC
+146,"2,100",Downtown West,"1 bd
 1 ba
-574 sf",1,1,574,Apt/Condo,Vancouver
-139,"4,500",Mount Pleasant West,"3 bd
+574 sf",1,1,574,Apt/Condo,Vancouver,BC
+147,"4,500",Mount Pleasant West,"3 bd
 3 ba
-1500 sf",3,3,1500,House,Vancouver
-140,"6,000",Yaletown,"2 bd
+1500 sf",3,3,1500,House,Vancouver,BC
+148,"6,000",Yaletown,"2 bd
 2 ba
-1380 sf",2,2,1380,Apt/Condo,Vancouver
-141,"3,950",Downtown West,"2 bd
+1380 sf",2,2,1380,Apt/Condo,Vancouver,BC
+149,"3,950",Downtown West,"2 bd
 2 ba
-884 sf",2,2,884,House,Vancouver
-142,"4,800",False Creek,"2 bd
+884 sf",2,2,884,House,Vancouver,BC
+150,"4,800",False Creek,"2 bd
 1 ba
-750 sf",2,1,750,House,Vancouver
-143,"3,000",Dunbar,"2 bd
+750 sf",2,1,750,House,Vancouver,BC
+151,"3,000",Dunbar,"2 bd
 2 ba
-850 sf",2,2,850,House,Vancouver
-144,"4,590",Quilchena,"3 bd
+850 sf",2,2,850,House,Vancouver,BC
+152,"4,590",Quilchena,"3 bd
 2 ba
-2696 sf",3,2,2696,House,Vancouver
-145,"3,500",Yaletown,"3 bd
+2696 sf",3,2,2696,House,Vancouver,BC
+153,"3,500",Yaletown,"3 bd
 2 ba
-1109 sf",3,2,1109,House,Vancouver
-146,"2,400",Mount Pleasant East,"1 bd
+1109 sf",3,2,1109,House,Vancouver,BC
+154,"2,400",Mount Pleasant East,"1 bd
 1 ba
-645 sf",1,1,645,House,Vancouver
-147,"2,400",Kitsilano,"1 bd
+645 sf",1,1,645,House,Vancouver,BC
+155,"2,400",Kitsilano,"1 bd
 2 ba
-650 sf",1,2,650,House,Vancouver
-148,"5,000",Downtown West,"2 bd
+650 sf",1,2,650,House,Vancouver,BC
+156,"5,000",Downtown West,"2 bd
 2 ba
-1050 sf",2,2,1050,House,Vancouver
-149,"2,290",South Marine,"2 bd
+1050 sf",2,2,1050,House,Vancouver,BC
+157,"2,290",South Marine,"2 bd
 2 ba
-780 sf",2,2,780,House,Vancouver
-150,"19,998",Downtown West,"4 bd
+780 sf",2,2,780,House,Vancouver,BC
+158,"19,998",Downtown West,"4 bd
 4 ba
-3700 sf",4,4,3700,House,Vancouver
-151,"2,100",West End,"0 bd
+3700 sf",4,4,3700,House,Vancouver,BC
+159,"2,100",West End,"0 bd
 1 ba
-259 sf",0,1,259,Apt/Condo,Vancouver
-152,"2,600",South Vancouver,"2 bd
+259 sf",0,1,259,Apt/Condo,Vancouver,BC
+160,"2,600",South Vancouver,"2 bd
 1 ba
-740 sf",2,1,740,House,Vancouver
-153,"2,800",Downtown West,"1 bd
+740 sf",2,1,740,House,Vancouver,BC
+161,"2,800",Downtown West,"1 bd
 1 ba
-500 sf",1,1,500,Apt/Condo,Vancouver
-154,"2,750",Downtown West,"1 bd
+500 sf",1,1,500,Apt/Condo,Vancouver,BC
+162,"2,750",Downtown West,"1 bd
 1 ba
-505 sf",1,1,505,Apt/Condo,Vancouver
-155,"2,400",Downtown West,"1 bd
+505 sf",1,1,505,Apt/Condo,Vancouver,BC
+163,"2,400",Downtown West,"1 bd
 1 ba
-487 sf",1,1,487,Apt/Condo,Vancouver
-156,"1,500",West End,"0 bd
+487 sf",1,1,487,Apt/Condo,Vancouver,BC
+164,"1,500",West End,"0 bd
 0 ba
-250 sf",0,0,250,Apt/Condo,Vancouver
-157,"2,300",West End,"1 bd
+250 sf",0,0,250,Apt/Condo,Vancouver,BC
+165,"2,300",West End,"1 bd
 1 ba
-500 sf",1,1,500,Apt/Condo,Vancouver
-158,"4,200",West End,"2 bd
+500 sf",1,1,500,Apt/Condo,Vancouver,BC
+166,"4,200",West End,"2 bd
 2 ba
-945 sf",2,2,945,Apt/Condo,Vancouver
-159,"2,500",Downtown West,"1 bd
+945 sf",2,2,945,Apt/Condo,Vancouver,BC
+167,"2,500",Downtown West,"1 bd
 1 ba
-503 sf",1,1,503,Apt/Condo,Vancouver
-160,"2,750",Downtown West,"1 bd
+503 sf",1,1,503,Apt/Condo,Vancouver,BC
+168,"2,750",Downtown West,"1 bd
 1 ba
-505 sf",1,1,505,Apt/Condo,Vancouver
-161,"2,000",West End,"0 bd
+505 sf",1,1,505,Apt/Condo,Vancouver,BC
+169,"2,000",West End,"0 bd
 1 ba
-450 sf",0,1,450,Apt/Condo,Vancouver
-162,"3,200",Downtown West,"2 bd
+450 sf",0,1,450,Apt/Condo,Vancouver,BC
+170,"3,200",Downtown West,"2 bd
 1 ba
-576 sf",2,1,576,Apt/Condo,Vancouver
-163,"2,800",Downtown West,"1 bd
+576 sf",2,1,576,Apt/Condo,Vancouver,BC
+171,"2,800",Downtown West,"1 bd
 1 ba
-525 sf",1,1,525,Apt/Condo,Vancouver
-164,"2,400",West End,"0 bd
+525 sf",1,1,525,Apt/Condo,Vancouver,BC
+172,"2,400",West End,"0 bd
 1 ba
-400 sf",0,1,400,Apt/Condo,Vancouver
-165,"2,000",West End,"0 bd
+400 sf",0,1,400,Apt/Condo,Vancouver,BC
+173,"2,000",West End,"0 bd
 1 ba
-450 sf",0,1,450,Apt/Condo,Vancouver
-166,"3,600",West End,"2 bd
+450 sf",0,1,450,Apt/Condo,Vancouver,BC
+174,"3,600",West End,"2 bd
 1 ba
-1114 sf",2,1,1114,Apt/Condo,Vancouver
-167,"3,800",West End,"3 bd
+1114 sf",2,1,1114,Apt/Condo,Vancouver,BC
+175,"3,800",West End,"3 bd
 1 ba
-970 sf",3,1,970,Apt/Condo,Vancouver
-168,"4,300",West End,"3 bd
+970 sf",3,1,970,Apt/Condo,Vancouver,BC
+176,"4,300",West End,"3 bd
 2 ba
-781 sf",3,2,781,Apt/Condo,Vancouver
-169,"3,300",Downtown West,"2 bd
+781 sf",3,2,781,Apt/Condo,Vancouver,BC
+177,"3,300",Downtown West,"2 bd
 1 ba
-577 sf",2,1,577,Apt/Condo,Vancouver
-170,"3,400",Downtown West,"1 bd
+577 sf",2,1,577,Apt/Condo,Vancouver,BC
+178,"3,400",Downtown West,"1 bd
 1 ba
-820 sf",1,1,820,House,Vancouver
-171,"2,600",Downtown East,"1 bd
+820 sf",1,1,820,House,Vancouver,BC
+179,"2,600",Downtown East,"1 bd
 1 ba
-600 sf",1,1,600,House,Vancouver
-172,"4,300",Downtown West,"2 bd
+600 sf",1,1,600,House,Vancouver,BC
+180,"4,300",Downtown West,"2 bd
 2 ba
-1020 sf",2,2,1020,House,Vancouver
-173,"2,000",Fairview,"1 bd
+1020 sf",2,2,1020,House,Vancouver,BC
+181,"2,000",Fairview,"1 bd
 1 ba
-567 sf",1,1,567,Apt/Condo,Vancouver
-174,"3,700",West End,"2 bd
+567 sf",1,1,567,Apt/Condo,Vancouver,BC
+182,"3,700",West End,"2 bd
 2 ba
-805 sf",2,2,805,Apt/Condo,Vancouver
-175,"2,450",South Marine,"2 bd
+805 sf",2,2,805,Apt/Condo,Vancouver,BC
+183,"2,450",South Marine,"2 bd
 2 ba
-696 sf",2,2,696,House,Vancouver
-176,"2,600",Renfrew Heights,"3 bd
+696 sf",2,2,696,House,Vancouver,BC
+184,"2,600",Renfrew Heights,"3 bd
 1 ba
-917 sf",3,1,917,House,Vancouver
-177,"2,300",West End,"0 bd
+917 sf",3,1,917,House,Vancouver,BC
+185,"2,300",West End,"0 bd
 1 ba
-407 sf",0,1,407,Apt/Condo,Vancouver
-178,"3,300",Cambie,"2 bd
+407 sf",0,1,407,Apt/Condo,Vancouver,BC
+186,"3,300",Cambie,"2 bd
 2 ba
-962 sf",2,2,962,House,Vancouver
-179,"4,550",Marpole,"3 bd
+962 sf",2,2,962,House,Vancouver,BC
+187,"4,550",Marpole,"3 bd
 2 ba
-1006 sf",3,2,1006,House,Vancouver
-180,"12,000",Coal Harbour,"3 bd
+1006 sf",3,2,1006,House,Vancouver,BC
+188,"12,000",Coal Harbour,"3 bd
 3 ba
-2001 sf",3,3,2001,House,Vancouver
-181,"2,850",South Vancouver,"2 bd
+2001 sf",3,3,2001,House,Vancouver,BC
+189,"2,850",South Vancouver,"2 bd
 2 ba
-850 sf",2,2,850,House,Vancouver
-182,"3,195",Downtown West,"V Tour
+850 sf",2,2,850,House,Vancouver,BC
+190,"3,195",Downtown West,"V Tour
 
 2 bd
 2 ba
 775 sf",2,,775,"
 
 
-Apt/Condo",Vancouver
-183,"2,780",South Vancouver,"2 bd
+Apt/Condo",Vancouver,BC
+191,"2,780",South Vancouver,"2 bd
 1 ba
-740 sf",2,1,740,House,Vancouver
-184,"2,700",South Vancouver,"2 bd
+740 sf",2,1,740,House,Vancouver,BC
+192,"2,700",South Vancouver,"2 bd
 2 ba
-772 sf",2,2,772,House,Vancouver
-185,"2,000",Fairview,"1 bd
+772 sf",2,2,772,House,Vancouver,BC
+193,"2,000",Fairview,"1 bd
 1 ba
-550 sf",1,1,550,House,Vancouver
-186,"2,800",Downtown West,"2 bd
+550 sf",1,1,550,House,Vancouver,BC
+194,"2,800",Downtown West,"2 bd
 2 ba
-885 sf",2,2,885,Apt/Condo,Vancouver
-187,"2,300",Yaletown,"1 bd
+885 sf",2,2,885,Apt/Condo,Vancouver,BC
+195,"2,300",Yaletown,"1 bd
 1 ba
-508 sf",1,1,508,Apt/Condo,Vancouver
-188,"3,500",Yaletown,"2 bd
+508 sf",1,1,508,Apt/Condo,Vancouver,BC
+196,"3,500",Yaletown,"2 bd
 2 ba
-900 sf",2,2,900,Apt/Condo,Vancouver
-189,"2,580",South Vancouver,"2 bd
+900 sf",2,2,900,Apt/Condo,Vancouver,BC
+197,"2,580",South Vancouver,"2 bd
 1 ba
-737 sf",2,1,737,House,Vancouver
-190,"5,500",Coal Harbour,"2 bd
+737 sf",2,1,737,House,Vancouver,BC
+198,"5,500",Coal Harbour,"2 bd
 2 ba
-1550 sf",2,2,1550,House,Vancouver
-191,"1,900",West End,"0 bd
+1550 sf",2,2,1550,House,Vancouver,BC
+199,"1,900",West End,"0 bd
 1 ba
-450 sf",0,1,450,Apt/Condo,Vancouver
-192,"2,000",Kitsilano,"1 bd
+450 sf",0,1,450,Apt/Condo,Vancouver,BC
+200,"2,000",Kitsilano,"1 bd
 1 ba
-475 sf",1,1,475,Apt/Condo,Vancouver
-193,"1,900",Kitsilano,"1 bd
+475 sf",1,1,475,Apt/Condo,Vancouver,BC
+201,"1,900",Kitsilano,"1 bd
 1 ba
-475 sf",1,1,475,Apt/Condo,Vancouver
-194,"2,300",Downtown West,"1 bd
+475 sf",1,1,475,Apt/Condo,Vancouver,BC
+202,"2,300",Downtown West,"1 bd
 1 ba
-526 sf",1,1,526,Apt/Condo,Vancouver
-195,"3,800",Downtown West,"2 bd
+526 sf",1,1,526,Apt/Condo,Vancouver,BC
+203,"3,800",Downtown West,"2 bd
 1 ba
-900 sf",2,1,900,Apt/Condo,Vancouver
-196,"1,900",West End,"0 bd
+900 sf",2,1,900,Apt/Condo,Vancouver,BC
+204,"1,900",West End,"0 bd
 1 ba
-450 sf",0,1,450,Apt/Condo,Vancouver
-197,"1,500",West End,"0 bd
+450 sf",0,1,450,Apt/Condo,Vancouver,BC
+205,"1,500",West End,"0 bd
 1 ba
-228 sf",0,1,228,Apt/Condo,Vancouver
-198,"2,500",West End,"0 bd
+228 sf",0,1,228,Apt/Condo,Vancouver,BC
+206,"2,500",West End,"0 bd
 1 ba
-421 sf",0,1,421,Apt/Condo,Vancouver
-199,"3,600",West End,"2 bd
+421 sf",0,1,421,Apt/Condo,Vancouver,BC
+207,"3,600",West End,"2 bd
 2 ba
-765 sf",2,2,765,Apt/Condo,Vancouver
-200,"2,350",West End,"0 bd
+765 sf",2,2,765,Apt/Condo,Vancouver,BC
+208,"2,350",West End,"0 bd
 1 ba
-415 sf",0,1,415,Apt/Condo,Vancouver
-201,"2,400",West End,"0 bd
+415 sf",0,1,415,Apt/Condo,Vancouver,BC
+209,"2,400",West End,"0 bd
 1 ba
-415 sf",0,1,415,Apt/Condo,Vancouver
-202,"2,500",West End,"0 bd
+415 sf",0,1,415,Apt/Condo,Vancouver,BC
+210,"2,500",West End,"0 bd
 1 ba
-515 sf",0,1,515,Apt/Condo,Vancouver
-203,"3,700",West End,"2 bd
+515 sf",0,1,515,Apt/Condo,Vancouver,BC
+211,"3,700",West End,"2 bd
 2 ba
-692 sf",2,2,692,Apt/Condo,Vancouver
-204,"2,275",West End,"0 bd
+692 sf",2,2,692,Apt/Condo,Vancouver,BC
+212,"2,275",West End,"0 bd
 1 ba
-400 sf",0,1,400,Apt/Condo,Vancouver
-205,"3,000",Downtown West,"2 bd
+400 sf",0,1,400,Apt/Condo,Vancouver,BC
+213,"3,000",Downtown West,"2 bd
 1 ba
-576 sf",2,1,576,Apt/Condo,Vancouver
-206,"1,900",West End,"0 bd
+576 sf",2,1,576,Apt/Condo,Vancouver,BC
+214,"1,900",West End,"0 bd
 1 ba
-450 sf",0,1,450,Apt/Condo,Vancouver
-207,"2,850",West End,"2 bd
+450 sf",0,1,450,Apt/Condo,Vancouver,BC
+215,"2,850",West End,"2 bd
 1 ba
-560 sf",2,1,560,Apt/Condo,Vancouver
-208,"2,600",Downtown West,"1 bd
+560 sf",2,1,560,Apt/Condo,Vancouver,BC
+216,"2,600",Downtown West,"1 bd
 1 ba
-557 sf",1,1,557,Apt/Condo,Vancouver
-209,"3,000",Yaletown,"2 bd
+557 sf",1,1,557,Apt/Condo,Vancouver,BC
+217,"3,000",Yaletown,"2 bd
 1 ba
-657 sf",2,1,657,Apt/Condo,Vancouver
-210,"2,200",Downtown West,"0 bd
+657 sf",2,1,657,Apt/Condo,Vancouver,BC
+218,"2,200",Downtown West,"0 bd
 1 ba
-439 sf",0,1,439,Apt/Condo,Vancouver
-211,"2,850",Yaletown,"1 bd
+439 sf",0,1,439,Apt/Condo,Vancouver,BC
+219,"2,850",Yaletown,"1 bd
 1 ba
-555 sf",1,1,555,Apt/Condo,Vancouver
-212,"2,700",Downtown West,"1 bd
+555 sf",1,1,555,Apt/Condo,Vancouver,BC
+220,"2,700",Downtown West,"1 bd
 1 ba
-500 sf",1,1,500,Apt/Condo,Vancouver
-213,"4,200",West End,"3 bd
+500 sf",1,1,500,Apt/Condo,Vancouver,BC
+221,"4,200",West End,"3 bd
 2 ba
-890 sf",3,2,890,Apt/Condo,Vancouver
-214,"2,500",Downtown West,"1 bd
+890 sf",3,2,890,Apt/Condo,Vancouver,BC
+222,"2,500",Downtown West,"1 bd
 1 ba
-516 sf",1,1,516,Apt/Condo,Vancouver
-215,"2,000",Marpole,"1 bd
+516 sf",1,1,516,Apt/Condo,Vancouver,BC
+223,"2,000",Marpole,"1 bd
 1 ba
-466 sf",1,1,466,House,Vancouver
-216,"2,000",West End,"1 bd
+466 sf",1,1,466,House,Vancouver,BC
+224,"2,000",West End,"1 bd
 1 ba
-500 sf",1,1,500,Apt/Condo,Vancouver
-217,"3,850",Downtown West,"2 bd
+500 sf",1,1,500,Apt/Condo,Vancouver,BC
+225,"3,850",Downtown West,"2 bd
 2 ba
-816 sf",2,2,816,House,Vancouver
-218,"3,100",Downtown West,"2 bd
+816 sf",2,2,816,House,Vancouver,BC
+226,"3,100",Downtown West,"2 bd
 2 ba
-1100 sf",2,2,1100,Apt/Condo,Vancouver
-219,"3,000",Downtown West,"2 bd
+1100 sf",2,2,1100,Apt/Condo,Vancouver,BC
+227,"3,000",Downtown West,"2 bd
 2 ba
-800 sf",2,2,800,House,Vancouver
-220,"12,000",West End,"2 bd
+800 sf",2,2,800,House,Vancouver,BC
+228,"12,000",West End,"2 bd
 2 ba
-2500 sf",2,2,2500,Apt/Condo,Vancouver
-221,"9,950",Downtown East,"2 bd
+2500 sf",2,2,2500,Apt/Condo,Vancouver,BC
+229,"9,950",Downtown East,"2 bd
 2 ba
-2400 sf",2,2,2400,Apt/Condo,Vancouver
-222,"9,100",Cambie,"1 bd
+2400 sf",2,2,2400,Apt/Condo,Vancouver,BC
+230,"9,100",Cambie,"1 bd
 1 ba
-715 sf",1,1,715,House,Vancouver
-223,"3,000",West End,"2 bd
+715 sf",1,1,715,House,Vancouver,BC
+231,"3,000",West End,"2 bd
 2 ba
-700 sf",2,2,700,Apt/Condo,Vancouver
-224,"3,000",Downtown West,"2 bd
+700 sf",2,2,700,Apt/Condo,Vancouver,BC
+232,"3,000",Downtown West,"2 bd
 1 ba
-592 sf",2,1,592,Apt/Condo,Vancouver
-225,"2,500",Downtown West,"1 bd
+592 sf",2,1,592,Apt/Condo,Vancouver,BC
+233,"2,500",Downtown West,"1 bd
 1 ba
-456 sf",1,1,456,Apt/Condo,Vancouver
-226,"2,400",West End,"1 bd
+456 sf",1,1,456,Apt/Condo,Vancouver,BC
+234,"2,400",West End,"1 bd
 1 ba
-490 sf",1,1,490,Apt/Condo,Vancouver
-227,"2,300",Downtown West,"0 bd
+490 sf",1,1,490,Apt/Condo,Vancouver,BC
+235,"2,300",Downtown West,"0 bd
 1 ba
-439 sf",0,1,439,Apt/Condo,Vancouver
-228,"2,250",West End,"0 bd
+439 sf",0,1,439,Apt/Condo,Vancouver,BC
+236,"2,250",West End,"0 bd
 1 ba
-259 sf",0,1,259,Apt/Condo,Vancouver
-229,"2,600",West End,"1 bd
+259 sf",0,1,259,Apt/Condo,Vancouver,BC
+237,"2,600",West End,"1 bd
 1 ba
-516 sf",1,1,516,Apt/Condo,Vancouver
-230,"2,450",Downtown West,"1 bd
+516 sf",1,1,516,Apt/Condo,Vancouver,BC
+238,"2,450",Downtown West,"1 bd
 1 ba
-456 sf",1,1,456,Apt/Condo,Vancouver
-231,"2,750",Downtown West,"1 bd
+456 sf",1,1,456,Apt/Condo,Vancouver,BC
+239,"2,750",Downtown West,"1 bd
 1 ba
-525 sf",1,1,525,Apt/Condo,Vancouver
-232,"5,300",Downtown West,"3 bd
+525 sf",1,1,525,Apt/Condo,Vancouver,BC
+240,"5,300",Downtown West,"3 bd
 3 ba
-1430 sf",3,3,1430,House,Vancouver
-233,"2,600",Downtown West,"1 bd
+1430 sf",3,3,1430,House,Vancouver,BC
+241,"2,600",Downtown West,"1 bd
 1 ba
-505 sf",1,1,505,Apt/Condo,Vancouver
-234,"2,000",Downtown West,"1 bd
+505 sf",1,1,505,Apt/Condo,Vancouver,BC
+242,"2,000",Downtown West,"1 bd
 1 ba
-526 sf",1,1,526,Apt/Condo,Vancouver
-235,"2,000",West End,"1 bd
+526 sf",1,1,526,Apt/Condo,Vancouver,BC
+243,"2,000",West End,"1 bd
 1 ba
-500 sf",1,1,500,Apt/Condo,Vancouver
-236,"3,980",Downtown West,"2 bd
+500 sf",1,1,500,Apt/Condo,Vancouver,BC
+244,"3,980",Downtown West,"2 bd
 2 ba
-950 sf",2,2,950,House,Vancouver
-237,"1,000",South Granville,"2 bd
+950 sf",2,2,950,House,Vancouver,BC
+245,"1,000",South Granville,"2 bd
 2 ba
-0 sf",2,2,0,House,Vancouver
-238,"9,990",Yaletown,"2 bd
+0 sf",2,2,0,House,Vancouver,BC
+246,"9,990",Yaletown,"2 bd
 2 ba
-1700 sf",2,2,1700,Townhouse,Vancouver
-239,"1,800",West End,"0 bd
+1700 sf",2,2,1700,Townhouse,Vancouver,BC
+247,"1,800",West End,"0 bd
 1 ba
-450 sf",0,1,450,Apt/Condo,Vancouver
-240,"2,300",West End,"1 bd
+450 sf",0,1,450,Apt/Condo,Vancouver,BC
+248,"2,300",West End,"1 bd
 1 ba
-500 sf",1,1,500,Apt/Condo,Vancouver
-241,"2,900",Downtown West,"2 bd
+500 sf",1,1,500,Apt/Condo,Vancouver,BC
+249,"2,900",Downtown West,"2 bd
 1 ba
-623 sf",2,1,623,Apt/Condo,Vancouver
-242,"3,350",West End,"2 bd
+623 sf",2,1,623,Apt/Condo,Vancouver,BC
+250,"3,350",West End,"2 bd
 2 ba
-735 sf",2,2,735,Apt/Condo,Vancouver
-243,"2,900",Downtown West,"2 bd
+735 sf",2,2,735,Apt/Condo,Vancouver,BC
+251,"2,900",Downtown West,"2 bd
 1 ba
-623 sf",2,1,623,Apt/Condo,Vancouver
-244,"2,700",Downtown West,"2 bd
+623 sf",2,1,623,Apt/Condo,Vancouver,BC
+252,"2,700",Downtown West,"2 bd
 1 ba
-614 sf",2,1,614,Apt/Condo,Vancouver
-245,"2,300",Downtown West,"1 bd
+614 sf",2,1,614,Apt/Condo,Vancouver,BC
+253,"2,300",Downtown West,"1 bd
 1 ba
-456 sf",1,1,456,Apt/Condo,Vancouver
-246,"2,250",Yaletown,"1 bd
+456 sf",1,1,456,Apt/Condo,Vancouver,BC
+254,"2,250",Yaletown,"1 bd
 1 ba
-555 sf",1,1,555,Apt/Condo,Vancouver
-247,"2,700",Yaletown,"2 bd
+555 sf",1,1,555,Apt/Condo,Vancouver,BC
+255,"2,700",Yaletown,"2 bd
 1 ba
-657 sf",2,1,657,Apt/Condo,Vancouver
-248,"2,200",West End,"0 bd
+657 sf",2,1,657,Apt/Condo,Vancouver,BC
+256,"2,200",West End,"0 bd
 1 ba
-406 sf",0,1,406,Apt/Condo,Vancouver
-249,"2,300",Downtown West,"1 bd
+406 sf",0,1,406,Apt/Condo,Vancouver,BC
+257,"2,300",Downtown West,"1 bd
 1 ba
-512 sf",1,1,512,Apt/Condo,Vancouver
-250,"2,500",Yaletown,"2 bd
+512 sf",1,1,512,Apt/Condo,Vancouver,BC
+258,"2,500",Yaletown,"2 bd
 1 ba
-711 sf",2,1,711,Apt/Condo,Vancouver
-251,"4,000",Knight,"3 bd
+711 sf",2,1,711,Apt/Condo,Vancouver,BC
+259,"4,000",Knight,"3 bd
 3 ba
-1000 sf",3,3,1000,House,Vancouver
-252,"13,800",Coal Harbour,"3 bd
+1000 sf",3,3,1000,House,Vancouver,BC
+260,"13,800",Coal Harbour,"3 bd
 3 ba
-2001 sf",3,3,2001,House,Vancouver
-253,"2,100",Downtown West,"1 bd
+2001 sf",3,3,2001,House,Vancouver,BC
+261,"2,100",Downtown West,"1 bd
 1 ba
-500 sf",1,1,500,House,Vancouver
+500 sf",1,1,500,House,Vancouver,BC

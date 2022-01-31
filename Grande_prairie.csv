@@ -1,0 +1,509 @@
+,price,Address,moreinfo,bedroom,bathroom,size_sqf,types,city,province
+0,"1,000",Grande Prairie,"2 bd
+1 ba
+0 sf",2,1,0,House,Grande_prairie,Alberta
+1,899,Grande Prairie,"0 bd
+1 ba
+490 sf",0,1,490,Apt/Condo,Grande_prairie,Alberta
+2,895,Grande Prairie,"0 bd
+1 ba",0,1,,Duplex,Grande_prairie,Alberta
+3,950,Grande Prairie,"1 bd
+1 ba
+0 sf",1,1,0,Townhouse,Grande_prairie,Alberta
+4,900,Grande Prairie,"1 bd
+1 ba
+0 sf",1,1,0,Townhouse,Grande_prairie,Alberta
+5,"1,050",Grande Prairie,"2 bd
+1 ba
+1035 sf",2,1,1035,Duplex,Grande_prairie,Alberta
+6,"1,045",Grande Prairie,"2 bd
+1 ba
+883 sf",2,1,883,Duplex,Grande_prairie,Alberta
+7,"1,095",Grande Prairie,"2 bd
+2 ba
+1008 sf",2,2,1008,Apt/Condo,Grande_prairie,Alberta
+8,"1,400",Grande Prairie,"2 bd
+1 ba
+0 sf",2,1,0,Duplex,Grande_prairie,Alberta
+9,"1,100",Grande Prairie,"3 bd
+2 ba
+0 sf",3,2,0,House,Grande_prairie,Alberta
+10,995,Grande Prairie,"1 bd
+1 ba
+708 sf",1,1,708,Apt/Condo,Grande_prairie,Alberta
+11,910,Grande Prairie,"1 bd
+1 ba
+701 sf",1,1,701,Apt/Condo,Grande_prairie,Alberta
+12,869,Grande Prairie,"0 bd
+1 ba
+450 sf",0,1,450,Apt/Condo,Grande_prairie,Alberta
+13,"1,199",Grande Prairie,"2 bd
+1 ba
+925 sf",2,1,925,Apt/Condo,Grande_prairie,Alberta
+14,"1,045",Grande Prairie,"2 bd
+1 ba",2,1,,Apt/Condo,Grande_prairie,Alberta
+15,"1,095",Grande Prairie,"2 bd
+2 ba
+1003 sf",2,2,1003,Apt/Condo,Grande_prairie,Alberta
+16,995,Grande Prairie,"1 bd
+1 ba
+708 sf",1,1,708,Apt/Condo,Grande_prairie,Alberta
+17,"1,045",Grande Prairie,"2 bd
+1 ba",2,1,,Townhouse,Grande_prairie,Alberta
+18,"1,800",Grande Prairie,"3 bd
+3 ba
+1438 sf",3,3,1438,House,Grande_prairie,Alberta
+19,"1,050",Grande Prairie,"2 bd
+1 ba
+0 sf",2,1,0,Duplex,Grande_prairie,Alberta
+20,"1,150",Grande Prairie,"2 bd
+1 ba
+0 sf",2,1,0,Townhouse,Grande_prairie,Alberta
+21,"1,395",Grande Prairie,"3 bd
+2 ba
+1081 sf",3,2,1081,Townhouse,Grande_prairie,Alberta
+22,950,Grande Prairie,"1 bd
+1 ba
+0 sf",1,1,0,Townhouse,Grande_prairie,Alberta
+23,756,Grande Prairie,"0 bd
+1 ba
+450 sf",0,1,450,Apt/Condo,Grande_prairie,Alberta
+24,"1,045",Grande Prairie,"2 bd
+1 ba
+883 sf",2,1,883,Townhouse,Grande_prairie,Alberta
+25,"1,150",Grande Prairie,"2 bd
+1 ba
+745 sf",2,1,745,Apt/Condo,Grande_prairie,Alberta
+26,"1,350",Grande Prairie,"3 bd
+2 ba
+0 sf",3,2,0,House,Grande_prairie,Alberta
+27,"1,495",Grande Prairie,"3 bd
+2 ba",3,2,,Townhouse,Grande_prairie,Alberta
+28,550,Grande Prairie,"1 bd
+1 ba",1,1,,House,Grande_prairie,Alberta
+29,945,Grande Prairie,"2 bd
+1 ba
+990 sf",2,1,990,Townhouse,Grande_prairie,Alberta
+30,959,Grande Prairie,"2 bd
+1 ba
+950 sf",2,1,950,Apt/Condo,Grande_prairie,Alberta
+31,"1,295",Grande Prairie,"4 bd
+2 ba
+912 sf",4,2,912,House,Grande_prairie,Alberta
+32,"1,095",Grande Prairie,"3 bd
+2 ba",3,2,,Duplex,Grande_prairie,Alberta
+33,995,Grande Prairie,"2 bd
+2 ba
+1130 sf",2,2,1130,Apt/Condo,Grande_prairie,Alberta
+34,"1,115",Grande Prairie,"2 bd
+1 ba
+870 sf",2,1,870,Townhouse,Grande_prairie,Alberta
+35,949,Grande Prairie,"1 bd
+1 ba
+570 sf",1,1,570,Apt/Condo,Grande_prairie,Alberta
+36,950,Grande Prairie,"2 bd
+1 ba
+0 sf",2,1,0,Townhouse,Grande_prairie,Alberta
+37,950,Grande Prairie,"2 bd
+1 ba
+0 sf",2,1,0,House,Grande_prairie,Alberta
+38,"1,350",Grande Prairie,"3 bd
+1 ba
+0 sf",3,1,0,Duplex,Grande_prairie,Alberta
+39,"1,300",Grande Prairie,"4 bd
+2 ba
+1225 sf",4,2,1225,Townhouse,Grande_prairie,Alberta
+40,"1,195",Grande Prairie,"3 bd
+2 ba
+640 sf",3,2,640,Townhouse,Grande_prairie,Alberta
+41,"1,045",Grande Prairie,"2 bd
+1 ba",2,1,,Fourplex,Grande_prairie,Alberta
+42,"1,145",Grande Prairie,"3 bd
+2 ba
+662 sf",3,2,662,Townhouse,Grande_prairie,Alberta
+43,"1,189",Grande Prairie,"2 bd
+1 ba
+950 sf",2,1,950,Apt/Condo,Grande_prairie,Alberta
+44,"1,495",Grande Prairie,"3 bd
+2 ba",3,2,,Duplex,Grande_prairie,Alberta
+45,979,Grande Prairie,"0 bd
+1 ba
+350 sf",0,1,350,Apt/Condo,Grande_prairie,Alberta
+46,"1,495",Grande Prairie,"3 bd
+2 ba
+640 sf",3,2,640,Townhouse,Grande_prairie,Alberta
+47,949,Grande Prairie,"1 bd
+1 ba
+403 sf",1,1,403,Townhouse,Grande_prairie,Alberta
+48,260,Grande Prairie,"0 bd
+1 ba
+125 sf",0,1,125,Apt/Condo,Grande_prairie,Alberta
+49,"1,000",Grande Prairie,"2 bd
+1 ba
+920 sf",2,1,920,Townhouse,Grande_prairie,Alberta
+50,850,Grande Prairie,"2 bd
+1 ba
+0 sf",2,1,0,Townhouse,Grande_prairie,Alberta
+51,950,Grande Prairie,"2 bd
+1 ba
+700 sf",2,1,700,Townhouse,Grande_prairie,Alberta
+52,"1,327",Grande Prairie,"2 bd
+2 ba
+953 sf",2,2,953,Apt/Condo,Grande_prairie,Alberta
+53,"1,352",Grande Prairie,"2 bd
+1 ba
+875 sf",2,1,875,Apt/Condo,Grande_prairie,Alberta
+54,"1,060",Grande Prairie,"2 bd
+1 ba
+0 sf",2,1,0,Apt/Condo,Grande_prairie,Alberta
+55,710,Grande Prairie,"1 bd
+1 ba
+612 sf",1,1,612,Apt/Condo,Grande_prairie,Alberta
+56,685,Grande Prairie,"2 bd
+1 ba
+781 sf",2,1,781,Apt/Condo,Grande_prairie,Alberta
+57,985,Grande Prairie,"2 bd
+2 ba
+961 sf",2,2,961,Apt/Condo,Grande_prairie,Alberta
+58,835,Grande Prairie,"3 bd
+1 ba
+963 sf",3,1,963,Apt/Condo,Grande_prairie,Alberta
+59,"1,035",Grande Prairie,"3 bd
+2 ba
+950 sf",3,2,950,Apt/Condo,Grande_prairie,Alberta
+60,910,Grande Prairie,"2 bd
+1 ba
+0 sf",2,1,0,Townhouse,Grande_prairie,Alberta
+61,"1,160",Grande Prairie,"2 bd
+2 ba
+1250 sf",2,2,1250,Townhouse,Grande_prairie,Alberta
+62,"1,210",Grande Prairie,"2 bd
+2 ba
+1250 sf",2,2,1250,Townhouse,Grande_prairie,Alberta
+63,"1,035",Grande Prairie,"2 bd
+1 ba
+904 sf",2,1,904,Apt/Condo,Grande_prairie,Alberta
+64,"1,119",Grande Prairie,"2 bd
+1 ba
+900 sf",2,1,900,Apt/Condo,Grande_prairie,Alberta
+65,831,Grande Prairie,"1 bd
+1 ba
+700 sf",1,1,700,Apt/Condo,Grande_prairie,Alberta
+66,977,Grande Prairie,"2 bd
+1 ba
+1000 sf",2,1,1000,Apt/Condo,Grande_prairie,Alberta
+67,909,Grande Prairie,"1 bd
+1 ba
+403 sf",1,1,403,Townhouse,Grande_prairie,Alberta
+68,769,Grande Prairie,"0 bd
+1 ba
+320 sf",0,1,320,Townhouse,Grande_prairie,Alberta
+69,"1,011",Grande Prairie,"2 bd
+1 ba
+1100 sf",2,1,1100,Townhouse,Grande_prairie,Alberta
+70,951,Grande Prairie,"2 bd
+1 ba
+700 sf",2,1,700,Townhouse,Grande_prairie,Alberta
+71,"1,095",Grande Prairie,"2 bd
+2 ba
+804 sf",2,2,804,Apt/Condo,Grande_prairie,Alberta
+72,"1,100",Grande Prairie,"2 bd
+2 ba",2,2,,Apt/Condo,Grande_prairie,Alberta
+73,"1,000",Grande Prairie,"2 bd
+1 ba",2,1,,Apt/Condo,Grande_prairie,Alberta
+74,850,Grande Prairie,"0 bd
+1 ba
+417 sf",0,1,417,Apt/Condo,Grande_prairie,Alberta
+75,900,Grande Prairie,"1 bd
+1 ba",1,1,,Apt/Condo,Grande_prairie,Alberta
+76,"1,395",Grande Prairie,"3 bd
+3 ba
+1230 sf",3,3,1230,Townhouse,Grande_prairie,Alberta
+77,899,Grande Prairie,"1 bd
+1 ba
+610 sf",1,1,610,Apt/Condo,Grande_prairie,Alberta
+78,949,Grande Prairie,"1 bd
+1 ba
+675 sf",1,1,675,Apt/Condo,Grande_prairie,Alberta
+79,"1,125",Grande Prairie,"1 bd
+1 ba
+709 sf",1,1,709,Apt/Condo,Grande_prairie,Alberta
+80,"1,325",Grande Prairie,"2 bd
+2 ba
+975 sf",2,2,975,Apt/Condo,Grande_prairie,Alberta
+81,"1,095",Grande Prairie,"2 bd
+1 ba",2,1,,Apt/Condo,Grande_prairie,Alberta
+82,865,Grande Prairie,"1 bd
+1 ba",1,1,,Apt/Condo,Grande_prairie,Alberta
+83,"1,600",Grande Prairie,"3 bd
+2 ba
+642 sf",3,2,642,House,Grande_prairie,Alberta
+84,"1,100",Grande Prairie,"2 bd
+1 ba
+0 sf",2,1,0,Apt/Condo,Grande_prairie,Alberta
+85,"1,650",Grande Prairie,"2 bd
+2 ba
+1014 sf",2,2,1014,House,Grande_prairie,Alberta
+86,"429,900",Grande Prairie,"0 bd
+0 ba
+1461 sf",0,0,1461,House,Grande_prairie,Alberta
+87,"1,600",Grande Prairie,"2 bd
+2 ba
+0 sf",2,2,0,Apt/Condo,Grande_prairie,Alberta
+88,"1,250",Grande Prairie,"3 bd
+1 ba
+0 sf",3,1,0,House,Grande_prairie,Alberta
+89,"1,800",Grande Prairie,"4 bd
+2 ba
+953 sf",4,2,953,House,Grande_prairie,Alberta
+90,"1,750",Grande Prairie,"0 bd
+0 ba
+0 sf",0,0,0,House,Grande_prairie,Alberta
+91,"1,650",Grande Prairie,"4 bd
+4 ba
+1338 sf",4,4,1338,House,Grande_prairie,Alberta
+92,"1,775",Grande Prairie,"3 bd
+3 ba
+1486 sf",3,3,1486,House,Grande_prairie,Alberta
+93,975,Grande Prairie,"1 bd
+1 ba
+0 sf",1,1,0,Duplex,Grande_prairie,Alberta
+94,850,Grande Prairie,"2 bd
+1 ba
+0 sf",2,1,0,Apt/Condo,Grande_prairie,Alberta
+95,750,Grande Prairie,"1 bd
+1 ba
+0 sf",1,1,0,Apt/Condo,Grande_prairie,Alberta
+96,"1,200",Grande Prairie,"2 bd
+1 ba
+800 sf",2,1,800,House,Grande_prairie,Alberta
+97,"1,450",Grande Prairie,"2 bd
+2 ba
+1066 sf",2,2,1066,House,Grande_prairie,Alberta
+98,"1,300",Grande Prairie,"2 bd
+2 ba
+1025 sf",2,2,1025,House,Grande_prairie,Alberta
+99,950,Grande Prairie,"2 bd
+1 ba
+0 sf",2,1,0,House,Grande_prairie,Alberta
+100,"1,395",Grande Prairie,"3 bd
+1 ba
+0 sf",3,1,0,Townhouse,Grande_prairie,Alberta
+101,"1,450",Grande Prairie,"3 bd
+2 ba
+0 sf",3,2,0,House,Grande_prairie,Alberta
+102,875,Grande Prairie,"2 bd
+1 ba
+0 sf",2,1,0,Apt/Condo,Grande_prairie,Alberta
+103,875,Grande Prairie,"2 bd
+1 ba
+0 sf",2,1,0,Apt/Condo,Grande_prairie,Alberta
+104,875,Grande Prairie,"2 bd
+1 ba
+0 sf",2,1,0,Apt/Condo,Grande_prairie,Alberta
+105,"1,275",Grande Prairie,"2 bd
+1 ba
+0 sf",2,1,0,Apt/Condo,Grande_prairie,Alberta
+106,"1,200",Grande Prairie,"V Tour
+
+2 bd
+2 ba
+1040 sf",2,,1040,"
+
+
+Apt/Condo",Grande_prairie,Alberta
+107,"1,595",Grande Prairie,"3 bd
+1 ba
+1400 sf",3,1,1400,Townhouse,Grande_prairie,Alberta
+108,"1,450",Grande Prairie,"3 bd
+1 ba
+1148 sf",3,1,1148,Townhouse,Grande_prairie,Alberta
+109,"1,400",Grande Prairie,"3 bd
+2 ba
+0 sf",3,2,0,Duplex,Grande_prairie,Alberta
+110,"1,300",Grande Prairie,"3 bd
+2 ba
+0 sf",3,2,0,Townhouse,Grande_prairie,Alberta
+111,"1,400",Grande Prairie,"3 bd
+1 ba
+0 sf",3,1,0,House,Grande_prairie,Alberta
+112,"1,200",Grande Prairie,"2 bd
+2 ba
+0 sf",2,2,0,Apt/Condo,Grande_prairie,Alberta
+113,"1,800",Grande Prairie,"3 bd
+2 ba
+0 sf",3,2,0,Townhouse,Grande_prairie,Alberta
+114,"1,300",Grande Prairie,"3 bd
+1 ba
+0 sf",3,1,0,Apt/Condo,Grande_prairie,Alberta
+115,800,Grande Prairie,"1 bd
+1 ba
+0 sf",1,1,0,Apt/Condo,Grande_prairie,Alberta
+116,"1,300",Grande Prairie,"V Tour
+
+1 bd
+1 ba
+700 sf",1,,700,"
+
+
+Apt/Condo",Grande_prairie,Alberta
+117,"1,550",Grande Prairie,"3 bd
+2 ba
+1137 sf",3,2,1137,House,Grande_prairie,Alberta
+118,"1,050",Grande Prairie,"1 bd
+1 ba
+568 sf",1,1,568,Apt/Condo,Grande_prairie,Alberta
+119,"1,050",Grande Prairie,"1 bd
+1 ba
+568 sf",1,1,568,Apt/Condo,Grande_prairie,Alberta
+120,"1,050",Grande Prairie,"1 bd
+1 ba
+568 sf",1,1,568,Apt/Condo,Grande_prairie,Alberta
+121,"1,050",Grande Prairie,"1 bd
+1 ba
+568 sf",1,1,568,Apt/Condo,Grande_prairie,Alberta
+122,"1,300",Grande Prairie,"2 bd
+1 ba
+0 sf",2,1,0,House,Grande_prairie,Alberta
+123,"1,000",Grande Prairie,"2 bd
+2 ba
+0 sf",2,2,0,Apt/Condo,Grande_prairie,Alberta
+124,950,Grande Prairie,"2 bd
+1 ba
+0 sf",2,1,0,Apt/Condo,Grande_prairie,Alberta
+125,"1,300",Grande Prairie,"3 bd
+1 ba
+1185 sf",3,1,1185,House,Grande_prairie,Alberta
+126,"1,100",Grande Prairie,"V Tour
+
+1 bd
+1 ba
+600 sf",1,,600,"
+
+
+Apt/Condo",Grande_prairie,Alberta
+127,"1,000",Grande Prairie,"1 bd
+1 ba
+590 sf",1,1,590,Apt/Condo,Grande_prairie,Alberta
+128,975,Grande Prairie,"2 bd
+1 ba
+800 sf",2,1,800,Apt/Condo,Grande_prairie,Alberta
+129,845,Grande Prairie,"1 bd
+1 ba
+650 sf",1,1,650,Apt/Condo,Grande_prairie,Alberta
+130,875,Grande Prairie,"2 bd
+1 ba
+800 sf",2,1,800,Apt/Condo,Grande_prairie,Alberta
+131,"1,500",Grande Prairie,"0 bd
+0 ba
+0 sf",0,0,0,House,Grande_prairie,Alberta
+132,"96,030",Grande Prairie,"0 bd
+0 ba
+0 sf",0,0,0,House,Grande_prairie,Alberta
+133,"3,000",Grande Prairie,"0 bd
+0 ba
+0 sf",0,0,0,House,Grande_prairie,Alberta
+134,"2,850",Grande Prairie,"0 bd
+0 ba
+0 sf",0,0,0,House,Grande_prairie,Alberta
+135,"3,200",Grande Prairie,"0 bd
+0 ba
+0 sf",0,0,0,House,Grande_prairie,Alberta
+136,"2,840",Grande Prairie,"0 bd
+0 ba
+0 sf",0,0,0,House,Grande_prairie,Alberta
+137,"2,500",Grande Prairie,"0 bd
+0 ba
+0 sf",0,0,0,House,Grande_prairie,Alberta
+138,"1,100",Grande Prairie,"2 bd
+1 ba
+1000 sf",2,1,1000,House,Grande_prairie,Alberta
+139,"1,225",Grande Prairie,"V Tour
+
+2 bd
+1 ba
+832 sf",2,,832,"
+
+
+Apt/Condo",Grande_prairie,Alberta
+140,900,Grande Prairie,"1 bd
+1 ba
+0 sf",1,1,0,Apt/Condo,Grande_prairie,Alberta
+141,"1,100",Grande Prairie,"3 bd
+1 ba
+0 sf",3,1,0,House,Grande_prairie,Alberta
+142,"1,600",Grande Prairie,"3 bd
+1 ba
+1057 sf",3,1,1057,Apt/Condo,Grande_prairie,Alberta
+143,"1,200",Grande Prairie,"2 bd
+1 ba
+0 sf",2,1,0,House,Grande_prairie,Alberta
+144,"1,700",Grande Prairie,"2 bd
+1 ba
+1000 sf",2,1,1000,House,Grande_prairie,Alberta
+145,"1,800",Grande Prairie,"V Tour
+
+3 bd
+2 ba
+1340 sf",3,,1340,"
+
+
+Townhouse",Grande_prairie,Alberta
+146,"1,595",Grande Prairie,"4 bd
+1 ba
+776 sf",4,1,776,Duplex,Grande_prairie,Alberta
+147,"1,250",Grande Prairie,"3 bd
+1 ba
+0 sf",3,1,0,Duplex,Grande_prairie,Alberta
+148,975,Grande Prairie,"V Tour
+
+2 bd
+1 ba
+853 sf",2,,853,"
+
+
+Apt/Condo",Grande_prairie,Alberta
+149,"1,025",Grande Prairie,"V Tour
+
+2 bd
+1 ba
+818 sf",2,,818,"
+
+
+Apt/Condo",Grande_prairie,Alberta
+150,850,Grande Prairie,"V Tour
+
+1 bd
+1 ba
+625 sf",1,,625,"
+
+
+Apt/Condo",Grande_prairie,Alberta
+151,"1,350",Grande Prairie,"V Tour
+
+2 bd
+2 ba
+893 sf",2,,893,"
+
+
+Apt/Condo",Grande_prairie,Alberta
+152,"1,475",Grande Prairie,"V Tour
+
+2 bd
+2 ba
+918 sf",2,,918,"
+
+
+Apt/Condo",Grande_prairie,Alberta
+153,"1,300",Grande Prairie,"2 bd
+2 ba
+825 sf",2,2,825,Apt/Condo,Grande_prairie,Alberta
+154,"1,000",Grande Prairie,"2 bd
+2 ba
+0 sf",2,2,0,Apt/Condo,Grande_prairie,Alberta
+155,"1,495",Grande Prairie,"3 bd
+1 ba
+639 sf",3,1,639,Duplex,Grande_prairie,Alberta
+156,"3,500",Grande Prairie,"0 bd
+0 ba
+0 sf",0,0,0,House,Grande_prairie,Alberta

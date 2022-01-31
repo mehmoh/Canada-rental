@@ -1,4 +1,4 @@
-,price,Address,moreinfo,bedroom,bathroom,size_sqf,types,city
+,price,Address,moreinfo,bedroom,bathroom,size_sqf,types,city,province
 0,"1,920",Riverdale,"V Tour
 
 2 bd
@@ -6,48 +6,48 @@
 810 sf",2,,810,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 1,"1,795",Macassa,"2 bd
-1 ba",2,1,,Duplex,Hamilton
+1 ba",2,1,,Duplex,Hamilton,Ontario
 2,"2,199",Blakeley,"2 bd
-2 ba",2,2,,Multifamily,Hamilton
+2 ba",2,2,,Multifamily,Hamilton,Ontario
 3,"1,550",Inch Park,"1 bd
-1 ba",1,1,,Apt/Condo,Hamilton
+1 ba",1,1,,Apt/Condo,Hamilton,Ontario
 4,"2,049",Crown Point,"2 bd
-1 ba",2,1,,House,Hamilton
+1 ba",2,1,,House,Hamilton,Ontario
 5,"1,225",Delta,"1 bd
-1 ba",1,1,,Apt/Condo,Hamilton
+1 ba",1,1,,Apt/Condo,Hamilton,Ontario
 6,"1,575",Gibson,"2 bd
-1 ba",2,1,,Multifamily,Hamilton
+1 ba",2,1,,Multifamily,Hamilton,Ontario
 7,"1,749",Blakeley,"2 bd
-1 ba",2,1,,Multifamily,Hamilton
+1 ba",2,1,,Multifamily,Hamilton,Ontario
 8,"2,375",North End,"3 bd
 2 ba
-1185 sf",3,2,1185,Apt/Condo,Hamilton
+1185 sf",3,2,1185,Apt/Condo,Hamilton,Ontario
 9,"1,950",Durand,"2 bd
 1 ba
-800 sf",2,1,800,Duplex,Hamilton
+800 sf",2,1,800,Duplex,Hamilton,Ontario
 10,"1,800",Fessenden,"2 bd
-2 ba",2,2,,House,Hamilton
+2 ba",2,2,,House,Hamilton,Ontario
 11,"4,000",Rural Glanbrook,"4 bd
-2 ba",4,2,,House,Hamilton
+2 ba",4,2,,House,Hamilton,Ontario
 12,"1,800",Huntington,"2 bd
-1 ba",2,1,,Duplex,Hamilton
+1 ba",2,1,,Duplex,Hamilton,Ontario
 13,"2,300",Crerar,"2 bd
-2 ba",2,2,,House,Hamilton
+2 ba",2,2,,House,Hamilton,Ontario
 14,"3,500",Durand,"4 bd
 3 ba
-2250 sf",4,3,2250,House,Hamilton
+2250 sf",4,3,2250,House,Hamilton,Ontario
 15,"1,500",Stipley,"1 bd
-1 ba",1,1,,Apt/Condo,Hamilton
+1 ba",1,1,,Apt/Condo,Hamilton,Ontario
 16,"1,495",Mcquesten,"1 bd
-1 ba",1,1,,Apt/Condo,Hamilton
+1 ba",1,1,,Apt/Condo,Hamilton,Ontario
 17,"2,150",Corktown,"2 bd
 1 ba
-725 sf",2,1,725,Apt/Condo,Hamilton
+725 sf",2,1,725,Apt/Condo,Hamilton,Ontario
 18,"1,525",Riverdale,"0 bd
 1 ba
-380 sf",0,1,380,Apt/Condo,Hamilton
+380 sf",0,1,380,Apt/Condo,Hamilton,Ontario
 19,"1,875",Durand,"V Tour
 
 1 bd
@@ -55,15 +55,15 @@ Apt/Condo",Hamilton
 516 sf",1,,516,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 20,"1,450",Normanhurst,"2 bd
 1 ba
-600 sf",2,1,600,House,Hamilton
+600 sf",2,1,600,House,Hamilton,Ontario
 21,"1,395",Bonnington,"1 bd
 1 ba
-650 sf",1,1,650,Apt/Condo,Hamilton
+650 sf",1,1,650,Apt/Condo,Hamilton,Ontario
 22,"2,150",Bonnington,"3 bd
-1 ba",3,1,,Duplex,Hamilton
+1 ba",3,1,,Duplex,Hamilton,Ontario
 23,"1,525",St. Clair,"V Tour
 
 1 bd
@@ -71,7 +71,7 @@ Apt/Condo",Hamilton
 650 sf",1,,650,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 24,"1,655",St. Clair,"V Tour
 
 2 bd
@@ -79,17 +79,17 @@ Apt/Condo",Hamilton
 750 sf",2,,750,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 25,"1,295",Macassa,"1 bd
-1 ba",1,1,,Apt/Condo,Hamilton
+1 ba",1,1,,Apt/Condo,Hamilton,Ontario
 26,"1,725",Lisgar,"2 bd
 1 ba
-1000 sf",2,1,1000,Duplex,Hamilton
+1000 sf",2,1,1000,Duplex,Hamilton,Ontario
 27,"1,800",Fessenden,"2 bd
-1 ba",2,1,,House,Hamilton
+1 ba",2,1,,House,Hamilton,Ontario
 28,"2,650",Eastmount,"3 bd
 1 ba
-1113 sf",3,1,1113,Duplex,Hamilton
+1113 sf",3,1,1113,Duplex,Hamilton,Ontario
 29,"1,580",Riverdale,"V Tour
 
 1 bd
@@ -97,7 +97,7 @@ Apt/Condo",Hamilton
 770 sf",1,,770,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 30,"1,835",Riverdale,"V Tour
 
 2 bd
@@ -105,7 +105,7 @@ Apt/Condo",Hamilton
 735 sf",2,,735,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 31,"1,905",Riverdale,"V Tour
 
 2 bd
@@ -113,16 +113,16 @@ Apt/Condo",Hamilton
 735 sf",2,,735,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 32,"2,600",Waterdown,"3 bd
 2 ba
-1200 - 1399 sf",3,2,1200,Townhouse,Hamilton
+1200 - 1399 sf",3,2,1200,Townhouse,Hamilton,Ontario
 33,"1,950",Buchanan,"2 bd
-1 ba",2,1,,Duplex,Hamilton
+1 ba",2,1,,Duplex,Hamilton,Ontario
 34,"1,800",Hampton Heights,"2 bd
-1 ba",2,1,,Duplex,Hamilton
+1 ba",2,1,,Duplex,Hamilton,Ontario
 35,"2,250",Buchanan,"3 bd
-1 ba",3,1,,Duplex,Hamilton
+1 ba",3,1,,Duplex,Hamilton,Ontario
 36,"2,045",North End,"V Tour
 
 2 bd
@@ -130,27 +130,27 @@ Apt/Condo",Hamilton
 935 sf",2,,935,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 37,"1,749",North End,"1 bd
 1 ba
-1 sf",1,1,1,Apt/Condo,Hamilton
+1 sf",1,1,1,Apt/Condo,Hamilton,Ontario
 38,"1,350",Gibson,"1 bd
-1 ba",1,1,,Multifamily,Hamilton
+1 ba",1,1,,Multifamily,Hamilton,Ontario
 39,"2,355",North End,"3 bd
 2 ba
-1110 sf",3,2,1110,Apt/Condo,Hamilton
+1110 sf",3,2,1110,Apt/Condo,Hamilton,Ontario
 40,"2,400",Kirkendall,"1 bd
-1 ba",1,1,,House,Hamilton
+1 ba",1,1,,House,Hamilton,Ontario
 41,"1,695",Hampton Heights,"2 bd
-1 ba",2,1,,Apt/Condo,Hamilton
+1 ba",2,1,,Apt/Condo,Hamilton,Ontario
 42,"1,500",Hampton Heights,"1 bd
-1 ba",1,1,,Apt/Condo,Hamilton
+1 ba",1,1,,Apt/Condo,Hamilton,Ontario
 43,"1,600",Corktown,"1 bd
-1 ba",1,1,,Apt/Condo,Hamilton
+1 ba",1,1,,Apt/Condo,Hamilton,Ontario
 44,"1,900",Corktown,"2 bd
-1 ba",2,1,,Apt/Condo,Hamilton
+1 ba",2,1,,Apt/Condo,Hamilton,Ontario
 45,"1,325",Stinson,"1 bd
-1 ba",1,1,,Apt/Condo,Hamilton
+1 ba",1,1,,Apt/Condo,Hamilton,Ontario
 46,"2,045",North End,"V Tour
 
 2 bd
@@ -158,10 +158,10 @@ Apt/Condo",Hamilton
 815 sf",2,,815,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 47,"2,600",Waterdown,"3 bd
 2 ba
-1200 - 1399 sf",3,2,1200,Townhouse,Hamilton
+1200 - 1399 sf",3,2,1200,Townhouse,Hamilton,Ontario
 48,"1,695",Homeside,"V Tour
 
 2 bd
@@ -169,9 +169,9 @@ Apt/Condo",Hamilton
 650 sf",2,,650,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 49,"2,400",Stoney Creek,"3 bd
-3 ba",3,3,,Townhouse,Hamilton
+3 ba",3,3,,Townhouse,Hamilton,Ontario
 50,"2,045",North End,"V Tour
 
 2 bd
@@ -179,7 +179,7 @@ Apt/Condo",Hamilton
 825 sf",2,,825,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 51,"2,005",North End,"V Tour
 
 2 bd
@@ -187,7 +187,7 @@ Apt/Condo",Hamilton
 860 sf",2,,860,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 52,"1,895",Riverdale,"V Tour
 
 2 bd
@@ -195,7 +195,7 @@ Apt/Condo",Hamilton
 822 sf",2,,822,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 53,"1,915",Riverdale,"V Tour
 
 2 bd
@@ -203,26 +203,26 @@ Apt/Condo",Hamilton
 846 sf",2,,846,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 54,"1,600",Mcquesten,"2 bd
-1 ba",2,1,,Apt/Condo,Hamilton
+1 ba",2,1,,Apt/Condo,Hamilton,Ontario
 55,"2,600",Corktown,"2 + 2 bd
-2 ba",2 + 2,2,,House,Hamilton
+2 ba",2 + 2,2,,House,Hamilton,Ontario
 56,"2,980",Sheldon,"4 bd
-2 ba",4,2,,House,Hamilton
+2 ba",4,2,,House,Hamilton,Ontario
 57,"1,442",Crown Point,"2 bd
-1 ba",2,1,,Apt/Condo,Hamilton
+1 ba",2,1,,Apt/Condo,Hamilton,Ontario
 58,"1,395",Kirkendall,"1 bd
-1 ba",1,1,,Duplex,Hamilton
+1 ba",1,1,,Duplex,Hamilton,Ontario
 59,"1,450",Bonnington,"2 bd
-1 ba",2,1,,Apt/Condo,Hamilton
+1 ba",2,1,,Apt/Condo,Hamilton,Ontario
 60,"1,950",Crown Point,"3 bd
-2 ba",3,2,,Duplex,Hamilton
+2 ba",3,2,,Duplex,Hamilton,Ontario
 61,"1,100",Stipley,"0 bd
-1 ba",0,1,,House,Hamilton
+1 ba",0,1,,House,Hamilton,Ontario
 62,"1,375",Ainslie Wood,"1 bd
 1 ba
-655 sf",1,1,655,Apt/Condo,Hamilton
+655 sf",1,1,655,Apt/Condo,Hamilton,Ontario
 63,"1,855",Riverdale,"V Tour
 
 2 bd
@@ -230,20 +230,20 @@ Apt/Condo",Hamilton
 780 sf",2,,780,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 64,"1,300",Corktown,"1 bd
-1 ba",1,1,,Apt/Condo,Hamilton
+1 ba",1,1,,Apt/Condo,Hamilton,Ontario
 65,"1,300",Mcquesten,"1 bd
-1 ba",1,1,,Apt/Condo,Hamilton
+1 ba",1,1,,Apt/Condo,Hamilton,Ontario
 66,"1,900",Ainslie Wood,"3 bd
 2 ba
-1054 sf",3,2,1054,Apt/Condo,Hamilton
+1054 sf",3,2,1054,Apt/Condo,Hamilton,Ontario
 67,"1,440",Crown Point,"2 bd
-1 ba",2,1,,Apt/Condo,Hamilton
+1 ba",2,1,,Apt/Condo,Hamilton,Ontario
 68,"1,195",Crown Point,"1 bd
-1 ba",1,1,,Apt/Condo,Hamilton
+1 ba",1,1,,Apt/Condo,Hamilton,Ontario
 69,"1,385",Crown Point,"2 bd
-1 ba",2,1,,Apt/Condo,Hamilton
+1 ba",2,1,,Apt/Condo,Hamilton,Ontario
 70,"1,797",Corktown,"V Tour
 
 2 bd
@@ -251,7 +251,7 @@ Apt/Condo",Hamilton
 825 sf",2,,825,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 71,"2,030",Corktown,"V Tour
 
 3 bd
@@ -259,14 +259,14 @@ Apt/Condo",Hamilton
 1100 sf",3,,1100,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 72,"1,358",Central Hamilton,"V Tour
 
 1 bd
 1 ba",1,,,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 73,"1,505",Corktown,"V Tour
 
 1 bd
@@ -274,22 +274,22 @@ Apt/Condo",Hamilton
 628 sf",1,,628,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 74,"1,200",Beasley,"1 bd
 1 ba
-474 sf",1,1,474,Apt/Condo,Hamilton
+474 sf",1,1,474,Apt/Condo,Hamilton,Ontario
 75,"1,099",Beasley,"1 bd
 1 ba
-415 sf",1,1,415,Apt/Condo,Hamilton
+415 sf",1,1,415,Apt/Condo,Hamilton,Ontario
 76,"1,875",Beasley,"3 bd
 1 ba
-830 sf",3,1,830,Apt/Condo,Hamilton
+830 sf",3,1,830,Apt/Condo,Hamilton,Ontario
 77,"1,625",Beasley,"2 bd
 1 ba
-830 sf",2,1,830,Apt/Condo,Hamilton
+830 sf",2,1,830,Apt/Condo,Hamilton,Ontario
 78,"1,299",Beasley,"1 bd
 1 ba
-415 sf",1,1,415,Apt/Condo,Hamilton
+415 sf",1,1,415,Apt/Condo,Hamilton,Ontario
 79,"1,450",Mcquesten,"V Tour
 
 1 bd
@@ -297,32 +297,32 @@ Apt/Condo",Hamilton
 700 sf",1,,700,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 80,"1,595",Stoney Creek,"2 bd
 1 ba
-750 sf",2,1,750,Apt/Condo,Hamilton
+750 sf",2,1,750,Apt/Condo,Hamilton,Ontario
 81,"1,150",Durand,"1 bd
-1 ba",1,1,,Apt/Condo,Hamilton
+1 ba",1,1,,Apt/Condo,Hamilton,Ontario
 82,"1,650",Mcquesten,"V Tour
 
 2 bd
 1 ba",2,,,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 83,"1,349",Ainslie Wood,"1 bd
 1 ba
-534 sf",1,1,534,Apt/Condo,Hamilton
+534 sf",1,1,534,Apt/Condo,Hamilton,Ontario
 84,"1,850",Kirkendall,"2 bd
-1 ba",2,1,,Duplex,Hamilton
+1 ba",2,1,,Duplex,Hamilton,Ontario
 85,"1,900",Corktown,"2 bd
-1 ba",2,1,,Apt/Condo,Hamilton
+1 ba",2,1,,Apt/Condo,Hamilton,Ontario
 86,"1,750",Corktown,"1 bd
-1 ba",1,1,,Apt/Condo,Hamilton
+1 ba",1,1,,Apt/Condo,Hamilton,Ontario
 87,"1,500",Mcquesten,"1 bd
-1 ba",1,1,,Apt/Condo,Hamilton
+1 ba",1,1,,Apt/Condo,Hamilton,Ontario
 88,"1,675",Mcquesten,"2 bd
-1 ba",2,1,,Apt/Condo,Hamilton
+1 ba",2,1,,Apt/Condo,Hamilton,Ontario
 89,"1,650",Durand,"V Tour
 
 1 bd
@@ -330,80 +330,80 @@ Apt/Condo",Hamilton
 516 sf",1,,516,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 90,"2,669",Central Hamilton,"1 bd
 1 ba
-898 sf",1,1,898,Apt/Condo,Hamilton
+898 sf",1,1,898,Apt/Condo,Hamilton,Ontario
 91,"3,417",Central Hamilton,"3 bd
 4 ba
-1770 sf",3,4,1770,Apt/Condo,Hamilton
+1770 sf",3,4,1770,Apt/Condo,Hamilton,Ontario
 92,"1,850",Huntington,"2 bd
-1 ba",2,1,,Apt/Condo,Hamilton
+1 ba",2,1,,Apt/Condo,Hamilton,Ontario
 93,"2,971",Central Hamilton,"2 bd
 2 ba
-992 sf",2,2,992,Apt/Condo,Hamilton
+992 sf",2,2,992,Apt/Condo,Hamilton,Ontario
 94,"2,443",Central Hamilton,"1 bd
 2 ba
-835 sf",1,2,835,Apt/Condo,Hamilton
+835 sf",1,2,835,Apt/Condo,Hamilton,Ontario
 95,"2,428",Central Hamilton,"1 bd
 2 ba
-884 sf",1,2,884,Apt/Condo,Hamilton
+884 sf",1,2,884,Apt/Condo,Hamilton,Ontario
 96,"2,456",Central Hamilton,"1 bd
 2 ba
-838 sf",1,2,838,Apt/Condo,Hamilton
+838 sf",1,2,838,Apt/Condo,Hamilton,Ontario
 97,"2,313",Central Hamilton,"1 bd
 1 ba
-668 sf",1,1,668,Apt/Condo,Hamilton
+668 sf",1,1,668,Apt/Condo,Hamilton,Ontario
 98,"2,384",Central Hamilton,"1 bd
 2 ba
-729 sf",1,2,729,Apt/Condo,Hamilton
+729 sf",1,2,729,Apt/Condo,Hamilton,Ontario
 99,"2,500",Central Hamilton,"1 bd
 1 ba
-805 sf",1,1,805,Apt/Condo,Hamilton
+805 sf",1,1,805,Apt/Condo,Hamilton,Ontario
 100,"2,317",Central Hamilton,"1 bd
 1 ba
-595 sf",1,1,595,Apt/Condo,Hamilton
+595 sf",1,1,595,Apt/Condo,Hamilton,Ontario
 101,950,Durand,"0 bd
-1 ba",0,1,,Apt/Condo,Hamilton
+1 ba",0,1,,Apt/Condo,Hamilton,Ontario
 102,"1,275",Ainslie Wood,"1 bd
 1 ba
-509 sf",1,1,509,Apt/Condo,Hamilton
+509 sf",1,1,509,Apt/Condo,Hamilton,Ontario
 103,"1,250",Ainslie Wood,"1 bd
 1 ba
-505 sf",1,1,505,Apt/Condo,Hamilton
+505 sf",1,1,505,Apt/Condo,Hamilton,Ontario
 104,"1,575",Ainslie Wood,"2 bd
 1 ba
-920 sf",2,1,920,Apt/Condo,Hamilton
+920 sf",2,1,920,Apt/Condo,Hamilton,Ontario
 105,"2,599",Corman,"3 bd
-2 ba",3,2,,House,Hamilton
+2 ba",3,2,,House,Hamilton,Ontario
 106,"3,390",Ancaster,"4 bd
 0 ba
 1450 sf
-75 x 157 ft",4,0,1450,House,Hamilton
+75 x 157 ft",4,0,1450,House,Hamilton,Ontario
 107,"2,000",Rural Stoney Creek,"2 bd
 1 ba
-1500 - 2000 sf",2,1,1500,Apt/Condo,Hamilton
+1500 - 2000 sf",2,1,1500,Apt/Condo,Hamilton,Ontario
 108,"3,350",Winona Park,"4 bd
-3 ba",4,3,,House,Hamilton
+3 ba",4,3,,House,Hamilton,Ontario
 109,"2,050",Lawfield,"2 bd
 2 ba
 700 - 1100 sf
-47 x 100 ft",2,2,700,House,Hamilton
+47 x 100 ft",2,2,700,House,Hamilton,Ontario
 110,"3,300",Lakeshore,"3 bd
 4 ba
 1500 - 2000 sf
-29 x 94 ft",3,4,1500,House,Hamilton
+29 x 94 ft",3,4,1500,House,Hamilton,Ontario
 111,"2,600",Winona Park,"3 bd
-3 ba",3,3,,Townhouse,Hamilton
+3 ba",3,3,,Townhouse,Hamilton,Ontario
 112,"2,750",Stoney Creek Mountain,"3 bd
 3 ba
-1500 - 2000 sf",3,3,1500,Townhouse,Hamilton
+1500 - 2000 sf",3,3,1500,Townhouse,Hamilton,Ontario
 113,"2,500",Randall,"3 bd
 1 ba
 1259 sf
-43 x 99 ft",3,1,1259,House,Hamilton
+43 x 99 ft",3,1,1259,House,Hamilton,Ontario
 114,"2,650",Bonnington,"3 bd
-3 ba",3,3,,House,Hamilton
+3 ba",3,3,,House,Hamilton,Ontario
 115,"2,500",Landsdale,"V Tour
 
 3 bd
@@ -411,30 +411,30 @@ Apt/Condo",Hamilton
 1100 - 1500 sf",3,,1100,"
 
 
-Townhouse",Hamilton
+Townhouse",Hamilton,Ontario
 116,"2,600",Stoney Creek Mountain,"3 bd
 3 ba
-1100 - 1500 sf",3,3,1100,Townhouse,Hamilton
+1100 - 1500 sf",3,3,1100,Townhouse,Hamilton,Ontario
 117,"2,699",Winona Park,"4 bd
-3 ba",4,3,,House,Hamilton
+3 ba",4,3,,House,Hamilton,Ontario
 118,"3,500",Falkirk,"4 bd
-3 ba",4,3,,House,Hamilton
+3 ba",4,3,,House,Hamilton,Ontario
 119,"2,350",Parkview,"3 bd
-3 ba",3,3,,Townhouse,Hamilton
+3 ba",3,3,,Townhouse,Hamilton,Ontario
 120,"2,450",Parkview,"3 bd
 3 ba
-1200 - 1399 sf",3,3,1200,Townhouse,Hamilton
+1200 - 1399 sf",3,3,1200,Townhouse,Hamilton,Ontario
 121,"2,350",Inch Park,"3 bd
 2 ba
 1100 - 1500 sf
-41 x 102 ft",3,2,1100,House,Hamilton
+41 x 102 ft",3,2,1100,House,Hamilton,Ontario
 122,"1,300",Ainslie Wood,"2 bd
-1 ba",2,1,,House,Hamilton
+1 ba",2,1,,House,Hamilton,Ontario
 123,"3,500",Waterdown,"3 bd
-5 ba",3,5,,Townhouse,Hamilton
+5 ba",3,5,,Townhouse,Hamilton,Ontario
 124,"3,250",Stoney Creek Mountain,"3 bd
 3 ba
-2000 - 2500 sf",3,3,2000,Townhouse,Hamilton
+2000 - 2500 sf",3,3,2000,Townhouse,Hamilton,Ontario
 125,"3,000",Meadowlands,"V Tour
 
 3 bd
@@ -442,21 +442,21 @@ Townhouse",Hamilton
 1500 - 2000 sf",3,,1500,"
 
 
-Townhouse",Hamilton
+Townhouse",Hamilton,Ontario
 126,"1,500",Thorner,"V Tour
 
 2 bd
 1 ba",2,,,"
 
 
-Duplex",Hamilton
+Duplex",Hamilton,Ontario
 127,"2,100",Balfour,"V Tour
 
 2 bd
 1 ba",2,,,"
 
 
-House",Hamilton
+House",Hamilton,Ontario
 128,"1,650",Central Hamilton,"V Tour
 
 1 bd
@@ -464,16 +464,16 @@ House",Hamilton
 760 sf",1,,760,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 129,"1,200",Glenview,"1 bd
-1 ba",1,1,,House,Hamilton
+1 ba",1,1,,House,Hamilton,Ontario
 130,"1,700",Crown Point,"2 bd
-1 ba",2,1,,House,Hamilton
+1 ba",2,1,,House,Hamilton,Ontario
 131,"2,800",Glenview,"4 bd
-2 ba",4,2,,House,Hamilton
+2 ba",4,2,,House,Hamilton,Ontario
 132,"2,800",Rolston,"3 bd
 1 ba
-1086 sf",3,1,1086,House,Hamilton
+1086 sf",3,1,1086,House,Hamilton,Ontario
 133,"1,950",Confederation Park,"V Tour
 
 1 + 1 bd
@@ -481,121 +481,121 @@ Apt/Condo",Hamilton
 600 - 699 sf",1 + 1,,600,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 134,"1,950",Stoney Creek,"2 bd
-1 ba",2,1,,House,Hamilton
+1 ba",2,1,,House,Hamilton,Ontario
 135,"3,000",Stoney Creek,"3 bd
-2 ba",3,2,,House,Hamilton
+2 ba",3,2,,House,Hamilton,Ontario
 136,"3,200",Meadowlands,"3 bd
 3 ba
-1500 - 2000 sf",3,3,1500,Townhouse,Hamilton
+1500 - 2000 sf",3,3,1500,Townhouse,Hamilton,Ontario
 137,"2,200",Greeningdon,"3 bd
 1 ba
-700 - 1100 sf",3,1,700,House,Hamilton
+700 - 1100 sf",3,1,700,House,Hamilton,Ontario
 138,"1,800",Durand,"1 bd
-1 ba",1,1,,Apt/Condo,Hamilton
+1 ba",1,1,,Apt/Condo,Hamilton,Ontario
 139,"1,800",Falkirk,"2 bd
-1 ba",2,1,,House,Hamilton
+1 ba",2,1,,House,Hamilton,Ontario
 140,"2,800",Lakeshore,"3 bd
-2 ba",3,2,,House,Hamilton
+2 ba",3,2,,House,Hamilton,Ontario
 141,"3,400",Meadowlands,"4 bd
 4 ba
-2500 - 3000 sf",4,4,2500,House,Hamilton
+2500 - 3000 sf",4,4,2500,House,Hamilton,Ontario
 142,"2,500",Durand,"2 bd
 3 ba
-1200 sf",2,3,1200,Townhouse,Hamilton
+1200 sf",2,3,1200,Townhouse,Hamilton,Ontario
 143,"2,795",Meadowlands,"3 bd
-6 ba",3,6,,Townhouse,Hamilton
+6 ba",3,6,,Townhouse,Hamilton,Ontario
 144,"2,400",Stoney Creek Mountain,"3 bd
-3 ba",3,3,,Townhouse,Hamilton
+3 ba",3,3,,Townhouse,Hamilton,Ontario
 145,"1,600",Landsdale,"1 bd
 1 ba
-693 sf",1,1,693,Apt/Condo,Hamilton
+693 sf",1,1,693,Apt/Condo,Hamilton,Ontario
 146,"1,800",Stipley,"3 bd
 1 ba
 825 sf
-25 x 90 ft",3,1,825,House,Hamilton
+25 x 90 ft",3,1,825,House,Hamilton,Ontario
 147,"2,000",Stoney Creek,"1 bd
 1 ba
 1100 - 1500 sf
-51 x 146 ft",1,1,1100,House,Hamilton
+51 x 146 ft",1,1,1100,House,Hamilton,Ontario
 148,"2,450",Crown Point,"3 + 1 bd
 2 ba
-25 x 100 ft",3 + 1,2,25,House,Hamilton
+25 x 100 ft",3 + 1,2,25,House,Hamilton,Ontario
 149,"2,400",Mcquesten,"4 bd
 1 ba
-2000 - 2500 sf",4,1,2000,House,Hamilton
+2000 - 2500 sf",4,1,2000,House,Hamilton,Ontario
 150,"2,600",Mount Hope,"V Tour
 
 3 bd
 3 ba",3,,,"
 
 
-Townhouse",Hamilton
+Townhouse",Hamilton,Ontario
 151,"1,600",Rural Flamborough,"1 bd
-1 ba",1,1,,House,Hamilton
+1 ba",1,1,,House,Hamilton,Ontario
 152,"2,450",Fruitland,"2 bd
-2 ba",2,2,,Townhouse,Hamilton
+2 ba",2,2,,Townhouse,Hamilton,Ontario
 153,"3,300",Quinndale,"4 bd
 3 ba
-2000 - 2500 sf",4,3,2000,House,Hamilton
+2000 - 2500 sf",4,3,2000,House,Hamilton,Ontario
 154,"2,000",Normanhurst,"3 bd
 1 ba
 985 sf
-40 x 90 ft",3,1,985,House,Hamilton
+40 x 90 ft",3,1,985,House,Hamilton,Ontario
 155,"2,650",Waterdown,"3 bd
-3 ba",3,3,,House,Hamilton
+3 ba",3,3,,House,Hamilton,Ontario
 156,"2,550",Riverdale,"3 bd
-2 ba",3,2,,House,Hamilton
+2 ba",3,2,,House,Hamilton,Ontario
 157,"2,500",Stoney Creek Mountain,"3 bd
-3 ba",3,3,,Townhouse,Hamilton
+3 ba",3,3,,Townhouse,Hamilton,Ontario
 158,"2,700",Vincent,"4 bd
 4 ba
-1500 - 2000 sf",4,4,1500,Townhouse,Hamilton
+1500 - 2000 sf",4,4,1500,Townhouse,Hamilton,Ontario
 159,"2,500",Landsdale,"3 bd
 2 ba
 1100 - 1500 sf
-20 x 122 ft",3,2,1100,House,Hamilton
+20 x 122 ft",3,2,1100,House,Hamilton,Ontario
 160,"1,850",Stinson,"V Tour
 
 2 bd
 1 ba",2,,,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 161,"2,400",Crown Point,"3 bd
 1 ba
-31 x 51 ft",3,1,31,House,Hamilton
+31 x 51 ft",3,1,31,House,Hamilton,Ontario
 162,"1,850",Stinson,"3 bd
-1 ba",3,1,,Duplex,Hamilton
+1 ba",3,1,,Duplex,Hamilton,Ontario
 163,"2,389",Riverdale,"3 bd
 1 ba
-1564 sf",3,1,1564,House,Hamilton
+1564 sf",3,1,1564,House,Hamilton,Ontario
 164,"1,500",Balfour,"2 bd
-1 ba",2,1,,House,Hamilton
+1 ba",2,1,,House,Hamilton,Ontario
 165,"3,000",Greenford,"3 + 1 bd
 2 ba
-4501 x 100 ft",3 + 1,2,4501,House,Hamilton
+4501 x 100 ft",3 + 1,2,4501,House,Hamilton,Ontario
 166,"1,375",Huntington,"2 bd
 1 ba
-0 sf",2,1,0,Apt/Condo,Hamilton
+0 sf",2,1,0,Apt/Condo,Hamilton,Ontario
 167,"2,000",Hampton Heights,"2 bd
 1 ba
 1000 sf
-49 x 100 ft",2,1,1000,House,Hamilton
+49 x 100 ft",2,1,1000,House,Hamilton,Ontario
 168,"1,899",Confederation Park,"1 + 1 bd
 1 ba
-600 - 699 sf",1 + 1,1,600,Apt/Condo,Hamilton
+600 - 699 sf",1 + 1,1,600,Apt/Condo,Hamilton,Ontario
 169,"2,325",Parkview,"3 bd
 3 ba
-1200 - 1399 sf",3,3,1200,Townhouse,Hamilton
+1200 - 1399 sf",3,3,1200,Townhouse,Hamilton,Ontario
 170,"1,999",Confederation Park,"3 bd
 2 ba
 1100 - 1500 sf
-30 x 100 ft",3,2,1100,House,Hamilton
+30 x 100 ft",3,2,1100,House,Hamilton,Ontario
 171,"1,225",Central Hamilton,"0 bd
 1 ba
-600 sf",0,1,600,Apt/Condo,Hamilton
+600 sf",0,1,600,Apt/Condo,Hamilton,Ontario
 172,"1,400",Central Hamilton,"V Tour
 
 1 bd
@@ -603,32 +603,32 @@ Apt/Condo",Hamilton
 530 sf",1,,530,"
 
 
-Apt/Condo",Hamilton
+Apt/Condo",Hamilton,Ontario
 173,"2,200",St. Clair,"V Tour
 
 3 bd
 1 ba",3,,,"
 
 
-Duplex",Hamilton
+Duplex",Hamilton,Ontario
 174,"2,700",Stoney Creek Mountain,"3 bd
-3 ba",3,3,,Townhouse,Hamilton
+3 ba",3,3,,Townhouse,Hamilton,Ontario
 175,"2,200",Centremount,"2 bd
 1 ba
 750 sf
-37 x 120 ft",2,1,750,House,Hamilton
+37 x 120 ft",2,1,750,House,Hamilton,Ontario
 176,"1,675",Dundas,"1 bd
 1 ba
-800 sf",1,1,800,Apt/Condo,Hamilton
+800 sf",1,1,800,Apt/Condo,Hamilton,Ontario
 177,"2,850",Rural Glanbrook,"V Tour
 
 3 bd
 3 ba",3,,,"
 
 
-Townhouse",Hamilton
+Townhouse",Hamilton,Ontario
 178,"2,495",Stoney Creek Mountain,"3 bd
-3 ba",3,3,,Townhouse,Hamilton
+3 ba",3,3,,Townhouse,Hamilton,Ontario
 179,"2,400",Mcquesten,"V Tour
 
 4 bd
@@ -636,9 +636,9 @@ Townhouse",Hamilton
 1100 - 1500 sf",4,,1100,"
 
 
-House",Hamilton
+House",Hamilton,Ontario
 180,"2,600",Fruitland,"3 bd
-3 ba",3,3,,Townhouse,Hamilton
+3 ba",3,3,,Townhouse,Hamilton,Ontario
 181,"2,980",Ancaster,"V Tour
 
 3 bd
@@ -646,75 +646,75 @@ House",Hamilton
 1100 - 1500 sf",3,,1100,"
 
 
-House",Hamilton
+House",Hamilton,Ontario
 182,"2,700",Stoney Creek,"4 bd
-2 ba",4,2,,House,Hamilton
+2 ba",4,2,,House,Hamilton,Ontario
 183,"2,600",Waterdown,"3 bd
 2 ba
-1000 - 1199 sf",3,2,1000,Townhouse,Hamilton
+1000 - 1199 sf",3,2,1000,Townhouse,Hamilton,Ontario
 184,"2,195",Kentley,"3 bd
-1 ba",3,1,,House,Hamilton
+1 ba",3,1,,House,Hamilton,Ontario
 185,"2,300",Raleigh,"V Tour
 
 3 bd
 1 ba",3,,,"
 
 
-House",Hamilton
+House",Hamilton,Ontario
 186,"2,750",Rural Glanbrook,"3 bd
 3 ba
-1500 - 2000 sf",3,3,1500,Townhouse,Hamilton
+1500 - 2000 sf",3,3,1500,Townhouse,Hamilton,Ontario
 187,"2,700",Lakeshore,"V Tour
 
 3 bd
 4 ba",3,,,"
 
 
-Townhouse",Hamilton
+Townhouse",Hamilton,Ontario
 188,"2,800",Winona,"3 bd
-1 ba",3,1,,House,Hamilton
+1 ba",3,1,,House,Hamilton,Ontario
 189,"2,300",Inch Park,"2 bd
 1 ba
 1200 sf
-39 x 102 ft",2,1,1200,House,Hamilton
+39 x 102 ft",2,1,1200,House,Hamilton,Ontario
 190,"2,750",Rural Glanbrook,"3 bd
-3 ba",3,3,,Townhouse,Hamilton
+3 ba",3,3,,Townhouse,Hamilton,Ontario
 191,"2,600",Huntington,"1 bd
-2 ba",1,2,,House,Hamilton
+2 ba",1,2,,House,Hamilton,Ontario
 192,"2,500",Confederation Park,"2 bd
 2 ba
-800 - 899 sf",2,2,800,Apt/Condo,Hamilton
+800 - 899 sf",2,2,800,Apt/Condo,Hamilton,Ontario
 193,"1,500",Stoney Creek,"2 bd
-1 ba",2,1,,Apt/Condo,Hamilton
+1 ba",2,1,,Apt/Condo,Hamilton,Ontario
 194,"2,950",Confederation Park,"2 bd
 2 ba
-1000 - 1199 sf",2,2,1000,Apt/Condo,Hamilton
+1000 - 1199 sf",2,2,1000,Apt/Condo,Hamilton,Ontario
 195,"1,925",Homeside,"2 bd
 1 ba
 926 sf
-30 x 92 ft",2,1,926,House,Hamilton
+30 x 92 ft",2,1,926,House,Hamilton,Ontario
 196,"1,895",Mcquesten,"2 bd
 1 ba
 820 sf
-132 x 131 ft",2,1,820,House,Hamilton
+132 x 131 ft",2,1,820,House,Hamilton,Ontario
 197,"2,600",Binbrook,"3 bd
 3 ba
-1500 - 2000 sf",3,3,1500,Townhouse,Hamilton
+1500 - 2000 sf",3,3,1500,Townhouse,Hamilton,Ontario
 198,"2,550",Corktown,"1 bd
-1 ba",1,1,,Duplex,Hamilton
+1 ba",1,1,,Duplex,Hamilton,Ontario
 199,"3,000",North End,"3 bd
 3 ba
-1100 - 1500 sf",3,3,1100,House,Hamilton
+1100 - 1500 sf",3,3,1100,House,Hamilton,Ontario
 200,"2,550",Binbrook,"V Tour
 
 3 bd
 3 ba",3,,,"
 
 
-Townhouse",Hamilton
+Townhouse",Hamilton,Ontario
 201,"1,850",Confederation Park,"2 bd
 1 ba
-700 - 799 sf",2,1,700,Apt/Condo,Hamilton
+700 - 799 sf",2,1,700,Apt/Condo,Hamilton,Ontario
 202,"2,650",Vincent,"4 bd
 3 ba
-1500 - 2000 sf",4,3,1500,Townhouse,Hamilton
+1500 - 2000 sf",4,3,1500,Townhouse,Hamilton,Ontario
