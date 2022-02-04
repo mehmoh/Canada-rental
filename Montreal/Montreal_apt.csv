@@ -1,0 +1,324 @@
+,price,Address,bedroom,bathroom,size_sqf,types,city,province
+0,2200,370 Rue des Seigneurs,1,1,804,Apt/Condo,Montreal,Quebec
+1,2745,3660 Av. du Musee,2,1,900,Apt/Condo,Montreal,Quebec
+2,2350,370 Rue des Seigneurs,1,1,888,Apt/Condo,Montreal,Quebec
+3,3069,4300 Boul. De Maisonneuve O.,2,2,1292,Apt/Condo,Montreal,Quebec
+4,2115,6850 Boul. Newman,3,2,1166,Apt/Condo,Montreal,Quebec
+5,1900,1417 Av. Argyle,3,1,1250,Apt/Condo,Montreal,Quebec
+6,1995,1604 Av. des Pins,2,1,1500,Apt/Condo,Montreal,Quebec
+7,6500,400 Rue Richmond,2,2,980,Apt/Condo,Montreal,Quebec
+8,4300,2140 Lucerne,5,3,2000,Apt/Condo,Montreal,Quebec
+9,2350,370 Rue des Seigneurs,1,1,826,Apt/Condo,Montreal,Quebec
+10,1590,2020 Boul. Rene-Levesque O.,2,1,690,Apt/Condo,Montreal,Quebec
+11,2145,6250 Av. Lennox,2,2,980,Apt/Condo,Montreal,Quebec
+12,2100,6250 Av. Lennox,1,1,705,Apt/Condo,Montreal,Quebec
+13,1634,6250 Av. Lennox,1,1,750,Apt/Condo,Montreal,Quebec
+14,1575,6850A Boul. Newman,2,1,832,Apt/Condo,Montreal,Quebec
+15,1595,1491 Rue Rachel E.,2,1,1400,Apt/Condo,Montreal,Quebec
+16,1980,6250 Av. Lennox,2,1,945,Apt/Condo,Montreal,Quebec
+17,2200,1288 Rue St-Antoine O. #2308,2,1,600,Apt/Condo,Montreal,Quebec
+18,1700,370 Rue des Seigneurs,1,1,659,Apt/Condo,Montreal,Quebec
+19,1670,6250 Av. Lennox,1,1,750,Apt/Condo,Montreal,Quebec
+20,1825,6800 Boul. Newman,2,2,979,Apt/Condo,Montreal,Quebec
+21,1595,2995 Av. Ernest-Hemingway,2,1,1020,Apt/Condo,Montreal,Quebec
+22,5199,365 Rue St-Andre,2,2,1420,Apt/Condo,Montreal,Quebec
+23,2150,221 de la Commune O.,1,1,850,Apt/Condo,Montreal,Quebec
+24,2000,400 Rue Sherbrooke O.,1,1,700,Apt/Condo,Montreal,Quebec
+25,2000,210 Rue De La Gauchetiere O.,1,1,600,Apt/Condo,Montreal,Quebec
+26,2500,370 Rue des Seigneurs,2,1,1074,Apt/Condo,Montreal,Quebec
+27,2950,629 Av. du Docteur-Penfield,4,2,1600,Apt/Condo,Montreal,Quebec
+28,1315,6760 Boul. Newman,1,1,544,Apt/Condo,Montreal,Quebec
+29,6150,400 Rue Richmond,3,2,1370,Apt/Condo,Montreal,Quebec
+30,2000,370 Rue des Seigneurs,1,1,763,Apt/Condo,Montreal,Quebec
+31,1595,1200 Rue St-Alexandre,1,1,545,Apt/Condo,Montreal,Quebec
+32,1750,370 Rue des Seigneurs,1,1,659,Apt/Condo,Montreal,Quebec
+33,2000,400 Rue Sherbrooke O.,1,1,695,Apt/Condo,Montreal,Quebec
+34,1525,6850 Boul. Newman,2,1,786,Apt/Condo,Montreal,Quebec
+35,1650,2075 Av. de l'Eglise,2,1,900,Apt/Condo,Montreal,Quebec
+36,2079,2255 Rue Lambert-Closse,2,1,857,Apt/Condo,Montreal,Quebec
+37,2159,2255 Rue Lambert-Closse,2,1,1012,Apt/Condo,Montreal,Quebec
+38,2400,370 Rue des Seigneurs,1,1,804,Apt/Condo,Montreal,Quebec
+39,4500,1237 Rue St-Marc,4,2,2050,Apt/Condo,Montreal,Quebec
+40,1500,1400 rue Ottawa,1,1,550,Apt/Condo,Montreal,Quebec
+41,2850,370 Rue des Seigneurs,2,2,1024,Apt/Condo,Montreal,Quebec
+42,1925,6250 Av. Lennox,2,1,965,Apt/Condo,Montreal,Quebec
+43,1900,411 Rue des Recollets,1,1,583,Apt/Condo,Montreal,Quebec
+44,2300,286,3,1,1320,Apt/Condo,Montreal,Quebec
+45,2130,6850 Boul. Newman,3,2,1166,Apt/Condo,Montreal,Quebec
+46,1699,405 Rue de la Concorde,1,1,600,Apt/Condo,Montreal,Quebec
+47,2200,3480 Rue Simpson,2,2,1000,Apt/Condo,Montreal,Quebec
+48,1800,2007 Avenue Beaconsfield,2,1,760,Apt/Condo,Montreal,Quebec
+49,1525,6850 Boul. Newman,2,1,814,Apt/Condo,Montreal,Quebec
+50,3129,4300 Boul. De Maisonneuve O.,2,2,1150,Apt/Condo,Montreal,Quebec
+51,1585,6800 Boul. Newman,2,1,843,Apt/Condo,Montreal,Quebec
+52,2960,6250 Av. Lennox,2,2,992,Apt/Condo,Montreal,Quebec
+53,3800,376 Rue le Moyne,2,2,1656,Apt/Condo,Montreal,Quebec
+54,1315,6850 Boul. Newman,1,1,612,Apt/Condo,Montreal,Quebec
+55,30000,Westmount,8,8,7625,Apt/Condo,Montreal,Quebec
+56,1900,6250 Av. Lennox,2,2,950,Apt/Condo,Montreal,Quebec
+57,1269,2255 Rue Lambert-Closse,1,1,422,Apt/Condo,Montreal,Quebec
+58,2250,370 Rue des Seigneurs,1,1,804,Apt/Condo,Montreal,Quebec
+59,2500,100 Rue St-Norbert,2,2,1200,Apt/Condo,Montreal,Quebec
+60,2000,6250 Av. Lennox,1,1,705,Apt/Condo,Montreal,Quebec
+61,1525,6850 Boul. Newman,2,1,814,Apt/Condo,Montreal,Quebec
+62,2100,370 Rue des Seigneurs,1,1,773,Apt/Condo,Montreal,Quebec
+63,2219,2255 Rue Lambert-Closse,2,1,1125,Apt/Condo,Montreal,Quebec
+64,1565,6850 Boul. Newman,2,1,843,Apt/Condo,Montreal,Quebec
+65,1715,400 Rue Richmond,1,1,635,Apt/Condo,Montreal,Quebec
+66,1695,2060 Rue Sherbrooke O.,1,1,950,Apt/Condo,Montreal,Quebec
+67,1780,6800 Boul. Newman,2,2,979,Apt/Condo,Montreal,Quebec
+68,2670,6250 Av. Lennox,2,2,940,Apt/Condo,Montreal,Quebec
+69,2350,1000 Rue de la Commune E.,1,1,1100,Apt/Condo,Montreal,Quebec
+70,1850,6800 Boul. Newman,2,2,833,Apt/Condo,Montreal,Quebec
+71,1200,805 25e Avenue,2,1,750,Apt/Condo,Montreal,Quebec
+72,3800,318 Av. Grosvenor,2,2,1500,Apt/Condo,Montreal,Quebec
+73,2779,2255 Rue Lambert-Closse,3,2,1462,Apt/Condo,Montreal,Quebec
+74,2255,6850 Boul. Newman,3,2,1260,Apt/Condo,Montreal,Quebec
+75,2690,1515 Av. du Docteur-Penfield,2,2,1600,Apt/Condo,Montreal,Quebec
+76,2150,370 Rue des Seigneurs,1,1,826,Apt/Condo,Montreal,Quebec
+77,4980,400 Rue Sherbrooke O.,2,2,1076,Apt/Condo,Montreal,Quebec
+78,7900,1411A Av. Overdale,4,3,2600,Apt/Condo,Montreal,Quebec
+79,1495,3821 Rue St-Urbain,3,1,760,Apt/Condo,Montreal,Quebec
+80,2150,6850 Boul. Newman,3,2,1166,Apt/Condo,Montreal,Quebec
+81,1900,2055 Rue du Fort,2,2,945,Apt/Condo,Montreal,Quebec
+82,4980,400 Rue Sherbrooke O.,2,2,1055,Apt/Condo,Montreal,Quebec
+83,1820,6850 Boul. Newman,2,2,976,Apt/Condo,Montreal,Quebec
+84,1400,1200 Rue St-Alexandre,1,1,630,Apt/Condo,Montreal,Quebec
+85,1600,2117 Rue Tupper,1,1,830,Apt/Condo,Montreal,Quebec
+86,1695,1239 Rue Drummond,1,1,550,Apt/Condo,Montreal,Quebec
+87,1700,1225 Boul. Robert-Bourassa,1,1,525,Apt/Condo,Montreal,Quebec
+88,1760,6850 Boul. Newman,2,2,943,Apt/Condo,Montreal,Quebec
+89,3599,400 rue Sherbrooke O.,3,2,1075,Apt/Condo,Montreal,Quebec
+90,1800,1288 Av. des Canadiens-de-Montréal,1,1,560,Apt/Condo,Montreal,Quebec
+91,2300,370 Rue des Seigneurs,1,1,804,Apt/Condo,Montreal,Quebec
+92,1500,1220 Rue Crescent,1,1,600,Apt/Condo,Montreal,Quebec
+93,1965,6250 Av. Lennox,2,2,940,Apt/Condo,Montreal,Quebec
+94,1555,6850 Boul. Newman,2,1,814,Apt/Condo,Montreal,Quebec
+95,1750,2117 Rue Tupper,1,1,550,Apt/Condo,Montreal,Quebec
+96,3100,370 Rue des Seigneurs,2,2,1470,Apt/Condo,Montreal,Quebec
+97,9000,400 Rue Sherbrooke O.,2,2,1063,Apt/Condo,Montreal,Quebec
+98,1325,2300 Rue St-Mathieu,1,1,570,Apt/Condo,Montreal,Quebec
+99,1540,6850 Boul. Newman,2,1,814,Apt/Condo,Montreal,Quebec
+100,1775,6850 Boul. Newman,2,2,943,Apt/Condo,Montreal,Quebec
+101,2750,4501 Rue Drolet,1,1,600,Apt/Condo,Montreal,Quebec
+102,1595,172 Rue Jean-Talon E.,1,2,900,Apt/Condo,Montreal,Quebec
+103,5000,370 Rue des Seigneurs,3,2,1696,Apt/Condo,Montreal,Quebec
+104,1165,6850 Boul. Newman,1,1,543,Apt/Condo,Montreal,Quebec
+105,2500,320 Rue Sherbrooke O.,2,2,1140,Apt/Condo,Montreal,Quebec
+106,2350,1300 Boul. Rene-Levesque O.,1,1,740,Apt/Condo,Montreal,Quebec
+107,1800,6800 Boul. Newman,2,1,1002,Apt/Condo,Montreal,Quebec
+108,2340,6800 Boul. Newman,3,2,1264,Apt/Condo,Montreal,Quebec
+109,1800,6800 Boul. Newman,2,2,979,Apt/Condo,Montreal,Quebec
+110,2285,6850 Boul. Newman,3,2,1255,Apt/Condo,Montreal,Quebec
+111,2245,6850 Boul. Newman,3,2,1255,Apt/Condo,Montreal,Quebec
+112,1800,370 Rue des Seigneurs,1,1,659,Apt/Condo,Montreal,Quebec
+113,3350,4501 Rue Drolet,3,2,800,Apt/Condo,Montreal,Quebec
+114,3120,400 Rue Sherbrooke O.,1,1,550,Apt/Condo,Montreal,Quebec
+115,4000,370 Rue des Seigneurs,2,2,1293,Apt/Condo,Montreal,Quebec
+116,1510,6850 Boul. Newman,2,1,786,Apt/Condo,Montreal,Quebec
+117,1555,6800 Boul. Newman,2,2,833,Apt/Condo,Montreal,Quebec
+118,1450,6760 Boul. Newman,2,1,690,Apt/Condo,Montreal,Quebec
+119,3250,1237 Rue St-Marc,3,2,1050,Apt/Condo,Montreal,Quebec
+120,1690,212 Rue Ste-Catherine E.,1,1,760,Apt/Condo,Montreal,Quebec
+121,2050,1392 Av. Overdale,2,1,1150,Apt/Condo,Montreal,Quebec
+122,1699,1584B Rue De Champlain,2,1,900,Apt/Condo,Montreal,Quebec
+123,3300,543 Rue Sherbrooke E.,2,1,1100,Apt/Condo,Montreal,Quebec
+124,2000,408 Rue St-Jacques,1,1,600,Apt/Condo,Montreal,Quebec
+125,2000,400 Rue Sherbrooke O.,1,1,740,Apt/Condo,Montreal,Quebec
+126,1590,6250 Av. Lennox,1,1,535,Apt/Condo,Montreal,Quebec
+127,3849,4300 Boul. De Maisonneuve O.,3,2,1477,Apt/Condo,Montreal,Quebec
+128,2045,6250 Av. Lennox,2,2,980,Apt/Condo,Montreal,Quebec
+129,1560,6800 Boul. Newman,2,1,825,Apt/Condo,Montreal,Quebec
+130,2100,370 Rue des Seigneurs,1,1,763,Apt/Condo,Montreal,Quebec
+131,1795,1288 Av. des Canadiens-de-Montréal,1,1,560,Apt/Condo,Montreal,Quebec
+132,2150,370 Rue des Seigneurs,1,1,744,Apt/Condo,Montreal,Quebec
+133,2910,888 Rue St-François-Xavier,1,1,700,Apt/Condo,Montreal,Quebec
+134,8999,1200 de Maisonneuve O #PH-D,3,3,2500,Apt/Condo,Montreal,Quebec
+135,1998,5360 Rue Sherbrooke O.,2,2,1000,Apt/Condo,Montreal,Quebec
+136,1245,6850 Boul. Newman,1,1,572,Apt/Condo,Montreal,Quebec
+137,1444,431 Rue St-Martin,1,1,566,Apt/Condo,Montreal,Quebec
+138,1560,6850 Boul. Newman,2,1,815,Apt/Condo,Montreal,Quebec
+139,1950,370 Rue des Seigneurs,1,1,696,Apt/Condo,Montreal,Quebec
+140,3395,3660 Av. du Musée,4,1,1100,Apt/Condo,Montreal,Quebec
+141,1540,6850 Boul. Newman,2,1,815,Apt/Condo,Montreal,Quebec
+142,2400,210 Rue De La Gauchetiere O.,2,1,800,Apt/Condo,Montreal,Quebec
+143,3995,1015 Rue St-Hubert,2,1,1170,Apt/Condo,Montreal,Quebec
+144,3550,1584C Rue de Champlain,2,2,2500,Apt/Condo,Montreal,Quebec
+145,3095,3660 Av. du Musée,3,1,900,Apt/Condo,Montreal,Quebec
+146,1565,6800 Boul. Newman,2,1,843,Apt/Condo,Montreal,Quebec
+147,3950,73 Rue St-Cuthbert,2,1,900.9,Apt/Condo,Montreal,Quebec
+148,2285,6850 Boul. Newman,3,2,1265,Apt/Condo,Montreal,Quebec
+149,1750,370 Rue des Seigneurs,1,1,659,Apt/Condo,Montreal,Quebec
+150,1375,456 Rue De La Gauchetiere O.,1,1,650,Apt/Condo,Montreal,Quebec
+151,1820,6800 Boul. Newman,2,2,979,Apt/Condo,Montreal,Quebec
+152,2160,6250 Av. Lennox,2,2,965,Apt/Condo,Montreal,Quebec
+153,1650,1075 Rue De Bleury,2,1,1070,Apt/Condo,Montreal,Quebec
+154,9500,1288 Av. des Canadiens-de-Montréal,3,2,2085,Apt/Condo,Montreal,Quebec
+155,2109,2255 Rue Lambert-Closse,2,1,916,Apt/Condo,Montreal,Quebec
+156,2150,100 Andre-Prevost,1,1,867,Apt/Condo,Montreal,Quebec
+157,3039,4300 Boul. De Maisonneuve O.,2,2,1071,Apt/Condo,Montreal,Quebec
+158,2100,6850 Boul. Newman,3,2,1166,Apt/Condo,Montreal,Quebec
+159,2600,370 Rue des Seigneurs,2,1,940,Apt/Condo,Montreal,Quebec
+160,6500,400 Rue Richmond,2,2,850,Apt/Condo,Montreal,Quebec
+161,2045,6250 Av. Lennox,2,2,980,Apt/Condo,Montreal,Quebec
+162,1395,6250 Av. Lennox,1,1,700,Apt/Condo,Montreal,Quebec
+163,2295,1200 Rue St-Alexandre,2,1,740,Apt/Condo,Montreal,Quebec
+164,1200,6760 Boul. Newman,1,1,548,Apt/Condo,Montreal,Quebec
+165,2000,411 Rue des Recollets,1,1,600,Apt/Condo,Montreal,Quebec
+166,1800,370 Rue des Seigneurs,1,1,696,Apt/Condo,Montreal,Quebec
+167,2300,3635 Rue Lorne-Crescent,3,2,1320,Apt/Condo,Montreal,Quebec
+168,2351,6800 Boul. Newman,3,2,1250,Apt/Condo,Montreal,Quebec
+169,2995,1200 Boul. De Maisonneuve O.,2,2,1300,Apt/Condo,Montreal,Quebec
+170,2150,2004 Boul. St-Laurent,2,1,1200,Apt/Condo,Montreal,Quebec
+171,1580,6800 Boul. Newman,2,1,843,Apt/Condo,Montreal,Quebec
+172,1145,6850 Boul. Newman,1,1,543,Apt/Condo,Montreal,Quebec
+173,2265,6850 Boul. Newman,3,2,2265,Apt/Condo,Montreal,Quebec
+174,2150,370 Rue des Seigneurs,1,1,763,Apt/Condo,Montreal,Quebec
+175,1665,1180 Rue du Sussex,1,1,562,Apt/Condo,Montreal,Quebec
+176,15000,1280 Rue Sherbrooke O.,2,2,3165,Apt/Condo,Montreal,Quebec
+177,6500,400 Rue Richmond,2,2,870,Apt/Condo,Montreal,Quebec
+178,3200,2015 Rue de la Montagne,2,2,980,Apt/Condo,Montreal,Quebec
+179,5000,169 Rue Saint-Paul Est,7,4,3950,Apt/Condo,Montreal,Quebec
+180,2995,1584A Rue de Champlain,2,2,2500,Apt/Condo,Montreal,Quebec
+181,2340,6800 Boul. Newman,3,2,1264,Apt/Condo,Montreal,Quebec
+182,2500,2015 Rue de la Montagne,1,1,911,Apt/Condo,Montreal,Quebec
+183,3189,4300 Boul. De Maisonneuve O.,2,2,1200,Apt/Condo,Montreal,Quebec
+184,1755,6800 Boul. Newman,2,2,919,Apt/Condo,Montreal,Quebec
+185,1980,6250 Av. Lennox #206,2,1,950,Apt/Condo,Montreal,Quebec
+186,2600,408 Rue St-Jacques,2,2,800,Apt/Condo,Montreal,Quebec
+187,2000,299 rue de la Rotonde,1,1,666,Apt/Condo,Montreal,Quebec
+188,2159,2255 Rue Lambert-Closse,2,1,1014,Apt/Condo,Montreal,Quebec
+189,1500,6850 Boul. Newman,2,1,793,Apt/Condo,Montreal,Quebec
+190,2150,1050 Rue Drummond,2,1,700,Apt/Condo,Montreal,Quebec
+191,8500,400 Rue Sherbrooke O.,2,2,1000,Apt/Condo,Montreal,Quebec
+192,3099,4300 Boul. De Maisonneuve O.,2,2,1200,Apt/Condo,Montreal,Quebec
+193,2100,370 Rue des Seigneurs,1,1,763,Apt/Condo,Montreal,Quebec
+194,2399,4300 Boul. De Maisonneuve O.,1,1,883,Apt/Condo,Montreal,Quebec
+195,1650,2300 Rue du Souvenir,2,1,950,Apt/Condo,Montreal,Quebec
+196,1680,6850 Boul. Newman,2,2,896,Apt/Condo,Montreal,Quebec
+197,1545,6850 Boul. Newman,2,1,815,Apt/Condo,Montreal,Quebec
+198,2195,6250 Av. Lennox,2,2,980,Apt/Condo,Montreal,Quebec
+199,4500,1188 Rue St Antoine Ouest #TH6,3,3,1093,Apt/Condo,Montreal,Quebec
+200,2995,1013 Rue St-Hubert,2,1,1170,Apt/Condo,Montreal,Quebec
+201,1600,101 Rue Murray,1,1,500,Apt/Condo,Montreal,Quebec
+202,1750,370 Rue des Seigneurs,1,1,659,Apt/Condo,Montreal,Quebec
+203,3500,424 Rue du Champ-de-Mars,2,1,1730,Apt/Condo,Montreal,Quebec
+204,1700,454 rue de la Gauchetiere O.,1,1,513,Apt/Condo,Montreal,Quebec
+205,2000,370 Rue des Seigneurs,1,1,763,Apt/Condo,Montreal,Quebec
+206,45000,14766 Boul. Gouin O.,3,2,1837.4,Apt/Condo,Montreal,Quebec
+207,2750,370 Rue des Seigneurs,2,2,977,Apt/Condo,Montreal,Quebec
+208,6500,400 Rue Richmond,2,2,850,Apt/Condo,Montreal,Quebec
+209,4980,400 Rue Sherbrooke O.,2,2,1055,Apt/Condo,Montreal,Quebec
+210,1595,6850 Boul. Newman,2,1,832,Apt/Condo,Montreal,Quebec
+211,1600,1288 Rue St-Antoine O.,1,1,600,Apt/Condo,Montreal,Quebec
+212,1850,370 Rue des Seigneurs,1,1,659,Apt/Condo,Montreal,Quebec
+213,1850,1288 Av. des Canadiens-de-Montréal,1,1,600,Apt/Condo,Montreal,Quebec
+214,2229,2255 Rue Lambert-Closse,2,1,1114,Apt/Condo,Montreal,Quebec
+215,1540,6250 Av. Lennox,1,1,705,Apt/Condo,Montreal,Quebec
+216,1560,6250 Av. Lennox,1,1,745,Apt/Condo,Montreal,Quebec
+217,2050,2064 Rue Jeanne-Mance,2,1,1200,Apt/Condo,Montreal,Quebec
+218,1500,400 Boul. Rene-Levesque O.,1,1,450,Apt/Condo,Montreal,Quebec
+219,1800,6850 Boul. Newman,2,2,976,Apt/Condo,Montreal,Quebec
+220,1550,370 Rue des Seigneurs,1,1,659,Apt/Condo,Montreal,Quebec
+221,2255,6800 Boul. Newman,3,2,1247,Apt/Condo,Montreal,Quebec
+222,2300,370 Rue des Seigneurs,1,1,826,Apt/Condo,Montreal,Quebec
+223,5490,400 Rue Sherbrooke O.,3,2,1615,Apt/Condo,Montreal,Quebec
+224,2260,6800 Boul. Newman,3,2,1247,Apt/Condo,Montreal,Quebec
+225,2810,6250 Av. Lennox,2,2,940,Apt/Condo,Montreal,Quebec
+226,2749,2255 Rue Lambert-Closse,2,2,1389,Apt/Condo,Montreal,Quebec
+227,1675,6850 Boul. Newman,2,2,896,Apt/Condo,Montreal,Quebec
+228,2925,6250 Av. Lennox,2,2,980,Apt/Condo,Montreal,Quebec
+229,850,7639 Rue Hébert,1,1,650,Apt/Condo,Montreal,Quebec
+230,3599,2255 Rue Lambert-Closse,3,2,1783,Apt/Condo,Montreal,Quebec
+231,1520,6850 Boul. Newman,2,1,786,Apt/Condo,Montreal,Quebec
+232,2139,2255 Rue Lambert-Closse,2,1,968,Apt/Condo,Montreal,Quebec
+233,1900,370 Rue des Seigneurs,1,1,763,Apt/Condo,Montreal,Quebec
+234,2550,370 Rue des Seigneurs,2,2,1011,Apt/Condo,Montreal,Quebec
+235,2900,389 rue St-Paul,1,1,923,Apt/Condo,Montreal,Quebec
+236,1799,4650 Av. Bonavista,2,1,1400,Apt/Condo,Montreal,Quebec
+237,1920,6250 Av. Lennox,2,2,965,Apt/Condo,Montreal,Quebec
+238,4980,400 Rue Sherbrooke O.,2,1,1060,Apt/Condo,Montreal,Quebec
+239,2215,6800 Boul. Newman,3,2,1247,Apt/Condo,Montreal,Quebec
+240,1700,4327 rue de Lanaudiere,2,1,567,Apt/Condo,Montreal,Quebec
+241,1500,479 Rue Prince-Arthur O.,1,1,660,Apt/Condo,Montreal,Quebec
+242,1375,6250 Av. Lennox,1,1,690,Apt/Condo,Montreal,Quebec
+243,1819,2255 Rue Lambert-Closse,1,1,1049,Apt/Condo,Montreal,Quebec
+244,1800,151 Rue de la Rotonde,1,1,630,Apt/Condo,Montreal,Quebec
+245,1305,6850 Boul. Newman,1,1,612,Apt/Condo,Montreal,Quebec
+246,2650,370 Rue des Seigneurs,2,2,1030,Apt/Condo,Montreal,Quebec
+247,2169,2255 Rue Lambert-Closse,2,1,1037,Apt/Condo,Montreal,Quebec
+248,1650,199 Rue de la Rotonde,2,1,725,Apt/Condo,Montreal,Quebec
+249,2660,400 Boul. Rene-Levesque O.,2,1,930,Apt/Condo,Montreal,Quebec
+250,1799,1070 Ste-Elisabeth,2,1,1050,Apt/Condo,Montreal,Quebec
+251,2220,6850 Boul. Newman,3,2,1247,Apt/Condo,Montreal,Quebec
+252,2109,2255 Rue Lambert-Closse,2,1,916,Apt/Condo,Montreal,Quebec
+253,2335,6800 Boul. Newman,3,2,1261,Apt/Condo,Montreal,Quebec
+254,2195,90 Rue des Soeurs-Grises,1,1,885,Apt/Condo,Montreal,Quebec
+255,1470,6850 Boul. Newman,2,1,786,Apt/Condo,Montreal,Quebec
+256,1950,1625 Av. Lincoln,2,2,1400,Apt/Condo,Montreal,Quebec
+257,1320,6850 Boul. Newman,1,1,612,Apt/Condo,Montreal,Quebec
+258,2299,1210 Rue St-Antoine E.,2,2,1110,Apt/Condo,Montreal,Quebec
+259,2149,333 Rue Sherbrooke E.,1,1,930,Apt/Condo,Montreal,Quebec
+260,1500,3577 Avenue Atwater,1,1,400,Apt/Condo,Montreal,Quebec
+261,3250,1608 Av. Selkirk,3,1,2100,Apt/Condo,Montreal,Quebec
+262,3099,4300 Boul. De Maisonneuve O.,2,2,1200,Apt/Condo,Montreal,Quebec
+263,3000,2268 Rue du Souvenir,4,2,1500,Apt/Condo,Montreal,Quebec
+264,2235,6800 Boul. Newman,3,2,1247,Apt/Condo,Montreal,Quebec
+265,2250,370 Rue des Seigneurs,1,1,773,Apt/Condo,Montreal,Quebec
+266,2719,2255 Rue Lambert-Closse,2,1,995,Apt/Condo,Montreal,Quebec
+267,1690,212 Rue Ste-Catherine E.,1,1,760,Apt/Condo,Montreal,Quebec
+268,1580,6250 Av. Lennox,1,1,705,Apt/Condo,Montreal,Quebec
+269,1850,1455 Rue Saint-Jacques,2,1,826,Apt/Condo,Montreal,Quebec
+270,1850,370 Rue des Seigneurs,1,1,659,Apt/Condo,Montreal,Quebec
+271,2550,284,3,1,1580,Apt/Condo,Montreal,Quebec
+272,2371,400 Boul. Rene-Levesque O.,2,1,770,Apt/Condo,Montreal,Quebec
+273,1700,1199 Rue Bishop,1,1,750,Apt/Condo,Montreal,Quebec
+274,2300,1200 Boul. De Maisonneuve O.,1,1,900,Apt/Condo,Montreal,Quebec
+275,2719,2255 Rue Lambert-Closse,2,2,1333,Apt/Condo,Montreal,Quebec
+276,3650,1000 Rue de la Commune E.,2,2,1550,Apt/Condo,Montreal,Quebec
+277,2300,370 Rue des Seigneurs,2,1,763,Apt/Condo,Montreal,Quebec
+278,1640,6250 Av. Lennox,2,2,940,Apt/Condo,Montreal,Quebec
+279,1540,6250 Av. Lennox,1,1,705,Apt/Condo,Montreal,Quebec
+280,1690,4300 Boul. De Maisonneuve O.,1,1,900,Apt/Condo,Montreal,Quebec
+281,1699,1584A Rue De Champlain,2,1,850,Apt/Condo,Montreal,Quebec
+282,1520,6850 Boul. Newman,2,1,793,Apt/Condo,Montreal,Quebec
+283,1530,6250 Av. Lennox,1,1,700,Apt/Condo,Montreal,Quebec
+284,3800,170 rue Rioux,2,1,1195,Apt/Condo,Montreal,Quebec
+285,2910,888 Rue St-François-Xavier,1,1,700,Apt/Condo,Montreal,Quebec
+286,2095,1211 Rue Drummond,2,1,750,Apt/Condo,Montreal,Quebec
+287,1550,1414 Rue Chomedey,1,1,600,Apt/Condo,Montreal,Quebec
+288,1390,4683 Rue Garnier,1,1,464,Apt/Condo,Montreal,Quebec
+289,2550,1155 Rue de la Montagne,2,2,959,Apt/Condo,Montreal,Quebec
+290,3995,1450 Boul. Rene-Levesque O.,2,2,1400,Apt/Condo,Montreal,Quebec
+291,2910,888 Rue St-François-Xavier,1,1,700,Apt/Condo,Montreal,Quebec
+292,1580,6800 Boul. Newman,2,1,825,Apt/Condo,Montreal,Quebec
+293,1870,6250 Av. Lennox,2,2,940,Apt/Condo,Montreal,Quebec
+294,1510,6800 Boul. Newman,2,1,779,Apt/Condo,Montreal,Quebec
+295,1635,6250 Av. Lennox,1,1,750,Apt/Condo,Montreal,Quebec
+296,2500,7176 Rue D'Aragon,4,2,1330,Apt/Condo,Montreal,Quebec
+297,1399,1401 Sherwood Crescent,2,1,1200,Apt/Condo,Montreal,Quebec
+298,1375,456 Rue De La Gauchetière O.,1,1,850,Apt/Condo,Montreal,Quebec
+299,1160,6850 Boul. Newman,1,1,543,Apt/Condo,Montreal,Quebec
+300,2300,543 Rue Sherbrooke E.,1,1,700,Apt/Condo,Montreal,Quebec
+301,2759,2255 Rue Lambert-Closse,2,2,1423,Apt/Condo,Montreal,Quebec
+302,3200,370 Rue des Seigneurs,2,2,1468,Apt/Condo,Montreal,Quebec
+303,2650,85 Av. Windsor,2,1,1250,Apt/Condo,Montreal,Quebec
+304,1525,6850 Boul. Newman,2,1,815,Apt/Condo,Montreal,Quebec
+305,1800,12224 Rue Joseph-Casavant,3,1,1400,Apt/Condo,Montreal,Quebec
+306,1900,408 Rue St-Jacques,1,1,500,Apt/Condo,Montreal,Quebec
+307,1805,6800 Boul. Newman,2,2,979,Apt/Condo,Montreal,Quebec
+308,2015,6250 Av. Lennox #205,2,2,965,Apt/Condo,Montreal,Quebec
+309,2260,6800 Boul. Newman,3,2,1260,Apt/Condo,Montreal,Quebec
+310,3000,370 Rue des Seigneurs,2,2,1123,Apt/Condo,Montreal,Quebec
+311,1400,6250 Av. Lennox,1,1,705,Apt/Condo,Montreal,Quebec
+312,1570,6250 Av. Lennox,1,1,700,Apt/Condo,Montreal,Quebec
+313,1375,1009 Rue de Bleury,1,1,710,Apt/Condo,Montreal,Quebec
+314,1900,1185 Av. Rougemont,4,1,1500,Apt/Condo,Montreal,Quebec
+315,3250,2055 Rue Bishop,4,2,1200,Apt/Condo,Montreal,Quebec
+316,2650,370 Rue des Seigneurs,2,2,1011,Apt/Condo,Montreal,Quebec
+317,2280,6850 Boul. Newman,3,2,1255,Apt/Condo,Montreal,Quebec
+318,1535,6250 Av. Lennox,1,1,700,Apt/Condo,Montreal,Quebec
+319,6999,400 Rue Sherbrooke O.,2,2,1175,Apt/Condo,Montreal,Quebec
+320,1437,6325 Av. Somerled,2,1,770,Apt/Condo,Montreal,Quebec
+321,3500,358 Tsse St-Denis,3,2,1800,Apt/Condo,Montreal,Quebec
+322,2495,800 Rue Muir #903A,2,2,1192,Apt/Condo,Montreal,Quebec

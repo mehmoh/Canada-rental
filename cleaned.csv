@@ -1,0 +1,3388 @@
+,price,Address,bedroom,bathroom,size_sqf,types,city,province
+0,1425,Poplar,1,1,533,Apt/Condo,Abbotsford,BC
+1,2245,Poplar,2,2,910,Apt/Condo,Abbotsford,BC
+2,1350,Abbotsford West,1,1,538,Apt/Condo,Abbotsford,BC
+3,1725,Poplar,1,1,689,Apt/Condo,Abbotsford,BC
+4,1625,Central Abbotsford,2,1,846,Apt/Condo,Abbotsford,BC
+5,1365,Central Abbotsford,1,1,846,Apt/Condo,Abbotsford,BC
+6,1550,Abbotsford West,2,1,903,Apt/Condo,Abbotsford,BC
+7,1200,Abbotsford West,1,1,543,Apt/Condo,Abbotsford,BC
+8,1400,Abbotsford West,2,1,544,Apt/Condo,Abbotsford,BC
+9,1025,Abbotsford West,0,1,334,Apt/Condo,Abbotsford,BC
+10,1270,Abbotsford West,1,1,662,Apt/Condo,Abbotsford,BC
+11,1625,Abbotsford West,2,1,861,Apt/Condo,Abbotsford,BC
+12,1365,Abbotsford West,1,1,590,Apt/Condo,Abbotsford,BC
+13,1075,Abbotsford West,0,1,590,Apt/Condo,Abbotsford,BC
+14,1270,Central Abbotsford,1,1,675,Apt/Condo,Abbotsford,BC
+15,1550,Central Abbotsford,2,1,903,Apt/Condo,Abbotsford,BC
+16,1270,Central Abbotsford,1,1,740,Apt/Condo,Abbotsford,BC
+17,1025,Central Abbotsford,0,1,430,Apt/Condo,Abbotsford,BC
+18,1525,Central Abbotsford,2,1,950,Apt/Condo,Abbotsford,BC
+19,1025,Central Abbotsford,0,1,430,Apt/Condo,Abbotsford,BC
+20,1235,Central Abbotsford,1,1,750,Apt/Condo,Abbotsford,BC
+21,1480,Central Abbotsford,2,1,920,Apt/Condo,Abbotsford,BC
+22,2000,Abbotsford West,3,1,1188,Apt/Condo,Abbotsford,BC
+23,1550,Abbotsford West,2,1,900,Apt/Condo,Abbotsford,BC
+24,1270,Abbotsford West,1,1,746,Apt/Condo,Abbotsford,BC
+25,1270,Central Abbotsford,1,1,700,Apt/Condo,Abbotsford,BC
+26,1550,Central Abbotsford,2,1,930,Apt/Condo,Abbotsford,BC
+27,1270,Abbotsford West,1,1,641,Apt/Condo,Abbotsford,BC
+28,1215,Central Abbotsford,1,1,685,Apt/Condo,Abbotsford,BC
+29,1025,Central Abbotsford,0,1,450,Apt/Condo,Abbotsford,BC
+30,1380,Central Abbotsford,2,1,900,Apt/Condo,Abbotsford,BC
+31,1550,Abbotsford West,2,1,857,Apt/Condo,Abbotsford,BC
+32,1300,Central Abbotsford,1,1,714,Apt/Condo,Abbotsford,BC
+33,1580,Central Abbotsford,2,1,902,Apt/Condo,Abbotsford,BC
+34,1270,Central Abbotsford,1,1,680,Apt/Condo,Abbotsford,BC
+35,1500,Central Abbotsford,2,1,880,Apt/Condo,Abbotsford,BC
+36,1270,Abbotsford West,1,1,608,Apt/Condo,Abbotsford,BC
+37,1025,Abbotsford West,0,1,486,Apt/Condo,Abbotsford,BC
+38,1550,Abbotsford West,2,1,864,Apt/Condo,Abbotsford,BC
+39,1025,Abbotsford West,0,1,666,Apt/Condo,Abbotsford,BC
+40,1025,Central Abbotsford,0,1,475,Apt/Condo,Abbotsford,BC
+41,1250,Central Abbotsford,1,1,645,Apt/Condo,Abbotsford,BC
+42,1485,Central Abbotsford,2,1,900,Apt/Condo,Abbotsford,BC
+43,900,Central Abbotsford,0,1,338,Apt/Condo,Abbotsford,BC
+44,3175,Bram East,4,3,1800,House,Brampton,Ontario
+45,1500,Avondale,1,1,1000,Duplex,Brampton,Ontario
+46,1750,Vales Of Castlemore,2,1,3500,House,Brampton,Ontario
+47,2500,Avondale,3,1,1500,Duplex,Brampton,Ontario
+48,650,Fletcher's Creek Village,0,1,187,House,Brampton,Ontario
+49,2913,Queen Street Corridor,2,2,1059,Apt/Condo,Brampton,Ontario
+50,2427,Queen Street Corridor,2,2,1128,Apt/Condo,Brampton,Ontario
+51,2566,Queen Street Corridor,3,1,1112,Apt/Condo,Brampton,Ontario
+52,2119,Queen Street Corridor,1,1,725,Apt/Condo,Brampton,Ontario
+53,2148,Queen Street Corridor,2,1,917,Apt/Condo,Brampton,Ontario
+54,2700,Credit Valley,3,3,1500,House,Brampton,Ontario
+55,1300,Brampton North,3,1,1100,House,Brampton,Ontario
+56,2999,Northwest Brampton,4,4,2000,Townhouse,Brampton,Ontario
+57,1600,Bram East,2,2,118,House,Brampton,Ontario
+58,2499,Bram West,4,4,2000,House,Brampton,Ontario
+59,2200,Brampton North,3,1,1100,House,Brampton,Ontario
+60,2800,Northwest Brampton,4,3,1500,Townhouse,Brampton,Ontario
+61,1950,Queen Street Corridor,1,1,700,Apt/Condo,Brampton,Ontario
+62,2699,Bram East,4,3,2000,House,Brampton,Ontario
+63,1900,Brampton North,3,2,2000,House,Brampton,Ontario
+64,1950,Madoc,3,2,1500,House,Brampton,Ontario
+65,2700,Northwest Brampton,4,3,1500,House,Brampton,Ontario
+66,2900,Northwest Brampton,3,3,1500,Townhouse,Brampton,Ontario
+67,2800,Credit Valley,4,3,1500,House,Brampton,Ontario
+68,2750,Fletcher's Creek South,3,3,1600,Townhouse,Brampton,Ontario
+69,1650,Bram West,2,1,700,House,Brampton,Ontario
+70,2750,Fletcher's Creek South,3,3,1600,Townhouse,Brampton,Ontario
+71,3100,Sandringham Wellington,4,3,2500,House,Brampton,Ontario
+72,2790,Madoc,3,2,1000,Townhouse,Brampton,Ontario
+73,4000,Fletcher's Creek Village,4,4,2500,House,Brampton,Ontario
+74,2800,Northwest Brampton,4,3,2000,House,Brampton,Ontario
+75,2950,Northwest Brampton,4,3,2000,House,Brampton,Ontario
+76,2600,Bram West,3,3,1200,Townhouse,Brampton,Ontario
+77,3500,Heart Lake East,3,4,1500,Townhouse,Brampton,Ontario
+78,2800,Fletcher's Meadow,4,3,2000,House,Brampton,Ontario
+79,2750,Sandringham Wellington North,3,11,2000,Townhouse,Brampton,Ontario
+80,2700,Northwest Brampton,3,3,1500,Townhouse,Brampton,Ontario
+81,3450,Northgate,4,4,2500,House,Brampton,Ontario
+82,3200,Credit Valley,4,3,2000,House,Brampton,Ontario
+83,2600,Madoc,3,3,1500,House,Brampton,Ontario
+84,2800,Northwest Sandalwood Parkway,3,3,1500,House,Brampton,Ontario
+85,3500,Toronto Gore Rural Estate,4,3,3000,House,Brampton,Ontario
+86,1250,Credit Valley,1,1,700,House,Brampton,Ontario
+87,2700,Madoc,4,3,1500,House,Brampton,Ontario
+88,1400,Brampton West,1,1,700,House,Brampton,Ontario
+89,1600,Northwest Brampton,2,1,1100,House,Brampton,Ontario
+90,1975,Sandringham Wellington,1,1,600,Apt/Condo,Brampton,Ontario
+91,2950,Fletcher's Creek South,3,3,2000,Townhouse,Brampton,Ontario
+92,2650,Northwest Brampton,3,3,1500,Townhouse,Brampton,Ontario
+93,1475,Brampton North,1,1,700,Apt/Condo,Brampton,Ontario
+94,1550,Sandringham Wellington,2,1,700,Apt/Condo,Brampton,Ontario
+95,2400,Brampton North,3,1,1100,House,Brampton,Ontario
+96,2800,Credit Valley,3,3,1500,House,Brampton,Ontario
+97,2900,Sandringham Wellington,4,3,2000,House,Brampton,Ontario
+98,1850,Bram East,2,2,700,House,Brampton,Ontario
+99,2300,Brampton East,3,1,700,House,Brampton,Ontario
+100,2100,Sandringham Wellington,1,1,600,Apt/Condo,Brampton,Ontario
+101,3750,Westgate,4,3,2500,House,Brampton,Ontario
+102,2750,Heart Lake East,3,3,1600,Townhouse,Brampton,Ontario
+103,2350,Central Park,3,1,1100,House,Brampton,Ontario
+104,3200,Northwest Brampton,5,4,3000,House,Brampton,Ontario
+105,2900,Northwest Brampton,4,3,2000,Townhouse,Brampton,Ontario
+106,2900,Fletcher's West,4,4,2000,House,Brampton,Ontario
+107,2800,Northwest Brampton,4,3,1500,Townhouse,Brampton,Ontario
+108,2599,Queen Street Corridor,3,2,1000,Apt/Condo,Brampton,Ontario
+109,2400,Downtown Brampton,2,2,900,Apt/Condo,Brampton,Ontario
+110,2600,Northwest Brampton,4,3,1500,Townhouse,Brampton,Ontario
+111,2699,Northwest Brampton,3,3,1500,Townhouse,Brampton,Ontario
+112,2550,Fletcher's Meadow,3,3,1500,House,Brampton,Ontario
+113,1650,Fletcher's Meadow,2,1,1100,Apt/Condo,Brampton,Ontario
+114,1650,Sandringham Wellington,2,1,700,House,Brampton,Ontario
+115,1750,Heart Lake West,3,2,2500,House,Brampton,Ontario
+116,2900,Gore Industrial North,4,3,2000,House,Brampton,Ontario
+117,1600,Credit Valley,2,1,1100,House,Brampton,Ontario
+118,3100,Sandringham Wellington,3,4,2500,House,Brampton,Ontario
+119,1800,Bram East,2,1,700,House,Brampton,Ontario
+120,3200,Madoc,3,4,1500,House,Brampton,Ontario
+121,3600,Toronto Gore Rural Estate,4,4,208,House,Brampton,Ontario
+122,1850,Credit Valley,2,2,700,Apt/Condo,Brampton,Ontario
+123,1850,Credit Valley,2,2,700,Apt/Condo,Brampton,Ontario
+124,2900,Credit Valley,4,3,1500,House,Brampton,Ontario
+125,2500,Northwest Brampton,3,3,1500,Townhouse,Brampton,Ontario
+126,2500,Sandringham Wellington,3,3,1500,House,Brampton,Ontario
+127,2800,Central Park,3,2,1500,House,Brampton,Ontario
+128,1700,Sandringham Wellington,2,1,700,House,Brampton,Ontario
+129,2000,Northwest Brampton,2,1,2500,House,Brampton,Ontario
+130,2900,Northwest Brampton,4,3,1500,House,Brampton,Ontario
+131,1500,Northwest Brampton,2,1,700,Apt/Condo,Brampton,Ontario
+132,2200,Credit Valley,4,4,1500,Townhouse,Brampton,Ontario
+133,2800,Northwest Brampton,4,3,2000,House,Brampton,Ontario
+134,2299,Sandringham Wellington,3,2,1100,House,Brampton,Ontario
+135,2800,Bram East,5,5,3000,House,Brampton,Ontario
+136,2700,Fletcher's Creek South,4,2,1400,Apt/Condo,Brampton,Ontario
+137,1549,Bram East,1,1,1100,House,Brampton,Ontario
+138,1799,Sandringham Wellington,4,3,1200,Townhouse,Brampton,Ontario
+139,3100,Bram West,4,4,2500,House,Brampton,Ontario
+140,6500,Brentwood Park,3,2,1778,Apt/Condo,Burnaby,BC
+141,2500,Metrotown,2,2,755,Apt/Condo,Burnaby,BC
+142,2300,Highgate,2,2,754,Apt/Condo,Burnaby,BC
+143,2430,Forest Glen,2,2,966,Apt/Condo,Burnaby,BC
+144,2295,Simon Fraser Hills,3,1,950,Apt/Condo,Burnaby,BC
+145,1900,Simon Fraser Hills,1,1,900,House,Burnaby,BC
+146,2621,Forest Glen,2,1,835,Apt/Condo,Burnaby,BC
+147,1981,Forest Glen,1,1,647,Apt/Condo,Burnaby,BC
+148,3000,Metrotown,2,2,774,House,Burnaby,BC
+149,2600,Metrotown,2,2,800,Apt/Condo,Burnaby,BC
+150,2850,Brentwood Park,2,2,909,House,Burnaby,BC
+151,3500,Metrotown,3,2,1088,House,Burnaby,BC
+152,3100,Brentwood Park,2,2,864,House,Burnaby,BC
+153,3999,Garden Village,3,1,1375,House,Burnaby,BC
+154,1350,Big Bend,1,1,760,House,Burnaby,BC
+155,2850,Big Bend,3,2,1600,House,Burnaby,BC
+156,1126,Beltline,1,0,670,Apt/Condo,Calgary,Alberta
+157,1010,Windsor Park ,1,1,615,Apt/Condo,Calgary,Alberta
+158,1276,Haysboro,2,0,886,Apt/Condo,Calgary,Alberta
+159,1080,Windsor Park ,1,1,615,Apt/Condo,Calgary,Alberta
+160,1149,Willow Park,2,1,870,Apt/Condo,Calgary,Alberta
+161,1637,Beltline,2,2,2345,Apt/Condo,Calgary,Alberta
+162,2126,Beltline,2,2,962,Apt/Condo,Calgary,Alberta
+163,934,Beltline,0,1,554,Apt/Condo,Calgary,Alberta
+164,1434,Beltline,1,2,1101,Apt/Condo,Calgary,Alberta
+165,1196,Rundle,2,1,975,Townhouse,Calgary,Alberta
+166,1150,Seton,0,1,463,Townhouse,Calgary,Alberta
+167,1195,Seton,1,1,505,Townhouse,Calgary,Alberta
+168,1495,Seton,2,2,678,Townhouse,Calgary,Alberta
+169,1350,Seton,1,1,600,Apt/Condo,Calgary,Alberta
+170,1765,Seton,2,2,900,Apt/Condo,Calgary,Alberta
+171,1430,Beltline,1,1,578,Apt/Condo,Calgary,Alberta
+172,1326,Mission,2,1,884,Apt/Condo,Calgary,Alberta
+173,1126,Haysboro,1,0,678,Apt/Condo,Calgary,Alberta
+174,999,Willow Park,1,1,650,Apt/Condo,Calgary,Alberta
+175,899,Willow Park,1,1,650,Apt/Condo,Calgary,Alberta
+176,999,Willow Park,1,1,500,Apt/Condo,Calgary,Alberta
+177,1149,Willow Park,2,1,750,Apt/Condo,Calgary,Alberta
+178,1149,Willow Park,2,1,750,Apt/Condo,Calgary,Alberta
+179,1149,Willow Park,2,1,870,Apt/Condo,Calgary,Alberta
+180,1149,Willow Park,2,1,870,Apt/Condo,Calgary,Alberta
+181,1401,Thorncliffe,2,2,985,Townhouse,Calgary,Alberta
+182,1200,Windsor Park ,2,1,830,Apt/Condo,Calgary,Alberta
+183,1495,Skyview Ranch,2,2,905,Apt/Condo,Calgary,Alberta
+184,1101,Mission,1,0,500,Apt/Condo,Calgary,Alberta
+185,1396,Rundle,3,1,1136,Townhouse,Calgary,Alberta
+186,1633,Beltline,1,1,568,Apt/Condo,Calgary,Alberta
+187,2041,Beltline,2,2,895,Apt/Condo,Calgary,Alberta
+188,1426,Mission,2,1,851,Apt/Condo,Calgary,Alberta
+189,1226,Bankview,1,1,600,Apt/Condo,Calgary,Alberta
+190,1276,Bridgeland,2,1,795,Apt/Condo,Calgary,Alberta
+191,1250,Mission,2,1,905,Apt/Condo,Calgary,Alberta
+192,2095,Beltline,2,2,904,Apt/Condo,Calgary,Alberta
+193,1442,Beltline,1,1,535,Apt/Condo,Calgary,Alberta
+194,1613,Beltline,1,1,584,Apt/Condo,Calgary,Alberta
+195,1532,Beltline,1,1,629,Apt/Condo,Calgary,Alberta
+196,2145,Beltline,2,2,938,Apt/Condo,Calgary,Alberta
+197,2600,Chinatown,2,1,900,Apt/Condo,Calgary,Alberta
+198,1451,Thorncliffe,3,1,1088,Townhouse,Calgary,Alberta
+199,2128,Beltline,2,2,830,Apt/Condo,Calgary,Alberta
+200,1320,Beltline,0,1,389,Apt/Condo,Calgary,Alberta
+201,1668,Beltline,1,1,665,Apt/Condo,Calgary,Alberta
+202,1834,Beltline,1,1,696,Apt/Condo,Calgary,Alberta
+203,1572,Beltline,1,1,524,Apt/Condo,Calgary,Alberta
+204,1562,Beltline,1,1,523,Apt/Condo,Calgary,Alberta
+205,1931,Beltline,3,2,1174,Apt/Condo,Calgary,Alberta
+206,1479,Wildwood,1,1,756,Apt/Condo,Calgary,Alberta
+207,2550,Skyview Ranch,2,2,961,Apt/Condo,Calgary,Alberta
+208,1193,Beltline,0,1,445,Apt/Condo,Calgary,Alberta
+209,1100,Bankview,1,0,482,Apt/Condo,Calgary,Alberta
+210,2705,Varsity,2,1,657,Apt/Condo,Calgary,Alberta
+211,1190,Wildwood,2,1,868,Apt/Condo,Calgary,Alberta
+212,1473,Kingsland,1,1,687,Apt/Condo,Calgary,Alberta
+213,1810,Vista Heights,4,2,1265,Townhouse,Calgary,Alberta
+214,1201,Sunalta,1,1,652,Apt/Condo,Calgary,Alberta
+215,1013,Mission,1,1,535,Apt/Condo,Calgary,Alberta
+216,1871,Downtown West End,2,2,974,Apt/Condo,Calgary,Alberta
+217,2550,Downtown West End,3,2,1326,Apt/Condo,Calgary,Alberta
+218,1565,Downtown West End,1,1,627,Apt/Condo,Calgary,Alberta
+219,1013,Mission,0,1,517,Apt/Condo,Calgary,Alberta
+220,1076,Mission,1,1,695,Apt/Condo,Calgary,Alberta
+221,1422,Kingsland,1,1,576,Apt/Condo,Calgary,Alberta
+222,1462,Beltline,1,1,696,Apt/Condo,Calgary,Alberta
+223,1188,Mission,1,1,650,Apt/Condo,Calgary,Alberta
+224,983,Mission,0,1,460,Apt/Condo,Calgary,Alberta
+225,1396,Bankview,2,1,750,Apt/Condo,Calgary,Alberta
+226,1125,Bankview,1,1,570,Apt/Condo,Calgary,Alberta
+227,1100,Bridgeland,1,1,612,Apt/Condo,Calgary,Alberta
+228,1100,Bankview,1,1,589,Apt/Condo,Calgary,Alberta
+229,1075,Bankview,1,1,558,Apt/Condo,Calgary,Alberta
+230,1325,Bridgeland,2,1,724,Apt/Condo,Calgary,Alberta
+231,999,Albert Park Radison Heights,1,1,495,Apt/Condo,Calgary,Alberta
+232,1400,Bankview,2,1,772,Apt/Condo,Calgary,Alberta
+233,1325,Sunalta,2,1,859,Apt/Condo,Calgary,Alberta
+234,1075,Hillhurst,1,1,440,Apt/Condo,Calgary,Alberta
+235,1025,Sunalta,1,1,503,Apt/Condo,Calgary,Alberta
+236,1050,Mission,1,1,454,Apt/Condo,Calgary,Alberta
+237,1300,Bowness,2,1,1108,Apt/Condo,Calgary,Alberta
+238,999,Bridgeland,1,1,497,Apt/Condo,Calgary,Alberta
+239,1300,Bridgeland,2,1,666,Apt/Condo,Calgary,Alberta
+240,1050,Crescent Heights,1,1,520,Apt/Condo,Calgary,Alberta
+241,2830,Beltline,1,1,796,Apt/Condo,Calgary,Alberta
+242,1075,Mission,1,1,692,Apt/Condo,Calgary,Alberta
+243,1343,Willow Park,2,1,818,Apt/Condo,Calgary,Alberta
+244,1304,Glamorgan,2,1,804,Apt/Condo,Calgary,Alberta
+245,1101,Beltline,0,0,700,Apt/Condo,Calgary,Alberta
+246,1650,Skyview Ranch,2,2,966,Apt/Condo,Calgary,Alberta
+247,700,Renfrew,0,1,299,Apt/Condo,Calgary,Alberta
+248,1099,Renfrew,1,1,578,Apt/Condo,Calgary,Alberta
+249,1325,Renfrew,2,1,787,Apt/Condo,Calgary,Alberta
+250,1049,Cliff Bungalow,1,1,450,Apt/Condo,Calgary,Alberta
+251,875,Cliff Bungalow,0,1,350,Apt/Condo,Calgary,Alberta
+252,1350,Cliff Bungalow,2,1,680,Apt/Condo,Calgary,Alberta
+253,2146,Beltline,2,2,884,Apt/Condo,Calgary,Alberta
+254,1354,Beltline,2,1,796,Apt/Condo,Calgary,Alberta
+255,4750,Downtown Calgary Core,2,2,1192,Apt/Condo,Calgary,Alberta
+256,1152,Lakeview,1,1,870,Apt/Condo,Calgary,Alberta
+257,1549,Thorncliffe,2,1,776,Townhouse,Calgary,Alberta
+258,1302,Beltline,1,1,630,Apt/Condo,Calgary,Alberta
+259,1113,Pineridge,1,1,625,Apt/Condo,Calgary,Alberta
+260,1319,Downtown Calgary Core,1,1,700,Apt/Condo,Calgary,Alberta
+261,1201,Beltline,1,0,750,Apt/Condo,Calgary,Alberta
+262,1095,Glamorgan,2,1,804,Apt/Condo,Calgary,Alberta
+263,1420,Beltline,1,1,530,Apt/Condo,Calgary,Alberta
+264,1682,Varsity,3,2,1050,Apt/Condo,Calgary,Alberta
+265,1275,Mission,2,1,905,Apt/Condo,Calgary,Alberta
+266,1401,Braeside,2,1,1100,Townhouse,Calgary,Alberta
+267,4600,Beltline,3,3,1323,Apt/Condo,Calgary,Alberta
+268,4600,Beltline,3,3,1363,Apt/Condo,Calgary,Alberta
+269,1235,Tuxedo Park,1,1,531,Apt/Condo,Calgary,Alberta
+270,1955,Beltline,2,2,779,Apt/Condo,Calgary,Alberta
+271,1415,Inglewood,1,1,690,Apt/Condo,Calgary,Alberta
+272,1002,Downtown Calgary Core,0,1,600,Apt/Condo,Calgary,Alberta
+273,1539,Albert Park Radison Heights,3,1,971,Apt/Condo,Calgary,Alberta
+274,1511,University Heights,2,1,825,Apt/Condo,Calgary,Alberta
+275,1349,Beltline,1,1,800,Apt/Condo,Calgary,Alberta
+276,1155,Downtown East Village,0,1,475,Apt/Condo,Calgary,Alberta
+277,1900,Downtown East Village,2,2,882,Apt/Condo,Calgary,Alberta
+278,2200,Downtown East Village,3,2,1053,Apt/Condo,Calgary,Alberta
+279,4360,Downtown Calgary Core,2,2,1118,Apt/Condo,Calgary,Alberta
+280,3890,Downtown Calgary Core,2,2,1025,Apt/Condo,Calgary,Alberta
+281,1021,Mission,1,1,535,Apt/Condo,Calgary,Alberta
+282,1300,Downtown Calgary Core,2,1,840,Apt/Condo,Calgary,Alberta
+283,1169,Beltline,1,1,700,Apt/Condo,Calgary,Alberta
+284,1369,Downtown Calgary Core,1,1,700,Apt/Condo,Calgary,Alberta
+285,1143,Glamorgan,2,1,804,Apt/Condo,Calgary,Alberta
+286,1221,Beltline,2,1,850,Apt/Condo,Calgary,Alberta
+287,1376,Greenview,2,2,900,Apt/Condo,Calgary,Alberta
+288,1279,University Heights,1,1,675,Apt/Condo,Calgary,Alberta
+289,2153,Downtown Calgary Core,2,2,1372,Apt/Condo,Calgary,Alberta
+290,1078,Capitol Hill,1,1,421,Apt/Condo,Calgary,Alberta
+291,1275,Haysboro,1,1,752,Apt/Condo,Calgary,Alberta
+292,1241,Varsity,1,1,580,Apt/Condo,Calgary,Alberta
+293,1479,University Heights,2,1,825,Apt/Condo,Calgary,Alberta
+294,1336,Rundle,2,1,820,Apt/Condo,Calgary,Alberta
+295,1199,Rundle,2,1,820,Apt/Condo,Calgary,Alberta
+296,1389,Beltline,1,1,600,Apt/Condo,Calgary,Alberta
+297,1409,Beltline,2,1,796,Apt/Condo,Calgary,Alberta
+298,1031,Beltline,1,1,496,Apt/Condo,Calgary,Alberta
+299,1230,Glamorgan,1,1,667,Apt/Condo,Calgary,Alberta
+300,1269,Beltline,1,1,657,Apt/Condo,Calgary,Alberta
+301,1279,University Heights,1,1,650,Apt/Condo,Calgary,Alberta
+302,1245,Albert Park Radison Heights,2,1,894,Apt/Condo,Calgary,Alberta
+303,1353,University Heights,1,1,800,Apt/Condo,Calgary,Alberta
+304,1572,Albert Park Radison Heights,3,1,1045,Townhouse,Calgary,Alberta
+305,1343,Downtown Calgary Core,2,1,758,Apt/Condo,Calgary,Alberta
+306,1331,Wildwood,2,1,945,Apt/Condo,Calgary,Alberta
+307,1151,Wildwood,1,1,756,Apt/Condo,Calgary,Alberta
+308,887,Downtown Calgary Core,0,1,550,Apt/Condo,Calgary,Alberta
+309,1870,Brentwood,2,1,850,Apt/Condo,Calgary,Alberta
+310,1269,Sunalta,1,1,700,Apt/Condo,Calgary,Alberta
+311,2405,Varsity,1,1,527,Apt/Condo,Calgary,Alberta
+312,1558,Brentwood,1,1,652,Apt/Condo,Calgary,Alberta
+313,1475,Varsity,2,1,800,Apt/Condo,Calgary,Alberta
+314,1457,Varsity,2,1,800,Apt/Condo,Calgary,Alberta
+315,1208,Mayland,2,1,815,Apt/Condo,Calgary,Alberta
+316,1493,Thorncliffe,3,1,982,Townhouse,Calgary,Alberta
+317,1449,Beltline,1,1,550,Apt/Condo,Calgary,Alberta
+318,1299,Wildwood,1,1,756,Apt/Condo,Calgary,Alberta
+319,1569,Wildwood,2,1,945,Apt/Condo,Calgary,Alberta
+320,1172,Downtown Calgary Core,1,1,650,Apt/Condo,Calgary,Alberta
+321,1445,Beltline,1,1,567,Apt/Condo,Calgary,Alberta
+322,1731,Kingsland,2,2,813,Apt/Condo,Calgary,Alberta
+323,1691,Kingsland,2,1,772,Apt/Condo,Calgary,Alberta
+324,1105,Kingsland,1,1,477,Apt/Condo,Calgary,Alberta
+325,1367,Kingsland,1,1,565,Apt/Condo,Calgary,Alberta
+326,2108,Beltline,2,1,723,Apt/Condo,Calgary,Alberta
+327,3000,Downtown Calgary Core,1,1,775,Apt/Condo,Calgary,Alberta
+328,1100,Beltline,0,1,363,Apt/Condo,Calgary,Alberta
+329,1550,Skyview Ranch,2,2,852,Apt/Condo,Calgary,Alberta
+330,1595,Skyview Ranch,2,2,905,Apt/Condo,Calgary,Alberta
+331,1725,Skyview Ranch,2,2,944,Apt/Condo,Calgary,Alberta
+332,1425,Skyview Ranch,1,1,692,Apt/Condo,Calgary,Alberta
+333,1750,Skyview Ranch,2,2,1014,Apt/Condo,Calgary,Alberta
+334,1700,Skyview Ranch,2,2,966,Apt/Condo,Calgary,Alberta
+335,1075,Beltline,1,1,663,Apt/Condo,Calgary,Alberta
+336,1300,Beltline,2,1,903,Apt/Condo,Calgary,Alberta
+337,1400,Skyview Ranch,1,1,681,Apt/Condo,Calgary,Alberta
+338,1595,Skyview Ranch,1,1,830,Apt/Condo,Calgary,Alberta
+339,1550,Skyview Ranch,2,2,852,Apt/Condo,Calgary,Alberta
+340,1425,Skyview Ranch,1,1,760,Apt/Condo,Calgary,Alberta
+341,1275,Skyview Ranch,1,1,510,Apt/Condo,Calgary,Alberta
+342,1200,Beltline,1,1,539,Apt/Condo,Calgary,Alberta
+343,2011,Palliser,2,2,966,Apt/Condo,Calgary,Alberta
+344,1156,Downtown Calgary Core,2,1,763,Apt/Condo,Calgary,Alberta
+345,1187,Lakeview,1,1,545,Apt/Condo,Calgary,Alberta
+346,1340,Acadia,3,1,1140,Apt/Condo,Calgary,Alberta
+347,1537,Mount Pleasant Queens Park Village,2,1,771,Apt/Condo,Calgary,Alberta
+348,1076,Bankview,0,1,485,Apt/Condo,Calgary,Alberta
+349,1881,Kingsland,2,1,779,Apt/Condo,Calgary,Alberta
+350,1700,Kingsland,2,2,825,Apt/Condo,Calgary,Alberta
+351,1035,Kingsland,1,1,740,Apt/Condo,Calgary,Alberta
+352,1719,Mission,2,2,1089,Apt/Condo,Calgary,Alberta
+353,695,Beltline,0,1,205,Apt/Condo,Calgary,Alberta
+354,1750,Kingsland,2,2,839,Apt/Condo,Calgary,Alberta
+355,1388,Downtown West End,1,1,775,Apt/Condo,Calgary,Alberta
+356,1995,Sage Hill,2,2,1145,Apt/Condo,Calgary,Alberta
+357,1795,Sage Hill,2,2,1092,Apt/Condo,Calgary,Alberta
+358,2091,Beltline,2,2,854,Apt/Condo,Calgary,Alberta
+359,3120,Downtown Calgary Core,2,1,913,Apt/Condo,Calgary,Alberta
+360,1304,Palliser,1,1,790,Apt/Condo,Calgary,Alberta
+361,1995,Mission,2,2,1024,Apt/Condo,Calgary,Alberta
+362,2047,Beltline,2,1,772,Apt/Condo,Calgary,Alberta
+363,1596,Palliser,1,1,629,Apt/Condo,Calgary,Alberta
+364,1398,Kingsland,2,1,600,Apt/Condo,Calgary,Alberta
+365,976,Downtown Calgary Core,1,1,492,Apt/Condo,Calgary,Alberta
+366,1006,Downtown Calgary Core,1,1,586,Apt/Condo,Calgary,Alberta
+367,1631,Downtown West End,2,2,872,Apt/Condo,Calgary,Alberta
+368,1763,Beltline,2,1,729,Apt/Condo,Calgary,Alberta
+369,1607,Downtown West End,2,1,796,Apt/Condo,Calgary,Alberta
+370,2343,Beltline,2,2,910,Apt/Condo,Calgary,Alberta
+371,2114,Beltline,1,1,611,Apt/Condo,Calgary,Alberta
+372,1517,Beltline,1,1,507,Apt/Condo,Calgary,Alberta
+373,1425,Palliser,2,2,1040,Apt/Condo,Calgary,Alberta
+374,2037,Beltline,1,1,629,Apt/Condo,Calgary,Alberta
+375,1465,Beltline,1,1,549,Apt/Condo,Calgary,Alberta
+376,1292,Palliser,1,1,790,Apt/Condo,Calgary,Alberta
+377,1637,Palliser,2,2,1040,Apt/Condo,Calgary,Alberta
+378,1497,Lakeview,2,1,840,Apt/Condo,Calgary,Alberta
+379,1656,Mission,1,1,754,Apt/Condo,Calgary,Alberta
+380,1606,Mission,1,1,673,Apt/Condo,Calgary,Alberta
+381,1208,Beltline,1,1,620,Apt/Condo,Calgary,Alberta
+382,1562,Beltline,2,1,650,Apt/Condo,Calgary,Alberta
+383,1320,Beltline,1,1,445,Apt/Condo,Calgary,Alberta
+384,1875,Beltline,2,2,775,Apt/Condo,Calgary,Alberta
+385,1404,Beltline,2,2,900,Apt/Condo,Calgary,Alberta
+386,1674,Beltline,2,1,865,Apt/Condo,Calgary,Alberta
+387,1299,Mount Pleasant Queens Park Village,3,1,1140,Townhouse,Calgary,Alberta
+388,1195,Mount Pleasant Queens Park Village,2,1,910,Townhouse,Calgary,Alberta
+389,1276,Mount Royal,2,1,789,Apt/Condo,Calgary,Alberta
+390,1395,Sage Hill,1,1,690,Apt/Condo,Calgary,Alberta
+391,1695,Sage Hill,2,2,875,Apt/Condo,Calgary,Alberta
+392,1300,Skyview Ranch,1,1,737,Apt/Condo,Calgary,Alberta
+393,1525,Skyview Ranch,2,2,961,Apt/Condo,Calgary,Alberta
+394,1450,Crescent Heights,2,1,1000,Apt/Condo,Calgary,Alberta
+395,999,South Calgary,1,1,629,Apt/Condo,Calgary,Alberta
+396,950,Sunalta,1,1,550,Apt/Condo,Calgary,Alberta
+397,1175,Cedarbrae,2,1,708,Apt/Condo,Calgary,Alberta
+398,1325,Sunalta,2,1,708,Apt/Condo,Calgary,Alberta
+399,1550,Bowness,3,2,1514,Townhouse,Calgary,Alberta
+400,1450,Bowness,2,1,1314,Townhouse,Calgary,Alberta
+401,1725,Bowness,4,2,1714,Townhouse,Calgary,Alberta
+402,1049,Cedarbrae,1,1,670,Apt/Condo,Calgary,Alberta
+403,1249,Charleswood,2,1,741,Apt/Condo,Calgary,Alberta
+404,1075,Charleswood,1,1,608,Apt/Condo,Calgary,Alberta
+405,1049,Renfrew,1,1,532,Apt/Condo,Calgary,Alberta
+406,1325,Renfrew,2,1,811,Apt/Condo,Calgary,Alberta
+407,1299,Altadore,2,1,788,Apt/Condo,Calgary,Alberta
+408,1125,Altadore,1,1,542,Apt/Condo,Calgary,Alberta
+409,1125,Beltline,1,1,528,Apt/Condo,Calgary,Alberta
+410,925,Bankview,0,1,397,Apt/Condo,Calgary,Alberta
+411,1099,Crescent Heights,1,1,596,Apt/Condo,Calgary,Alberta
+412,950,Mount Royal,0,1,313,Apt/Condo,Calgary,Alberta
+413,935,Renfrew,0,1,501,Apt/Condo,Calgary,Alberta
+414,1099,Sunalta,1,1,513,Apt/Condo,Calgary,Alberta
+415,1400,Sunalta,2,1,812,Apt/Condo,Calgary,Alberta
+416,1075,Crescent Heights,1,1,509,Apt/Condo,Calgary,Alberta
+417,1249,Crescent Heights,2,1,764,Apt/Condo,Calgary,Alberta
+418,1325,Kelvin Grove,2,1,842,Townhouse,Calgary,Alberta
+419,1049,Bankview,1,1,564,Apt/Condo,Calgary,Alberta
+420,1375,Bankview,2,1,968,Apt/Condo,Calgary,Alberta
+421,1099,Altadore,1,1,550,Apt/Condo,Calgary,Alberta
+422,1125,Kelvin Grove,1,1,620,Townhouse,Calgary,Alberta
+423,1099,Bankview,1,1,459,Apt/Condo,Calgary,Alberta
+424,1250,Bankview,2,1,800,Apt/Condo,Calgary,Alberta
+425,950,Westgate,1,1,533,Apt/Condo,Calgary,Alberta
+426,1250,Westgate,2,1,850,Apt/Condo,Calgary,Alberta
+427,1150,Mount Royal,1,1,550,Apt/Condo,Calgary,Alberta
+428,950,Mount Royal,0,1,450,Apt/Condo,Calgary,Alberta
+429,1299,Beltline,2,1,711,Apt/Condo,Calgary,Alberta
+430,1125,Beltline,1,1,575,Apt/Condo,Calgary,Alberta
+431,975,Bankview,1,1,524,Apt/Condo,Calgary,Alberta
+432,925,Beltline,0,1,400,Apt/Condo,Calgary,Alberta
+433,1049,Beltline,1,1,518,Apt/Condo,Calgary,Alberta
+434,1200,Inglewood,0,1,354,Apt/Condo,Calgary,Alberta
+435,1225,Inglewood,1,1,541,Apt/Condo,Calgary,Alberta
+436,1099,Bankview,1,1,614,Apt/Condo,Calgary,Alberta
+437,1325,Bankview,2,1,777,Apt/Condo,Calgary,Alberta
+438,1150,Beltline,1,1,562,Apt/Condo,Calgary,Alberta
+439,1425,Beltline,2,1,700,Apt/Condo,Calgary,Alberta
+440,1399,Bankview,2,1,1000,Apt/Condo,Calgary,Alberta
+441,1099,Bankview,1,1,450,Apt/Condo,Calgary,Alberta
+442,1650,Beltline,3,1,1012,Apt/Condo,Calgary,Alberta
+443,1650,Bankview,3,1,1200,Apt/Condo,Calgary,Alberta
+444,899,Beltline,0,1,300,Apt/Condo,Calgary,Alberta
+445,1000,Beltline,1,1,400,Apt/Condo,Calgary,Alberta
+446,1325,Beltline,2,1,690,Apt/Condo,Calgary,Alberta
+447,1050,Crescent Heights,1,1,520,Apt/Condo,Calgary,Alberta
+448,1325,Crescent Heights,2,1,820,Apt/Condo,Calgary,Alberta
+449,1400,South Calgary,2,1,824,Apt/Condo,Calgary,Alberta
+450,1149,Forest Heights,2,1,904,Townhouse,Calgary,Alberta
+451,1275,Forest Heights,3,1,1114,Townhouse,Calgary,Alberta
+452,1000,South Calgary,0,1,420,Apt/Condo,Calgary,Alberta
+453,1099,South Calgary,1,1,631,Apt/Condo,Calgary,Alberta
+454,1000,Beltline,0,1,250,Apt/Condo,Calgary,Alberta
+455,1325,Rosscarrock,2,1,750,Apt/Condo,Calgary,Alberta
+456,1100,Rosscarrock,1,1,600,Apt/Condo,Calgary,Alberta
+457,1050,Beltline,1,1,450,Apt/Condo,Calgary,Alberta
+458,925,Huntington Hills,0,1,388,Apt/Condo,Calgary,Alberta
+459,1099,Huntington Hills,1,1,633,Apt/Condo,Calgary,Alberta
+460,1075,North Glenmore Park,1,1,500,Apt/Condo,Calgary,Alberta
+461,1299,Huntington Hills,2,1,804,Apt/Condo,Calgary,Alberta
+462,1199,North Glenmore Park,2,1,840,Apt/Condo,Calgary,Alberta
+463,1100,Rosscarrock,1,1,450,Apt/Condo,Calgary,Alberta
+464,1250,Rosscarrock,2,1,1003,Apt/Condo,Calgary,Alberta
+465,1000,Downtown West End,0,1,400,Apt/Condo,Calgary,Alberta
+466,999,Downtown West End,1,1,550,Apt/Condo,Calgary,Alberta
+467,1450,Downtown West End,2,1,850,Apt/Condo,Calgary,Alberta
+468,1050,Bowness,1,1,595,Apt/Condo,Calgary,Alberta
+469,1149,Bowness,2,1,700,Apt/Condo,Calgary,Alberta
+470,925,South Calgary,1,1,464,Apt/Condo,Calgary,Alberta
+471,1325,South Calgary,2,1,837,Apt/Condo,Calgary,Alberta
+472,950,Haysboro,0,1,374,Apt/Condo,Calgary,Alberta
+473,1150,Haysboro,1,1,455,Apt/Condo,Calgary,Alberta
+474,1350,Haysboro,2,1,870,Apt/Condo,Calgary,Alberta
+475,1050,Dover,1,1,550,Apt/Condo,Calgary,Alberta
+476,1500,Haysboro,3,1,949,Apt/Condo,Calgary,Alberta
+477,1250,Dover,2,1,800,Apt/Condo,Calgary,Alberta
+478,1099,Falconridge,1,1,500,Apt/Condo,Calgary,Alberta
+479,1199,Falconridge,2,1,800,Apt/Condo,Calgary,Alberta
+480,975,Rosedale,1,1,600,Apt/Condo,Calgary,Alberta
+481,1199,Rosedale,2,1,750,Apt/Condo,Calgary,Alberta
+482,950,South Calgary,0,1,450,Apt/Condo,Calgary,Alberta
+483,1000,Windsor Park ,0,1,538,Apt/Condo,Calgary,Alberta
+484,1099,Windsor Park ,1,1,565,Apt/Condo,Calgary,Alberta
+485,1299,Windsor Park ,2,1,790,Apt/Condo,Calgary,Alberta
+486,1025,Capitol Hill,1,1,438,Apt/Condo,Calgary,Alberta
+487,1350,Capitol Hill,2,1,700,Apt/Condo,Calgary,Alberta
+488,999,Dover,1,1,479,Apt/Condo,Calgary,Alberta
+489,1325,Dover,2,1,785,Apt/Condo,Calgary,Alberta
+490,1175,Acadia,2,1,803,Apt/Condo,Calgary,Alberta
+491,1185,Mission,2,1,749,Multifamily,Calgary,Alberta
+492,1075,Bankview,1,1,500,Apt/Condo,Calgary,Alberta
+493,1175,Acadia,1,1,568,Apt/Condo,Calgary,Alberta
+494,900,Mission,1,1,570,Apt/Condo,Calgary,Alberta
+495,850,Mission,0,1,350,Apt/Condo,Calgary,Alberta
+496,850,Mission,0,1,252,Multifamily,Calgary,Alberta
+497,1049,Mission,1,1,312,Multifamily,Calgary,Alberta
+498,945,Forest Heights,1,1,500,Apt/Condo,Calgary,Alberta
+499,1075,South Calgary,1,1,473,Apt/Condo,Calgary,Alberta
+500,1175,South Calgary,2,1,736,Apt/Condo,Calgary,Alberta
+501,1050,Bankview,1,1,497,Apt/Condo,Calgary,Alberta
+502,1325,Bankview,2,1,760,Apt/Condo,Calgary,Alberta
+503,1225,Bankview,2,1,782,Apt/Condo,Calgary,Alberta
+504,925,Bankview,0,1,335,Apt/Condo,Calgary,Alberta
+505,1050,Bankview,1,1,519,Apt/Condo,Calgary,Alberta
+506,1075,Bankview,1,1,569,Apt/Condo,Calgary,Alberta
+507,1395,Southview,2,1,1140,House,Calgary,Alberta
+508,1500,Downtown Calgary Core,1,1,700,Apt/Condo,Calgary,Alberta
+509,1150,Penbrooke Meadows,2,1,1000,Townhouse,Calgary,Alberta
+510,1290,Bowness,2,1,1080,Townhouse,Calgary,Alberta
+511,1249,Marlborough,3,1,950,House,Calgary,Alberta
+512,1245,Southview,3,1,1300,House,Calgary,Alberta
+513,797,Albert Park Radison Heights,2,1,750,House,Calgary,Alberta
+514,2495,Hillhurst,3,2,1447,Townhouse,Calgary,Alberta
+515,2495,Windsor Park ,3,2,1218,Townhouse,Calgary,Alberta
+516,1950,Downtown West End,2,2,710,House,Calgary,Alberta
+517,1875,Downtown West End,1,1,970,Apt/Condo,Calgary,Alberta
+518,1995,Mission,2,2,880,Apt/Condo,Calgary,Alberta
+519,1170,Douglasdale,1,1,520,Apt/Condo,Calgary,Alberta
+520,1850,Downtown East Village,1,1,480,House,Calgary,Alberta
+521,2500,Beltline,2,2,820,House,Calgary,Alberta
+522,1950,Beltline,1,1,710,House,Calgary,Alberta
+523,1375,Chilliwack N Yale Well,2,1,780,Apt/Condo,chilliwack,BC
+524,975,Chilliwack N Yale Well,0,1,527,Apt/Condo,chilliwack,BC
+525,1155,Chilliwack N Yale Well,1,1,550,Apt/Condo,chilliwack,BC
+526,975,Chilliwack N Yale Well,0,1,400,Apt/Condo,chilliwack,BC
+527,1155,Chilliwack N Yale Well,1,1,603,Apt/Condo,chilliwack,BC
+528,1375,Chilliwack N Yale Well,2,1,869,Apt/Condo,chilliwack,BC
+529,975,Chilliwack E Young Yale,0,1,450,Apt/Condo,chilliwack,BC
+530,1375,Chilliwack E Young Yale,2,1,765,Apt/Condo,chilliwack,BC
+531,1175,Chilliwack E Young Yale,1,1,626,Apt/Condo,chilliwack,BC
+532,1300,Fairfield Island,1,1,1016,House,chilliwack,BC
+533,2300,Chilliwack E Young Yale,3,2,1420,House,chilliwack,BC
+534,2200,Chilliwack E Young Yale,3,2,1000,House,chilliwack,BC
+535,1250,Empire Park,3,2,980,Townhouse,Edmonton,Alberta
+536,1850,Queen Mary Park,5,2,1050,House,Edmonton,Alberta
+537,2200,Jackson Heights,5,3,2800,House,Edmonton,Alberta
+538,1045,Killarney,2,1,952,Townhouse,Edmonton,Alberta
+539,1425,Empire Park,3,2,1232,Townhouse,Edmonton,Alberta
+540,1100,Empire Park,3,1,1054,Apt/Condo,Edmonton,Alberta
+541,1100,Empire Park,2,1,1054,Apt/Condo,Edmonton,Alberta
+542,1350,Empire Park,3,2,1254,Apt/Condo,Edmonton,Alberta
+543,999,Overlanders,2,1,940,Apt/Condo,Edmonton,Alberta
+544,729,Cromdale,0,1,344,Apt/Condo,Edmonton,Alberta
+545,929,Cromdale,1,1,835,Apt/Condo,Edmonton,Alberta
+546,979,Cromdale,1,1,720,Apt/Condo,Edmonton,Alberta
+547,779,Cromdale,0,1,610,Apt/Condo,Edmonton,Alberta
+548,949,Rossdale,1,1,612,Apt/Condo,Edmonton,Alberta
+549,599,Downtown,0,1,180,Multifamily,Edmonton,Alberta
+550,959,Downtown,1,1,612,Apt/Condo,Edmonton,Alberta
+551,699,Downtown,1,1,530,Multifamily,Edmonton,Alberta
+552,749,Downtown,0,1,470,Apt/Condo,Edmonton,Alberta
+553,1059,Rossdale,2,1,820,Apt/Condo,Edmonton,Alberta
+554,729,Downtown,0,1,391,Apt/Condo,Edmonton,Alberta
+555,1029,Downtown,2,1,804,Apt/Condo,Edmonton,Alberta
+556,929,Downtown,1,1,587,Apt/Condo,Edmonton,Alberta
+557,959,Rossdale,1,1,650,Apt/Condo,Edmonton,Alberta
+558,619,Downtown,0,1,341,Apt/Condo,Edmonton,Alberta
+559,1100,Downtown,1,1,713,Apt/Condo,Edmonton,Alberta
+560,1325,Downtown,2,1,767,Apt/Condo,Edmonton,Alberta
+561,829,Downtown,0,1,294,Apt/Condo,Edmonton,Alberta
+562,1029,Downtown,1,1,538,Apt/Condo,Edmonton,Alberta
+563,899,Downtown,1,1,516,Apt/Condo,Edmonton,Alberta
+564,839,Downtown,0,1,475,Apt/Condo,Edmonton,Alberta
+565,1009,Downtown,1,1,783,Apt/Condo,Edmonton,Alberta
+566,1089,Downtown,2,1,824,Apt/Condo,Edmonton,Alberta
+567,929,Downtown,1,1,546,Apt/Condo,Edmonton,Alberta
+568,729,Downtown,0,1,400,Apt/Condo,Edmonton,Alberta
+569,729,Downtown,0,1,490,Apt/Condo,Edmonton,Alberta
+570,1029,Downtown,2,1,884,Apt/Condo,Edmonton,Alberta
+571,1029,Downtown,2,1,737,Apt/Condo,Edmonton,Alberta
+572,1049,Oliver,1,1,600,Apt/Condo,Edmonton,Alberta
+573,1045,Strathcona,2,1,955,Apt/Condo,Edmonton,Alberta
+574,895,Strathcona,1,1,900,Apt/Condo,Edmonton,Alberta
+575,1550,Boyle Street,2,2,812,Apt/Condo,Edmonton,Alberta
+576,2050,Boyle Street,3,2,1057,Apt/Condo,Edmonton,Alberta
+577,1150,Boyle Street,1,1,500,Apt/Condo,Edmonton,Alberta
+578,1599,Callaghan,3,3,1400,Townhouse,Edmonton,Alberta
+579,1575,Allard,3,3,1324,Duplex,Edmonton,Alberta
+580,1150,Oliver,1,1,705,Apt/Condo,Edmonton,Alberta
+581,1399,Edmonton,2,1,830,Apt/Condo,Edmonton,Alberta
+582,1950,Elsinore,4,4,1871,Townhouse,Edmonton,Alberta
+583,1215,Overlanders,2,2,886,Townhouse,Edmonton,Alberta
+584,776,Parkdale,1,1,570,Apt/Condo,Edmonton,Alberta
+585,1499,Walker,2,3,1237,House,Edmonton,Alberta
+586,1335,Canon Ridge,3,2,1100,Townhouse,Edmonton,Alberta
+587,1176,Overlanders,2,1,1023,Apt/Condo,Edmonton,Alberta
+588,825,Canora,1,1,515,Apt/Condo,Edmonton,Alberta
+589,1149,Hairsine,1,1,850,Apt/Condo,Edmonton,Alberta
+590,1050,Strathcona,1,1,338,Apt/Condo,Edmonton,Alberta
+591,1276,Overlanders,3,2,1003,Apt/Condo,Edmonton,Alberta
+592,995,Rideau Park,1,1,750,Apt/Condo,Edmonton,Alberta
+593,1050,Strathcona,0,1,322,Apt/Condo,Edmonton,Alberta
+594,850,Eastwood,1,1,600,Apt/Condo,Edmonton,Alberta
+595,1700,Forest Heights,2,2,1164,Apt/Condo,Edmonton,Alberta
+596,1800,Chappelle Area,3,3,1650,Duplex,Edmonton,Alberta
+597,1100,Sakaw,2,1,1064,Multifamily,Edmonton,Alberta
+598,899,Overlanders,1,1,785,Apt/Condo,Edmonton,Alberta
+599,1200,Downtown,0,1,460,Apt/Condo,Edmonton,Alberta
+600,1350,Jackson Heights,1,1,692,Apt/Condo,Edmonton,Alberta
+601,852,Eastwood,2,1,710,Apt/Condo,Edmonton,Alberta
+602,867,Callingwood North,1,1,600,Apt/Condo,Edmonton,Alberta
+603,900,Westmount,1,1,700,Apt/Condo,Edmonton,Alberta
+604,950,Westmount,1,1,625,Apt/Condo,Edmonton,Alberta
+605,1000,Glenwood,1,1,696,Apt/Condo,Edmonton,Alberta
+606,1150,Glenwood,2,1,910,Apt/Condo,Edmonton,Alberta
+607,1075,Oliver,2,1,780,Apt/Condo,Edmonton,Alberta
+608,1050,Oliver,2,1,790,Apt/Condo,Edmonton,Alberta
+609,900,Oliver,1,1,470,Apt/Condo,Edmonton,Alberta
+610,1170,Killarney,3,1,1064,Townhouse,Edmonton,Alberta
+611,1199,Dunluce,2,1,889,Apt/Condo,Edmonton,Alberta
+612,1247,Blue Quill,2,1,855,Apt/Condo,Edmonton,Alberta
+613,1075,Strathcona,0,1,338,Apt/Condo,Edmonton,Alberta
+614,995,Eastwood,2,1,747,Apt/Condo,Edmonton,Alberta
+615,1465,Queen Alexandra,1,1,645,Apt/Condo,Edmonton,Alberta
+616,1435,Queen Alexandra,1,1,663,Apt/Condo,Edmonton,Alberta
+617,1595,Queen Alexandra,1,1,676,Apt/Condo,Edmonton,Alberta
+618,1445,Queen Alexandra,1,1,566,Apt/Condo,Edmonton,Alberta
+619,1895,Queen Alexandra,2,2,800,Apt/Condo,Edmonton,Alberta
+620,1725,Queen Alexandra,1,1,705,Apt/Condo,Edmonton,Alberta
+621,1605,Queen Alexandra,1,1,700,Apt/Condo,Edmonton,Alberta
+622,1485,Queen Alexandra,1,1,634,Apt/Condo,Edmonton,Alberta
+623,2350,Queen Alexandra,2,2,943,Apt/Condo,Edmonton,Alberta
+624,1475,Queen Alexandra,1,1,634,Apt/Condo,Edmonton,Alberta
+625,2325,Queen Alexandra,2,2,943,Apt/Condo,Edmonton,Alberta
+626,1920,South Terwillegar,2,2,952,Apt/Condo,Edmonton,Alberta
+627,2600,Mcconachie Area,3,3,2107,House,Edmonton,Alberta
+628,1595,The Uplands,2,3,1098,Townhouse,Edmonton,Alberta
+629,1125,Rideau Park,2,1,850,Apt/Condo,Edmonton,Alberta
+630,1350,Glenwood,3,1,1300,Apt/Condo,Edmonton,Alberta
+631,1026,Terrace Heights,1,1,620,Apt/Condo,Edmonton,Alberta
+632,825,Westmount,1,1,600,Apt/Condo,Edmonton,Alberta
+633,875,Westmount,1,1,625,Apt/Condo,Edmonton,Alberta
+634,1025,Oliver,2,1,790,Apt/Condo,Edmonton,Alberta
+635,875,Oliver,1,1,550,Apt/Condo,Edmonton,Alberta
+636,900,Westmount,2,1,750,Apt/Condo,Edmonton,Alberta
+637,925,Oliver,1,1,585,Apt/Condo,Edmonton,Alberta
+638,925,Oliver,1,1,580,Apt/Condo,Edmonton,Alberta
+639,1100,Oliver,1,1,750,Apt/Condo,Edmonton,Alberta
+640,1225,Lorelei,2,1,925,Apt/Condo,Edmonton,Alberta
+641,875,Westmount,1,1,625,Apt/Condo,Edmonton,Alberta
+642,1250,Westmount,3,1,950,Apt/Condo,Edmonton,Alberta
+643,1595,Blue Quill Estates,2,3,1098,Townhouse,Edmonton,Alberta
+644,976,Queen Mary Park,1,1,717,Apt/Condo,Edmonton,Alberta
+645,1492,The Hamptons,2,2,988,Apt/Condo,Edmonton,Alberta
+646,995,Central Mcdougall,1,1,738,Apt/Condo,Edmonton,Alberta
+647,1000,Strathcona,0,1,293,Apt/Condo,Edmonton,Alberta
+648,1329,Callingwood North,2,1,850,Apt/Condo,Edmonton,Alberta
+649,925,Overlanders,2,1,780,Apt/Condo,Edmonton,Alberta
+650,1151,Overlanders,2,1,1023,Apt/Condo,Edmonton,Alberta
+651,951,Central Mcdougall,2,1,780,Apt/Condo,Edmonton,Alberta
+652,776,Cromdale,1,1,435,Apt/Condo,Edmonton,Alberta
+653,1519,Richfield,2,2,1120,Townhouse,Edmonton,Alberta
+654,1330,Empire Park,2,2,1003,Townhouse,Edmonton,Alberta
+655,1250,Hairsine,3,2,1069,Townhouse,Edmonton,Alberta
+656,1140,Empire Park,2,1,1050,Townhouse,Edmonton,Alberta
+657,1695,Queen Alexandra,1,1,705,Apt/Condo,Edmonton,Alberta
+658,1445,Queen Alexandra,1,1,645,Apt/Condo,Edmonton,Alberta
+659,1139,Oliver,1,1,660,Apt/Condo,Edmonton,Alberta
+660,1309,Hairsine,2,1,925,Apt/Condo,Edmonton,Alberta
+661,1352,Garneau,1,1,600,Apt/Condo,Edmonton,Alberta
+662,1800,Belmead,4,2,1241,House,Edmonton,Alberta
+663,1600,Stillwater,3,3,1403,Townhouse,Edmonton,Alberta
+664,1165,Empire Park,2,1,980,Townhouse,Edmonton,Alberta
+665,1419,The Hamptons,2,2,906,Apt/Condo,Edmonton,Alberta
+666,1499,Allard,2,2,1208,Townhouse,Edmonton,Alberta
+667,1395,Oliver,1,1,678,Apt/Condo,Edmonton,Alberta
+668,1416,Oliver,2,1,813,Apt/Condo,Edmonton,Alberta
+669,1350,Garneau,2,2,985,Apt/Condo,Edmonton,Alberta
+670,1341,Tweddle Place,2,2,1075,Townhouse,Edmonton,Alberta
+671,2000,Boyle Street,2,2,1300,Apt/Condo,Edmonton,Alberta
+672,1150,Rutherford,2,1,900,Apt/Condo,Edmonton,Alberta
+673,1150,Montrose,2,1,1000,Apt/Condo,Edmonton,Alberta
+674,1675,Carlton,2,2,1057,Apt/Condo,Edmonton,Alberta
+675,967,Brander Gardens,1,1,704,Apt/Condo,Edmonton,Alberta
+676,1300,Charlesworth,1,1,809,Apt/Condo,Edmonton,Alberta
+677,1170,Callingwood South,2,2,1213,Apt/Condo,Edmonton,Alberta
+678,1700,Maple,3,3,1425,House,Edmonton,Alberta
+679,1350,Ermineskin,0,1,402,Apt/Condo,Edmonton,Alberta
+680,1070,Killarney,3,1,1064,Townhouse,Edmonton,Alberta
+681,1356,Oliver,1,1,698,Apt/Condo,Edmonton,Alberta
+682,1720,Oliver,2,2,1029,Apt/Condo,Edmonton,Alberta
+683,1220,Oliver,0,1,543,Apt/Condo,Edmonton,Alberta
+684,779,Killarney,1,1,740,Apt/Condo,Edmonton,Alberta
+685,871,Killarney,2,1,950,Apt/Condo,Edmonton,Alberta
+686,1000,Kensington,2,1,1200,Multifamily,Edmonton,Alberta
+687,1195,Kildare,3,1,900,Townhouse,Edmonton,Alberta
+688,1197,Blue Quill,2,1,855,Apt/Condo,Edmonton,Alberta
+689,799,Cromdale,1,1,529,Apt/Condo,Edmonton,Alberta
+690,1330,Overlanders,3,2,1039,Townhouse,Edmonton,Alberta
+691,1499,Thorncliff,2,2,1000,Townhouse,Edmonton,Alberta
+692,727,Central Mcdougall,1,1,710,Apt/Condo,Edmonton,Alberta
+693,876,Overlanders,1,1,645,Apt/Condo,Edmonton,Alberta
+694,1199,Tamarack,2,1,823,Apt/Condo,Edmonton,Alberta
+695,1260,Overlanders,2,2,969,Townhouse,Edmonton,Alberta
+696,1100,Central Mcdougall,2,1,900,Apt/Condo,Edmonton,Alberta
+697,1360,Empire Park,2,1,1050,Townhouse,Edmonton,Alberta
+698,1429,Carlisle,3,1,1400,Apt/Condo,Edmonton,Alberta
+699,792,Edmonton,0,1,495,Apt/Condo,Edmonton,Alberta
+700,1359,Oliver,1,1,740,Apt/Condo,Edmonton,Alberta
+701,1375,Downtown,2,2,916,Apt/Condo,Edmonton,Alberta
+702,1755,Downtown,1,1,628,Apt/Condo,Edmonton,Alberta
+703,2125,Downtown,1,1,731,Apt/Condo,Edmonton,Alberta
+704,2070,Downtown,1,1,628,Apt/Condo,Edmonton,Alberta
+705,1425,Downtown,1,1,556,Apt/Condo,Edmonton,Alberta
+706,1570,Downtown,1,1,490,Apt/Condo,Edmonton,Alberta
+707,975,Queen Mary Park,2,1,704,Apt/Condo,Edmonton,Alberta
+708,699,Westwood,1,1,645,Apt/Condo,Edmonton,Alberta
+709,1367,Thorncliff,3,2,1100,Townhouse,Edmonton,Alberta
+710,1329,Downtown,2,1,694,Apt/Condo,Edmonton,Alberta
+711,1487,Thorncliff,3,2,1525,Multifamily,Edmonton,Alberta
+712,2150,Ermineskin,3,2,900,Apt/Condo,Edmonton,Alberta
+713,1467,The Hamptons,2,2,988,Apt/Condo,Edmonton,Alberta
+714,1605,Queen Alexandra,1,1,624,Apt/Condo,Edmonton,Alberta
+715,1263,Belmead,3,2,1134,Apt/Condo,Edmonton,Alberta
+716,1125,Griesbach,2,1,685,Townhouse,Edmonton,Alberta
+717,1499,Bisset,3,2,1112,Townhouse,Edmonton,Alberta
+718,1309,Edmonton,3,1,900,Townhouse,Edmonton,Alberta
+719,995,Edmonton,2,1,823,Apt/Condo,Edmonton,Alberta
+720,895,Edmonton,1,1,688,Apt/Condo,Edmonton,Alberta
+721,1619,Edmonton,3,1,1175,Townhouse,Edmonton,Alberta
+722,1021,Edmonton,1,1,590,Apt/Condo,Edmonton,Alberta
+723,1243,Edmonton,3,1,1100,Townhouse,Edmonton,Alberta
+724,1375,Edmonton,3,1,1088,Townhouse,Edmonton,Alberta
+725,1396,Edmonton,1,1,625,Apt/Condo,Edmonton,Alberta
+726,1254,Edmonton,3,2,1134,Apt/Condo,Edmonton,Alberta
+727,937,Edmonton,1,1,795,Apt/Condo,Edmonton,Alberta
+728,1036,Edmonton,0,1,750,Apt/Condo,Edmonton,Alberta
+729,1380,Edmonton,2,2,814,Apt/Condo,Edmonton,Alberta
+730,925,Edmonton,1,1,744,Apt/Condo,Edmonton,Alberta
+731,726,Edmonton,2,1,680,Apt/Condo,Edmonton,Alberta
+732,960,Edmonton,1,1,750,Apt/Condo,Edmonton,Alberta
+733,1359,Edmonton,1,1,724,Apt/Condo,Edmonton,Alberta
+734,1667,Edmonton,2,2,860,Apt/Condo,Edmonton,Alberta
+735,1509,Edmonton,3,1,1000,Apt/Condo,Edmonton,Alberta
+736,1160,Edmonton,1,1,548,Apt/Condo,Edmonton,Alberta
+737,1395,Edmonton,1,1,585,Apt/Condo,Edmonton,Alberta
+738,1835,Edmonton,2,1,792,Apt/Condo,Edmonton,Alberta
+739,1925,Edmonton,2,2,947,Apt/Condo,Edmonton,Alberta
+740,2150,Edmonton,3,2,1108,Apt/Condo,Edmonton,Alberta
+741,1235,Edmonton,2,1,914,Townhouse,Edmonton,Alberta
+742,1067,Edmonton,1,1,902,Apt/Condo,Edmonton,Alberta
+743,951,Edmonton,1,1,744,Apt/Condo,Edmonton,Alberta
+744,776,Edmonton,1,1,657,Apt/Condo,Edmonton,Alberta
+745,1279,Edmonton,2,1,914,Apt/Condo,Edmonton,Alberta
+746,1124,Edmonton,2,1,814,Apt/Condo,Edmonton,Alberta
+747,1159,Edmonton,0,1,348,Apt/Condo,Edmonton,Alberta
+748,1399,Edmonton,3,1,968,Apt/Condo,Edmonton,Alberta
+749,1267,Edmonton,3,2,1250,Apt/Condo,Edmonton,Alberta
+750,1275,Edmonton,2,2,1012,Apt/Condo,Edmonton,Alberta
+751,1159,Edmonton,2,1,734,Townhouse,Edmonton,Alberta
+752,869,Edmonton,1,1,455,Apt/Condo,Edmonton,Alberta
+753,1287,Edmonton,3,1,1175,Townhouse,Edmonton,Alberta
+754,1179,Edmonton,2,1,1550,Apt/Condo,Edmonton,Alberta
+755,1379,Edmonton,2,1,750,Apt/Condo,Edmonton,Alberta
+756,715,Edmonton,0,1,400,Apt/Condo,Edmonton,Alberta
+757,850,Edmonton,1,1,530,Apt/Condo,Edmonton,Alberta
+758,899,Edmonton,0,1,440,Apt/Condo,Edmonton,Alberta
+759,1049,Edmonton,1,1,626,Apt/Condo,Edmonton,Alberta
+760,1497,Edmonton,2,3,1031,Townhouse,Edmonton,Alberta
+761,1739,Edmonton,3,2,1812,Apt/Condo,Edmonton,Alberta
+762,1117,Edmonton,2,1,850,Apt/Condo,Edmonton,Alberta
+763,1055,Edmonton,1,1,728,Apt/Condo,Edmonton,Alberta
+764,1015,Edmonton,2,2,975,Apt/Condo,Edmonton,Alberta
+765,825,Edmonton,1,1,652,Apt/Condo,Edmonton,Alberta
+766,1397,Edmonton,1,1,652,Apt/Condo,Edmonton,Alberta
+767,775,Edmonton,2,1,700,Apt/Condo,Edmonton,Alberta
+768,1234,Edmonton,1,1,666,Apt/Condo,Edmonton,Alberta
+769,1014,Edmonton,1,1,682,Apt/Condo,Edmonton,Alberta
+770,911,Edmonton,1,1,678,Apt/Condo,Edmonton,Alberta
+771,1519,Edmonton,3,2,1036,Townhouse,Edmonton,Alberta
+772,1057,Edmonton,2,1,1017,Townhouse,Edmonton,Alberta
+773,1360,Edmonton,4,1,1162,Townhouse,Edmonton,Alberta
+774,1513,Edmonton,2,2,1073,Apt/Condo,Edmonton,Alberta
+775,1299,Edmonton,3,2,1047,Townhouse,Edmonton,Alberta
+776,1200,Edmonton,3,2,950,Townhouse,Edmonton,Alberta
+777,750,Edmonton,1,1,489,Apt/Condo,Edmonton,Alberta
+778,909,Edmonton,0,1,398,Apt/Condo,Edmonton,Alberta
+779,1239,Edmonton,2,1,900,Townhouse,Edmonton,Alberta
+780,1360,Edmonton,2,2,1020,Apt/Condo,Edmonton,Alberta
+781,1071,Edmonton,2,1,704,Apt/Condo,Edmonton,Alberta
+782,926,Edmonton,1,1,547,Apt/Condo,Edmonton,Alberta
+783,811,Edmonton,1,1,678,Apt/Condo,Edmonton,Alberta
+784,850,Edmonton,2,1,793,Apt/Condo,Edmonton,Alberta
+785,976,Edmonton,2,1,738,Apt/Condo,Edmonton,Alberta
+786,875,Edmonton,1,1,494,Apt/Condo,Edmonton,Alberta
+787,875,Edmonton,2,1,656,Apt/Condo,Edmonton,Alberta
+788,735,Edmonton,1,1,515,Apt/Condo,Edmonton,Alberta
+789,1450,Edmonton,2,1,865,Apt/Condo,Edmonton,Alberta
+790,875,Edmonton,0,1,425,Apt/Condo,Edmonton,Alberta
+791,1100,Edmonton,1,1,630,Apt/Condo,Edmonton,Alberta
+792,1037,Edmonton,2,1,850,Apt/Condo,Edmonton,Alberta
+793,1037,Edmonton,2,1,1017,Townhouse,Edmonton,Alberta
+794,779,Edmonton,1,1,560,Apt/Condo,Edmonton,Alberta
+795,929,Edmonton,2,1,721,Apt/Condo,Edmonton,Alberta
+796,1220,Edmonton,3,1,958,Apt/Condo,Edmonton,Alberta
+797,877,Edmonton,2,1,889,Apt/Condo,Edmonton,Alberta
+798,793,Edmonton,0,1,450,Apt/Condo,Edmonton,Alberta
+799,818,Edmonton,0,1,540,Apt/Condo,Edmonton,Alberta
+800,1160,Edmonton,2,1,1135,Apt/Condo,Edmonton,Alberta
+801,1048,Edmonton,1,1,700,Apt/Condo,Edmonton,Alberta
+802,1242,Edmonton,3,2,1148,Townhouse,Edmonton,Alberta
+803,995,Edmonton,1,1,652,Apt/Condo,Edmonton,Alberta
+804,925,Edmonton,2,1,900,Apt/Condo,Edmonton,Alberta
+805,1400,Edmonton,2,2,836,Apt/Condo,Edmonton,Alberta
+806,951,Edmonton,1,1,680,Apt/Condo,Edmonton,Alberta
+807,1328,Edmonton,2,1,845,Apt/Condo,Edmonton,Alberta
+808,1116,Edmonton,2,1,904,Apt/Condo,Edmonton,Alberta
+809,1177,Edmonton,2,1,904,Apt/Condo,Edmonton,Alberta
+810,2038,Edmonton,3,2,2553,Apt/Condo,Edmonton,Alberta
+811,1217,Edmonton,2,2,1050,Apt/Condo,Edmonton,Alberta
+812,1074,Edmonton,2,2,960,Apt/Condo,Edmonton,Alberta
+813,1139,Edmonton,0,1,477,Apt/Condo,Edmonton,Alberta
+814,901,Edmonton,1,1,455,Apt/Condo,Edmonton,Alberta
+815,1395,Edmonton,2,2,1225,Apt/Condo,Edmonton,Alberta
+816,1239,Edmonton,2,1,718,Apt/Condo,Edmonton,Alberta
+817,1189,Edmonton,1,1,734,Apt/Condo,Edmonton,Alberta
+818,992,Edmonton,1,1,730,Apt/Condo,Edmonton,Alberta
+819,1057,Edmonton,2,1,971,Apt/Condo,Edmonton,Alberta
+820,1081,Edmonton,0,1,406,Apt/Condo,Edmonton,Alberta
+821,1037,Edmonton,1,1,800,Apt/Condo,Edmonton,Alberta
+822,950,Edmonton,1,1,672,Apt/Condo,Edmonton,Alberta
+823,1070,Edmonton,3,1,900,Townhouse,Edmonton,Alberta
+824,1559,Edmonton,3,2,1525,Multifamily,Edmonton,Alberta
+825,890,Edmonton,1,1,578,Apt/Condo,Edmonton,Alberta
+826,1195,Edmonton,1,1,925,Apt/Condo,Edmonton,Alberta
+827,896,Edmonton,1,1,588,Apt/Condo,Edmonton,Alberta
+828,725,Edmonton,1,1,601,Apt/Condo,Edmonton,Alberta
+829,800,Edmonton,0,1,439,Apt/Condo,Edmonton,Alberta
+830,827,Edmonton,2,1,710,Apt/Condo,Edmonton,Alberta
+831,888,Edmonton,1,1,616,Apt/Condo,Edmonton,Alberta
+832,1287,Edmonton,3,2,1115,Apt/Condo,Edmonton,Alberta
+833,1235,Edmonton,2,1,991,Apt/Condo,Edmonton,Alberta
+834,951,Edmonton,1,1,850,Apt/Condo,Edmonton,Alberta
+835,1007,Edmonton,2,1,1175,Townhouse,Edmonton,Alberta
+836,926,Edmonton,0,1,525,Apt/Condo,Edmonton,Alberta
+837,1037,Edmonton,2,1,1017,Townhouse,Edmonton,Alberta
+838,1107,Edmonton,3,1,1175,Townhouse,Edmonton,Alberta
+839,1179,Edmonton,1,1,719,Apt/Condo,Edmonton,Alberta
+840,1079,Edmonton,1,1,750,Apt/Condo,Edmonton,Alberta
+841,1249,Edmonton,2,1,925,Apt/Condo,Edmonton,Alberta
+842,937,Edmonton,1,1,704,Apt/Condo,Edmonton,Alberta
+843,1327,Edmonton,3,2,1175,Townhouse,Edmonton,Alberta
+844,989,Edmonton,1,1,562,Apt/Condo,Edmonton,Alberta
+845,1359,Edmonton,2,1,918,Apt/Condo,Edmonton,Alberta
+846,1117,Edmonton,3,1,1300,Apt/Condo,Edmonton,Alberta
+847,1339,Edmonton,3,2,1200,Apt/Condo,Edmonton,Alberta
+848,887,Edmonton,1,1,644,Apt/Condo,Edmonton,Alberta
+849,1143,Edmonton,3,1,900,Townhouse,Edmonton,Alberta
+850,669,Edmonton,0,1,311,Apt/Condo,Edmonton,Alberta
+851,941,Edmonton,0,1,348,Apt/Condo,Edmonton,Alberta
+852,1001,Edmonton,1,1,627,Apt/Condo,Edmonton,Alberta
+853,1061,Edmonton,2,1,810,Apt/Condo,Edmonton,Alberta
+854,1104,Edmonton,1,1,734,Apt/Condo,Edmonton,Alberta
+855,1361,Edmonton,2,1,814,Apt/Condo,Edmonton,Alberta
+856,926,Edmonton,1,1,787,Apt/Condo,Edmonton,Alberta
+857,1100,Edmonton,2,1,960,Apt/Condo,Edmonton,Alberta
+858,941,Edmonton,1,1,694,Apt/Condo,Edmonton,Alberta
+859,977,Edmonton,2,1,824,Apt/Condo,Edmonton,Alberta
+860,1042,Edmonton,2,1,800,Apt/Condo,Edmonton,Alberta
+861,1119,Edmonton,1,1,614,Apt/Condo,Edmonton,Alberta
+862,1419,Edmonton,1,1,600,Apt/Condo,Edmonton,Alberta
+863,1317,Edmonton,3,2,1400,Townhouse,Edmonton,Alberta
+864,1299,Edmonton,2,2,1000,Townhouse,Edmonton,Alberta
+865,1277,Edmonton,2,2,1000,Townhouse,Edmonton,Alberta
+866,1227,Edmonton,3,2,1100,Townhouse,Edmonton,Alberta
+867,1524,Edmonton,2,1,1067,Apt/Condo,Edmonton,Alberta
+868,1699,Edmonton,2,1,1142,Apt/Condo,Edmonton,Alberta
+869,1157,Edmonton,3,1,1180,Apt/Condo,Edmonton,Alberta
+870,1036,Edmonton,1,1,780,Apt/Condo,Edmonton,Alberta
+871,1257,Edmonton,1,1,780,Apt/Condo,Edmonton,Alberta
+872,907,Edmonton,1,1,795,Apt/Condo,Edmonton,Alberta
+873,1199,Edmonton,3,2,1500,Apt/Condo,Edmonton,Alberta
+874,1014,Edmonton,2,2,1000,Apt/Condo,Edmonton,Alberta
+875,1479,Edmonton,3,1,1040,Apt/Condo,Edmonton,Alberta
+876,976,Edmonton,1,1,572,Apt/Condo,Edmonton,Alberta
+877,787,Edmonton,1,1,450,Multifamily,Edmonton,Alberta
+878,1149,Edmonton,2,1,771,Apt/Condo,Edmonton,Alberta
+879,1409,Edmonton,2,1,894,Apt/Condo,Edmonton,Alberta
+880,906,Edmonton,0,1,540,Apt/Condo,Edmonton,Alberta
+881,1067,Edmonton,2,1,958,Apt/Condo,Edmonton,Alberta
+882,1219,Edmonton,2,1,969,Apt/Condo,Edmonton,Alberta
+883,896,Edmonton,2,1,738,Apt/Condo,Edmonton,Alberta
+884,914,Edmonton,2,1,772,Multifamily,Edmonton,Alberta
+885,1087,Edmonton,2,1,737,Apt/Condo,Edmonton,Alberta
+886,1187,Edmonton,3,2,1117,Apt/Condo,Edmonton,Alberta
+887,1247,Edmonton,2,1,1164,Apt/Condo,Edmonton,Alberta
+888,1129,Edmonton,1,1,600,Apt/Condo,Edmonton,Alberta
+889,1089,Edmonton,2,1,829,Apt/Condo,Edmonton,Alberta
+890,887,Edmonton,1,1,734,Apt/Condo,Edmonton,Alberta
+891,1359,Edmonton,2,2,1320,Apt/Condo,Edmonton,Alberta
+892,1271,Edmonton,3,1,1107,Townhouse,Edmonton,Alberta
+893,857,Edmonton,1,1,636,Apt/Condo,Edmonton,Alberta
+894,1137,Edmonton,2,2,1110,Apt/Condo,Edmonton,Alberta
+895,937,Edmonton,2,1,838,Apt/Condo,Edmonton,Alberta
+896,1387,Edmonton,3,2,1812,Apt/Condo,Edmonton,Alberta
+897,1361,Edmonton,2,1,1125,Apt/Condo,Edmonton,Alberta
+898,1267,Edmonton,3,2,1100,Townhouse,Edmonton,Alberta
+899,877,Edmonton,1,1,510,Apt/Condo,Edmonton,Alberta
+900,1369,Fort Mcmurray,2,1,792,Apt/Condo,For_Mcmurray,Alberta
+901,1249,Fort Mcmurray,2,1,850,Apt/Condo,For_Mcmurray,Alberta
+902,1316,Fort Mcmurray,1,1,697,Apt/Condo,For_Mcmurray,Alberta
+903,1236,Fort Mcmurray,2,1,850,Apt/Condo,For_Mcmurray,Alberta
+904,1316,Fort Mcmurray,1,1,650,Apt/Condo,For_Mcmurray,Alberta
+905,1449,Fort Mcmurray,1,1,608,Apt/Condo,For_Mcmurray,Alberta
+906,1739,Fort Mcmurray,3,1,980,Apt/Condo,For_Mcmurray,Alberta
+907,1226,Fort Mcmurray,2,1,820,Apt/Condo,For_Mcmurray,Alberta
+908,1296,Fort Mcmurray,2,1,850,Apt/Condo,For_Mcmurray,Alberta
+909,1263,Fort Mcmurray,2,1,925,Apt/Condo,For_Mcmurray,Alberta
+910,1139,Fort Mcmurray,2,1,750,Apt/Condo,For_Mcmurray,Alberta
+911,1326,Fort Mcmurray,2,1,850,Apt/Condo,For_Mcmurray,Alberta
+912,2245,Fort Mcmurray,3,3,1260,Townhouse,For_Mcmurray,Alberta
+913,850,Fort Mcmurray,1,1,667,Apt/Condo,For_Mcmurray,Alberta
+914,899,Grande Prairie,0,1,490,Apt/Condo,Grande_prairie,Alberta
+915,1050,Grande Prairie,2,1,1035,Duplex,Grande_prairie,Alberta
+916,1045,Grande Prairie,2,1,883,Duplex,Grande_prairie,Alberta
+917,1095,Grande Prairie,2,2,1008,Apt/Condo,Grande_prairie,Alberta
+918,995,Grande Prairie,1,1,708,Apt/Condo,Grande_prairie,Alberta
+919,910,Grande Prairie,1,1,701,Apt/Condo,Grande_prairie,Alberta
+920,869,Grande Prairie,0,1,450,Apt/Condo,Grande_prairie,Alberta
+921,1199,Grande Prairie,2,1,925,Apt/Condo,Grande_prairie,Alberta
+922,1095,Grande Prairie,2,2,1003,Apt/Condo,Grande_prairie,Alberta
+923,995,Grande Prairie,1,1,708,Apt/Condo,Grande_prairie,Alberta
+924,1800,Grande Prairie,3,3,1438,House,Grande_prairie,Alberta
+925,1395,Grande Prairie,3,2,1081,Townhouse,Grande_prairie,Alberta
+926,756,Grande Prairie,0,1,450,Apt/Condo,Grande_prairie,Alberta
+927,1045,Grande Prairie,2,1,883,Townhouse,Grande_prairie,Alberta
+928,1150,Grande Prairie,2,1,745,Apt/Condo,Grande_prairie,Alberta
+929,945,Grande Prairie,2,1,990,Townhouse,Grande_prairie,Alberta
+930,959,Grande Prairie,2,1,950,Apt/Condo,Grande_prairie,Alberta
+931,1295,Grande Prairie,4,2,912,House,Grande_prairie,Alberta
+932,995,Grande Prairie,2,2,1130,Apt/Condo,Grande_prairie,Alberta
+933,1115,Grande Prairie,2,1,870,Townhouse,Grande_prairie,Alberta
+934,949,Grande Prairie,1,1,570,Apt/Condo,Grande_prairie,Alberta
+935,1300,Grande Prairie,4,2,1225,Townhouse,Grande_prairie,Alberta
+936,1195,Grande Prairie,3,2,640,Townhouse,Grande_prairie,Alberta
+937,1145,Grande Prairie,3,2,662,Townhouse,Grande_prairie,Alberta
+938,1189,Grande Prairie,2,1,950,Apt/Condo,Grande_prairie,Alberta
+939,979,Grande Prairie,0,1,350,Apt/Condo,Grande_prairie,Alberta
+940,1495,Grande Prairie,3,2,640,Townhouse,Grande_prairie,Alberta
+941,949,Grande Prairie,1,1,403,Townhouse,Grande_prairie,Alberta
+942,260,Grande Prairie,0,1,125,Apt/Condo,Grande_prairie,Alberta
+943,1000,Grande Prairie,2,1,920,Townhouse,Grande_prairie,Alberta
+944,950,Grande Prairie,2,1,700,Townhouse,Grande_prairie,Alberta
+945,1327,Grande Prairie,2,2,953,Apt/Condo,Grande_prairie,Alberta
+946,1352,Grande Prairie,2,1,875,Apt/Condo,Grande_prairie,Alberta
+947,710,Grande Prairie,1,1,612,Apt/Condo,Grande_prairie,Alberta
+948,685,Grande Prairie,2,1,781,Apt/Condo,Grande_prairie,Alberta
+949,985,Grande Prairie,2,2,961,Apt/Condo,Grande_prairie,Alberta
+950,835,Grande Prairie,3,1,963,Apt/Condo,Grande_prairie,Alberta
+951,1035,Grande Prairie,3,2,950,Apt/Condo,Grande_prairie,Alberta
+952,1160,Grande Prairie,2,2,1250,Townhouse,Grande_prairie,Alberta
+953,1210,Grande Prairie,2,2,1250,Townhouse,Grande_prairie,Alberta
+954,1035,Grande Prairie,2,1,904,Apt/Condo,Grande_prairie,Alberta
+955,1119,Grande Prairie,2,1,900,Apt/Condo,Grande_prairie,Alberta
+956,831,Grande Prairie,1,1,700,Apt/Condo,Grande_prairie,Alberta
+957,977,Grande Prairie,2,1,1000,Apt/Condo,Grande_prairie,Alberta
+958,909,Grande Prairie,1,1,403,Townhouse,Grande_prairie,Alberta
+959,769,Grande Prairie,0,1,320,Townhouse,Grande_prairie,Alberta
+960,1011,Grande Prairie,2,1,1100,Townhouse,Grande_prairie,Alberta
+961,951,Grande Prairie,2,1,700,Townhouse,Grande_prairie,Alberta
+962,1095,Grande Prairie,2,2,804,Apt/Condo,Grande_prairie,Alberta
+963,850,Grande Prairie,0,1,417,Apt/Condo,Grande_prairie,Alberta
+964,1395,Grande Prairie,3,3,1230,Townhouse,Grande_prairie,Alberta
+965,899,Grande Prairie,1,1,610,Apt/Condo,Grande_prairie,Alberta
+966,949,Grande Prairie,1,1,675,Apt/Condo,Grande_prairie,Alberta
+967,1125,Grande Prairie,1,1,709,Apt/Condo,Grande_prairie,Alberta
+968,1325,Grande Prairie,2,2,975,Apt/Condo,Grande_prairie,Alberta
+969,1600,Grande Prairie,3,2,642,House,Grande_prairie,Alberta
+970,1650,Grande Prairie,2,2,1014,House,Grande_prairie,Alberta
+971,429900,Grande Prairie,0,0,1461,House,Grande_prairie,Alberta
+972,1800,Grande Prairie,4,2,953,House,Grande_prairie,Alberta
+973,1650,Grande Prairie,4,4,1338,House,Grande_prairie,Alberta
+974,1775,Grande Prairie,3,3,1486,House,Grande_prairie,Alberta
+975,1200,Grande Prairie,2,1,800,House,Grande_prairie,Alberta
+976,1450,Grande Prairie,2,2,1066,House,Grande_prairie,Alberta
+977,1300,Grande Prairie,2,2,1025,House,Grande_prairie,Alberta
+978,1595,Grande Prairie,3,1,1400,Townhouse,Grande_prairie,Alberta
+979,1450,Grande Prairie,3,1,1148,Townhouse,Grande_prairie,Alberta
+980,1550,Grande Prairie,3,2,1137,House,Grande_prairie,Alberta
+981,1050,Grande Prairie,1,1,568,Apt/Condo,Grande_prairie,Alberta
+982,1050,Grande Prairie,1,1,568,Apt/Condo,Grande_prairie,Alberta
+983,1050,Grande Prairie,1,1,568,Apt/Condo,Grande_prairie,Alberta
+984,1050,Grande Prairie,1,1,568,Apt/Condo,Grande_prairie,Alberta
+985,1300,Grande Prairie,3,1,1185,House,Grande_prairie,Alberta
+986,1000,Grande Prairie,1,1,590,Apt/Condo,Grande_prairie,Alberta
+987,975,Grande Prairie,2,1,800,Apt/Condo,Grande_prairie,Alberta
+988,845,Grande Prairie,1,1,650,Apt/Condo,Grande_prairie,Alberta
+989,875,Grande Prairie,2,1,800,Apt/Condo,Grande_prairie,Alberta
+990,1100,Grande Prairie,2,1,1000,House,Grande_prairie,Alberta
+991,1600,Grande Prairie,3,1,1057,Apt/Condo,Grande_prairie,Alberta
+992,1700,Grande Prairie,2,1,1000,House,Grande_prairie,Alberta
+993,1595,Grande Prairie,4,1,776,Duplex,Grande_prairie,Alberta
+994,1300,Grande Prairie,2,2,825,Apt/Condo,Grande_prairie,Alberta
+995,1495,Grande Prairie,3,1,639,Duplex,Grande_prairie,Alberta
+996,2375,North End,3,2,1185,Apt/Condo,Hamilton,Ontario
+997,1950,Durand,2,1,800,Duplex,Hamilton,Ontario
+998,3500,Durand,4,3,2250,House,Hamilton,Ontario
+999,2150,Corktown,2,1,725,Apt/Condo,Hamilton,Ontario
+1000,1525,Riverdale,0,1,380,Apt/Condo,Hamilton,Ontario
+1001,1450,Normanhurst,2,1,600,House,Hamilton,Ontario
+1002,1395,Bonnington,1,1,650,Apt/Condo,Hamilton,Ontario
+1003,1725,Lisgar,2,1,1000,Duplex,Hamilton,Ontario
+1004,2650,Eastmount,3,1,1113,Duplex,Hamilton,Ontario
+1005,2600,Waterdown,3,2,1200,Townhouse,Hamilton,Ontario
+1006,2355,North End,3,2,1110,Apt/Condo,Hamilton,Ontario
+1007,2600,Waterdown,3,2,1200,Townhouse,Hamilton,Ontario
+1008,1375,Ainslie Wood,1,1,655,Apt/Condo,Hamilton,Ontario
+1009,1900,Ainslie Wood,3,2,1054,Apt/Condo,Hamilton,Ontario
+1010,1200,Beasley,1,1,474,Apt/Condo,Hamilton,Ontario
+1011,1099,Beasley,1,1,415,Apt/Condo,Hamilton,Ontario
+1012,1875,Beasley,3,1,830,Apt/Condo,Hamilton,Ontario
+1013,1625,Beasley,2,1,830,Apt/Condo,Hamilton,Ontario
+1014,1299,Beasley,1,1,415,Apt/Condo,Hamilton,Ontario
+1015,1595,Stoney Creek,2,1,750,Apt/Condo,Hamilton,Ontario
+1016,1349,Ainslie Wood,1,1,534,Apt/Condo,Hamilton,Ontario
+1017,2669,Central Hamilton,1,1,898,Apt/Condo,Hamilton,Ontario
+1018,3417,Central Hamilton,3,4,1770,Apt/Condo,Hamilton,Ontario
+1019,2971,Central Hamilton,2,2,992,Apt/Condo,Hamilton,Ontario
+1020,2443,Central Hamilton,1,2,835,Apt/Condo,Hamilton,Ontario
+1021,2428,Central Hamilton,1,2,884,Apt/Condo,Hamilton,Ontario
+1022,2456,Central Hamilton,1,2,838,Apt/Condo,Hamilton,Ontario
+1023,2313,Central Hamilton,1,1,668,Apt/Condo,Hamilton,Ontario
+1024,2384,Central Hamilton,1,2,729,Apt/Condo,Hamilton,Ontario
+1025,2500,Central Hamilton,1,1,805,Apt/Condo,Hamilton,Ontario
+1026,2317,Central Hamilton,1,1,595,Apt/Condo,Hamilton,Ontario
+1027,1275,Ainslie Wood,1,1,509,Apt/Condo,Hamilton,Ontario
+1028,1250,Ainslie Wood,1,1,505,Apt/Condo,Hamilton,Ontario
+1029,1575,Ainslie Wood,2,1,920,Apt/Condo,Hamilton,Ontario
+1030,3390,Ancaster,4,0,1450,House,Hamilton,Ontario
+1031,2000,Rural Stoney Creek,2,1,1500,Apt/Condo,Hamilton,Ontario
+1032,2050,Lawfield,2,2,700,House,Hamilton,Ontario
+1033,3300,Lakeshore,3,4,1500,House,Hamilton,Ontario
+1034,2750,Stoney Creek Mountain,3,3,1500,Townhouse,Hamilton,Ontario
+1035,2500,Randall,3,1,1259,House,Hamilton,Ontario
+1036,2600,Stoney Creek Mountain,3,3,1100,Townhouse,Hamilton,Ontario
+1037,2450,Parkview,3,3,1200,Townhouse,Hamilton,Ontario
+1038,2350,Inch Park,3,2,1100,House,Hamilton,Ontario
+1039,3250,Stoney Creek Mountain,3,3,2000,Townhouse,Hamilton,Ontario
+1040,2800,Rolston,3,1,1086,House,Hamilton,Ontario
+1041,3200,Meadowlands,3,3,1500,Townhouse,Hamilton,Ontario
+1042,2200,Greeningdon,3,1,700,House,Hamilton,Ontario
+1043,3400,Meadowlands,4,4,2500,House,Hamilton,Ontario
+1044,2500,Durand,2,3,1200,Townhouse,Hamilton,Ontario
+1045,1600,Landsdale,1,1,693,Apt/Condo,Hamilton,Ontario
+1046,1800,Stipley,3,1,825,House,Hamilton,Ontario
+1047,2000,Stoney Creek,1,1,1100,House,Hamilton,Ontario
+1048,2400,Mcquesten,4,1,2000,House,Hamilton,Ontario
+1049,3300,Quinndale,4,3,2000,House,Hamilton,Ontario
+1050,2000,Normanhurst,3,1,985,House,Hamilton,Ontario
+1051,2700,Vincent,4,4,1500,Townhouse,Hamilton,Ontario
+1052,2500,Landsdale,3,2,1100,House,Hamilton,Ontario
+1053,2389,Riverdale,3,1,1564,House,Hamilton,Ontario
+1054,3000,Greenford,3,2,4501,House,Hamilton,Ontario
+1055,2000,Hampton Heights,2,1,1000,House,Hamilton,Ontario
+1056,1899,Confederation Park,1,1,600,Apt/Condo,Hamilton,Ontario
+1057,2325,Parkview,3,3,1200,Townhouse,Hamilton,Ontario
+1058,1999,Confederation Park,3,2,1100,House,Hamilton,Ontario
+1059,1225,Central Hamilton,0,1,600,Apt/Condo,Hamilton,Ontario
+1060,2200,Centremount,2,1,750,House,Hamilton,Ontario
+1061,1675,Dundas,1,1,800,Apt/Condo,Hamilton,Ontario
+1062,2600,Waterdown,3,2,1000,Townhouse,Hamilton,Ontario
+1063,2750,Rural Glanbrook,3,3,1500,Townhouse,Hamilton,Ontario
+1064,2300,Inch Park,2,1,1200,House,Hamilton,Ontario
+1065,2500,Confederation Park,2,2,800,Apt/Condo,Hamilton,Ontario
+1066,2950,Confederation Park,2,2,1000,Apt/Condo,Hamilton,Ontario
+1067,1925,Homeside,2,1,926,House,Hamilton,Ontario
+1068,1895,Mcquesten,2,1,820,House,Hamilton,Ontario
+1069,2600,Binbrook,3,3,1500,Townhouse,Hamilton,Ontario
+1070,3000,North End,3,3,1100,House,Hamilton,Ontario
+1071,1850,Confederation Park,2,1,700,Apt/Condo,Hamilton,Ontario
+1072,2650,Vincent,4,3,1500,Townhouse,Hamilton,Ontario
+1073,1145,Lethbridge,2,1,1163,Apt/Condo,Lethbridge,Alberta
+1074,1031,Lethbridge,1,1,520,Apt/Condo,Lethbridge,Alberta
+1075,1051,Lethbridge,2,1,808,Apt/Condo,Lethbridge,Alberta
+1076,1076,Lethbridge,2,1,735,Apt/Condo,Lethbridge,Alberta
+1077,1595,Lethbridge,3,1,1015,Apt/Condo,Lethbridge,Alberta
+1078,1126,Lethbridge,2,1,836,Apt/Condo,Lethbridge,Alberta
+1079,926,Lethbridge,0,1,600,Apt/Condo,Lethbridge,Alberta
+1080,2110,Lethbridge,4,1,1126,Apt/Condo,Lethbridge,Alberta
+1081,926,Lethbridge,1,1,450,Apt/Condo,Lethbridge,Alberta
+1082,826,Lethbridge,0,1,333,Apt/Condo,Lethbridge,Alberta
+1083,1050,Lethbridge,2,1,837,Apt/Condo,Lethbridge,Alberta
+1084,905,Lethbridge,0,1,295,Apt/Condo,Lethbridge,Alberta
+1085,895,Lethbridge,1,1,677,Apt/Condo,Lethbridge,Alberta
+1086,985,Lethbridge,2,1,823,Apt/Condo,Lethbridge,Alberta
+1087,910,Lethbridge,1,1,595,Apt/Condo,Lethbridge,Alberta
+1088,955,Lethbridge,1,1,601,Apt/Condo,Lethbridge,Alberta
+1089,1060,Lethbridge,2,1,941,Apt/Condo,Lethbridge,Alberta
+1090,1025,Lethbridge,2,1,813,Apt/Condo,Lethbridge,Alberta
+1091,925,Lethbridge,1,1,554,Apt/Condo,Lethbridge,Alberta
+1092,985,Lethbridge,1,1,586,Apt/Condo,Lethbridge,Alberta
+1093,1095,Lethbridge,2,1,800,Apt/Condo,Lethbridge,Alberta
+1094,985,Lethbridge,2,1,830,Apt/Condo,Lethbridge,Alberta
+1095,735,Lethbridge,1,1,523,Apt/Condo,Lethbridge,Alberta
+1096,835,Lethbridge,2,1,811,Apt/Condo,Lethbridge,Alberta
+1097,1105,Lethbridge,2,1,915,Apt/Condo,Lethbridge,Alberta
+1098,1081,Lethbridge,2,1,898,Apt/Condo,Lethbridge,Alberta
+1099,1150,Lethbridge,3,1,1068,Townhouse,Lethbridge,Alberta
+1100,1000,Lethbridge,2,1,935,Townhouse,Lethbridge,Alberta
+1101,1700,Lethbridge,4,2,950,House,Lethbridge,Alberta
+1102,615000,Lethbridge,0,0,2056,House,Lethbridge,Alberta
+1103,615000,Lethbridge,0,0,2056,House,Lethbridge,Alberta
+1104,344500,Lethbridge,5,3,1402,House,Lethbridge,Alberta
+1105,585500,Lethbridge,0,0,1924,House,Lethbridge,Alberta
+1106,1895,Sunningdale,1,1,893,Apt/Condo,London,Ontario
+1107,2349,Sunningdale,2,2,1401,Apt/Condo,London,Ontario
+1108,1400,South London,2,1,732,Apt/Condo,London,Ontario
+1109,1865,Central London,2,1,1169,Apt/Condo,London,Ontario
+1110,1600,Central London,1,1,811,Apt/Condo,London,Ontario
+1111,1650,Central London,1,1,858,Apt/Condo,London,Ontario
+1112,1499,Highland,2,1,1006,Apt/Condo,London,Ontario
+1113,1279,London,1,1,698,Apt/Condo,London,Ontario
+1114,2975,Lambeth,4,3,1691,Townhouse,London,Ontario
+1115,2450,Lambeth,3,3,1451,Townhouse,London,Ontario
+1116,1199,London,1,1,550,Apt/Condo,London,Ontario
+1117,2500,Jackson,4,4,1737,Townhouse,London,Ontario
+1118,2650,Longwoods,4,4,2000,House,London,Ontario
+1119,2700,Hyde Park,3,2,2500,House,London,Ontario
+1120,2400,River Bend,3,3,1600,Apt/Condo,London,Ontario
+1121,2699,Huron Heights,3,3,1500,House,London,Ontario
+1122,2700,Jackson,4,4,2500,House,London,Ontario
+1123,2600,Hyde Park,3,3,103,House,London,Ontario
+1124,2500,London,4,3,1650,Townhouse,London,Ontario
+1125,1599,Carling,2,1,600,Apt/Condo,London,Ontario
+1126,2450,Huron Heights,3,3,1500,House,London,Ontario
+1127,2100,Creditview,1,1,610,Apt/Condo,mississauga,Ontario
+1128,2100,Creditview,1,1,600,Apt/Condo,mississauga,Ontario
+1129,3900,East Credit,4,4,1500,House,mississauga,Ontario
+1130,2050,Creditview,1,1,500,Apt/Condo,mississauga,Ontario
+1131,2600,Cooksville,2,2,900,Townhouse,mississauga,Ontario
+1132,2450,Cooksville,2,2,900,Townhouse,mississauga,Ontario
+1133,2200,Cooksville,2,1,1500,House,mississauga,Ontario
+1134,1995,Hurontario,1,1,600,Apt/Condo,mississauga,Ontario
+1135,1999,Mississauga City Centre,1,1,635,Apt/Condo,mississauga,Ontario
+1136,8900,Mississauga City Centre,4,4,3250,Apt/Condo,mississauga,Ontario
+1137,1864,Mississauga Valleys,1,1,640,Apt/Condo,mississauga,Ontario
+1138,1739,Mississauga Valleys,1,1,574,Apt/Condo,mississauga,Ontario
+1139,1975,Mississauga Valleys,2,1,910,Apt/Condo,mississauga,Ontario
+1140,4600,Lisgar,5,4,2200,House,mississauga,Ontario
+1141,3200,Lisgar,4,3,2200,House,mississauga,Ontario
+1142,1400,Lisgar,1,1,800,House,mississauga,Ontario
+1143,1725,Meadowvale,1,1,600,Apt/Condo,mississauga,Ontario
+1144,2600,Meadowvale,3,1,1000,Apt/Condo,mississauga,Ontario
+1145,1750,Cooksville,2,1,800,Apt/Condo,mississauga,Ontario
+1146,2405,Mississauga Valleys,3,2,1199,Apt/Condo,mississauga,Ontario
+1147,1875,Cooksville,2,1,950,Apt/Condo,mississauga,Ontario
+1148,1733,Cooksville,1,1,628,Apt/Condo,mississauga,Ontario
+1149,4500,Lorne Park,3,3,104,House,mississauga,Ontario
+1150,1725,Cooksville,1,1,710,Apt/Condo,mississauga,Ontario
+1151,2199,Cooksville,1,1,678,Apt/Condo,mississauga,Ontario
+1152,1725,Mississauga Valleys,1,1,772,Apt/Condo,mississauga,Ontario
+1153,2635,Cooksville,3,2,953,Apt/Condo,mississauga,Ontario
+1154,2449,Cooksville,3,2,965,Apt/Condo,mississauga,Ontario
+1155,1925,Mississauga Valleys,2,1,777,Apt/Condo,mississauga,Ontario
+1156,2404,Meadowvale,2,1,1051,Apt/Condo,mississauga,Ontario
+1157,2175,Mississauga Valleys,1,1,770,Apt/Condo,mississauga,Ontario
+1158,2320,Cooksville,2,1,905,Apt/Condo,mississauga,Ontario
+1159,1900,Applewood,2,1,1057,Apt/Condo,mississauga,Ontario
+1160,1600,Applewood,1,1,732,Apt/Condo,mississauga,Ontario
+1161,2199,Applewood,3,1,950,Apt/Condo,mississauga,Ontario
+1162,1950,Applewood,2,1,850,Apt/Condo,mississauga,Ontario
+1163,1999,Cooksville,1,1,925,Apt/Condo,mississauga,Ontario
+1164,1495,Cooksville,1,1,650,Apt/Condo,mississauga,Ontario
+1165,2253,Meadowvale,1,1,867,Apt/Condo,mississauga,Ontario
+1166,3100,Applewood,3,2,1100,Apt/Condo,mississauga,Ontario
+1167,2107,Applewood,1,1,745,Apt/Condo,mississauga,Ontario
+1168,2253,Applewood,2,1,924,Apt/Condo,mississauga,Ontario
+1169,2446,Meadowvale,2,1,1051,Apt/Condo,mississauga,Ontario
+1170,1766,Meadowvale,1,1,806,Apt/Condo,mississauga,Ontario
+1171,2312,Mississauga Valleys,2,1,900,Apt/Condo,mississauga,Ontario
+1172,2300,Port Credit,1,1,600,Apt/Condo,mississauga,Ontario
+1173,1600,East Credit,2,1,700,House,mississauga,Ontario
+1174,2600,Mississauga City Centre,2,2,1000,Apt/Condo,mississauga,Ontario
+1175,2000,Mississauga City Centre,1,1,500,Apt/Condo,mississauga,Ontario
+1176,2250,Lakeview,3,2,900,Apt/Condo,mississauga,Ontario
+1177,1899,Cooksville,2,1,700,House,mississauga,Ontario
+1178,2500,Hurontario,2,2,800,Apt/Condo,mississauga,Ontario
+1179,2800,Mississauga City Centre,2,2,1000,Apt/Condo,mississauga,Ontario
+1180,3000,Mississauga City Centre,2,2,1000,Apt/Condo,mississauga,Ontario
+1181,2500,Fairview,2,1,900,Apt/Condo,mississauga,Ontario
+1182,2150,Central Erin Mills,1,1,600,Apt/Condo,mississauga,Ontario
+1183,2100,Mississauga City Centre,1,1,600,Apt/Condo,mississauga,Ontario
+1184,2899,Fairview,2,2,900,Apt/Condo,mississauga,Ontario
+1185,2800,Malton,3,2,1200,Townhouse,mississauga,Ontario
+1186,2200,Creditview,1,1,600,Apt/Condo,mississauga,Ontario
+1187,2100,Fairview,1,1,600,Apt/Condo,mississauga,Ontario
+1188,2700,Fairview,2,2,800,Apt/Condo,mississauga,Ontario
+1189,2300,Mississauga City Centre,1,2,700,Apt/Condo,mississauga,Ontario
+1190,2650,Mississauga City Centre,2,2,800,Apt/Condo,mississauga,Ontario
+1191,2400,Central Erin Mills,2,2,1000,Townhouse,mississauga,Ontario
+1192,2100,Creditview,1,1,600,Apt/Condo,mississauga,Ontario
+1193,2250,Mississauga City Centre,1,1,600,Apt/Condo,mississauga,Ontario
+1194,3000,Creditview,2,2,900,Apt/Condo,mississauga,Ontario
+1195,2200,Creditview,1,1,500,Apt/Condo,mississauga,Ontario
+1196,2150,Erin Mills,1,1,600,Apt/Condo,mississauga,Ontario
+1197,2299,Mississauga City Centre,2,2,800,Apt/Condo,mississauga,Ontario
+1198,2900,Central Erin Mills,3,3,1400,Townhouse,mississauga,Ontario
+1199,2650,Meadowvale Village,3,3,1200,Townhouse,mississauga,Ontario
+1200,2150,Mississauga City Centre,1,1,700,Apt/Condo,mississauga,Ontario
+1201,6500,Lorne Park,3,4,2500,House,mississauga,Ontario
+1202,4650,Hurontario,3,3,1400,Townhouse,mississauga,Ontario
+1203,2450,Central Erin Mills,2,1,700,Apt/Condo,mississauga,Ontario
+1204,2900,Clarkson,3,3,1400,Townhouse,mississauga,Ontario
+1205,3499,Port Credit,2,2,800,Apt/Condo,mississauga,Ontario
+1206,2300,Fairview,1,1,700,Apt/Condo,mississauga,Ontario
+1207,2600,Mississauga City Centre,1,1,600,Apt/Condo,mississauga,Ontario
+1208,2800,Hurontario,2,2,1000,Apt/Condo,mississauga,Ontario
+1209,2500,Mississauga City Centre,2,2,800,Apt/Condo,mississauga,Ontario
+1210,2700,Fairview,2,2,1200,Apt/Condo,mississauga,Ontario
+1211,2875,Port Credit,2,2,800,Apt/Condo,mississauga,Ontario
+1212,2200,Creditview,1,1,700,Apt/Condo,mississauga,Ontario
+1213,2100,Mississauga City Centre,1,1,600,Apt/Condo,mississauga,Ontario
+1214,2700,Mississauga City Centre,2,2,900,Apt/Condo,mississauga,Ontario
+1215,2100,Creditview,1,1,500,Apt/Condo,mississauga,Ontario
+1216,3050,Hurontario,2,2,1000,Apt/Condo,mississauga,Ontario
+1217,2700,Creditview,2,2,800,Apt/Condo,mississauga,Ontario
+1218,2700,Mississauga City Centre,2,2,800,Apt/Condo,mississauga,Ontario
+1219,2250,Creditview,1,1,600,Apt/Condo,mississauga,Ontario
+1220,2200,Hurontario,1,1,600,Apt/Condo,mississauga,Ontario
+1221,2600,Mississauga City Centre,2,2,900,Apt/Condo,mississauga,Ontario
+1222,2100,Central Erin Mills,1,1,600,Apt/Condo,mississauga,Ontario
+1223,1400,Churchill Meadows,1,1,700,House,mississauga,Ontario
+1224,1990,Meadowvale Village,2,1,1100,House,mississauga,Ontario
+1225,2900,Hurontario,2,2,900,Apt/Condo,mississauga,Ontario
+1226,2725,Rathwood,2,2,1200,Apt/Condo,mississauga,Ontario
+1227,2600,Applewood,3,2,1000,Apt/Condo,mississauga,Ontario
+1228,2750,Creditview,2,2,700,Apt/Condo,mississauga,Ontario
+1229,2990,East Credit,2,2,1000,Apt/Condo,mississauga,Ontario
+1230,1599,Meadowvale,1,1,1100,House,mississauga,Ontario
+1231,2100,Fairview,1,1,500,Apt/Condo,mississauga,Ontario
+1232,2650,Fairview,2,2,800,Apt/Condo,mississauga,Ontario
+1233,2000,Creditview,1,1,500,Apt/Condo,mississauga,Ontario
+1234,2600,Central Erin Mills,2,2,800,Apt/Condo,mississauga,Ontario
+1235,3500,Port Credit,2,3,1000,Apt/Condo,mississauga,Ontario
+1236,2300,Mississauga City Centre,1,1,600,Apt/Condo,mississauga,Ontario
+1237,2800,Mississauga Valleys,3,2,1200,Apt/Condo,mississauga,Ontario
+1238,1400,Lisgar,1,1,700,House,mississauga,Ontario
+1239,2250,Mississauga City Centre,1,1,600,Apt/Condo,mississauga,Ontario
+1240,2500,Fairview,1,2,700,Apt/Condo,mississauga,Ontario
+1241,2980,Meadowvale Village,3,3,1600,Townhouse,mississauga,Ontario
+1242,2600,Fairview,2,1,1000,Apt/Condo,mississauga,Ontario
+1243,2350,Cooksville,2,1,900,Apt/Condo,mississauga,Ontario
+1244,2900,East Credit,3,3,1500,House,mississauga,Ontario
+1245,3500,Central Erin Mills,3,2,1600,Apt/Condo,mississauga,Ontario
+1246,2400,Cooksville,2,2,900,Apt/Condo,mississauga,Ontario
+1247,2450,Mississauga City Centre,2,2,800,Apt/Condo,mississauga,Ontario
+1248,2150,Malton,2,1,900,Apt/Condo,mississauga,Ontario
+1249,2900,Mississauga City Centre,3,2,900,Apt/Condo,mississauga,Ontario
+1250,3000,Fairview,2,2,900,Apt/Condo,mississauga,Ontario
+1251,2750,Mississauga City Centre,2,2,1000,Apt/Condo,mississauga,Ontario
+1252,2000,Churchill Meadows,1,1,600,Apt/Condo,mississauga,Ontario
+1253,4500,Mineola,3,3,1500,House,mississauga,Ontario
+1254,2200,Clarkson,1,1,500,Townhouse,mississauga,Ontario
+1255,2700,Central Erin Mills,2,2,800,Apt/Condo,mississauga,Ontario
+1256,3100,Meadowvale Village,4,2,2000,House,mississauga,Ontario
+1257,3330,Clarkson,2,2,1200,Apt/Condo,mississauga,Ontario
+1258,2550,Fairview,2,2,1000,Apt/Condo,mississauga,Ontario
+1259,2300,Fairview,1,2,700,Apt/Condo,mississauga,Ontario
+1260,2400,Mineola,2,1,700,Townhouse,mississauga,Ontario
+1261,2200,Hurontario,1,1,700,Apt/Condo,mississauga,Ontario
+1262,3100,Meadowvale Village,3,3,1400,Townhouse,mississauga,Ontario
+1263,2575,Mississauga City Centre,2,2,800,Apt/Condo,mississauga,Ontario
+1264,2300,Mississauga City Centre,1,2,700,Apt/Condo,mississauga,Ontario
+1265,1699,Lisgar,1,1,700,House,mississauga,Ontario
+1266,2950,Churchill Meadows,3,4,1800,Townhouse,mississauga,Ontario
+1267,3000,Central Erin Mills,3,4,1200,Townhouse,mississauga,Ontario
+1268,2200,Creditview,1,1,600,Apt/Condo,mississauga,Ontario
+1269,2650,Fairview,2,2,800,Apt/Condo,mississauga,Ontario
+1270,2600,Port Credit,1,1,700,Apt/Condo,mississauga,Ontario
+1271,2600,Fairview,2,1,1000,Apt/Condo,mississauga,Ontario
+1272,2500,Cooksville,2,1,900,Apt/Condo,mississauga,Ontario
+1273,2800,Erin Mills,3,2,1500,House,mississauga,Ontario
+1274,3600,Mississauga City Centre,3,2,900,Apt/Condo,mississauga,Ontario
+1275,2050,Creditview,1,1,500,Apt/Condo,mississauga,Ontario
+1276,3400,Central Erin Mills,3,2,1200,Apt/Condo,mississauga,Ontario
+1277,2899,Meadowvale,3,2,1400,Townhouse,mississauga,Ontario
+1278,2550,Mississauga City Centre,2,2,1000,Apt/Condo,mississauga,Ontario
+1279,1975,Hurontario,1,1,700,Apt/Condo,mississauga,Ontario
+1280,2300,Clarkson,1,1,500,Townhouse,mississauga,Ontario
+1281,2550,Port Credit,3,1,1100,Triplex,mississauga,Ontario
+1282,3500,Mississauga City Centre,2,2,900,Apt/Condo,mississauga,Ontario
+1283,2950,Hurontario,2,2,1000,Apt/Condo,mississauga,Ontario
+1284,2300,Creditview,1,1,600,Apt/Condo,mississauga,Ontario
+1285,2750,Mineola,3,1,1500,House,mississauga,Ontario
+1286,2200,Hurontario,1,1,600,Apt/Condo,mississauga,Ontario
+1287,5000,Creditview,4,4,2000,House,mississauga,Ontario
+1288,4499,Hurontario,3,3,1400,Townhouse,mississauga,Ontario
+1289,5200,Applewood,4,5,2500,House,mississauga,Ontario
+1290,2850,Port Credit,1,2,600,Apt/Condo,mississauga,Ontario
+1291,2700,Churchill Meadows,2,3,1200,Townhouse,mississauga,Ontario
+1292,3650,Mississauga City Centre,2,2,900,Apt/Condo,mississauga,Ontario
+1293,2300,Creditview,1,1,600,Apt/Condo,mississauga,Ontario
+1294,2150,Creditview,1,1,600,Apt/Condo,mississauga,Ontario
+1295,4250,Central Erin Mills,4,3,2500,House,mississauga,Ontario
+1296,2050,Mississauga City Centre,1,1,600,Apt/Condo,mississauga,Ontario
+1297,2350,Mississauga Valleys,2,1,700,Apt/Condo,mississauga,Ontario
+1298,4999,Churchill Meadows,4,3,3000,House,mississauga,Ontario
+1299,2800,Hurontario,2,2,1200,Apt/Condo,mississauga,Ontario
+1300,2200,Mississauga City Centre,1,1,600,Apt/Condo,mississauga,Ontario
+1301,2700,Hurontario,3,2,1200,Townhouse,mississauga,Ontario
+1302,3600,Erindale,4,4,123,House,mississauga,Ontario
+1303,2200,Mississauga City Centre,1,1,600,Apt/Condo,mississauga,Ontario
+1304,5000,East Credit,4,4,2000,House,mississauga,Ontario
+1305,2600,Creditview,2,2,900,Apt/Condo,mississauga,Ontario
+1306,2900,Hurontario,2,2,1200,Apt/Condo,mississauga,Ontario
+1307,2100,Hurontario,1,1,600,Apt/Condo,mississauga,Ontario
+1308,1600,Lisgar,2,1,700,House,mississauga,Ontario
+1309,2600,Cooksville,2,1,900,Apt/Condo,mississauga,Ontario
+1310,2600,Cooksville,1,1,900,Apt/Condo,mississauga,Ontario
+1311,2600,Cooksville,1,1,900,Apt/Condo,mississauga,Ontario
+1312,2500,Mississauga City Centre,2,2,800,Apt/Condo,mississauga,Ontario
+1313,3600,Port Credit,2,2,800,Apt/Condo,mississauga,Ontario
+1314,3000,Hurontario,3,3,2000,House,mississauga,Ontario
+1315,2250,Hurontario,1,1,600,Apt/Condo,mississauga,Ontario
+1316,7500,Mineola,4,4,146,House,mississauga,Ontario
+1317,3200,Churchill Meadows,4,4,1500,House,mississauga,Ontario
+1318,2850,Churchill Meadows,2,2,1000,Apt/Condo,mississauga,Ontario
+1319,2750,Cooksville,2,2,1000,Apt/Condo,mississauga,Ontario
+1320,2800,Fairview,2,2,900,Apt/Condo,mississauga,Ontario
+1321,2600,Hurontario,2,2,1200,Apt/Condo,mississauga,Ontario
+1322,2700,Rathwood,3,2,1600,Townhouse,mississauga,Ontario
+1323,3700,Lakeview,3,2,1500,House,mississauga,Ontario
+1324,2450,Lakeview,1,2,900,Apt/Condo,mississauga,Ontario
+1325,3700,Erindale,4,4,2500,House,mississauga,Ontario
+1326,3750,Clarkson,3,2,1100,House,mississauga,Ontario
+1327,2900,Central Erin Mills,4,3,1500,House,mississauga,Ontario
+1328,4000,Lakeview,3,3,1100,House,mississauga,Ontario
+1329,1800,Hurontario,2,1,2000,House,mississauga,Ontario
+1330,2350,Hurontario,1,1,800,Apt/Condo,mississauga,Ontario
+1331,5000,Lorne Park,4,4,197,House,mississauga,Ontario
+1332,3000,Meadowvale,3,3,1500,House,mississauga,Ontario
+1333,2200,Cooksville,1,1,900,Apt/Condo,mississauga,Ontario
+1334,4400,Mineola,3,5,2000,Townhouse,mississauga,Ontario
+1335,4499,Hurontario,4,3,1400,Townhouse,mississauga,Ontario
+1336,1650,Churchill Meadows,1,1,700,Apt/Condo,mississauga,Ontario
+1337,2950,Port Credit,2,2,800,Apt/Condo,mississauga,Ontario
+1338,2800,Cooksville,2,2,1000,Apt/Condo,mississauga,Ontario
+1339,8800,Sheridan,6,5,5000,House,mississauga,Ontario
+1340,2600,Churchill Meadows,2,3,1200,Townhouse,mississauga,Ontario
+1341,1325,Mineola,1,1,700,House,mississauga,Ontario
+1342,2900,Lisgar,3,4,1600,Townhouse,mississauga,Ontario
+1343,4800,Erin Mills,3,3,2250,Townhouse,mississauga,Ontario
+1344,3500,Central Erin Mills,4,3,2000,House,mississauga,Ontario
+1345,2750,Cooksville,2,2,1000,Apt/Condo,mississauga,Ontario
+1346,2800,Mississauga Valleys,3,2,1000,Apt/Condo,mississauga,Ontario
+1347,1890,Streetsville,1,1,800,Apt/Condo,mississauga,Ontario
+1348,5800,Port Credit,3,3,2500,Townhouse,mississauga,Ontario
+1349,2750,Hurontario,2,1,1200,Apt/Condo,mississauga,Ontario
+1350,2600,Creditview,2,2,700,Apt/Condo,mississauga,Ontario
+1351,2450,Mississauga City Centre,2,2,800,Apt/Condo,mississauga,Ontario
+1352,1800,Hurontario,1,1,500,Apt/Condo,mississauga,Ontario
+1353,2390,Mississauga City Centre,2,2,800,Apt/Condo,mississauga,Ontario
+1354,1650,Lisgar,1,1,700,House,mississauga,Ontario
+1355,2250,Cooksville,2,2,1200,Apt/Condo,mississauga,Ontario
+1356,1900,Mississauga City Centre,1,1,600,Apt/Condo,mississauga,Ontario
+1357,3100,Churchill Meadows,4,3,2000,House,mississauga,Ontario
+1358,2300,Clarkson,3,2,1200,Townhouse,mississauga,Ontario
+1359,1800,Fairview,1,1,600,Apt/Condo,mississauga,Ontario
+1360,2600,Applewood,3,2,1000,Townhouse,mississauga,Ontario
+1361,2400,Malton,3,2,1200,Apt/Condo,mississauga,Ontario
+1362,985,Moose Jaw,2,0,887,Apt/Condo,Moose_jaw,SK
+1363,746,Moose Jaw,1,1,636,Apt/Condo,Moose_jaw,SK
+1364,800,Moose Jaw,2,1,750,Apt/Condo,Moose_jaw,SK
+1365,1500,Sapperton,1,1,536,Apt/Condo,New_westminster,BC
+1366,1800,New Westminster Quay,1,1,502,Apt/Condo,New_westminster,BC
+1367,1425,Uptown,1,1,479,Apt/Condo,New_westminster,BC
+1368,1700,Uptown,2,1,693,Apt/Condo,New_westminster,BC
+1369,1500,Sapperton,1,1,536,House,New_westminster,BC
+1370,3000,Queensborough,1,1,612,Apt/Condo,New_westminster,BC
+1371,1375,Vanier,2,1,650,Apt/Condo,Oshawa,Ontario
+1372,1695,Lakeview,2,1,750,Apt/Condo,Oshawa,Ontario
+1373,1598,Central Oshawa,2,1,474,Apt/Condo,Oshawa,Ontario
+1374,1898,Central Oshawa,2,1,474,Apt/Condo,Oshawa,Ontario
+1375,1050,Central Oshawa,0,1,269,Apt/Condo,Oshawa,Ontario
+1376,2700,Windfields,4,3,1600,Townhouse,Oshawa,Ontario
+1377,2600,Stevenson,2,1,1100,House,Oshawa,Ontario
+1378,1650,Central Oshawa,2,1,700,House,Oshawa,Ontario
+1379,3500,Windfields,4,4,2500,House,Oshawa,Ontario
+1380,3400,Windfields,4,4,3000,House,Oshawa,Ontario
+1381,2750,Windfields,4,3,1500,House,Oshawa,Ontario
+1382,3900,Windfields,4,4,2000,House,Oshawa,Ontario
+1383,1750,Central Oshawa,2,1,1000,Townhouse,Oshawa,Ontario
+1384,3300,Taunton,4,4,2500,House,Oshawa,Ontario
+1385,2995,Mclaughlin,4,4,2000,Townhouse,Oshawa,Ontario
+1386,3250,Windfields,4,4,3000,House,Oshawa,Ontario
+1387,3100,Taunton,4,3,2000,House,Oshawa,Ontario
+1388,2500,Samac,3,3,1500,Townhouse,Oshawa,Ontario
+1389,3500,Samac,4,3,2500,House,Oshawa,Ontario
+1390,1700,Pinecrest,1,1,1100,House,Oshawa,Ontario
+1391,1775,O'neill,1,2,700,Apt/Condo,Oshawa,Ontario
+1392,4000,Taunton,4,4,3000,House,Oshawa,Ontario
+1393,1735,Briar Green Leslie Park,2,1,749,Apt/Condo,Ottowa,Ontario
+1394,2750,West Centretown,2,1,1062,Apt/Condo,Ottowa,Ontario
+1395,1650,Glebe Dows Lake,1,1,504,Apt/Condo,Ottowa,Ontario
+1396,1650,Glebe Dows Lake,1,1,478,Apt/Condo,Ottowa,Ontario
+1397,2819,Glebe Dows Lake,2,2,919,Apt/Condo,Ottowa,Ontario
+1398,2449,Glebe Dows Lake,2,1,670,Apt/Condo,Ottowa,Ontario
+1399,2459,Glebe Dows Lake,2,2,726,Apt/Condo,Ottowa,Ontario
+1400,2399,Westboro,1,1,858,Apt/Condo,Ottowa,Ontario
+1401,1475,Elmvale Canterbury,1,1,600,Apt/Condo,Ottowa,Ontario
+1402,1975,Glebe Dows Lake,2,1,718,Apt/Condo,Ottowa,Ontario
+1403,1699,West Centretown,1,1,455,Apt/Condo,Ottowa,Ontario
+1404,2325,West Centretown,2,1,665,Apt/Condo,Ottowa,Ontario
+1405,3000,Elmvale Canterbury,3,2,1586,Townhouse,Ottowa,Ontario
+1406,1350,Hintonburg Mechanicsville,0,1,400,Apt/Condo,Ottowa,Ontario
+1407,2000,Centretown,3,1,1000,Apt/Condo,Ottowa,Ontario
+1408,1199,Carlington,0,1,314,Apt/Condo,Ottowa,Ontario
+1409,2205,Elmvale Canterbury,3,2,1115,Apt/Condo,Ottowa,Ontario
+1410,1455,Sandy Hill,0,1,233,Apt/Condo,Ottowa,Ontario
+1411,1225,Byward Market,1,1,425,Apt/Condo,Ottowa,Ontario
+1412,1699,West Centretown,1,1,478,Apt/Condo,Ottowa,Ontario
+1413,1999,Briar Green Leslie Park,2,2,1150,Apt/Condo,Ottowa,Ontario
+1414,1500,Centretown,1,1,630,Apt/Condo,Ottowa,Ontario
+1415,1700,Glebe Dows Lake,1,1,504,Apt/Condo,Ottowa,Ontario
+1416,1850,Glebe Dows Lake,1,1,546,Apt/Condo,Ottowa,Ontario
+1417,1700,Glebe Dows Lake,1,1,504,Apt/Condo,Ottowa,Ontario
+1418,1700,Glebe Dows Lake,1,1,508,Apt/Condo,Ottowa,Ontario
+1419,1700,Glebe Dows Lake,1,1,508,Apt/Condo,Ottowa,Ontario
+1420,1850,West Centretown,1,1,360,Apt/Condo,Ottowa,Ontario
+1421,1800,Centretown,2,1,1007,Apt/Condo,Ottowa,Ontario
+1422,1350,Ottawa,1,1,550,Apt/Condo,Ottowa,Ontario
+1423,2625,West Centretown,2,1,1131,Apt/Condo,Ottowa,Ontario
+1424,2192,Sandy Hill,1,1,735,Apt/Condo,Ottowa,Ontario
+1425,1250,Ottawa,1,1,600,Apt/Condo,Ottowa,Ontario
+1426,2899,West Centretown,2,2,1332,Apt/Condo,Ottowa,Ontario
+1427,1910,Ottawa,2,1,767,Apt/Condo,Ottowa,Ontario
+1428,2819,Glebe Dows Lake,2,1,871,Apt/Condo,Ottowa,Ontario
+1429,2459,Glebe Dows Lake,2,1,670,Apt/Condo,Ottowa,Ontario
+1430,3499,Glebe Dows Lake,2,1,763,Apt/Condo,Ottowa,Ontario
+1431,1349,Riverside Park,1,1,322,Apt/Condo,Ottowa,Ontario
+1432,1769,Riverside Park,1,1,453,Apt/Condo,Ottowa,Ontario
+1433,1349,Riverside Park,1,1,337,Apt/Condo,Ottowa,Ontario
+1434,3072,Riverside Park,3,3,1113,Apt/Condo,Ottowa,Ontario
+1435,3696,Riverside Park,4,2,1224,Apt/Condo,Ottowa,Ontario
+1436,3796,Riverside Park,4,3,1227,Apt/Condo,Ottowa,Ontario
+1437,1995,Ottawa,3,2,1350,Townhouse,Ottowa,Ontario
+1438,1725,Ottawa,3,2,930,Apt/Condo,Ottowa,Ontario
+1439,2950,Island Park Wellington Village,2,2,950,Apt/Condo,Ottowa,Ontario
+1440,2450,Centretown,1,1,888,Apt/Condo,Ottowa,Ontario
+1441,2800,Centretown,1,2,826,Apt/Condo,Ottowa,Ontario
+1442,1585,Ottawa,2,1,876,Apt/Condo,Ottowa,Ontario
+1443,1860,Chatelaine Village,1,1,701,Apt/Condo,Ottowa,Ontario
+1444,1610,Chatelaine Village,1,1,817,Apt/Condo,Ottowa,Ontario
+1445,1725,Chatelaine Village,2,2,1255,Apt/Condo,Ottowa,Ontario
+1446,1575,Ottawa,2,1,750,Apt/Condo,Ottowa,Ontario
+1447,1940,Ottawa,1,1,852,Apt/Condo,Ottowa,Ontario
+1448,1710,Ottawa,2,1,870,Apt/Condo,Ottowa,Ontario
+1449,1250,Lowertown,0,1,410,Apt/Condo,Ottowa,Ontario
+1450,1900,Lowertown,2,2,780,Apt/Condo,Ottowa,Ontario
+1451,1905,Riverview,3,2,1200,Apt/Condo,Ottowa,Ontario
+1452,1450,Elmvale Canterbury,2,1,800,Apt/Condo,Ottowa,Ontario
+1453,2000,Ottawa,1,1,641,Apt/Condo,Ottowa,Ontario
+1454,2295,Vanier North,1,1,912,Apt/Condo,Ottowa,Ontario
+1455,1905,Vanier North,1,1,855,Apt/Condo,Ottowa,Ontario
+1456,2585,Vanier North,2,2,1108,Apt/Condo,Ottowa,Ontario
+1457,1800,Ottawa,2,1,1100,Apt/Condo,Ottowa,Ontario
+1458,1625,Westboro,2,1,1000,Apt/Condo,Ottowa,Ontario
+1459,1485,Westboro,1,1,700,Apt/Condo,Ottowa,Ontario
+1460,1640,Riverview,2,2,810,Apt/Condo,Ottowa,Ontario
+1461,1720,Britannia Village,2,1,795,Apt/Condo,Ottowa,Ontario
+1462,5495,Hintonburg Mechanicsville,2,2,1320,Apt/Condo,Ottowa,Ontario
+1463,1595,Ottawa,2,1,800,Apt/Condo,Ottowa,Ontario
+1464,1785,Riverview,2,1,826,Apt/Condo,Ottowa,Ontario
+1465,1475,Riverview,1,1,500,Apt/Condo,Ottowa,Ontario
+1466,1400,Elmvale Canterbury,1,1,600,Apt/Condo,Ottowa,Ontario
+1467,1470,Elmvale Canterbury,2,1,750,Apt/Condo,Ottowa,Ontario
+1468,1315,Hintonburg Mechanicsville,1,1,625,Apt/Condo,Ottowa,Ontario
+1469,1650,Ledbury Heron Gate Ridgemont,2,1,824,Apt/Condo,Ottowa,Ontario
+1470,1570,Ottawa,2,1,863,Apt/Condo,Ottowa,Ontario
+1471,1380,Ottawa,1,1,644,Apt/Condo,Ottowa,Ontario
+1472,1645,Britannia Village,2,1,785,Apt/Condo,Ottowa,Ontario
+1473,1210,Ledbury Heron Gate Ridgemont,1,1,500,Apt/Condo,Ottowa,Ontario
+1474,1445,Ledbury Heron Gate Ridgemont,2,1,700,Apt/Condo,Ottowa,Ontario
+1475,1520,Manor Park,2,1,740,Apt/Condo,Ottowa,Ontario
+1476,1525,Manor Park,2,1,662,Apt/Condo,Ottowa,Ontario
+1477,1465,Ledbury Heron Gate Ridgemont,2,1,650,Apt/Condo,Ottowa,Ontario
+1478,1299,Manor Park,1,1,554,Apt/Condo,Ottowa,Ontario
+1479,1710,Ottawa,1,1,730,Apt/Condo,Ottowa,Ontario
+1480,1480,Overbrook Mcarthur,1,1,544,Apt/Condo,Ottowa,Ontario
+1481,2050,Overbrook Mcarthur,2,1,670,Apt/Condo,Ottowa,Ontario
+1482,1825,Hintonburg Mechanicsville,1,1,650,Apt/Condo,Ottowa,Ontario
+1483,1299,Ottawa,0,1,425,Apt/Condo,Ottowa,Ontario
+1484,1750,Ottawa,2,1,630,Apt/Condo,Ottowa,Ontario
+1485,1299,Ottawa,0,1,400,Apt/Condo,Ottowa,Ontario
+1486,1350,Ottawa,1,1,550,Apt/Condo,Ottowa,Ontario
+1487,2274,Sandy Hill,1,1,818,Apt/Condo,Ottowa,Ontario
+1488,2340,Sandy Hill,2,2,1021,Apt/Condo,Ottowa,Ontario
+1489,1825,Ottawa,1,1,751,Apt/Condo,Ottowa,Ontario
+1490,1150,Ottawa,0,1,380,Apt/Condo,Ottowa,Ontario
+1491,1600,Ottawa,2,1,800,Apt/Condo,Ottowa,Ontario
+1492,2769,Centretown,1,1,585,Apt/Condo,Ottowa,Ontario
+1493,2649,Centretown,2,2,658,Apt/Condo,Ottowa,Ontario
+1494,2309,Centretown,1,1,656,Apt/Condo,Ottowa,Ontario
+1495,1759,Centretown,1,1,742,Apt/Condo,Ottowa,Ontario
+1496,2100,Ottawa,3,1,1050,Apt/Condo,Ottowa,Ontario
+1497,1859,Briar Green Leslie Park,2,1,749,Apt/Condo,Ottowa,Ontario
+1498,1800,Ottawa,2,2,1070,Apt/Condo,Ottowa,Ontario
+1499,1695,Beacon Hill South Cardinal Heights,2,1,800,Apt/Condo,Ottowa,Ontario
+1500,4975,Billings Bridge Alta Vista,4,4,154,House,Ottowa,Ontario
+1501,1820,Lebreton Development,1,1,500,Apt/Condo,Ottowa,Ontario
+1502,3500,Billings Bridge Alta Vista,3,2,107,House,Ottowa,Ontario
+1503,2035,Centretown,1,1,600,Apt/Condo,Ottowa,Ontario
+1504,1385,Vanier North,1,1,500,Apt/Condo,Ottowa,Ontario
+1505,1750,Borden Farm Fisher Glen,1,1,800,House,Ottowa,Ontario
+1506,995,Red Deer,1,1,795,Apt/Condo,Red_deer,Alberta
+1507,1169,Red Deer,2,1,770,Apt/Condo,Red_deer,Alberta
+1508,924,Red Deer,1,1,631,Apt/Condo,Red_deer,Alberta
+1509,924,Red Deer,0,1,452,Apt/Condo,Red_deer,Alberta
+1510,1084,Red Deer,2,1,810,Apt/Condo,Red_deer,Alberta
+1511,1084,Red Deer,2,1,810,Apt/Condo,Red_deer,Alberta
+1512,924,Red Deer,0,1,452,Apt/Condo,Red_deer,Alberta
+1513,924,Red Deer,1,1,631,Apt/Condo,Red_deer,Alberta
+1514,1299,Red Deer,2,1,988,Apt/Condo,Red_deer,Alberta
+1515,1359,Red Deer,2,1,875,Apt/Condo,Red_deer,Alberta
+1516,1679,Red Deer,3,1,1056,Townhouse,Red_deer,Alberta
+1517,1184,Red Deer,3,1,1056,Townhouse,Red_deer,Alberta
+1518,1069,Red Deer,2,1,770,Apt/Condo,Red_deer,Alberta
+1519,995,Red Deer,2,1,875,Apt/Condo,Red_deer,Alberta
+1520,1147,Red Deer,2,1,864,Townhouse,Red_deer,Alberta
+1521,890,Red Deer,2,1,806,Apt/Condo,Red_deer,Alberta
+1522,826,Red Deer,1,1,576,Apt/Condo,Red_deer,Alberta
+1523,913,Red Deer,2,1,846,Apt/Condo,Red_deer,Alberta
+1524,975,Red Deer,2,1,700,Apt/Condo,Red_deer,Alberta
+1525,1075,Red Deer,2,2,1050,Apt/Condo,Red_deer,Alberta
+1526,875,Red Deer,1,1,620,Apt/Condo,Red_deer,Alberta
+1527,1220,Red Deer,3,2,1102,Townhouse,Red_deer,Alberta
+1528,1345,Red Deer,3,2,1102,Townhouse,Red_deer,Alberta
+1529,1001,Red Deer,2,1,821,Apt/Condo,Red_deer,Alberta
+1530,1095,Red Deer,2,1,964,Apt/Condo,Red_deer,Alberta
+1531,850,Red Deer,1,1,650,Apt/Condo,Red_deer,Alberta
+1532,825,Red Deer,2,1,700,Apt/Condo,Red_deer,Alberta
+1533,800,Red Deer,1,1,850,Apt/Condo,Red_deer,Alberta
+1534,950,Red Deer,2,1,900,Apt/Condo,Red_deer,Alberta
+1535,850,Red Deer,1,1,689,Apt/Condo,Red_deer,Alberta
+1536,950,Red Deer,2,1,878,Apt/Condo,Red_deer,Alberta
+1537,825,Red Deer,1,1,689,Apt/Condo,Red_deer,Alberta
+1538,925,Red Deer,2,1,900,Apt/Condo,Red_deer,Alberta
+1539,224999,Red Deer,2,3,1207,Townhouse,Red_deer,Alberta
+1540,1040,Regina,2,0,985,Townhouse,Regina,SK
+1541,900,Regina,1,0,785,Townhouse,Regina,SK
+1542,915,Regina,1,0,632,Apt/Condo,Regina,SK
+1543,1339,Regina,2,1,930,Apt/Condo,Regina,SK
+1544,1000,Regina,2,1,1069,Apt/Condo,Regina,SK
+1545,1010,Regina,2,0,800,Apt/Condo,Regina,SK
+1546,1050,Regina,2,1,1020,Apt/Condo,Regina,SK
+1547,675,Regina,0,1,450,Apt/Condo,Regina,SK
+1548,1469,Regina,2,1,850,Townhouse,Regina,SK
+1549,951,Regina,2,1,1000,Apt/Condo,Regina,SK
+1550,956,Regina,1,1,675,Apt/Condo,Regina,SK
+1551,901,Regina,1,1,465,Apt/Condo,Regina,SK
+1552,1739,Regina,3,1,1105,Townhouse,Regina,SK
+1553,1025,Regina,2,1,761,Apt/Condo,Regina,SK
+1554,1118,Regina,1,1,670,Apt/Condo,Regina,SK
+1555,976,Regina,1,1,640,Apt/Condo,Regina,SK
+1556,1026,Regina,1,1,576,Apt/Condo,Regina,SK
+1557,1061,Regina,1,1,658,Apt/Condo,Regina,SK
+1558,776,Regina,0,1,323,Apt/Condo,Regina,SK
+1559,1051,Regina,1,1,594,Apt/Condo,Regina,SK
+1560,921,Regina,1,1,640,Apt/Condo,Regina,SK
+1561,776,Regina,1,1,405,Apt/Condo,Regina,SK
+1562,1229,Regina,2,1,860,Apt/Condo,Regina,SK
+1563,1310,Regina,2,1,900,Apt/Condo,Regina,SK
+1564,1146,Regina,2,1,773,Apt/Condo,Regina,SK
+1565,871,Regina,1,1,446,Apt/Condo,Regina,SK
+1566,1630,Regina,3,1,1020,Apt/Condo,Regina,SK
+1567,956,Regina,1,1,622,Apt/Condo,Regina,SK
+1568,1011,Regina,1,1,658,Apt/Condo,Regina,SK
+1569,1036,Regina,1,1,663,Apt/Condo,Regina,SK
+1570,1076,Regina,2,1,831,Apt/Condo,Regina,SK
+1571,1100,Regina,2,1,975,Apt/Condo,Regina,SK
+1572,1054,Regina,1,1,675,Townhouse,Regina,SK
+1573,896,Regina,1,1,620,Apt/Condo,Regina,SK
+1574,980,Regina,1,1,630,Apt/Condo,Regina,SK
+1575,1280,Regina,2,1,980,Apt/Condo,Regina,SK
+1576,1250,Regina,1,1,640,Apt/Condo,Regina,SK
+1577,890,Regina,1,1,457,Apt/Condo,Regina,SK
+1578,810,Regina,0,1,336,Apt/Condo,Regina,SK
+1579,989,Regina,1,1,670,Apt/Condo,Regina,SK
+1580,1250,Regina,2,1,830,Apt/Condo,Regina,SK
+1581,975,Regina,2,1,1020,Apt/Condo,Regina,SK
+1582,1439,Regina,3,2,1047,Townhouse,Regina,SK
+1583,975,Regina,2,1,975,Duplex,Regina,SK
+1584,831,Regina,0,1,282,Apt/Condo,Regina,SK
+1585,1000,Regina,2,1,674,Duplex,Regina,SK
+1586,911,Regina,1,1,663,Apt/Condo,Regina,SK
+1587,826,Regina,1,1,535,Apt/Condo,Regina,SK
+1588,1509,Regina,2,1,850,Townhouse,Regina,SK
+1589,691,Regina,0,1,400,Apt/Condo,Regina,SK
+1590,1146,Regina,2,1,773,Apt/Condo,Regina,SK
+1591,1176,Regina,2,1,832,Apt/Condo,Regina,SK
+1592,1326,Regina,2,2,832,Apt/Condo,Regina,SK
+1593,1101,Regina,2,1,1000,Apt/Condo,Regina,SK
+1594,979,Regina,1,1,705,Apt/Condo,Regina,SK
+1595,850,Regina,0,1,351,Apt/Condo,Regina,SK
+1596,979,Regina,1,1,670,Apt/Condo,Regina,SK
+1597,965,Regina,1,1,457,Apt/Condo,Regina,SK
+1598,860,Regina,0,1,374,Apt/Condo,Regina,SK
+1599,1460,Regina,2,2,939,Apt/Condo,Regina,SK
+1600,1410,Regina,2,1,825,Apt/Condo,Regina,SK
+1601,1235,Regina,2,1,897,Apt/Condo,Regina,SK
+1602,1280,Regina,2,2,962,Apt/Condo,Regina,SK
+1603,1239,Regina,2,1,933,Apt/Condo,Regina,SK
+1604,949,Regina,1,1,770,Apt/Condo,Regina,SK
+1605,1039,Regina,1,1,658,Apt/Condo,Regina,SK
+1606,1359,Regina,2,2,915,Apt/Condo,Regina,SK
+1607,1360,Regina,2,2,915,Apt/Condo,Regina,SK
+1608,1439,Regina,2,1,900,Apt/Condo,Regina,SK
+1609,1319,Regina,1,1,675,Apt/Condo,Regina,SK
+1610,1149,Regina,2,1,850,Apt/Condo,Regina,SK
+1611,1156,Regina,1,1,650,Townhouse,Regina,SK
+1612,1203,Regina,2,1,850,Townhouse,Regina,SK
+1613,1203,Regina,2,1,850,Townhouse,Regina,SK
+1614,1504,Regina,3,1,1105,Townhouse,Regina,SK
+1615,1156,Regina,2,1,860,Apt/Condo,Regina,SK
+1616,1239,Regina,2,1,860,Apt/Condo,Regina,SK
+1617,1489,Regina,3,1,1056,Townhouse,Regina,SK
+1618,1076,Regina,2,1,864,Townhouse,Regina,SK
+1619,1064,Regina,2,1,860,Apt/Condo,Regina,SK
+1620,1000,Regina,1,1,670,Apt/Condo,Regina,SK
+1621,1048,Regina,2,1,860,Apt/Condo,Regina,SK
+1622,1114,Regina,2,1,877,Townhouse,Regina,SK
+1623,799,Regina,1,1,575,Apt/Condo,Regina,SK
+1624,1060,Regina,1,1,620,Apt/Condo,Regina,SK
+1625,899,Regina,2,1,763,Apt/Condo,Regina,SK
+1626,826,Regina,2,1,684,Apt/Condo,Regina,SK
+1627,801,Regina,1,1,469,Apt/Condo,Regina,SK
+1628,801,Regina,1,1,357,Apt/Condo,Regina,SK
+1629,726,Regina,2,1,684,Apt/Condo,Regina,SK
+1630,975,Regina,1,1,466,Apt/Condo,Regina,SK
+1631,651,Regina,0,1,308,Apt/Condo,Regina,SK
+1632,1150,Regina,2,1,747,House,Regina,SK
+1633,899,Regina,2,1,585,Apt/Condo,Regina,SK
+1634,799,Regina,1,1,520,Apt/Condo,Regina,SK
+1635,754,Regina,0,1,402,Apt/Condo,Regina,SK
+1636,1049,Regina,2,1,910,Apt/Condo,Regina,SK
+1637,775,Regina,0,1,480,Apt/Condo,Regina,SK
+1638,1075,Regina,2,1,910,Apt/Condo,Regina,SK
+1639,994,Regina,1,1,675,Apt/Condo,Regina,SK
+1640,854,Regina,0,1,480,Apt/Condo,Regina,SK
+1641,814,Regina,1,1,675,Apt/Condo,Regina,SK
+1642,994,Regina,1,1,675,Apt/Condo,Regina,SK
+1643,994,Regina,1,1,675,Apt/Condo,Regina,SK
+1644,999,Regina,2,1,910,Apt/Condo,Regina,SK
+1645,854,Regina,0,1,480,Apt/Condo,Regina,SK
+1646,1174,Regina,2,1,910,Apt/Condo,Regina,SK
+1647,854,Regina,0,1,480,Apt/Condo,Regina,SK
+1648,1154,Regina,2,1,910,Apt/Condo,Regina,SK
+1649,814,Regina,1,1,675,Apt/Condo,Regina,SK
+1650,1154,Regina,2,1,910,Apt/Condo,Regina,SK
+1651,1525,Regina,3,1,1061,Apt/Condo,Regina,SK
+1652,1154,Regina,2,1,910,Apt/Condo,Regina,SK
+1653,1684,Regina,2,1,1848,Duplex,Regina,SK
+1654,775,Regina,0,1,410,Apt/Condo,Regina,SK
+1655,1099,Regina,2,1,720,Apt/Condo,Regina,SK
+1656,994,Regina,1,1,675,Apt/Condo,Regina,SK
+1657,734,Regina,0,1,320,Apt/Condo,Regina,SK
+1658,1174,Regina,2,1,910,Apt/Condo,Regina,SK
+1659,849,Regina,1,1,675,Apt/Condo,Regina,SK
+1660,994,Regina,1,1,675,Apt/Condo,Regina,SK
+1661,1154,Regina,2,1,910,Apt/Condo,Regina,SK
+1662,814,Regina,1,1,675,Apt/Condo,Regina,SK
+1663,1075,Regina,2,1,910,Apt/Condo,Regina,SK
+1664,1049,Regina,2,1,720,Apt/Condo,Regina,SK
+1665,875,Regina,1,1,650,Apt/Condo,Regina,SK
+1666,1049,Regina,2,1,910,Apt/Condo,Regina,SK
+1667,1414,Regina,3,1,1161,Apt/Condo,Regina,SK
+1668,734,Regina,0,1,320,Apt/Condo,Regina,SK
+1669,875,Regina,1,1,675,Apt/Condo,Regina,SK
+1670,849,Regina,1,1,675,Apt/Condo,Regina,SK
+1671,854,Regina,0,1,480,Apt/Condo,Regina,SK
+1672,994,Regina,1,1,675,Apt/Condo,Regina,SK
+1673,854,Regina,0,1,480,Apt/Condo,Regina,SK
+1674,814,Regina,1,1,675,Apt/Condo,Regina,SK
+1675,854,Regina,0,1,480,Apt/Condo,Regina,SK
+1676,994,Regina,1,1,675,Apt/Condo,Regina,SK
+1677,1154,Regina,2,1,910,Apt/Condo,Regina,SK
+1678,734,Regina,0,1,320,Apt/Condo,Regina,SK
+1679,994,Regina,1,1,675,Apt/Condo,Regina,SK
+1680,849,Regina,1,1,675,Apt/Condo,Regina,SK
+1681,1154,Regina,2,1,910,Apt/Condo,Regina,SK
+1682,854,Regina,0,1,480,Apt/Condo,Regina,SK
+1683,1154,Regina,2,1,910,Apt/Condo,Regina,SK
+1684,994,Regina,1,1,675,Apt/Condo,Regina,SK
+1685,854,Regina,0,1,480,Apt/Condo,Regina,SK
+1686,994,Regina,1,1,675,Apt/Condo,Regina,SK
+1687,1154,Regina,2,1,910,Apt/Condo,Regina,SK
+1688,854,Regina,0,1,480,Apt/Condo,Regina,SK
+1689,849,Regina,1,1,675,Apt/Condo,Regina,SK
+1690,854,Regina,0,1,480,Apt/Condo,Regina,SK
+1691,854,Regina,0,1,480,Apt/Condo,Regina,SK
+1692,994,Regina,1,1,675,Apt/Condo,Regina,SK
+1693,854,Regina,0,1,480,Apt/Condo,Regina,SK
+1694,994,Regina,1,1,675,Apt/Condo,Regina,SK
+1695,1154,Regina,2,1,910,Apt/Condo,Regina,SK
+1696,814,Regina,1,1,675,Apt/Condo,Regina,SK
+1697,854,Regina,0,1,480,Apt/Condo,Regina,SK
+1698,994,Regina,1,1,675,Apt/Condo,Regina,SK
+1699,1049,Regina,2,1,910,Apt/Condo,Regina,SK
+1700,854,Regina,0,1,480,Apt/Condo,Regina,SK
+1701,1075,Regina,2,1,910,Apt/Condo,Regina,SK
+1702,734,Regina,0,1,320,Apt/Condo,Regina,SK
+1703,849,Regina,1,1,675,Apt/Condo,Regina,SK
+1704,1154,Regina,2,1,720,Apt/Condo,Regina,SK
+1705,854,Regina,0,1,480,Apt/Condo,Regina,SK
+1706,994,Regina,1,1,675,Apt/Condo,Regina,SK
+1707,749,Regina,0,1,480,Apt/Condo,Regina,SK
+1708,1154,Regina,2,1,910,Apt/Condo,Regina,SK
+1709,994,Regina,1,1,675,Apt/Condo,Regina,SK
+1710,994,Regina,1,1,675,Apt/Condo,Regina,SK
+1711,854,Regina,0,1,480,Apt/Condo,Regina,SK
+1712,994,Regina,1,1,675,Apt/Condo,Regina,SK
+1713,864,Regina,0,1,480,Apt/Condo,Regina,SK
+1714,799,Regina,1,1,650,Apt/Condo,Regina,SK
+1715,849,Regina,1,1,675,Apt/Condo,Regina,SK
+1716,1025,Regina,2,1,720,Apt/Condo,Regina,SK
+1717,734,Regina,0,1,320,Apt/Condo,Regina,SK
+1718,814,Regina,1,1,675,Apt/Condo,Regina,SK
+1719,849,Regina,1,1,675,Apt/Condo,Regina,SK
+1720,699,Regina,0,1,320,Apt/Condo,Regina,SK
+1721,1099,Regina,2,1,910,Apt/Condo,Regina,SK
+1722,854,Regina,0,1,480,Apt/Condo,Regina,SK
+1723,1504,Regina,3,1,1161,Apt/Condo,Regina,SK
+1724,854,Regina,0,1,480,Apt/Condo,Regina,SK
+1725,849,Regina,1,1,675,Apt/Condo,Regina,SK
+1726,854,Regina,0,1,480,Apt/Condo,Regina,SK
+1727,675,Regina,0,1,320,Apt/Condo,Regina,SK
+1728,1024,Regina,2,1,880,Apt/Condo,Regina,SK
+1729,1064,Regina,2,1,720,Apt/Condo,Regina,SK
+1730,699,Regina,0,1,320,Apt/Condo,Regina,SK
+1731,699,Regina,0,1,320,Apt/Condo,Regina,SK
+1732,1075,Regina,2,1,910,Apt/Condo,Regina,SK
+1733,799,Regina,1,1,650,Apt/Condo,Regina,SK
+1734,814,Regina,1,1,675,Apt/Condo,Regina,SK
+1735,699,Regina,0,1,320,Apt/Condo,Regina,SK
+1736,994,Regina,1,1,675,Apt/Condo,Regina,SK
+1737,1154,Regina,2,1,910,Apt/Condo,Regina,SK
+1738,799,Regina,1,1,675,Apt/Condo,Regina,SK
+1739,974,Regina,1,1,650,Apt/Condo,Regina,SK
+1740,1154,Regina,2,1,910,Apt/Condo,Regina,SK
+1741,699,Regina,0,1,320,Apt/Condo,Regina,SK
+1742,875,Regina,1,1,675,Apt/Condo,Regina,SK
+1743,1134,Regina,2,1,910,Apt/Condo,Regina,SK
+1744,950,Regina,2,1,780,Apt/Condo,Regina,SK
+1745,1061,Saskatoon,1,1,392,Apt/Condo,Saskatoon,SK
+1746,1021,Saskatoon,2,1,683,Apt/Condo,Saskatoon,SK
+1747,1439,Saskatoon,1,1,920,Apt/Condo,Saskatoon,SK
+1748,926,Saskatoon,2,1,780,Apt/Condo,Saskatoon,SK
+1749,1181,Saskatoon,3,1,1050,Apt/Condo,Saskatoon,SK
+1750,1051,Saskatoon,2,1,785,Apt/Condo,Saskatoon,SK
+1751,750,Saskatoon,1,1,700,Apt/Condo,Saskatoon,SK
+1752,631,Saskatoon,1,1,480,Apt/Condo,Saskatoon,SK
+1753,986,Saskatoon,1,1,433,Apt/Condo,Saskatoon,SK
+1754,2200,Saskatoon,4,3,1200,House,Saskatoon,SK
+1755,856,Saskatoon,1,1,591,Apt/Condo,Saskatoon,SK
+1756,1154,Saskatoon,2,1,759,Apt/Condo,Saskatoon,SK
+1757,706,Saskatoon,1,1,600,Apt/Condo,Saskatoon,SK
+1758,891,Saskatoon,0,1,435,Apt/Condo,Saskatoon,SK
+1759,896,Saskatoon,1,1,671,Apt/Condo,Saskatoon,SK
+1760,1151,Saskatoon,1,1,542,Apt/Condo,Saskatoon,SK
+1761,751,Saskatoon,0,1,388,Apt/Condo,Saskatoon,SK
+1762,1600,Saskatoon,3,2,1100,House,Saskatoon,SK
+1763,946,Saskatoon,2,1,752,Apt/Condo,Saskatoon,SK
+1764,1150,Saskatoon,1,1,768,Apt/Condo,Saskatoon,SK
+1765,1334,Saskatoon,2,1,710,Apt/Condo,Saskatoon,SK
+1766,1341,Saskatoon,3,0,1400,Apt/Condo,Saskatoon,SK
+1767,1179,Saskatoon,2,0,897,Apt/Condo,Saskatoon,SK
+1768,901,Saskatoon,1,1,627,Apt/Condo,Saskatoon,SK
+1769,1076,Saskatoon,1,1,652,Apt/Condo,Saskatoon,SK
+1770,916,Saskatoon,1,0,670,Apt/Condo,Saskatoon,SK
+1771,1165,Saskatoon,2,1,1000,Apt/Condo,Saskatoon,SK
+1772,1800,Saskatoon,3,1,900,Duplex,Saskatoon,SK
+1773,1011,Saskatoon,2,1,680,Apt/Condo,Saskatoon,SK
+1774,921,Saskatoon,1,1,540,Apt/Condo,Saskatoon,SK
+1775,656,Saskatoon,2,1,644,Apt/Condo,Saskatoon,SK
+1776,1001,Saskatoon,1,1,499,Apt/Condo,Saskatoon,SK
+1777,1026,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1778,1165,Saskatoon,2,1,1000,Apt/Condo,Saskatoon,SK
+1779,1021,Saskatoon,1,1,525,Apt/Condo,Saskatoon,SK
+1780,995,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1781,746,Saskatoon,2,1,752,Apt/Condo,Saskatoon,SK
+1782,1345,Saskatoon,2,1,724,Apt/Condo,Saskatoon,SK
+1783,945,Saskatoon,0,1,465,Apt/Condo,Saskatoon,SK
+1784,1345,Saskatoon,2,1,756,Apt/Condo,Saskatoon,SK
+1785,1345,Saskatoon,2,1,786,Apt/Condo,Saskatoon,SK
+1786,1026,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1787,746,Saskatoon,1,1,647,Apt/Condo,Saskatoon,SK
+1788,1016,Saskatoon,0,1,494,Apt/Condo,Saskatoon,SK
+1789,936,Saskatoon,0,1,359,Apt/Condo,Saskatoon,SK
+1790,1149,Saskatoon,1,1,600,Apt/Condo,Saskatoon,SK
+1791,1419,Saskatoon,2,1,850,Apt/Condo,Saskatoon,SK
+1792,1129,Saskatoon,1,1,620,Apt/Condo,Saskatoon,SK
+1793,1194,Saskatoon,2,1,759,Apt/Condo,Saskatoon,SK
+1794,756,Saskatoon,2,1,632,Apt/Condo,Saskatoon,SK
+1795,1200,Saskatoon,1,1,717,Apt/Condo,Saskatoon,SK
+1796,1300,Saskatoon,1,1,734,Apt/Condo,Saskatoon,SK
+1797,1400,Saskatoon,2,1,1044,Apt/Condo,Saskatoon,SK
+1798,1550,Saskatoon,2,1,1056,Apt/Condo,Saskatoon,SK
+1799,956,Saskatoon,1,1,591,Apt/Condo,Saskatoon,SK
+1800,1319,Saskatoon,1,1,668,Apt/Condo,Saskatoon,SK
+1801,1081,Saskatoon,3,1,1050,Apt/Condo,Saskatoon,SK
+1802,1000,Saskatoon,1,1,541,Apt/Condo,Saskatoon,SK
+1803,1180,Saskatoon,1,1,600,Apt/Condo,Saskatoon,SK
+1804,1475,Saskatoon,2,2,895,Apt/Condo,Saskatoon,SK
+1805,1036,Saskatoon,1,1,475,Apt/Condo,Saskatoon,SK
+1806,931,Saskatoon,2,1,786,Apt/Condo,Saskatoon,SK
+1807,926,Saskatoon,2,1,950,Apt/Condo,Saskatoon,SK
+1808,950,Saskatoon,1,1,800,Apt/Condo,Saskatoon,SK
+1809,1419,Saskatoon,1,1,668,Apt/Condo,Saskatoon,SK
+1810,1101,Saskatoon,1,1,499,Apt/Condo,Saskatoon,SK
+1811,1031,Saskatoon,2,1,786,Apt/Condo,Saskatoon,SK
+1812,1700,Saskatoon,2,2,1041,Apt/Condo,Saskatoon,SK
+1813,886,Saskatoon,0,1,382,Apt/Condo,Saskatoon,SK
+1814,1509,Saskatoon,2,2,1280,Apt/Condo,Saskatoon,SK
+1815,1145,Saskatoon,1,1,513,Apt/Condo,Saskatoon,SK
+1816,1119,Saskatoon,1,1,614,Apt/Condo,Saskatoon,SK
+1817,926,Saskatoon,2,1,739,Apt/Condo,Saskatoon,SK
+1818,1345,Saskatoon,2,1,786,Apt/Condo,Saskatoon,SK
+1819,1006,Saskatoon,2,1,644,Apt/Condo,Saskatoon,SK
+1820,1409,Saskatoon,2,1,942,Apt/Condo,Saskatoon,SK
+1821,1549,Saskatoon,2,1,940,Apt/Condo,Saskatoon,SK
+1822,1259,Saskatoon,1,1,769,Apt/Condo,Saskatoon,SK
+1823,1319,Saskatoon,2,1,828,Apt/Condo,Saskatoon,SK
+1824,1168,Saskatoon,1,1,754,Apt/Condo,Saskatoon,SK
+1825,1389,Saskatoon,2,1,850,Apt/Condo,Saskatoon,SK
+1826,1134,Saskatoon,1,1,482,Apt/Condo,Saskatoon,SK
+1827,1494,Saskatoon,2,1,1128,Apt/Condo,Saskatoon,SK
+1828,1609,Saskatoon,2,1,1294,Apt/Condo,Saskatoon,SK
+1829,1175,Saskatoon,1,1,718,Apt/Condo,Saskatoon,SK
+1830,1295,Saskatoon,2,2,896,Apt/Condo,Saskatoon,SK
+1831,1175,Saskatoon,1,1,700,Apt/Condo,Saskatoon,SK
+1832,1360,Saskatoon,2,2,875,Apt/Condo,Saskatoon,SK
+1833,1293,Saskatoon,2,2,924,Apt/Condo,Saskatoon,SK
+1834,1293,Saskatoon,2,2,924,Apt/Condo,Saskatoon,SK
+1835,1247,Saskatoon,2,2,868,Apt/Condo,Saskatoon,SK
+1836,775,Saskatoon,1,1,600,Apt/Condo,Saskatoon,SK
+1837,1050,Saskatoon,2,1,800,Apt/Condo,Saskatoon,SK
+1838,950,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1839,1095,Saskatoon,2,1,1000,Apt/Condo,Saskatoon,SK
+1840,1111,Saskatoon,1,1,462,Apt/Condo,Saskatoon,SK
+1841,1210,Saskatoon,2,1,950,Apt/Condo,Saskatoon,SK
+1842,1250,Saskatoon,2,1,1000,Apt/Condo,Saskatoon,SK
+1843,995,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1844,1165,Saskatoon,2,1,1000,Apt/Condo,Saskatoon,SK
+1845,995,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1846,950,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1847,995,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1848,1045,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1849,751,Saskatoon,1,1,515,Apt/Condo,Saskatoon,SK
+1850,1200,Saskatoon,2,1,875,Apt/Condo,Saskatoon,SK
+1851,951,Saskatoon,1,1,475,Apt/Condo,Saskatoon,SK
+1852,751,Saskatoon,1,1,501,Apt/Condo,Saskatoon,SK
+1853,601,Saskatoon,2,1,739,Apt/Condo,Saskatoon,SK
+1854,699,Saskatoon,1,1,530,Apt/Condo,Saskatoon,SK
+1855,724,Saskatoon,2,1,627,Apt/Condo,Saskatoon,SK
+1856,950,Saskatoon,2,1,851,Apt/Condo,Saskatoon,SK
+1857,850,Saskatoon,1,1,603,Apt/Condo,Saskatoon,SK
+1858,875,Saskatoon,2,1,780,Apt/Condo,Saskatoon,SK
+1859,1025,Saskatoon,3,1,901,Apt/Condo,Saskatoon,SK
+1860,850,Saskatoon,0,1,336,Apt/Condo,Saskatoon,SK
+1861,975,Saskatoon,1,1,508,Apt/Condo,Saskatoon,SK
+1862,1050,Saskatoon,2,1,546,Apt/Condo,Saskatoon,SK
+1863,765,Saskatoon,0,1,334,Apt/Condo,Saskatoon,SK
+1864,849,Saskatoon,1,1,641,Apt/Condo,Saskatoon,SK
+1865,975,Saskatoon,2,1,823,Apt/Condo,Saskatoon,SK
+1866,999,Saskatoon,1,1,577,Apt/Condo,Saskatoon,SK
+1867,1099,Saskatoon,2,1,825,Apt/Condo,Saskatoon,SK
+1868,900,Saskatoon,1,1,459,Apt/Condo,Saskatoon,SK
+1869,1099,Saskatoon,2,1,707,Apt/Condo,Saskatoon,SK
+1870,1250,Saskatoon,3,1,882,Apt/Condo,Saskatoon,SK
+1871,725,Saskatoon,0,1,395,Apt/Condo,Saskatoon,SK
+1872,1099,Saskatoon,2,1,850,Apt/Condo,Saskatoon,SK
+1873,875,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1874,1075,Saskatoon,2,1,750,Apt/Condo,Saskatoon,SK
+1875,925,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1876,899,Saskatoon,1,1,500,Apt/Condo,Saskatoon,SK
+1877,1149,Saskatoon,2,1,780,Apt/Condo,Saskatoon,SK
+1878,850,Saskatoon,0,1,403,Apt/Condo,Saskatoon,SK
+1879,975,Saskatoon,1,1,613,Apt/Condo,Saskatoon,SK
+1880,1125,Saskatoon,2,1,767,Apt/Condo,Saskatoon,SK
+1881,825,Saskatoon,1,1,400,Apt/Condo,Saskatoon,SK
+1882,799,Saskatoon,2,1,617,Apt/Condo,Saskatoon,SK
+1883,875,Saskatoon,1,1,538,Apt/Condo,Saskatoon,SK
+1884,750,Saskatoon,2,1,647,Apt/Condo,Saskatoon,SK
+1885,875,Saskatoon,1,1,552,Apt/Condo,Saskatoon,SK
+1886,999,Saskatoon,2,1,660,Apt/Condo,Saskatoon,SK
+1887,775,Saskatoon,0,1,500,Apt/Condo,Saskatoon,SK
+1888,799,Saskatoon,2,1,730,Apt/Condo,Saskatoon,SK
+1889,699,Saskatoon,1,1,507,Apt/Condo,Saskatoon,SK
+1890,799,Saskatoon,2,1,673,Apt/Condo,Saskatoon,SK
+1891,950,Saskatoon,1,1,500,Apt/Condo,Saskatoon,SK
+1892,1045,Saskatoon,3,1,870,Apt/Condo,Saskatoon,SK
+1893,1125,Saskatoon,2,1,850,Apt/Condo,Saskatoon,SK
+1894,1075,Saskatoon,2,1,650,Apt/Condo,Saskatoon,SK
+1895,850,Saskatoon,1,1,408,Apt/Condo,Saskatoon,SK
+1896,765,Saskatoon,0,1,300,Apt/Condo,Saskatoon,SK
+1897,725,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1898,695,Saskatoon,0,1,450,Apt/Condo,Saskatoon,SK
+1899,1000,Saskatoon,2,1,759,Apt/Condo,Saskatoon,SK
+1900,699,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1901,950,Saskatoon,1,1,525,Apt/Condo,Saskatoon,SK
+1902,950,Saskatoon,2,1,720,Apt/Condo,Saskatoon,SK
+1903,1199,Saskatoon,3,1,810,Apt/Condo,Saskatoon,SK
+1904,725,Saskatoon,1,1,575,Apt/Condo,Saskatoon,SK
+1905,775,Saskatoon,2,1,767,Apt/Condo,Saskatoon,SK
+1906,800,Saskatoon,1,1,400,Apt/Condo,Saskatoon,SK
+1907,1000,Saskatoon,2,1,617,Apt/Condo,Saskatoon,SK
+1908,875,Saskatoon,1,1,558,Apt/Condo,Saskatoon,SK
+1909,775,Saskatoon,1,1,558,Apt/Condo,Saskatoon,SK
+1910,775,Saskatoon,0,1,450,Apt/Condo,Saskatoon,SK
+1911,870,Saskatoon,1,1,600,Apt/Condo,Saskatoon,SK
+1912,875,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1913,899,Saskatoon,2,1,800,Apt/Condo,Saskatoon,SK
+1914,1065,Saskatoon,3,1,950,Apt/Condo,Saskatoon,SK
+1915,850,Saskatoon,0,1,400,Apt/Condo,Saskatoon,SK
+1916,925,Saskatoon,1,1,600,Apt/Condo,Saskatoon,SK
+1917,799,Saskatoon,0,1,265,Apt/Condo,Saskatoon,SK
+1918,950,Saskatoon,1,1,520,Apt/Condo,Saskatoon,SK
+1919,899,Saskatoon,1,1,651,Apt/Condo,Saskatoon,SK
+1920,900,Saskatoon,0,1,405,Apt/Condo,Saskatoon,SK
+1921,1099,Saskatoon,2,1,832,Apt/Condo,Saskatoon,SK
+1922,850,Saskatoon,1,1,600,Apt/Condo,Saskatoon,SK
+1923,1045,Saskatoon,2,1,800,Apt/Condo,Saskatoon,SK
+1924,749,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1925,799,Saskatoon,2,1,725,Apt/Condo,Saskatoon,SK
+1926,875,Saskatoon,1,1,525,Apt/Condo,Saskatoon,SK
+1927,1045,Saskatoon,3,1,1000,Apt/Condo,Saskatoon,SK
+1928,1065,Saskatoon,3,1,886,Apt/Condo,Saskatoon,SK
+1929,799,Saskatoon,0,1,400,Apt/Condo,Saskatoon,SK
+1930,925,Saskatoon,1,1,600,Apt/Condo,Saskatoon,SK
+1931,1025,Saskatoon,2,1,750,Apt/Condo,Saskatoon,SK
+1932,710,Saskatoon,1,1,500,Apt/Condo,Saskatoon,SK
+1933,825,Saskatoon,2,1,600,Apt/Condo,Saskatoon,SK
+1934,725,Saskatoon,1,1,592,Apt/Condo,Saskatoon,SK
+1935,825,Saskatoon,2,1,844,Apt/Condo,Saskatoon,SK
+1936,925,Saskatoon,1,1,514,Apt/Condo,Saskatoon,SK
+1937,925,Saskatoon,2,1,812,Apt/Condo,Saskatoon,SK
+1938,770,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1939,835,Saskatoon,2,1,800,Apt/Condo,Saskatoon,SK
+1940,900,Saskatoon,1,1,575,Apt/Condo,Saskatoon,SK
+1941,1250,Saskatoon,2,1,900,Apt/Condo,Saskatoon,SK
+1942,1150,Saskatoon,3,1,950,Apt/Condo,Saskatoon,SK
+1943,870,Saskatoon,1,1,605,Apt/Condo,Saskatoon,SK
+1944,975,Saskatoon,2,1,605,Apt/Condo,Saskatoon,SK
+1945,865,Saskatoon,1,1,564,Apt/Condo,Saskatoon,SK
+1946,825,Saskatoon,2,1,710,Apt/Condo,Saskatoon,SK
+1947,795,Saskatoon,0,1,400,Apt/Condo,Saskatoon,SK
+1948,725,Saskatoon,0,1,325,Apt/Condo,Saskatoon,SK
+1949,1000,Saskatoon,1,1,600,Apt/Condo,Saskatoon,SK
+1950,1200,Saskatoon,2,1,750,Apt/Condo,Saskatoon,SK
+1951,750,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1952,725,Saskatoon,0,1,400,Apt/Condo,Saskatoon,SK
+1953,975,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1954,825,Saskatoon,1,1,585,Apt/Condo,Saskatoon,SK
+1955,925,Saskatoon,2,1,750,Apt/Condo,Saskatoon,SK
+1956,1215,Saskatoon,3,1,900,Apt/Condo,Saskatoon,SK
+1957,875,Saskatoon,1,1,600,Apt/Condo,Saskatoon,SK
+1958,774,Saskatoon,2,1,700,Apt/Condo,Saskatoon,SK
+1959,1025,Saskatoon,1,1,500,Apt/Condo,Saskatoon,SK
+1960,750,Saskatoon,2,1,800,Apt/Condo,Saskatoon,SK
+1961,850,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1962,975,Saskatoon,2,1,800,Apt/Condo,Saskatoon,SK
+1963,1045,Saskatoon,3,1,950,Apt/Condo,Saskatoon,SK
+1964,870,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1965,970,Saskatoon,2,1,800,Apt/Condo,Saskatoon,SK
+1966,905,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1967,750,Saskatoon,0,1,225,Apt/Condo,Saskatoon,SK
+1968,875,Saskatoon,1,1,475,Apt/Condo,Saskatoon,SK
+1969,750,Saskatoon,0,1,340,Apt/Condo,Saskatoon,SK
+1970,1000,Saskatoon,2,1,680,Apt/Condo,Saskatoon,SK
+1971,750,Saskatoon,1,1,320,Apt/Condo,Saskatoon,SK
+1972,865,Saskatoon,2,1,800,Apt/Condo,Saskatoon,SK
+1973,875,Saskatoon,0,1,450,Apt/Condo,Saskatoon,SK
+1974,775,Saskatoon,1,1,650,Apt/Condo,Saskatoon,SK
+1975,900,Saskatoon,2,1,800,Apt/Condo,Saskatoon,SK
+1976,1578,Selkirk,3,2,1053,Apt/Condo,selkirk,Manitoba
+1977,1800,Whalley,2,1,655,Apt/Condo,Surrey,BC
+1978,2100,Whalley,2,2,750,Apt/Condo,Surrey,BC
+1979,1425,Whalley,0,1,446,Apt/Condo,Surrey,BC
+1980,1500,Whalley,1,1,512,Apt/Condo,Surrey,BC
+1981,2300,Whalley,2,2,802,Apt/Condo,Surrey,BC
+1982,1800,Grandview,2,1,800,House,Surrey,BC
+1983,1400,Cedar Hills,1,1,572,Apt/Condo,Surrey,BC
+1984,1300,Whalley,0,1,305,Apt/Condo,Surrey,BC
+1985,2295,Morgan Creek,2,2,886,Apt/Condo,Surrey,BC
+1986,1375,Guildford,1,1,625,Apt/Condo,Surrey,BC
+1987,1650,Guildford,2,1,864,Apt/Condo,Surrey,BC
+1988,1850,Guildford,3,1,1039,Apt/Condo,Surrey,BC
+1989,1350,Guildford,1,1,550,Apt/Condo,Surrey,BC
+1990,1625,Guildford,2,1,750,Apt/Condo,Surrey,BC
+1991,1800,Guildford,3,1,900,Apt/Condo,Surrey,BC
+1992,1800,Queen Mary Park,3,1,1102,Apt/Condo,Surrey,BC
+1993,1275,Cedar Hills,1,1,600,Apt/Condo,Surrey,BC
+1994,1575,Cedar Hills,2,1,750,Apt/Condo,Surrey,BC
+1995,1750,Cedar Hills,3,1,950,Apt/Condo,Surrey,BC
+1996,1350,Queen Mary Park,1,1,550,Apt/Condo,Surrey,BC
+1997,1600,Queen Mary Park,2,1,950,Apt/Condo,Surrey,BC
+1998,1800,Queen Mary Park,3,1,1000,Apt/Condo,Surrey,BC
+1999,1350,Queen Mary Park,1,1,669,Apt/Condo,Surrey,BC
+2000,1550,Queen Mary Park,2,1,818,Apt/Condo,Surrey,BC
+2001,1325,West Newton,1,1,585,Apt/Condo,Surrey,BC
+2002,1600,West Newton,2,1,773,Apt/Condo,Surrey,BC
+2003,1900,West Newton,3,1,1093,Apt/Condo,Surrey,BC
+2004,1575,Bolivar Heights,2,1,975,Apt/Condo,Surrey,BC
+2005,1400,Guildford,1,1,664,Apt/Condo,Surrey,BC
+2006,1800,Bolivar Heights,3,1,1100,Apt/Condo,Surrey,BC
+2007,1700,Guildford,2,1,912,Apt/Condo,Surrey,BC
+2008,1900,Guildford,3,1,1120,Apt/Condo,Surrey,BC
+2009,1250,Queen Mary Park,0,1,510,Apt/Condo,Surrey,BC
+2010,1400,Guildford,1,1,662,Apt/Condo,Surrey,BC
+2011,1700,Guildford,2,1,928,Apt/Condo,Surrey,BC
+2012,1900,Guildford,3,1,1120,Apt/Condo,Surrey,BC
+2013,11000,Serpentine,7,6,8725,House,Surrey,BC
+2014,2300,White Rock,2,1,1000,House,Surrey,BC
+2015,3000,Cloverdale,4,4,2010,House,Surrey,BC
+2016,2300,Whalley,2,2,802,House,Surrey,BC
+2017,1450,Whalley,1,1,443,Apt/Condo,Surrey,BC
+2018,2800,Whalley,3,2,1017,House,Surrey,BC
+2019,800,Fleetwood Tynehead,1,1,400,House,Surrey,BC
+2020,1750,Queen Mary Park,1,1,605,House,Surrey,BC
+2021,3800,King George Corridor,3,3,2000,House,Surrey,BC
+2022,2300,Morgan Creek,2,1,778,House,Surrey,BC
+2023,2600,White Rock,2,2,880,House,Surrey,BC
+2024,1100,Fleetwood Tynehead,1,1,650,House,Surrey,BC
+2025,2300,King George Corridor,2,2,1650,House,Surrey,BC
+2026,811,Swift Current,2,1,736,Apt/Condo,Swift_current,SK
+2027,871,Swift Current,1,1,557,Apt/Condo,Swift_current,SK
+2028,616,Swift Current,0,1,286,Apt/Condo,Swift_current,SK
+2029,1096,Swift Current,3,1,829,Apt/Condo,Swift_current,SK
+2030,726,Swift Current,1,1,446,Apt/Condo,Swift_current,SK
+2031,726,Swift Current,1,1,484,Apt/Condo,Swift_current,SK
+2032,626,Swift Current,1,1,499,Apt/Condo,Swift_current,SK
+2033,651,Swift Current,0,1,361,Apt/Condo,Swift_current,SK
+2034,911,Swift Current,2,1,736,Apt/Condo,Swift_current,SK
+2035,871,Swift Current,2,1,767,Apt/Condo,Swift_current,SK
+2036,1250,Dovercourt Wallace Emerson Junction,0,1,230,Apt/Condo,Toronto,Ontario
+2037,2900,Niagara,2,2,800,Apt/Condo,Toronto,Ontario
+2038,2775,Elms Old Rexdale,3,2,1656,Apt/Condo,Toronto,Ontario
+2039,1950,Henry Farm,1,1,545,Apt/Condo,Toronto,Ontario
+2040,2429,Thorncliffe Park,2,2,957,Apt/Condo,Toronto,Ontario
+2041,2200,Waterfront Communities West,1,1,572,Apt/Condo,Toronto,Ontario
+2042,2000,Waterfront Communities West,1,1,650,Apt/Condo,Toronto,Ontario
+2043,1600,Yonge St. Clair,1,1,460,Apt/Condo,Toronto,Ontario
+2044,2075,Banbury Don Mills,1,1,629,Apt/Condo,Toronto,Ontario
+2045,1595,Humewood Cedarvale,1,1,450,Apt/Condo,Toronto,Ontario
+2046,1660,South Parkdale,1,1,500,Apt/Condo,Toronto,Ontario
+2047,1250,Dovercourt Wallace Emerson Junction,0,1,230,Apt/Condo,Toronto,Ontario
+2048,2000,Mount Pleasant West,2,1,845,Apt/Condo,Toronto,Ontario
+2049,2150,Islington City Centre West,1,1,599,Apt/Condo,Toronto,Ontario
+2050,2125,Mount Pleasant East,1,1,604,Apt/Condo,Toronto,Ontario
+2051,2050,Dovercourt Wallace Emerson Junction,1,1,604,Apt/Condo,Toronto,Ontario
+2052,2700,Church Yonge Corridor,2,2,645,Apt/Condo,Toronto,Ontario
+2053,2300,Niagara,1,1,553,Apt/Condo,Toronto,Ontario
+2054,2450,Niagara,1,1,700,Apt/Condo,Toronto,Ontario
+2055,1400,Yorkville,0,1,306,Apt/Condo,Toronto,Ontario
+2056,2500,Waterfront Communities West,2,1,800,Apt/Condo,Toronto,Ontario
+2057,2200,Islington City Centre West,1,1,598,Apt/Condo,Toronto,Ontario
+2058,3100,Kensington Chinatown,2,2,790,Apt/Condo,Toronto,Ontario
+2059,1900,Waterfront Communities East,1,1,443,Apt/Condo,Toronto,Ontario
+2060,1379,St. Andrew Windfields,0,1,1050,Apt/Condo,Toronto,Ontario
+2061,2400,Lansing Westgate,1,2,600,Apt/Condo,Toronto,Ontario
+2062,2100,Waterfront Communities West,1,1,590,Apt/Condo,Toronto,Ontario
+2063,2590,South Riverdale,2,2,850,Apt/Condo,Toronto,Ontario
+2064,1800,South Riverdale,1,1,580,Apt/Condo,Toronto,Ontario
+2065,2850,Waterfront Communities East,1,2,790,Apt/Condo,Toronto,Ontario
+2066,3300,South Riverdale,2,2,880,Apt/Condo,Toronto,Ontario
+2067,2350,South Riverdale,1,1,578,Apt/Condo,Toronto,Ontario
+2068,4200,Yorkville,2,3,1205,Apt/Condo,Toronto,Ontario
+2069,3000,Yorkville,2,2,815,Apt/Condo,Toronto,Ontario
+2070,2050,Waterfront Communities West,1,1,700,Apt/Condo,Toronto,Ontario
+2071,2100,Willowdale East,1,1,657,Apt/Condo,Toronto,Ontario
+2072,1799,Dufferin Grove,1,1,512,Apt/Condo,Toronto,Ontario
+2073,2100,Waterfront Communities West,1,1,610,Apt/Condo,Toronto,Ontario
+2074,1850,Islington City Centre West,1,1,485,Apt/Condo,Toronto,Ontario
+2075,2700,Yorkville,1,2,659,Apt/Condo,Toronto,Ontario
+2076,2300,Yorkville,1,1,601,Apt/Condo,Toronto,Ontario
+2077,7100,Yorkville,3,3,1486,Apt/Condo,Toronto,Ontario
+2078,2000,Islington City Centre West,1,1,630,Apt/Condo,Toronto,Ontario
+2079,1979,Cliffcrest,2,1,725,Apt/Condo,Toronto,Ontario
+2080,1760,Leaside,1,1,510,Apt/Condo,Toronto,Ontario
+2081,3700,Church Yonge Corridor,2,2,880,Apt/Condo,Toronto,Ontario
+2082,2250,Bay Street Corridor,1,1,699,Apt/Condo,Toronto,Ontario
+2083,2170,Mount Pleasant West,1,1,509,Apt/Condo,Toronto,Ontario
+2084,2200,Church Yonge Corridor,1,1,600,Apt/Condo,Toronto,Ontario
+2085,2100,Brookhaven Amesbury,3,1,934,Apt/Condo,Toronto,Ontario
+2086,2250,New Toronto,2,1,850,Apt/Condo,Toronto,Ontario
+2087,1750,O'connor Parkview,1,1,600,Apt/Condo,Toronto,Ontario
+2088,1775,O'connor Parkview,1,1,600,Apt/Condo,Toronto,Ontario
+2089,4300,South Parkdale,3,2,1675,Townhouse,Toronto,Ontario
+2090,8750,Church Yonge Corridor,2,3,1800,Apt/Condo,Toronto,Ontario
+2091,1800,Mount Pleasant West,1,1,514,Apt/Condo,Toronto,Ontario
+2092,2100,Yonge St. Clair,1,1,746,Apt/Condo,Toronto,Ontario
+2093,3600,Bay Street Corridor,2,2,800,Apt/Condo,Toronto,Ontario
+2094,2400,Church Yonge Corridor,1,1,580,Apt/Condo,Toronto,Ontario
+2095,2600,Regent Park,2,2,755,Apt/Condo,Toronto,Ontario
+2096,2400,Moss Park,1,1,740,Apt/Condo,Toronto,Ontario
+2097,2300,Waterfront Communities East,1,1,650230,Apt/Condo,Toronto,Ontario
+2098,2550,Little Portugal,2,2,770,Apt/Condo,Toronto,Ontario
+2099,2750,Waterfront Communities East,1,1,580,Apt/Condo,Toronto,Ontario
+2100,1895,Don Valley Village,2,1,918,Apt/Condo,Toronto,Ontario
+2101,1850,Agincourt South Malvern West,1,1,500,Apt/Condo,Toronto,Ontario
+2102,2150,Clanton Park,2,1,599,Apt/Condo,Toronto,Ontario
+2103,2800,Mimico,2,2,900,Apt/Condo,Toronto,Ontario
+2104,3200,Waterfront Communities East,2,2,808,Apt/Condo,Toronto,Ontario
+2105,7500,Waterfront Communities East,2,2,1070,Apt/Condo,Toronto,Ontario
+2106,1700,North St. Jamestown,0,1,398,Apt/Condo,Toronto,Ontario
+2107,2025,North St. Jamestown,1,1,547,Apt/Condo,Toronto,Ontario
+2108,2750,North St. Jamestown,2,2,839,Apt/Condo,Toronto,Ontario
+2109,2195,North St. Jamestown,1,2,661,Apt/Condo,Toronto,Ontario
+2110,1900,North St. Jamestown,1,1,522,Apt/Condo,Toronto,Ontario
+2111,2495,North St. Jamestown,2,2,778,Apt/Condo,Toronto,Ontario
+2112,3650,North St. Jamestown,3,2,1166,Apt/Condo,Toronto,Ontario
+2113,2350,North St. Jamestown,1,2,653,Apt/Condo,Toronto,Ontario
+2114,1900,North St. Jamestown,1,2,625,Apt/Condo,Toronto,Ontario
+2115,1875,Islington City Centre West,1,2,595,Apt/Condo,Toronto,Ontario
+2116,2592,Niagara,1,2,780,Apt/Condo,Toronto,Ontario
+2117,2395,Niagara,1,1,680,Apt/Condo,Toronto,Ontario
+2118,2550,Elms Old Rexdale,2,1,1196,Apt/Condo,Toronto,Ontario
+2119,3200,Waterfront Communities West,2,2,830,Apt/Condo,Toronto,Ontario
+2120,2300,Islington City Centre West,2,2,700,Apt/Condo,Toronto,Ontario
+2121,3850,Dovercourt Wallace Emerson Junction,3,3,1609,Townhouse,Toronto,Ontario
+2122,2750,South Parkdale,2,2,830,Apt/Condo,Toronto,Ontario
+2123,1500,Wychwood,1,1,653,Apt/Condo,Toronto,Ontario
+2124,1895,Waterfront Communities West,1,1,655,Apt/Condo,Toronto,Ontario
+2125,2000,Agincourt South Malvern West,1,1,570,Apt/Condo,Toronto,Ontario
+2126,2400,Islington City Centre West,2,2,850,Apt/Condo,Toronto,Ontario
+2127,2600,Regent Park,2,2,780,Apt/Condo,Toronto,Ontario
+2128,2450,South Riverdale,1,1,580,Apt/Condo,Toronto,Ontario
+2129,1847,Black Creek,3,2,1070,Apt/Condo,Toronto,Ontario
+2130,2350,North St. Jamestown,2,1,769,Apt/Condo,Toronto,Ontario
+2131,2700,Waterfront Communities East,2,2,799,Apt/Condo,Toronto,Ontario
+2132,1395,Victoria Village,0,1,450,Apt/Condo,Toronto,Ontario
+2133,3500,Waterfront Communities East,2,2,964,Apt/Condo,Toronto,Ontario
+2134,5500,Waterfront Communities West,3,3,1305,Apt/Condo,Toronto,Ontario
+2135,1875,Broadview North,1,1,559,Apt/Condo,Toronto,Ontario
+2136,2699,High Park Swansea,1,1,647,Apt/Condo,Toronto,Ontario
+2137,2050,Dovercourt Wallace Emerson Junction,1,2,580,Apt/Condo,Toronto,Ontario
+2138,1450,Regent Park,1,1,440,Apt/Condo,Toronto,Ontario
+2139,1490,Oakwood Vaughan,2,1,600,House,Toronto,Ontario
+2140,2350,Little Portugal,2,2,580,Apt/Condo,Toronto,Ontario
+2141,2500,Niagara,1,1,580,Apt/Condo,Toronto,Ontario
+2142,4000,Waterfront Communities West,1,1,790,Apt/Condo,Toronto,Ontario
+2143,3150,Waterfront Communities East,1,2,771,Apt/Condo,Toronto,Ontario
+2144,3980,Waterfront Communities West,2,2,880,Apt/Condo,Toronto,Ontario
+2145,2995,Willowdale East,2,2,888,Apt/Condo,Toronto,Ontario
+2146,1975,Parkwoods Donalda,1,1,551,Apt/Condo,Toronto,Ontario
+2147,2400,West Humber Clairville,2,2,800,Apt/Condo,Toronto,Ontario
+2148,2300,Weston,2,1,580,Apt/Condo,Toronto,Ontario
+2149,3800,Church Yonge Corridor,2,2,800,Apt/Condo,Toronto,Ontario
+2150,4000,Waterfront Communities West,1,1,700,Apt/Condo,Toronto,Ontario
+2151,3913,Cabbagetown South St. Jamestown,3,2,1213,House,Toronto,Ontario
+2152,1900,Henry Farm,1,1,500,Apt/Condo,Toronto,Ontario
+2153,1625,Regent Park,1,1,474,Apt/Condo,Toronto,Ontario
+2154,1625,Regent Park,1,1,442,Apt/Condo,Toronto,Ontario
+2155,1850,The Beaches,1,1,676,Apt/Condo,Toronto,Ontario
+2156,2900,Kensington Chinatown,2,2,689,Apt/Condo,Toronto,Ontario
+2157,2300,Little Portugal,2,2,590,Apt/Condo,Toronto,Ontario
+2158,1850,Regent Park,1,1,598,Apt/Condo,Toronto,Ontario
+2159,1950,Waterfront Communities East,1,1,495,Apt/Condo,Toronto,Ontario
+2160,2300,South Riverdale,2,1,680,Apt/Condo,Toronto,Ontario
+2161,2295,Waterfront Communities West,1,1,635,Apt/Condo,Toronto,Ontario
+2162,1800,Edenbridge Humber Valley,2,1,850,Apt/Condo,Toronto,Ontario
+2163,1900,Moss Park,1,1,495,Apt/Condo,Toronto,Ontario
+2164,4500,Kensington Chinatown,2,2,970,Apt/Condo,Toronto,Ontario
+2165,4200,Kensington Chinatown,2,2,980,Apt/Condo,Toronto,Ontario
+2166,3150,Kensington Chinatown,2,2,880,Apt/Condo,Toronto,Ontario
+2167,2575,Little Portugal,2,2,901,Apt/Condo,Toronto,Ontario
+2168,6000,Waterfront Communities East,2,3,1799,Apt/Condo,Toronto,Ontario
+2169,2050,Waterfront Communities East,1,1,580,Apt/Condo,Toronto,Ontario
+2170,1625,South Parkdale,1,1,581,Apt/Condo,Toronto,Ontario
+2171,1795,Moss Park,1,1,540,Apt/Condo,Toronto,Ontario
+2172,4250,Waterfront Communities West,2,2,976,Apt/Condo,Toronto,Ontario
+2173,1700,Humewood Cedarvale,1,1,543,Apt/Condo,Toronto,Ontario
+2174,2395,High Park Swansea,1,1,751,Apt/Condo,Toronto,Ontario
+2175,2900,Waterfront Communities West,2,2,770,Apt/Condo,Toronto,Ontario
+2176,1750,Little Portugal,1,1,480,Apt/Condo,Toronto,Ontario
+2177,2100,Bendale,1,1,697,Apt/Condo,Toronto,Ontario
+2178,1850,Willowdale East,0,1,467,Apt/Condo,Toronto,Ontario
+2179,1950,Englemount Lawrence,2,1,890,Apt/Condo,Toronto,Ontario
+2180,2450,Agincourt South Malvern West,2,2,801,Apt/Condo,Toronto,Ontario
+2181,4910,Niagara,3,4,1257,Apt/Condo,Toronto,Ontario
+2182,2300,Waterfront Communities East,1,1,527,Apt/Condo,Toronto,Ontario
+2183,1975,Henry Farm,1,1,518,Apt/Condo,Toronto,Ontario
+2184,2395,Bay Street Corridor,1,1,567,Apt/Condo,Toronto,Ontario
+2185,2975,Casa Loma,3,1,1000,Multifamily,Toronto,Ontario
+2186,2300,South Riverdale,1,1,740,Apt/Condo,Toronto,Ontario
+2187,2100,Church Yonge Corridor,1,1,515,Apt/Condo,Toronto,Ontario
+2188,2200,Church Yonge Corridor,1,2,554,Apt/Condo,Toronto,Ontario
+2189,3250,Church Yonge Corridor,2,2,800,Apt/Condo,Toronto,Ontario
+2190,1595,Yorkville,1,1,425,Apt/Condo,Toronto,Ontario
+2191,1695,Yorkville,1,1,430,Apt/Condo,Toronto,Ontario
+2192,1375,Birchcliffe Cliffside,0,1,273,Apt/Condo,Toronto,Ontario
+2193,2650,Regent Park,2,2,780,Apt/Condo,Toronto,Ontario
+2194,2350,Niagara,1,1,730,Apt/Condo,Toronto,Ontario
+2195,1750,The Beaches,1,1,714,Apt/Condo,Toronto,Ontario
+2196,2200,Regent Park,1,1,670,Apt/Condo,Toronto,Ontario
+2197,2300,Little Portugal,2,2,570,Apt/Condo,Toronto,Ontario
+2198,2035,Waterfront Communities West,1,1,490,Apt/Condo,Toronto,Ontario
+2199,2350,Stonegate Queensway,2,1,700,Apt/Condo,Toronto,Ontario
+2200,2350,Stonegate Queensway,2,1,700,Apt/Condo,Toronto,Ontario
+2201,3500,South Riverdale,3,2,1185,Apt/Condo,Toronto,Ontario
+2202,2000,Agincourt South Malvern West,1,1,570,Apt/Condo,Toronto,Ontario
+2203,1520,O'connor Parkview,1,1,500,Apt/Condo,Toronto,Ontario
+2204,1750,Downsview Roding Cfb,2,1,750,Apt/Condo,Toronto,Ontario
+2205,1750,Downsview Roding Cfb,2,1,750,Apt/Condo,Toronto,Ontario
+2206,1550,Downsview Roding Cfb,1,1,650,Apt/Condo,Toronto,Ontario
+2207,2100,Mount Pleasant West,1,1,663,Apt/Condo,Toronto,Ontario
+2208,4000,Waterfront Communities West,2,2,890,Apt/Condo,Toronto,Ontario
+2209,1750,Downsview Roding Cfb,2,1,800,Apt/Condo,Toronto,Ontario
+2210,1495,Cabbagetown South St. Jamestown,1,1,650,Apt/Condo,Toronto,Ontario
+2211,1845,Oakwood Vaughan,2,1,800,Apt/Condo,Toronto,Ontario
+2212,1645,Oakwood Vaughan,1,1,650,Apt/Condo,Toronto,Ontario
+2213,1450,Downsview Roding Cfb,1,1,650,Apt/Condo,Toronto,Ontario
+2214,1300,Brookhaven Amesbury,0,1,386,Apt/Condo,Toronto,Ontario
+2215,2050,Waterfront Communities West,1,1,550,Apt/Condo,Toronto,Ontario
+2216,2300,Agincourt South Malvern West,2,1,1200,Apt/Condo,Toronto,Ontario
+2217,2800,Mount Pleasant West,2,2,700,Apt/Condo,Toronto,Ontario
+2218,1900,Dovercourt Wallace Emerson Junction,2,1,640,Apt/Condo,Toronto,Ontario
+2219,1369,High Park North,0,1,400,Apt/Condo,Toronto,Ontario
+2220,2600,High Park Swansea,1,1,650,Apt/Condo,Toronto,Ontario
+2221,3400,High Park Swansea,2,2,798,Apt/Condo,Toronto,Ontario
+2222,2300,High Park Swansea,1,1,550,Apt/Condo,Toronto,Ontario
+2223,2700,Niagara,2,2,752,Apt/Condo,Toronto,Ontario
+2224,2195,Bay Street Corridor,1,1,574,Apt/Condo,Toronto,Ontario
+2225,2100,Weston,1,1,660,Apt/Condo,Toronto,Ontario
+2226,4500,Little Portugal,3,3,1500,Apt/Condo,Toronto,Ontario
+2227,2850,Waterfront Communities West,2,2,770,Apt/Condo,Toronto,Ontario
+2228,1950,Don Valley Village,2,2,964,Apt/Condo,Toronto,Ontario
+2229,2295,Banbury Don Mills,2,2,854,Apt/Condo,Toronto,Ontario
+2230,2095,Waterfront Communities West,1,1,564,Apt/Condo,Toronto,Ontario
+2231,1900,Mount Pleasant West,1,1,459,Apt/Condo,Toronto,Ontario
+2232,2195,Waterfront Communities East,1,1,466,Apt/Condo,Toronto,Ontario
+2233,1895,Banbury Don Mills,1,1,623,Apt/Condo,Toronto,Ontario
+2234,1995,Willowdale East,1,1,678,Apt/Condo,Toronto,Ontario
+2235,650,Regent Park,1,1,300,House,Toronto,Ontario
+2236,1950,Waterfront Communities East,1,1,559,Apt/Condo,Toronto,Ontario
+2237,2759,Niagara,2,2,710,Apt/Condo,Toronto,Ontario
+2238,3475,Yonge St. Clair,2,2,1122,Apt/Condo,Toronto,Ontario
+2239,2750,Church Yonge Corridor,2,1,700,Apt/Condo,Toronto,Ontario
+2240,1400,Kensington Chinatown,1,1,385,Apt/Condo,Toronto,Ontario
+2241,3650,Bay Street Corridor,2,2,1127,Apt/Condo,Toronto,Ontario
+2242,2508,Bay Street Corridor,1,1,743,Apt/Condo,Toronto,Ontario
+2243,3304,Willowridge Martingrove Richview,3,3,1883,Apt/Condo,Toronto,Ontario
+2244,1550,Broadview North,1,1,555,Apt/Condo,Toronto,Ontario
+2245,2275,Bedford Park Nortown,2,1,800,Apt/Condo,Toronto,Ontario
+2246,1575,Yonge St. Clair,1,1,440,Apt/Condo,Toronto,Ontario
+2247,3050,Mount Pleasant West,2,2,726,Apt/Condo,Toronto,Ontario
+2248,2250,Mount Pleasant West,1,1,494,Apt/Condo,Toronto,Ontario
+2249,3140,Mount Pleasant West,2,2,745,Apt/Condo,Toronto,Ontario
+2250,4330,Mount Pleasant West,3,2,886,Apt/Condo,Toronto,Ontario
+2251,2265,Mount Pleasant West,1,1,552,Apt/Condo,Toronto,Ontario
+2252,1800,Mount Pleasant West,0,1,350,Apt/Condo,Toronto,Ontario
+2253,3100,Mount Pleasant West,2,2,784,Apt/Condo,Toronto,Ontario
+2254,2155,Mount Pleasant West,1,1,547,Apt/Condo,Toronto,Ontario
+2255,2615,Mount Pleasant West,1,1,552,Apt/Condo,Toronto,Ontario
+2256,2305,Mount Pleasant West,1,1,457,Apt/Condo,Toronto,Ontario
+2257,1250,Woodbine Corridor,0,1,400,Apt/Condo,Toronto,Ontario
+2258,1750,Waterfront Communities West,0,1,402,Apt/Condo,Toronto,Ontario
+2259,2400,High Park Swansea,2,1,900,Apt/Condo,Toronto,Ontario
+2260,2750,Briar Hill Belgravia,3,2,1000,Multifamily,Toronto,Ontario
+2261,1875,Mimico,2,1,800,Apt/Condo,Toronto,Ontario
+2262,2650,Kensington Chinatown,1,2,654,Apt/Condo,Toronto,Ontario
+2263,2250,Dovercourt Wallace Emerson Junction,1,1,520,Apt/Condo,Toronto,Ontario
+2264,1800,Yorkville,1,1,635,Apt/Condo,Toronto,Ontario
+2265,2325,Yorkville,2,1,740,Apt/Condo,Toronto,Ontario
+2266,1795,O'connor Parkview,1,1,750,Apt/Condo,Toronto,Ontario
+2267,1995,O'connor Parkview,2,1,920,Apt/Condo,Toronto,Ontario
+2268,2195,Willowdale East,1,1,687,Apt/Condo,Toronto,Ontario
+2269,3500,Bay Street Corridor,2,2,1045,Apt/Condo,Toronto,Ontario
+2270,2595,Westminister Branson,2,2,1200,Apt/Condo,Toronto,Ontario
+2271,2050,Agincourt South Malvern West,1,1,600,Apt/Condo,Toronto,Ontario
+2272,2150,Stonegate Queensway,2,1,550,Apt/Condo,Toronto,Ontario
+2273,1600,High Park North,1,1,515,Apt/Condo,Toronto,Ontario
+2274,2699,Little Portugal,2,1,650,Apt/Condo,Toronto,Ontario
+2275,1475,Mount Pleasant East,0,1,400,Apt/Condo,Toronto,Ontario
+2276,1509,High Park North,1,1,500,Apt/Condo,Toronto,Ontario
+2277,1950,Waterfront Communities West,1,1,474,Apt/Condo,Toronto,Ontario
+2278,2799,Rosedale Moore Park,2,2,1076,Apt/Condo,Toronto,Ontario
+2279,2000,South Parkdale,2,1,745,Apt/Condo,Toronto,Ontario
+2280,1710,Regent Park,1,1,360,Apt/Condo,Toronto,Ontario
+2281,1985,Regent Park,1,1,530,Apt/Condo,Toronto,Ontario
+2282,1550,Downsview Roding Cfb,1,1,505,Apt/Condo,Toronto,Ontario
+2283,1800,Downsview Roding Cfb,3,1,780,Apt/Condo,Toronto,Ontario
+2284,1800,Flemingdon Park,2,1,812,Apt/Condo,Toronto,Ontario
+2285,1600,Flemingdon Park,1,1,623,Apt/Condo,Toronto,Ontario
+2286,3225,Bay Street Corridor,2,2,952,Apt/Condo,Toronto,Ontario
+2287,3600,Yorkville,2,2,870,Apt/Condo,Toronto,Ontario
+2288,3570,Bay Street Corridor,2,2,985,Apt/Condo,Toronto,Ontario
+2289,2550,Rosedale Moore Park,2,1,872,Apt/Condo,Toronto,Ontario
+2290,3120,Forest Hill South,2,2,855,Apt/Condo,Toronto,Ontario
+2291,3200,Niagara,1,2,600,Apt/Condo,Toronto,Ontario
+2292,1429,Yorkdale Glen Park,1,1,669,Apt/Condo,Toronto,Ontario
+2293,1439,Victoria Village,1,1,605,Apt/Condo,Toronto,Ontario
+2294,2650,Mount Pleasant West,2,1,910,Apt/Condo,Toronto,Ontario
+2295,2850,Mount Pleasant West,2,2,880,Apt/Condo,Toronto,Ontario
+2296,1650,Mount Pleasant West,0,1,380,Apt/Condo,Toronto,Ontario
+2297,2350,Mount Pleasant West,1,1,680,Apt/Condo,Toronto,Ontario
+2298,1550,Downsview Roding Cfb,1,1,650,Apt/Condo,Toronto,Ontario
+2299,2250,O'connor Parkview,3,2,1300,Apt/Condo,Toronto,Ontario
+2300,1350,Westminister Branson,1,1,630,Apt/Condo,Toronto,Ontario
+2301,1930,Bathurst Manor,2,1,690,Apt/Condo,Toronto,Ontario
+2302,2100,Bathurst Manor,3,2,1125,Apt/Condo,Toronto,Ontario
+2303,1375,South Parkdale,0,1,371,Apt/Condo,Toronto,Ontario
+2304,1375,South Parkdale,0,1,407,Apt/Condo,Toronto,Ontario
+2305,1375,South Parkdale,0,1,457,Apt/Condo,Toronto,Ontario
+2306,1649,South Parkdale,1,1,573,Apt/Condo,Toronto,Ontario
+2307,1375,South Parkdale,0,1,462,Apt/Condo,Toronto,Ontario
+2308,2800,Church Yonge Corridor,2,2,771,Apt/Condo,Toronto,Ontario
+2309,1500,Rosedale Moore Park,0,1,500,Apt/Condo,Toronto,Ontario
+2310,2325,Yonge St. Clair,2,1,969,Apt/Condo,Toronto,Ontario
+2311,2747,Downtown West,1,1,670,Apt/Condo,Vancouver,BC
+2312,2850,South Marine,2,2,887,Apt/Condo,Vancouver,BC
+2313,2700,False Creek,2,2,710,House,Vancouver,BC
+2314,2250,Downtown West,1,1,626,Apt/Condo,Vancouver,BC
+2315,3495,Mount Pleasant East,1,2,1025,House,Vancouver,BC
+2316,2695,West End,1,1,592,House,Vancouver,BC
+2317,10500,Fairview,4,3,2268,House,Vancouver,BC
+2318,2300,Marpole,1,1,605,Apt/Condo,Vancouver,BC
+2319,1195,West End,0,1,325,Apt/Condo,Vancouver,BC
+2320,3100,Yaletown,2,2,897,Apt/Condo,Vancouver,BC
+2321,2400,Downtown West,1,1,761,Apt/Condo,Vancouver,BC
+2322,1900,Downtown East,1,1,755,Apt/Condo,Vancouver,BC
+2323,3700,Downtown West,2,2,1001,House,Vancouver,BC
+2324,4500,University (Ubc),2,2,950,Apt/Condo,Vancouver,BC
+2325,4150,West End,2,2,855,Apt/Condo,Vancouver,BC
+2326,3200,Mount Pleasant West,1,1,917,Apt/Condo,Vancouver,BC
+2327,3000,False Creek,2,1,715,Apt/Condo,Vancouver,BC
+2328,2990,Fairview,2,1,1200,Apt/Condo,Vancouver,BC
+2329,2250,South Vancouver,2,1,800,House,Vancouver,BC
+2330,1880,Kitsilano,1,1,575,Apt/Condo,Vancouver,BC
+2331,2300,Yaletown,1,1,705,Apt/Condo,Vancouver,BC
+2332,2995,Downtown West,2,2,919,Apt/Condo,Vancouver,BC
+2333,3100,South Vancouver,3,2,992,Apt/Condo,Vancouver,BC
+2334,2150,Yaletown,1,1,479,Apt/Condo,Vancouver,BC
+2335,3975,Yaletown,2,3,1556,Apt/Condo,Vancouver,BC
+2336,2400,West End,1,1,525,Apt/Condo,Vancouver,BC
+2337,2500,Downtown West,1,1,625,Apt/Condo,Vancouver,BC
+2338,7600,Yaletown,3,4,2495,Apt/Condo,Vancouver,BC
+2339,2650,South Vancouver,2,2,840,House,Vancouver,BC
+2340,3100,Fairview,2,2,1111,Apt/Condo,Vancouver,BC
+2341,14000,Shaughnessy,8,8,8895,House,Vancouver,BC
+2342,2600,West End,2,1,830,Apt/Condo,Vancouver,BC
+2343,3900,Yaletown,2,2,719,House,Vancouver,BC
+2344,2950,Yaletown,2,2,871,Apt/Condo,Vancouver,BC
+2345,7500,Fairview,2,2,1438,House,Vancouver,BC
+2346,1995,Kitsilano,0,1,523,Apt/Condo,Vancouver,BC
+2347,2230,Kitsilano,1,1,531,Apt/Condo,Vancouver,BC
+2348,3450,Kitsilano,2,2,854,Apt/Condo,Vancouver,BC
+2349,3980,Downtown West,2,2,851,House,Vancouver,BC
+2350,2600,Main,2,1,945,Multifamily,Vancouver,BC
+2351,7500,Downtown West,3,3,1811,House,Vancouver,BC
+2352,2415,Fairview,1,1,618,Apt/Condo,Vancouver,BC
+2353,12500,Yaletown,3,3,1982,House,Vancouver,BC
+2354,3100,West End,2,1,705,Apt/Condo,Vancouver,BC
+2355,1975,Victoria East,1,1,700,Apt/Condo,Vancouver,BC
+2356,4650,West End,2,2,790,Apt/Condo,Vancouver,BC
+2357,2175,West End,1,1,465,Apt/Condo,Vancouver,BC
+2358,4500,West End,3,2,745,Apt/Condo,Vancouver,BC
+2359,2550,Collingwood,2,2,799,Apt/Condo,Vancouver,BC
+2360,4250,West End,2,2,780,Apt/Condo,Vancouver,BC
+2361,6800,West End,2,2,871,Apt/Condo,Vancouver,BC
+2362,3950,West End,1,1,585,Apt/Condo,Vancouver,BC
+2363,5800,West End,2,2,823,Apt/Condo,Vancouver,BC
+2364,4250,West End,1,2,689,Apt/Condo,Vancouver,BC
+2365,2395,Victoria East,2,1,764,Apt/Condo,Vancouver,BC
+2366,2303,Coal Harbour,0,1,463,Apt/Condo,Vancouver,BC
+2367,3100,West End,2,2,705,Apt/Condo,Vancouver,BC
+2368,1200,Fairview,0,1,150,Apt/Condo,Vancouver,BC
+2369,1860,Kitsilano,1,1,575,Apt/Condo,Vancouver,BC
+2370,1780,Kitsilano,1,1,575,Apt/Condo,Vancouver,BC
+2371,2600,West End,2,2,578,Apt/Condo,Vancouver,BC
+2372,3500,West End,3,2,754,Apt/Condo,Vancouver,BC
+2373,4200,West End,3,2,890,Apt/Condo,Vancouver,BC
+2374,2000,West End,0,1,259,Apt/Condo,Vancouver,BC
+2375,4200,West End,2,2,945,Apt/Condo,Vancouver,BC
+2376,2700,West End,2,1,512,Apt/Condo,Vancouver,BC
+2377,2150,West End,1,1,480,Apt/Condo,Vancouver,BC
+2378,2400,West End,1,2,541,Apt/Condo,Vancouver,BC
+2379,2200,West End,1,1,500,Apt/Condo,Vancouver,BC
+2380,3400,West End,2,2,690,Apt/Condo,Vancouver,BC
+2381,2850,West End,2,1,560,Apt/Condo,Vancouver,BC
+2382,2750,West End,1,2,616,Apt/Condo,Vancouver,BC
+2383,2250,West End,0,1,400,Apt/Condo,Vancouver,BC
+2384,2400,West End,0,1,415,Apt/Condo,Vancouver,BC
+2385,1815,Collingwood,1,1,509,Apt/Condo,Vancouver,BC
+2386,2225,West End,1,1,484,Apt/Condo,Vancouver,BC
+2387,2050,Coal Harbour,0,1,670,Apt/Condo,Vancouver,BC
+2388,5113,Coal Harbour,3,2,1401,Apt/Condo,Vancouver,BC
+2389,3552,Yaletown,2,2,975,Apt/Condo,Vancouver,BC
+2390,2365,West End,1,1,550,Apt/Condo,Vancouver,BC
+2391,2295,West End,0,1,500,Apt/Condo,Vancouver,BC
+2392,2132,Downtown West,1,1,513,Apt/Condo,Vancouver,BC
+2393,3150,Yaletown,2,2,733,Apt/Condo,Vancouver,BC
+2394,2405,Yaletown,1,1,525,Apt/Condo,Vancouver,BC
+2395,2309,Coal Harbour,1,1,595,Apt/Condo,Vancouver,BC
+2396,3250,Kerrisdale,2,2,946,Apt/Condo,Vancouver,BC
+2397,3300,Downtown West,2,1,614,Apt/Condo,Vancouver,BC
+2398,2950,Downtown West,1,1,505,Apt/Condo,Vancouver,BC
+2399,2750,Downtown West,1,1,500,Apt/Condo,Vancouver,BC
+2400,2500,Downtown West,0,1,439,Apt/Condo,Vancouver,BC
+2401,2850,West End,1,1,516,Apt/Condo,Vancouver,BC
+2402,2500,Downtown West,0,1,439,Apt/Condo,Vancouver,BC
+2403,2875,Yaletown,1,1,508,Apt/Condo,Vancouver,BC
+2404,2950,Downtown West,1,1,505,Apt/Condo,Vancouver,BC
+2405,3280,University (Ubc),2,2,774,House,Vancouver,BC
+2406,1900,Marpole,1,1,505,House,Vancouver,BC
+2407,3200,Fairview,2,3,1200,House,Vancouver,BC
+2408,8800,Coal Harbour,2,3,1867,Apt/Condo,Vancouver,BC
+2409,2000,Downtown West,0,1,420,House,Vancouver,BC
+2410,2800,Kitsilano,1,1,500,House,Vancouver,BC
+2411,2600,Yaletown,0,1,434,Apt/Condo,Vancouver,BC
+2412,2600,Yaletown,0,1,437,Apt/Condo,Vancouver,BC
+2413,3000,West End,2,1,599,Apt/Condo,Vancouver,BC
+2414,3600,Yaletown,3,2,1262,Apt/Condo,Vancouver,BC
+2415,2290,South Marine,2,2,780,Apt/Condo,Vancouver,BC
+2416,2100,Downtown West,1,1,574,Apt/Condo,Vancouver,BC
+2417,4500,Mount Pleasant West,3,3,1500,House,Vancouver,BC
+2418,6000,Yaletown,2,2,1380,Apt/Condo,Vancouver,BC
+2419,3950,Downtown West,2,2,884,House,Vancouver,BC
+2420,4800,False Creek,2,1,750,House,Vancouver,BC
+2421,3000,Dunbar,2,2,850,House,Vancouver,BC
+2422,4590,Quilchena,3,2,2696,House,Vancouver,BC
+2423,3500,Yaletown,3,2,1109,House,Vancouver,BC
+2424,2400,Mount Pleasant East,1,1,645,House,Vancouver,BC
+2425,2400,Kitsilano,1,2,650,House,Vancouver,BC
+2426,5000,Downtown West,2,2,1050,House,Vancouver,BC
+2427,2290,South Marine,2,2,780,House,Vancouver,BC
+2428,19998,Downtown West,4,4,3700,House,Vancouver,BC
+2429,2100,West End,0,1,259,Apt/Condo,Vancouver,BC
+2430,2600,South Vancouver,2,1,740,House,Vancouver,BC
+2431,2800,Downtown West,1,1,500,Apt/Condo,Vancouver,BC
+2432,2750,Downtown West,1,1,505,Apt/Condo,Vancouver,BC
+2433,2400,Downtown West,1,1,487,Apt/Condo,Vancouver,BC
+2434,1500,West End,0,0,250,Apt/Condo,Vancouver,BC
+2435,2300,West End,1,1,500,Apt/Condo,Vancouver,BC
+2436,4200,West End,2,2,945,Apt/Condo,Vancouver,BC
+2437,2500,Downtown West,1,1,503,Apt/Condo,Vancouver,BC
+2438,2750,Downtown West,1,1,505,Apt/Condo,Vancouver,BC
+2439,2000,West End,0,1,450,Apt/Condo,Vancouver,BC
+2440,3200,Downtown West,2,1,576,Apt/Condo,Vancouver,BC
+2441,2800,Downtown West,1,1,525,Apt/Condo,Vancouver,BC
+2442,2400,West End,0,1,400,Apt/Condo,Vancouver,BC
+2443,2000,West End,0,1,450,Apt/Condo,Vancouver,BC
+2444,3600,West End,2,1,1114,Apt/Condo,Vancouver,BC
+2445,3800,West End,3,1,970,Apt/Condo,Vancouver,BC
+2446,4300,West End,3,2,781,Apt/Condo,Vancouver,BC
+2447,3300,Downtown West,2,1,577,Apt/Condo,Vancouver,BC
+2448,3400,Downtown West,1,1,820,House,Vancouver,BC
+2449,2600,Downtown East,1,1,600,House,Vancouver,BC
+2450,4300,Downtown West,2,2,1020,House,Vancouver,BC
+2451,2000,Fairview,1,1,567,Apt/Condo,Vancouver,BC
+2452,3700,West End,2,2,805,Apt/Condo,Vancouver,BC
+2453,2450,South Marine,2,2,696,House,Vancouver,BC
+2454,2600,Renfrew Heights,3,1,917,House,Vancouver,BC
+2455,2300,West End,0,1,407,Apt/Condo,Vancouver,BC
+2456,3300,Cambie,2,2,962,House,Vancouver,BC
+2457,4550,Marpole,3,2,1006,House,Vancouver,BC
+2458,12000,Coal Harbour,3,3,2001,House,Vancouver,BC
+2459,2850,South Vancouver,2,2,850,House,Vancouver,BC
+2460,2780,South Vancouver,2,1,740,House,Vancouver,BC
+2461,2700,South Vancouver,2,2,772,House,Vancouver,BC
+2462,2000,Fairview,1,1,550,House,Vancouver,BC
+2463,2800,Downtown West,2,2,885,Apt/Condo,Vancouver,BC
+2464,2300,Yaletown,1,1,508,Apt/Condo,Vancouver,BC
+2465,3500,Yaletown,2,2,900,Apt/Condo,Vancouver,BC
+2466,2580,South Vancouver,2,1,737,House,Vancouver,BC
+2467,5500,Coal Harbour,2,2,1550,House,Vancouver,BC
+2468,1900,West End,0,1,450,Apt/Condo,Vancouver,BC
+2469,2000,Kitsilano,1,1,475,Apt/Condo,Vancouver,BC
+2470,1900,Kitsilano,1,1,475,Apt/Condo,Vancouver,BC
+2471,2300,Downtown West,1,1,526,Apt/Condo,Vancouver,BC
+2472,3800,Downtown West,2,1,900,Apt/Condo,Vancouver,BC
+2473,1900,West End,0,1,450,Apt/Condo,Vancouver,BC
+2474,1500,West End,0,1,228,Apt/Condo,Vancouver,BC
+2475,2500,West End,0,1,421,Apt/Condo,Vancouver,BC
+2476,3600,West End,2,2,765,Apt/Condo,Vancouver,BC
+2477,2350,West End,0,1,415,Apt/Condo,Vancouver,BC
+2478,2400,West End,0,1,415,Apt/Condo,Vancouver,BC
+2479,2500,West End,0,1,515,Apt/Condo,Vancouver,BC
+2480,3700,West End,2,2,692,Apt/Condo,Vancouver,BC
+2481,2275,West End,0,1,400,Apt/Condo,Vancouver,BC
+2482,3000,Downtown West,2,1,576,Apt/Condo,Vancouver,BC
+2483,1900,West End,0,1,450,Apt/Condo,Vancouver,BC
+2484,2850,West End,2,1,560,Apt/Condo,Vancouver,BC
+2485,2600,Downtown West,1,1,557,Apt/Condo,Vancouver,BC
+2486,3000,Yaletown,2,1,657,Apt/Condo,Vancouver,BC
+2487,2200,Downtown West,0,1,439,Apt/Condo,Vancouver,BC
+2488,2850,Yaletown,1,1,555,Apt/Condo,Vancouver,BC
+2489,2700,Downtown West,1,1,500,Apt/Condo,Vancouver,BC
+2490,4200,West End,3,2,890,Apt/Condo,Vancouver,BC
+2491,2500,Downtown West,1,1,516,Apt/Condo,Vancouver,BC
+2492,2000,Marpole,1,1,466,House,Vancouver,BC
+2493,2000,West End,1,1,500,Apt/Condo,Vancouver,BC
+2494,3850,Downtown West,2,2,816,House,Vancouver,BC
+2495,3100,Downtown West,2,2,1100,Apt/Condo,Vancouver,BC
+2496,3000,Downtown West,2,2,800,House,Vancouver,BC
+2497,12000,West End,2,2,2500,Apt/Condo,Vancouver,BC
+2498,9950,Downtown East,2,2,2400,Apt/Condo,Vancouver,BC
+2499,9100,Cambie,1,1,715,House,Vancouver,BC
+2500,3000,West End,2,2,700,Apt/Condo,Vancouver,BC
+2501,3000,Downtown West,2,1,592,Apt/Condo,Vancouver,BC
+2502,2500,Downtown West,1,1,456,Apt/Condo,Vancouver,BC
+2503,2400,West End,1,1,490,Apt/Condo,Vancouver,BC
+2504,2300,Downtown West,0,1,439,Apt/Condo,Vancouver,BC
+2505,2250,West End,0,1,259,Apt/Condo,Vancouver,BC
+2506,2600,West End,1,1,516,Apt/Condo,Vancouver,BC
+2507,2450,Downtown West,1,1,456,Apt/Condo,Vancouver,BC
+2508,2750,Downtown West,1,1,525,Apt/Condo,Vancouver,BC
+2509,5300,Downtown West,3,3,1430,House,Vancouver,BC
+2510,2600,Downtown West,1,1,505,Apt/Condo,Vancouver,BC
+2511,2000,Downtown West,1,1,526,Apt/Condo,Vancouver,BC
+2512,2000,West End,1,1,500,Apt/Condo,Vancouver,BC
+2513,3980,Downtown West,2,2,950,House,Vancouver,BC
+2514,9990,Yaletown,2,2,1700,Townhouse,Vancouver,BC
+2515,1800,West End,0,1,450,Apt/Condo,Vancouver,BC
+2516,2300,West End,1,1,500,Apt/Condo,Vancouver,BC
+2517,2900,Downtown West,2,1,623,Apt/Condo,Vancouver,BC
+2518,3350,West End,2,2,735,Apt/Condo,Vancouver,BC
+2519,2900,Downtown West,2,1,623,Apt/Condo,Vancouver,BC
+2520,2700,Downtown West,2,1,614,Apt/Condo,Vancouver,BC
+2521,2300,Downtown West,1,1,456,Apt/Condo,Vancouver,BC
+2522,2250,Yaletown,1,1,555,Apt/Condo,Vancouver,BC
+2523,2700,Yaletown,2,1,657,Apt/Condo,Vancouver,BC
+2524,2200,West End,0,1,406,Apt/Condo,Vancouver,BC
+2525,2300,Downtown West,1,1,512,Apt/Condo,Vancouver,BC
+2526,2500,Yaletown,2,1,711,Apt/Condo,Vancouver,BC
+2527,4000,Knight,3,3,1000,House,Vancouver,BC
+2528,13800,Coal Harbour,3,3,2001,House,Vancouver,BC
+2529,2100,Downtown West,1,1,500,House,Vancouver,BC
+2530,2000,Crestwood Springfarm Yorkhill,1,1,600,Apt/Condo,vaughan,Ontario
+2531,2500,Concord,1,2,700,Apt/Condo,vaughan,Ontario
+2532,8000,Maple,4,4,2500,House,vaughan,Ontario
+2533,2250,Concord,2,2,650,Apt/Condo,vaughan,Ontario
+2534,3050,Concord,3,2,1250,Apt/Condo,vaughan,Ontario
+2535,4800,Patterson,4,4,3000,House,vaughan,Ontario
+2536,1900,Beverley Glen,1,1,500,Apt/Condo,vaughan,Ontario
+2537,1500,Patterson,2,1,1500,House,vaughan,Ontario
+2538,3650,Patterson,3,3,2000,Townhouse,vaughan,Ontario
+2539,2375,Concord,2,2,700,Apt/Condo,vaughan,Ontario
+2540,1300,Elder Mills,0,1,700,House,vaughan,Ontario
+2541,2150,Lakeview Estates,1,1,700,Apt/Condo,vaughan,Ontario
+2542,2795,Concord,2,2,800,Apt/Condo,vaughan,Ontario
+2543,2550,Concord,2,2,700,Apt/Condo,vaughan,Ontario
+2544,2400,Concord,1,2,700,Apt/Condo,vaughan,Ontario
+2545,2200,Concord,1,2,600,Apt/Condo,vaughan,Ontario
+2546,4350,East Woodbridge,4,4,2500,House,vaughan,Ontario
+2547,2900,Sonoma Heights,3,3,1500,House,vaughan,Ontario
+2548,1600,Sonoma Heights,1,1,700,House,vaughan,Ontario
+2549,2000,Beverley Glen,1,1,500,Apt/Condo,vaughan,Ontario
+2550,2750,Maple,2,2,1000,Apt/Condo,vaughan,Ontario
+2551,1950,Concord,2,2,600,Apt/Condo,vaughan,Ontario
+2552,2250,Concord,2,2,600,Apt/Condo,vaughan,Ontario
+2553,3400,Patterson,3,4,2000,Townhouse,vaughan,Ontario
+2554,2100,Concord,2,2,600,Apt/Condo,vaughan,Ontario
+2555,5900,Beverley Glen,4,4,2500,House,vaughan,Ontario
+2556,2350,East Woodbridge,2,2,700,Apt/Condo,vaughan,Ontario
+2557,2450,Concord,2,2,700,Apt/Condo,vaughan,Ontario
+2558,1850,Concord,1,1,500,Apt/Condo,vaughan,Ontario
+2559,2300,Vaughan Corporate Centre,1,1,600,Apt/Condo,vaughan,Ontario
+2560,2795,West Woodbridge,3,3,1000,Apt/Condo,vaughan,Ontario
+2561,2150,Concord,2,2,600,Apt/Condo,vaughan,Ontario
+2562,4250,Rural Vaughan,5,6,3000,House,vaughan,Ontario
+2563,2400,West Woodbridge,2,2,800,Apt/Condo,vaughan,Ontario
+2564,4300,Kleinburg,5,5,3500,House,vaughan,Ontario
+2565,1900,Crestwood Springfarm Yorkhill,1,1,500,Apt/Condo,vaughan,Ontario
+2566,2250,Concord,1,2,600,Apt/Condo,vaughan,Ontario
+2567,2550,Concord,2,2,800,Apt/Condo,vaughan,Ontario
+2568,1995,Concord,1,2,600,Apt/Condo,vaughan,Ontario
+2569,2000,Vaughan Corporate Centre,1,1,600,Apt/Condo,vaughan,Ontario
+2570,3042,Concord,3,2,1200,Townhouse,vaughan,Ontario
+2571,4280,Patterson,3,4,2000,Townhouse,vaughan,Ontario
+2572,3300,Patterson,3,3,2000,Townhouse,vaughan,Ontario
+2573,2600,Concord,2,1,600,Apt/Condo,vaughan,Ontario
+2574,2700,Rural Vaughan,2,2,800,Apt/Condo,vaughan,Ontario
+2575,1800,Concord,1,1,500,Apt/Condo,vaughan,Ontario
+2576,1850,Concord,1,1,500,Apt/Condo,vaughan,Ontario
+2577,1900,Beverley Glen,1,1,500,Apt/Condo,vaughan,Ontario
+2578,4800,Kleinburg,4,4,3000,House,vaughan,Ontario
+2579,2600,Concord,2,2,600,Apt/Condo,vaughan,Ontario
+2580,2950,Brownridge,2,2,1000,Apt/Condo,vaughan,Ontario
+2581,2600,Concord,2,2,800,Apt/Condo,vaughan,Ontario
+2582,2149,Concord,2,2,700,Apt/Condo,vaughan,Ontario
+2583,2100,Concord,2,2,600,Apt/Condo,vaughan,Ontario
+2584,3000,East Woodbridge,2,2,800,Apt/Condo,vaughan,Ontario
+2585,2000,Crestwood Springfarm Yorkhill,1,1,600,Apt/Condo,vaughan,Ontario
+2586,2150,Concord,1,2,600,Apt/Condo,vaughan,Ontario
+2587,2900,Brownridge,2,2,1000,Apt/Condo,vaughan,Ontario
+2588,2200,Concord,1,2,700,Apt/Condo,vaughan,Ontario
+2589,3250,Maple,3,3,1500,Townhouse,vaughan,Ontario
+2590,2150,Concord,1,2,600,Apt/Condo,vaughan,Ontario
+2591,2150,Concord,2,2,600,Apt/Condo,vaughan,Ontario
+2592,1850,Concord,1,1,500,Apt/Condo,vaughan,Ontario
+2593,1800,Concord,1,1,500,Apt/Condo,vaughan,Ontario
+2594,2300,Concord,2,2,700,Apt/Condo,vaughan,Ontario
+2595,2300,East Woodbridge,2,2,700,Apt/Condo,vaughan,Ontario
+2596,2700,West Woodbridge,2,2,900,Apt/Condo,vaughan,Ontario
+2597,3300,Maple,3,4,2000,Townhouse,vaughan,Ontario
+2598,1600,East Woodbridge,1,1,1100,House,vaughan,Ontario
+2599,2500,Concord,2,2,700,Apt/Condo,vaughan,Ontario
+2600,2150,Crestwood Springfarm Yorkhill,1,2,700,Apt/Condo,vaughan,Ontario
+2601,2400,Vaughan Corporate Centre,1,1,600,Apt/Condo,vaughan,Ontario
+2602,2500,East Woodbridge,2,2,700,Apt/Condo,vaughan,Ontario
+2603,3395,Patterson,4,3,2000,House,vaughan,Ontario
+2604,1450,Patterson,1,1,700,Apt/Condo,vaughan,Ontario
+2605,2300,Concord,1,2,700,Apt/Condo,vaughan,Ontario
+2606,2700,Vaughan Grove,3,2,1000,Townhouse,vaughan,Ontario
+2607,2700,West Woodbridge,3,1,1500,House,vaughan,Ontario
+2608,2800,Concord,2,2,900,Apt/Condo,vaughan,Ontario
+2609,1375,Vellore Village,1,1,700,House,vaughan,Ontario
+2610,2200,Concord,1,2,600,Apt/Condo,vaughan,Ontario
+2611,2600,West Woodbridge,2,2,900,Apt/Condo,vaughan,Ontario
+2612,2600,Brownridge,2,2,1200,Apt/Condo,vaughan,Ontario
+2613,1920,Beverley Glen,1,1,500,Apt/Condo,vaughan,Ontario
+2614,3850,Patterson,3,4,2000,Townhouse,vaughan,Ontario
+2615,2200,Islington Woods,1,1,700,Apt/Condo,vaughan,Ontario
+2616,3450,Crestwood Springfarm Yorkhill,2,2,1600,Apt/Condo,vaughan,Ontario
+2617,2300,Vaughan Grove,1,2,800,Apt/Condo,vaughan,Ontario
+2618,3300,Rural Vaughan,3,4,1500,Townhouse,vaughan,Ontario
+2619,2500,Vellore Village,3,3,1500,House,vaughan,Ontario
+2620,4200,Kleinburg,5,4,3000,House,vaughan,Ontario
+2621,2600,East Woodbridge,2,2,800,Apt/Condo,vaughan,Ontario
+2622,1599,Crestwood Springfarm Yorkhill,1,1,1100,House,vaughan,Ontario
+2623,2350,Crestwood Springfarm Yorkhill,3,1,1100,House,vaughan,Ontario
+2624,1700,Patterson,1,1,700,Townhouse,vaughan,Ontario
+2625,1700,Patterson,1,1,700,House,vaughan,Ontario
+2626,4500,Patterson,4,4,3000,House,vaughan,Ontario
+2627,2250,Concord,1,2,700,Apt/Condo,vaughan,Ontario
+2628,700,Concord,1,1,900,Apt/Condo,vaughan,Ontario
+2629,1875,Concord,1,1,500,Apt/Condo,vaughan,Ontario
+2630,2950,Lakeview Estates,3,3,1500,House,vaughan,Ontario
+2631,2350,Concord,2,2,600,Apt/Condo,vaughan,Ontario
+2632,1725,Concord,2,2,600,Apt/Condo,vaughan,Ontario
+2633,1990,East Woodbridge,2,2,2000,Apt/Condo,vaughan,Ontario
+2634,1085,Winnipeg,2,1,780,Apt/Condo,winnipeg,Manitoba
+2635,1125,Winnipeg,2,1,800,Apt/Condo,winnipeg,Manitoba
+2636,825,Winnipeg,0,1,447,Apt/Condo,winnipeg,Manitoba
+2637,1179,Winnipeg,2,1,740,Apt/Condo,winnipeg,Manitoba
+2638,813,Winnipeg,1,1,608,Apt/Condo,winnipeg,Manitoba
+2639,1805,Winnipeg,2,2,752,Apt/Condo,winnipeg,Manitoba
+2640,1655,Winnipeg,2,2,993,Apt/Condo,winnipeg,Manitoba
+2641,1750,Winnipeg,2,2,1014,Apt/Condo,winnipeg,Manitoba
+2642,2200,Winnipeg,3,2,1150,Apt/Condo,winnipeg,Manitoba
+2643,1435,Winnipeg,1,1,752,Apt/Condo,winnipeg,Manitoba
+2644,1400,Winnipeg,1,1,662,Apt/Condo,winnipeg,Manitoba
+2645,1295,Winnipeg,1,1,529,Townhouse,winnipeg,Manitoba
+2646,1226,Winnipeg,2,1,903,Apt/Condo,winnipeg,Manitoba
+2647,1175,Winnipeg,2,1,714,Apt/Condo,winnipeg,Manitoba
+2648,1085,Winnipeg,2,1,792,Apt/Condo,winnipeg,Manitoba
+2649,1085,Winnipeg,2,1,780,Apt/Condo,winnipeg,Manitoba
+2650,1760,Winnipeg,2,1,1007,Apt/Condo,winnipeg,Manitoba
+2651,1440,Winnipeg,2,1,891,Apt/Condo,winnipeg,Manitoba
+2652,1600,Winnipeg,2,1,914,Apt/Condo,winnipeg,Manitoba
+2653,1200,Winnipeg,1,1,641,Apt/Condo,winnipeg,Manitoba
+2654,1296,Winnipeg,2,1,1020,Apt/Condo,winnipeg,Manitoba
+2655,1220,Winnipeg,1,1,736,Apt/Condo,winnipeg,Manitoba
+2656,1215,Winnipeg,1,1,736,Apt/Condo,winnipeg,Manitoba
+2657,1237,Winnipeg,1,1,695,Apt/Condo,winnipeg,Manitoba
+2658,1394,Winnipeg,2,1,930,Apt/Condo,winnipeg,Manitoba
+2659,1425,Winnipeg,2,1,908,Apt/Condo,winnipeg,Manitoba
+2660,1315,Winnipeg,2,1,958,Apt/Condo,winnipeg,Manitoba
+2661,765,Winnipeg,0,1,545,Apt/Condo,winnipeg,Manitoba
+2662,1171,Winnipeg,1,1,734,Apt/Condo,winnipeg,Manitoba
+2663,1295,Winnipeg,2,1,965,Apt/Condo,winnipeg,Manitoba
+2664,830,Winnipeg,1,1,605,Apt/Condo,winnipeg,Manitoba
+2665,1405,Winnipeg,2,1,973,Apt/Condo,winnipeg,Manitoba
+2666,1393,Winnipeg,2,1,942,Apt/Condo,winnipeg,Manitoba
+2667,985,Winnipeg,2,1,655,Apt/Condo,winnipeg,Manitoba
+2668,985,Winnipeg,2,1,655,Apt/Condo,winnipeg,Manitoba
+2669,985,Winnipeg,2,1,655,Apt/Condo,winnipeg,Manitoba
+2670,970,Winnipeg,1,1,621,Apt/Condo,winnipeg,Manitoba
+2671,865,Winnipeg,1,1,500,Apt/Condo,winnipeg,Manitoba
+2672,1085,Winnipeg,2,1,780,Apt/Condo,winnipeg,Manitoba
+2673,1085,Winnipeg,2,1,780,Apt/Condo,winnipeg,Manitoba
+2674,1289,Winnipeg,2,1,956,House,winnipeg,Manitoba
+2675,1000,Winnipeg,1,1,625,Apt/Condo,winnipeg,Manitoba
+2676,1195,Winnipeg,2,1,874,Apt/Condo,winnipeg,Manitoba
+2677,1181,Winnipeg,1,1,763,Apt/Condo,winnipeg,Manitoba
+2678,1415,Winnipeg,1,1,662,Apt/Condo,winnipeg,Manitoba
+2679,1025,Winnipeg,1,1,599,Apt/Condo,winnipeg,Manitoba
+2680,1265,Winnipeg,2,1,782,Apt/Condo,winnipeg,Manitoba
+2681,1065,Winnipeg,1,1,572,Apt/Condo,winnipeg,Manitoba
+2682,1440,Winnipeg,1,1,662,Apt/Condo,winnipeg,Manitoba
+2683,1057,Winnipeg,1,1,650,Apt/Condo,winnipeg,Manitoba
+2684,1085,Winnipeg,1,1,679,Apt/Condo,winnipeg,Manitoba
+2685,925,Winnipeg,1,1,440,Apt/Condo,winnipeg,Manitoba
+2686,1189,Winnipeg,1,1,737,Apt/Condo,winnipeg,Manitoba
+2687,1810,Winnipeg,1,1,1033,Apt/Condo,winnipeg,Manitoba
+2688,4015,Winnipeg,2,2,1464,Apt/Condo,winnipeg,Manitoba
+2689,1175,Winnipeg,2,1,783,Apt/Condo,winnipeg,Manitoba
+2690,1232,Winnipeg,1,1,741,Apt/Condo,winnipeg,Manitoba
+2691,975,Winnipeg,1,1,563,Apt/Condo,winnipeg,Manitoba
+2692,2010,Winnipeg,2,2,926,Apt/Condo,winnipeg,Manitoba
+2693,1425,Winnipeg,1,1,662,Apt/Condo,winnipeg,Manitoba
+2694,1780,Winnipeg,2,2,1188,Apt/Condo,winnipeg,Manitoba
+2695,900,Winnipeg,1,1,580,Apt/Condo,winnipeg,Manitoba
+2696,1050,Winnipeg,2,1,780,Apt/Condo,winnipeg,Manitoba
+2697,1050,Winnipeg,2,1,780,Apt/Condo,winnipeg,Manitoba
+2698,900,Winnipeg,1,1,580,Apt/Condo,winnipeg,Manitoba
+2699,2070,Winnipeg,2,2,1664,Apt/Condo,winnipeg,Manitoba
+2700,1086,Winnipeg,1,1,586,Apt/Condo,winnipeg,Manitoba
+2701,1370,Winnipeg,1,1,483,Apt/Condo,winnipeg,Manitoba
+2702,1830,Winnipeg,1,1,1108,Apt/Condo,winnipeg,Manitoba
+2703,1011,Winnipeg,1,1,600,Apt/Condo,winnipeg,Manitoba
+2704,1196,Winnipeg,2,1,800,Apt/Condo,winnipeg,Manitoba
+2705,1590,Winnipeg,2,1,1135,Townhouse,winnipeg,Manitoba
+2706,850,Winnipeg,1,1,450,Apt/Condo,winnipeg,Manitoba
+2707,800,Winnipeg,1,1,500,Apt/Condo,winnipeg,Manitoba
+2708,900,Winnipeg,1,1,575,Apt/Condo,winnipeg,Manitoba
+2709,1750,Winnipeg,2,2,800,Apt/Condo,winnipeg,Manitoba
+2710,890,Winnipeg,1,1,550,Apt/Condo,winnipeg,Manitoba
+2711,1050,Winnipeg,2,1,750,Duplex,winnipeg,Manitoba
+2712,1550,Winnipeg,4,1,1300,Apt/Condo,winnipeg,Manitoba
+2713,895,Winnipeg,2,1,650,House,winnipeg,Manitoba
+2714,1550,Winnipeg,1,1,900,Apt/Condo,winnipeg,Manitoba
+2715,1250,Winnipeg,2,1,500,House,winnipeg,Manitoba
+2716,1200,Winnipeg,4,2,1200,House,winnipeg,Manitoba
+2717,1900,Winnipeg,3,1,990,Apt/Condo,winnipeg,Manitoba
+2718,1400,Winnipeg,2,1,797,Apt/Condo,winnipeg,Manitoba
+2719,851,Yorkton,2,1,851,Apt/Condo,yorkton,SK
+2720,751,Yorkton,1,1,618,Apt/Condo,yorkton,SK
+2721,1026,Yorkton,3,1,808,Apt/Condo,yorkton,SK
+2722,626,Yorkton,0,1,306,Apt/Condo,yorkton,SK
+2723,701,Yorkton,1,1,615,Apt/Condo,yorkton,SK
+2724,626,Yorkton,0,1,362,Apt/Condo,yorkton,SK
+2725,626,Yorkton,0,1,295,Apt/Condo,yorkton,SK
+2726,751,Yorkton,1,1,486,Apt/Condo,yorkton,SK
+2727,1051,Yorkton,3,1,808,Apt/Condo,yorkton,SK
+2728,776,Yorkton,1,1,565,Apt/Condo,yorkton,SK
+2729,826,Yorkton,2,1,694,Apt/Condo,yorkton,SK
+2730,976,Yorkton,3,1,806,Apt/Condo,yorkton,SK
+2731,876,Yorkton,2,1,622,Apt/Condo,yorkton,SK
+2732,826,Yorkton,2,1,694,Apt/Condo,yorkton,SK
+2733,651,Yorkton,0,1,334,Apt/Condo,yorkton,SK
+2734,951,Yorkton,2,1,700,Apt/Condo,yorkton,SK
+2735,826,Yorkton,1,1,615,Apt/Condo,yorkton,SK
+2736,801,Yorkton,1,1,502,Apt/Condo,yorkton,SK
+2737,926,Yorkton,2,1,709,Apt/Condo,yorkton,SK
+2738,951,Yorkton,3,1,806,Apt/Condo,yorkton,SK
+2739,951,Yorkton,3,1,806,Apt/Condo,yorkton,SK
+2740,851,Yorkton,2,1,709,Apt/Condo,yorkton,SK
+2741,2200,370 Rue des Seigneurs,1,1,804,Apt/Condo,Montreal,Quebec
+2742,2745,3660 Av. du Musee,2,1,900,Apt/Condo,Montreal,Quebec
+2743,2350,370 Rue des Seigneurs,1,1,888,Apt/Condo,Montreal,Quebec
+2744,3069,4300 Boul. De Maisonneuve O.,2,2,1292,Apt/Condo,Montreal,Quebec
+2745,2115,6850 Boul. Newman,3,2,1166,Apt/Condo,Montreal,Quebec
+2746,1900,1417 Av. Argyle,3,1,1250,Apt/Condo,Montreal,Quebec
+2747,1995,1604 Av. des Pins,2,1,1500,Apt/Condo,Montreal,Quebec
+2748,6500,400 Rue Richmond,2,2,980,Apt/Condo,Montreal,Quebec
+2749,4300,2140 Lucerne,5,3,2000,Apt/Condo,Montreal,Quebec
+2750,2350,370 Rue des Seigneurs,1,1,826,Apt/Condo,Montreal,Quebec
+2751,1590,2020 Boul. Rene-Levesque O.,2,1,690,Apt/Condo,Montreal,Quebec
+2752,2145,6250 Av. Lennox,2,2,980,Apt/Condo,Montreal,Quebec
+2753,2100,6250 Av. Lennox,1,1,705,Apt/Condo,Montreal,Quebec
+2754,1634,6250 Av. Lennox,1,1,750,Apt/Condo,Montreal,Quebec
+2755,1575,6850A Boul. Newman,2,1,832,Apt/Condo,Montreal,Quebec
+2756,1595,1491 Rue Rachel E.,2,1,1400,Apt/Condo,Montreal,Quebec
+2757,1980,6250 Av. Lennox,2,1,945,Apt/Condo,Montreal,Quebec
+2758,2200,1288 Rue St-Antoine O. #2308,2,1,600,Apt/Condo,Montreal,Quebec
+2759,1700,370 Rue des Seigneurs,1,1,659,Apt/Condo,Montreal,Quebec
+2760,1670,6250 Av. Lennox,1,1,750,Apt/Condo,Montreal,Quebec
+2761,1825,6800 Boul. Newman,2,2,979,Apt/Condo,Montreal,Quebec
+2762,1595,2995 Av. Ernest-Hemingway,2,1,1020,Apt/Condo,Montreal,Quebec
+2763,5199,365 Rue St-Andre,2,2,1420,Apt/Condo,Montreal,Quebec
+2764,2150,221 de la Commune O.,1,1,850,Apt/Condo,Montreal,Quebec
+2765,2000,400 Rue Sherbrooke O.,1,1,700,Apt/Condo,Montreal,Quebec
+2766,2000,210 Rue De La Gauchetiere O.,1,1,600,Apt/Condo,Montreal,Quebec
+2767,2500,370 Rue des Seigneurs,2,1,1074,Apt/Condo,Montreal,Quebec
+2768,2950,629 Av. du Docteur-Penfield,4,2,1600,Apt/Condo,Montreal,Quebec
+2769,1315,6760 Boul. Newman,1,1,544,Apt/Condo,Montreal,Quebec
+2770,6150,400 Rue Richmond,3,2,1370,Apt/Condo,Montreal,Quebec
+2771,2000,370 Rue des Seigneurs,1,1,763,Apt/Condo,Montreal,Quebec
+2772,1595,1200 Rue St-Alexandre,1,1,545,Apt/Condo,Montreal,Quebec
+2773,1750,370 Rue des Seigneurs,1,1,659,Apt/Condo,Montreal,Quebec
+2774,2000,400 Rue Sherbrooke O.,1,1,695,Apt/Condo,Montreal,Quebec
+2775,1525,6850 Boul. Newman,2,1,786,Apt/Condo,Montreal,Quebec
+2776,1650,2075 Av. de l'Eglise,2,1,900,Apt/Condo,Montreal,Quebec
+2777,2079,2255 Rue Lambert-Closse,2,1,857,Apt/Condo,Montreal,Quebec
+2778,2159,2255 Rue Lambert-Closse,2,1,1012,Apt/Condo,Montreal,Quebec
+2779,2400,370 Rue des Seigneurs,1,1,804,Apt/Condo,Montreal,Quebec
+2780,4500,1237 Rue St-Marc,4,2,2050,Apt/Condo,Montreal,Quebec
+2781,1500,1400 rue Ottawa,1,1,550,Apt/Condo,Montreal,Quebec
+2782,2850,370 Rue des Seigneurs,2,2,1024,Apt/Condo,Montreal,Quebec
+2783,1925,6250 Av. Lennox,2,1,965,Apt/Condo,Montreal,Quebec
+2784,1900,411 Rue des Recollets,1,1,583,Apt/Condo,Montreal,Quebec
+2785,2300,286,3,1,1320,Apt/Condo,Montreal,Quebec
+2786,2130,6850 Boul. Newman,3,2,1166,Apt/Condo,Montreal,Quebec
+2787,1699,405 Rue de la Concorde,1,1,600,Apt/Condo,Montreal,Quebec
+2788,2200,3480 Rue Simpson,2,2,1000,Apt/Condo,Montreal,Quebec
+2789,1800,2007 Avenue Beaconsfield,2,1,760,Apt/Condo,Montreal,Quebec
+2790,1525,6850 Boul. Newman,2,1,814,Apt/Condo,Montreal,Quebec
+2791,3129,4300 Boul. De Maisonneuve O.,2,2,1150,Apt/Condo,Montreal,Quebec
+2792,1585,6800 Boul. Newman,2,1,843,Apt/Condo,Montreal,Quebec
+2793,2960,6250 Av. Lennox,2,2,992,Apt/Condo,Montreal,Quebec
+2794,3800,376 Rue le Moyne,2,2,1656,Apt/Condo,Montreal,Quebec
+2795,1315,6850 Boul. Newman,1,1,612,Apt/Condo,Montreal,Quebec
+2796,30000,Westmount,8,8,7625,Apt/Condo,Montreal,Quebec
+2797,1900,6250 Av. Lennox,2,2,950,Apt/Condo,Montreal,Quebec
+2798,1269,2255 Rue Lambert-Closse,1,1,422,Apt/Condo,Montreal,Quebec
+2799,2250,370 Rue des Seigneurs,1,1,804,Apt/Condo,Montreal,Quebec
+2800,2500,100 Rue St-Norbert,2,2,1200,Apt/Condo,Montreal,Quebec
+2801,2000,6250 Av. Lennox,1,1,705,Apt/Condo,Montreal,Quebec
+2802,1525,6850 Boul. Newman,2,1,814,Apt/Condo,Montreal,Quebec
+2803,2100,370 Rue des Seigneurs,1,1,773,Apt/Condo,Montreal,Quebec
+2804,2219,2255 Rue Lambert-Closse,2,1,1125,Apt/Condo,Montreal,Quebec
+2805,1565,6850 Boul. Newman,2,1,843,Apt/Condo,Montreal,Quebec
+2806,1715,400 Rue Richmond,1,1,635,Apt/Condo,Montreal,Quebec
+2807,1695,2060 Rue Sherbrooke O.,1,1,950,Apt/Condo,Montreal,Quebec
+2808,1780,6800 Boul. Newman,2,2,979,Apt/Condo,Montreal,Quebec
+2809,2670,6250 Av. Lennox,2,2,940,Apt/Condo,Montreal,Quebec
+2810,2350,1000 Rue de la Commune E.,1,1,1100,Apt/Condo,Montreal,Quebec
+2811,1850,6800 Boul. Newman,2,2,833,Apt/Condo,Montreal,Quebec
+2812,1200,805 25e Avenue,2,1,750,Apt/Condo,Montreal,Quebec
+2813,3800,318 Av. Grosvenor,2,2,1500,Apt/Condo,Montreal,Quebec
+2814,2779,2255 Rue Lambert-Closse,3,2,1462,Apt/Condo,Montreal,Quebec
+2815,2255,6850 Boul. Newman,3,2,1260,Apt/Condo,Montreal,Quebec
+2816,2690,1515 Av. du Docteur-Penfield,2,2,1600,Apt/Condo,Montreal,Quebec
+2817,2150,370 Rue des Seigneurs,1,1,826,Apt/Condo,Montreal,Quebec
+2818,4980,400 Rue Sherbrooke O.,2,2,1076,Apt/Condo,Montreal,Quebec
+2819,7900,1411A Av. Overdale,4,3,2600,Apt/Condo,Montreal,Quebec
+2820,1495,3821 Rue St-Urbain,3,1,760,Apt/Condo,Montreal,Quebec
+2821,2150,6850 Boul. Newman,3,2,1166,Apt/Condo,Montreal,Quebec
+2822,1900,2055 Rue du Fort,2,2,945,Apt/Condo,Montreal,Quebec
+2823,4980,400 Rue Sherbrooke O.,2,2,1055,Apt/Condo,Montreal,Quebec
+2824,1820,6850 Boul. Newman,2,2,976,Apt/Condo,Montreal,Quebec
+2825,1400,1200 Rue St-Alexandre,1,1,630,Apt/Condo,Montreal,Quebec
+2826,1600,2117 Rue Tupper,1,1,830,Apt/Condo,Montreal,Quebec
+2827,1695,1239 Rue Drummond,1,1,550,Apt/Condo,Montreal,Quebec
+2828,1700,1225 Boul. Robert-Bourassa,1,1,525,Apt/Condo,Montreal,Quebec
+2829,1760,6850 Boul. Newman,2,2,943,Apt/Condo,Montreal,Quebec
+2830,3599,400 rue Sherbrooke O.,3,2,1075,Apt/Condo,Montreal,Quebec
+2831,1800,1288 Av. des Canadiens-de-Montréal,1,1,560,Apt/Condo,Montreal,Quebec
+2832,2300,370 Rue des Seigneurs,1,1,804,Apt/Condo,Montreal,Quebec
+2833,1500,1220 Rue Crescent,1,1,600,Apt/Condo,Montreal,Quebec
+2834,1965,6250 Av. Lennox,2,2,940,Apt/Condo,Montreal,Quebec
+2835,1555,6850 Boul. Newman,2,1,814,Apt/Condo,Montreal,Quebec
+2836,1750,2117 Rue Tupper,1,1,550,Apt/Condo,Montreal,Quebec
+2837,3100,370 Rue des Seigneurs,2,2,1470,Apt/Condo,Montreal,Quebec
+2838,9000,400 Rue Sherbrooke O.,2,2,1063,Apt/Condo,Montreal,Quebec
+2839,1325,2300 Rue St-Mathieu,1,1,570,Apt/Condo,Montreal,Quebec
+2840,1540,6850 Boul. Newman,2,1,814,Apt/Condo,Montreal,Quebec
+2841,1775,6850 Boul. Newman,2,2,943,Apt/Condo,Montreal,Quebec
+2842,2750,4501 Rue Drolet,1,1,600,Apt/Condo,Montreal,Quebec
+2843,1595,172 Rue Jean-Talon E.,1,2,900,Apt/Condo,Montreal,Quebec
+2844,5000,370 Rue des Seigneurs,3,2,1696,Apt/Condo,Montreal,Quebec
+2845,1165,6850 Boul. Newman,1,1,543,Apt/Condo,Montreal,Quebec
+2846,2500,320 Rue Sherbrooke O.,2,2,1140,Apt/Condo,Montreal,Quebec
+2847,2350,1300 Boul. Rene-Levesque O.,1,1,740,Apt/Condo,Montreal,Quebec
+2848,1800,6800 Boul. Newman,2,1,1002,Apt/Condo,Montreal,Quebec
+2849,2340,6800 Boul. Newman,3,2,1264,Apt/Condo,Montreal,Quebec
+2850,1800,6800 Boul. Newman,2,2,979,Apt/Condo,Montreal,Quebec
+2851,2285,6850 Boul. Newman,3,2,1255,Apt/Condo,Montreal,Quebec
+2852,2245,6850 Boul. Newman,3,2,1255,Apt/Condo,Montreal,Quebec
+2853,1800,370 Rue des Seigneurs,1,1,659,Apt/Condo,Montreal,Quebec
+2854,3350,4501 Rue Drolet,3,2,800,Apt/Condo,Montreal,Quebec
+2855,3120,400 Rue Sherbrooke O.,1,1,550,Apt/Condo,Montreal,Quebec
+2856,4000,370 Rue des Seigneurs,2,2,1293,Apt/Condo,Montreal,Quebec
+2857,1510,6850 Boul. Newman,2,1,786,Apt/Condo,Montreal,Quebec
+2858,1555,6800 Boul. Newman,2,2,833,Apt/Condo,Montreal,Quebec
+2859,1450,6760 Boul. Newman,2,1,690,Apt/Condo,Montreal,Quebec
+2860,3250,1237 Rue St-Marc,3,2,1050,Apt/Condo,Montreal,Quebec
+2861,1690,212 Rue Ste-Catherine E.,1,1,760,Apt/Condo,Montreal,Quebec
+2862,2050,1392 Av. Overdale,2,1,1150,Apt/Condo,Montreal,Quebec
+2863,1699,1584B Rue De Champlain,2,1,900,Apt/Condo,Montreal,Quebec
+2864,3300,543 Rue Sherbrooke E.,2,1,1100,Apt/Condo,Montreal,Quebec
+2865,2000,408 Rue St-Jacques,1,1,600,Apt/Condo,Montreal,Quebec
+2866,2000,400 Rue Sherbrooke O.,1,1,740,Apt/Condo,Montreal,Quebec
+2867,1590,6250 Av. Lennox,1,1,535,Apt/Condo,Montreal,Quebec
+2868,3849,4300 Boul. De Maisonneuve O.,3,2,1477,Apt/Condo,Montreal,Quebec
+2869,2045,6250 Av. Lennox,2,2,980,Apt/Condo,Montreal,Quebec
+2870,1560,6800 Boul. Newman,2,1,825,Apt/Condo,Montreal,Quebec
+2871,2100,370 Rue des Seigneurs,1,1,763,Apt/Condo,Montreal,Quebec
+2872,1795,1288 Av. des Canadiens-de-Montréal,1,1,560,Apt/Condo,Montreal,Quebec
+2873,2150,370 Rue des Seigneurs,1,1,744,Apt/Condo,Montreal,Quebec
+2874,2910,888 Rue St-François-Xavier,1,1,700,Apt/Condo,Montreal,Quebec
+2875,8999,1200 de Maisonneuve O #PH-D,3,3,2500,Apt/Condo,Montreal,Quebec
+2876,1998,5360 Rue Sherbrooke O.,2,2,1000,Apt/Condo,Montreal,Quebec
+2877,1245,6850 Boul. Newman,1,1,572,Apt/Condo,Montreal,Quebec
+2878,1444,431 Rue St-Martin,1,1,566,Apt/Condo,Montreal,Quebec
+2879,1560,6850 Boul. Newman,2,1,815,Apt/Condo,Montreal,Quebec
+2880,1950,370 Rue des Seigneurs,1,1,696,Apt/Condo,Montreal,Quebec
+2881,3395,3660 Av. du Musée,4,1,1100,Apt/Condo,Montreal,Quebec
+2882,1540,6850 Boul. Newman,2,1,815,Apt/Condo,Montreal,Quebec
+2883,2400,210 Rue De La Gauchetiere O.,2,1,800,Apt/Condo,Montreal,Quebec
+2884,3995,1015 Rue St-Hubert,2,1,1170,Apt/Condo,Montreal,Quebec
+2885,3550,1584C Rue de Champlain,2,2,2500,Apt/Condo,Montreal,Quebec
+2886,3095,3660 Av. du Musée,3,1,900,Apt/Condo,Montreal,Quebec
+2887,1565,6800 Boul. Newman,2,1,843,Apt/Condo,Montreal,Quebec
+2888,3950,73 Rue St-Cuthbert,2,1,900,Apt/Condo,Montreal,Quebec
+2889,2285,6850 Boul. Newman,3,2,1265,Apt/Condo,Montreal,Quebec
+2890,1750,370 Rue des Seigneurs,1,1,659,Apt/Condo,Montreal,Quebec
+2891,1375,456 Rue De La Gauchetiere O.,1,1,650,Apt/Condo,Montreal,Quebec
+2892,1820,6800 Boul. Newman,2,2,979,Apt/Condo,Montreal,Quebec
+2893,2160,6250 Av. Lennox,2,2,965,Apt/Condo,Montreal,Quebec
+2894,1650,1075 Rue De Bleury,2,1,1070,Apt/Condo,Montreal,Quebec
+2895,9500,1288 Av. des Canadiens-de-Montréal,3,2,2085,Apt/Condo,Montreal,Quebec
+2896,2109,2255 Rue Lambert-Closse,2,1,916,Apt/Condo,Montreal,Quebec
+2897,2150,100 Andre-Prevost,1,1,867,Apt/Condo,Montreal,Quebec
+2898,3039,4300 Boul. De Maisonneuve O.,2,2,1071,Apt/Condo,Montreal,Quebec
+2899,2100,6850 Boul. Newman,3,2,1166,Apt/Condo,Montreal,Quebec
+2900,2600,370 Rue des Seigneurs,2,1,940,Apt/Condo,Montreal,Quebec
+2901,6500,400 Rue Richmond,2,2,850,Apt/Condo,Montreal,Quebec
+2902,2045,6250 Av. Lennox,2,2,980,Apt/Condo,Montreal,Quebec
+2903,1395,6250 Av. Lennox,1,1,700,Apt/Condo,Montreal,Quebec
+2904,2295,1200 Rue St-Alexandre,2,1,740,Apt/Condo,Montreal,Quebec
+2905,1200,6760 Boul. Newman,1,1,548,Apt/Condo,Montreal,Quebec
+2906,2000,411 Rue des Recollets,1,1,600,Apt/Condo,Montreal,Quebec
+2907,1800,370 Rue des Seigneurs,1,1,696,Apt/Condo,Montreal,Quebec
+2908,2300,3635 Rue Lorne-Crescent,3,2,1320,Apt/Condo,Montreal,Quebec
+2909,2351,6800 Boul. Newman,3,2,1250,Apt/Condo,Montreal,Quebec
+2910,2995,1200 Boul. De Maisonneuve O.,2,2,1300,Apt/Condo,Montreal,Quebec
+2911,2150,2004 Boul. St-Laurent,2,1,1200,Apt/Condo,Montreal,Quebec
+2912,1580,6800 Boul. Newman,2,1,843,Apt/Condo,Montreal,Quebec
+2913,1145,6850 Boul. Newman,1,1,543,Apt/Condo,Montreal,Quebec
+2914,2265,6850 Boul. Newman,3,2,2265,Apt/Condo,Montreal,Quebec
+2915,2150,370 Rue des Seigneurs,1,1,763,Apt/Condo,Montreal,Quebec
+2916,1665,1180 Rue du Sussex,1,1,562,Apt/Condo,Montreal,Quebec
+2917,15000,1280 Rue Sherbrooke O.,2,2,3165,Apt/Condo,Montreal,Quebec
+2918,6500,400 Rue Richmond,2,2,870,Apt/Condo,Montreal,Quebec
+2919,3200,2015 Rue de la Montagne,2,2,980,Apt/Condo,Montreal,Quebec
+2920,5000,169 Rue Saint-Paul Est,7,4,3950,Apt/Condo,Montreal,Quebec
+2921,2995,1584A Rue de Champlain,2,2,2500,Apt/Condo,Montreal,Quebec
+2922,2340,6800 Boul. Newman,3,2,1264,Apt/Condo,Montreal,Quebec
+2923,2500,2015 Rue de la Montagne,1,1,911,Apt/Condo,Montreal,Quebec
+2924,3189,4300 Boul. De Maisonneuve O.,2,2,1200,Apt/Condo,Montreal,Quebec
+2925,1755,6800 Boul. Newman,2,2,919,Apt/Condo,Montreal,Quebec
+2926,1980,6250 Av. Lennox #206,2,1,950,Apt/Condo,Montreal,Quebec
+2927,2600,408 Rue St-Jacques,2,2,800,Apt/Condo,Montreal,Quebec
+2928,2000,299 rue de la Rotonde,1,1,666,Apt/Condo,Montreal,Quebec
+2929,2159,2255 Rue Lambert-Closse,2,1,1014,Apt/Condo,Montreal,Quebec
+2930,1500,6850 Boul. Newman,2,1,793,Apt/Condo,Montreal,Quebec
+2931,2150,1050 Rue Drummond,2,1,700,Apt/Condo,Montreal,Quebec
+2932,8500,400 Rue Sherbrooke O.,2,2,1000,Apt/Condo,Montreal,Quebec
+2933,3099,4300 Boul. De Maisonneuve O.,2,2,1200,Apt/Condo,Montreal,Quebec
+2934,2100,370 Rue des Seigneurs,1,1,763,Apt/Condo,Montreal,Quebec
+2935,2399,4300 Boul. De Maisonneuve O.,1,1,883,Apt/Condo,Montreal,Quebec
+2936,1650,2300 Rue du Souvenir,2,1,950,Apt/Condo,Montreal,Quebec
+2937,1680,6850 Boul. Newman,2,2,896,Apt/Condo,Montreal,Quebec
+2938,1545,6850 Boul. Newman,2,1,815,Apt/Condo,Montreal,Quebec
+2939,2195,6250 Av. Lennox,2,2,980,Apt/Condo,Montreal,Quebec
+2940,4500,1188 Rue St Antoine Ouest #TH6,3,3,1093,Apt/Condo,Montreal,Quebec
+2941,2995,1013 Rue St-Hubert,2,1,1170,Apt/Condo,Montreal,Quebec
+2942,1600,101 Rue Murray,1,1,500,Apt/Condo,Montreal,Quebec
+2943,1750,370 Rue des Seigneurs,1,1,659,Apt/Condo,Montreal,Quebec
+2944,3500,424 Rue du Champ-de-Mars,2,1,1730,Apt/Condo,Montreal,Quebec
+2945,1700,454 rue de la Gauchetiere O.,1,1,513,Apt/Condo,Montreal,Quebec
+2946,2000,370 Rue des Seigneurs,1,1,763,Apt/Condo,Montreal,Quebec
+2947,45000,14766 Boul. Gouin O.,3,2,1837,Apt/Condo,Montreal,Quebec
+2948,2750,370 Rue des Seigneurs,2,2,977,Apt/Condo,Montreal,Quebec
+2949,6500,400 Rue Richmond,2,2,850,Apt/Condo,Montreal,Quebec
+2950,4980,400 Rue Sherbrooke O.,2,2,1055,Apt/Condo,Montreal,Quebec
+2951,1595,6850 Boul. Newman,2,1,832,Apt/Condo,Montreal,Quebec
+2952,1600,1288 Rue St-Antoine O.,1,1,600,Apt/Condo,Montreal,Quebec
+2953,1850,370 Rue des Seigneurs,1,1,659,Apt/Condo,Montreal,Quebec
+2954,1850,1288 Av. des Canadiens-de-Montréal,1,1,600,Apt/Condo,Montreal,Quebec
+2955,2229,2255 Rue Lambert-Closse,2,1,1114,Apt/Condo,Montreal,Quebec
+2956,1540,6250 Av. Lennox,1,1,705,Apt/Condo,Montreal,Quebec
+2957,1560,6250 Av. Lennox,1,1,745,Apt/Condo,Montreal,Quebec
+2958,2050,2064 Rue Jeanne-Mance,2,1,1200,Apt/Condo,Montreal,Quebec
+2959,1500,400 Boul. Rene-Levesque O.,1,1,450,Apt/Condo,Montreal,Quebec
+2960,1800,6850 Boul. Newman,2,2,976,Apt/Condo,Montreal,Quebec
+2961,1550,370 Rue des Seigneurs,1,1,659,Apt/Condo,Montreal,Quebec
+2962,2255,6800 Boul. Newman,3,2,1247,Apt/Condo,Montreal,Quebec
+2963,2300,370 Rue des Seigneurs,1,1,826,Apt/Condo,Montreal,Quebec
+2964,5490,400 Rue Sherbrooke O.,3,2,1615,Apt/Condo,Montreal,Quebec
+2965,2260,6800 Boul. Newman,3,2,1247,Apt/Condo,Montreal,Quebec
+2966,2810,6250 Av. Lennox,2,2,940,Apt/Condo,Montreal,Quebec
+2967,2749,2255 Rue Lambert-Closse,2,2,1389,Apt/Condo,Montreal,Quebec
+2968,1675,6850 Boul. Newman,2,2,896,Apt/Condo,Montreal,Quebec
+2969,2925,6250 Av. Lennox,2,2,980,Apt/Condo,Montreal,Quebec
+2970,850,7639 Rue Hébert,1,1,650,Apt/Condo,Montreal,Quebec
+2971,3599,2255 Rue Lambert-Closse,3,2,1783,Apt/Condo,Montreal,Quebec
+2972,1520,6850 Boul. Newman,2,1,786,Apt/Condo,Montreal,Quebec
+2973,2139,2255 Rue Lambert-Closse,2,1,968,Apt/Condo,Montreal,Quebec
+2974,1900,370 Rue des Seigneurs,1,1,763,Apt/Condo,Montreal,Quebec
+2975,2550,370 Rue des Seigneurs,2,2,1011,Apt/Condo,Montreal,Quebec
+2976,2900,389 rue St-Paul,1,1,923,Apt/Condo,Montreal,Quebec
+2977,1799,4650 Av. Bonavista,2,1,1400,Apt/Condo,Montreal,Quebec
+2978,1920,6250 Av. Lennox,2,2,965,Apt/Condo,Montreal,Quebec
+2979,4980,400 Rue Sherbrooke O.,2,1,1060,Apt/Condo,Montreal,Quebec
+2980,2215,6800 Boul. Newman,3,2,1247,Apt/Condo,Montreal,Quebec
+2981,1700,4327 rue de Lanaudiere,2,1,567,Apt/Condo,Montreal,Quebec
+2982,1500,479 Rue Prince-Arthur O.,1,1,660,Apt/Condo,Montreal,Quebec
+2983,1375,6250 Av. Lennox,1,1,690,Apt/Condo,Montreal,Quebec
+2984,1819,2255 Rue Lambert-Closse,1,1,1049,Apt/Condo,Montreal,Quebec
+2985,1800,151 Rue de la Rotonde,1,1,630,Apt/Condo,Montreal,Quebec
+2986,1305,6850 Boul. Newman,1,1,612,Apt/Condo,Montreal,Quebec
+2987,2650,370 Rue des Seigneurs,2,2,1030,Apt/Condo,Montreal,Quebec
+2988,2169,2255 Rue Lambert-Closse,2,1,1037,Apt/Condo,Montreal,Quebec
+2989,1650,199 Rue de la Rotonde,2,1,725,Apt/Condo,Montreal,Quebec
+2990,2660,400 Boul. Rene-Levesque O.,2,1,930,Apt/Condo,Montreal,Quebec
+2991,1799,1070 Ste-Elisabeth,2,1,1050,Apt/Condo,Montreal,Quebec
+2992,2220,6850 Boul. Newman,3,2,1247,Apt/Condo,Montreal,Quebec
+2993,2109,2255 Rue Lambert-Closse,2,1,916,Apt/Condo,Montreal,Quebec
+2994,2335,6800 Boul. Newman,3,2,1261,Apt/Condo,Montreal,Quebec
+2995,2195,90 Rue des Soeurs-Grises,1,1,885,Apt/Condo,Montreal,Quebec
+2996,1470,6850 Boul. Newman,2,1,786,Apt/Condo,Montreal,Quebec
+2997,1950,1625 Av. Lincoln,2,2,1400,Apt/Condo,Montreal,Quebec
+2998,1320,6850 Boul. Newman,1,1,612,Apt/Condo,Montreal,Quebec
+2999,2299,1210 Rue St-Antoine E.,2,2,1110,Apt/Condo,Montreal,Quebec
+3000,2149,333 Rue Sherbrooke E.,1,1,930,Apt/Condo,Montreal,Quebec
+3001,1500,3577 Avenue Atwater,1,1,400,Apt/Condo,Montreal,Quebec
+3002,3250,1608 Av. Selkirk,3,1,2100,Apt/Condo,Montreal,Quebec
+3003,3099,4300 Boul. De Maisonneuve O.,2,2,1200,Apt/Condo,Montreal,Quebec
+3004,3000,2268 Rue du Souvenir,4,2,1500,Apt/Condo,Montreal,Quebec
+3005,2235,6800 Boul. Newman,3,2,1247,Apt/Condo,Montreal,Quebec
+3006,2250,370 Rue des Seigneurs,1,1,773,Apt/Condo,Montreal,Quebec
+3007,2719,2255 Rue Lambert-Closse,2,1,995,Apt/Condo,Montreal,Quebec
+3008,1690,212 Rue Ste-Catherine E.,1,1,760,Apt/Condo,Montreal,Quebec
+3009,1580,6250 Av. Lennox,1,1,705,Apt/Condo,Montreal,Quebec
+3010,1850,1455 Rue Saint-Jacques,2,1,826,Apt/Condo,Montreal,Quebec
+3011,1850,370 Rue des Seigneurs,1,1,659,Apt/Condo,Montreal,Quebec
+3012,2550,284,3,1,1580,Apt/Condo,Montreal,Quebec
+3013,2371,400 Boul. Rene-Levesque O.,2,1,770,Apt/Condo,Montreal,Quebec
+3014,1700,1199 Rue Bishop,1,1,750,Apt/Condo,Montreal,Quebec
+3015,2300,1200 Boul. De Maisonneuve O.,1,1,900,Apt/Condo,Montreal,Quebec
+3016,2719,2255 Rue Lambert-Closse,2,2,1333,Apt/Condo,Montreal,Quebec
+3017,3650,1000 Rue de la Commune E.,2,2,1550,Apt/Condo,Montreal,Quebec
+3018,2300,370 Rue des Seigneurs,2,1,763,Apt/Condo,Montreal,Quebec
+3019,1640,6250 Av. Lennox,2,2,940,Apt/Condo,Montreal,Quebec
+3020,1540,6250 Av. Lennox,1,1,705,Apt/Condo,Montreal,Quebec
+3021,1690,4300 Boul. De Maisonneuve O.,1,1,900,Apt/Condo,Montreal,Quebec
+3022,1699,1584A Rue De Champlain,2,1,850,Apt/Condo,Montreal,Quebec
+3023,1520,6850 Boul. Newman,2,1,793,Apt/Condo,Montreal,Quebec
+3024,1530,6250 Av. Lennox,1,1,700,Apt/Condo,Montreal,Quebec
+3025,3800,170 rue Rioux,2,1,1195,Apt/Condo,Montreal,Quebec
+3026,2910,888 Rue St-François-Xavier,1,1,700,Apt/Condo,Montreal,Quebec
+3027,2095,1211 Rue Drummond,2,1,750,Apt/Condo,Montreal,Quebec
+3028,1550,1414 Rue Chomedey,1,1,600,Apt/Condo,Montreal,Quebec
+3029,1390,4683 Rue Garnier,1,1,464,Apt/Condo,Montreal,Quebec
+3030,2550,1155 Rue de la Montagne,2,2,959,Apt/Condo,Montreal,Quebec
+3031,3995,1450 Boul. Rene-Levesque O.,2,2,1400,Apt/Condo,Montreal,Quebec
+3032,2910,888 Rue St-François-Xavier,1,1,700,Apt/Condo,Montreal,Quebec
+3033,1580,6800 Boul. Newman,2,1,825,Apt/Condo,Montreal,Quebec
+3034,1870,6250 Av. Lennox,2,2,940,Apt/Condo,Montreal,Quebec
+3035,1510,6800 Boul. Newman,2,1,779,Apt/Condo,Montreal,Quebec
+3036,1635,6250 Av. Lennox,1,1,750,Apt/Condo,Montreal,Quebec
+3037,2500,7176 Rue D'Aragon,4,2,1330,Apt/Condo,Montreal,Quebec
+3038,1399,1401 Sherwood Crescent,2,1,1200,Apt/Condo,Montreal,Quebec
+3039,1375,456 Rue De La Gauchetière O.,1,1,850,Apt/Condo,Montreal,Quebec
+3040,1160,6850 Boul. Newman,1,1,543,Apt/Condo,Montreal,Quebec
+3041,2300,543 Rue Sherbrooke E.,1,1,700,Apt/Condo,Montreal,Quebec
+3042,2759,2255 Rue Lambert-Closse,2,2,1423,Apt/Condo,Montreal,Quebec
+3043,3200,370 Rue des Seigneurs,2,2,1468,Apt/Condo,Montreal,Quebec
+3044,2650,85 Av. Windsor,2,1,1250,Apt/Condo,Montreal,Quebec
+3045,1525,6850 Boul. Newman,2,1,815,Apt/Condo,Montreal,Quebec
+3046,1800,12224 Rue Joseph-Casavant,3,1,1400,Apt/Condo,Montreal,Quebec
+3047,1900,408 Rue St-Jacques,1,1,500,Apt/Condo,Montreal,Quebec
+3048,1805,6800 Boul. Newman,2,2,979,Apt/Condo,Montreal,Quebec
+3049,2015,6250 Av. Lennox #205,2,2,965,Apt/Condo,Montreal,Quebec
+3050,2260,6800 Boul. Newman,3,2,1260,Apt/Condo,Montreal,Quebec
+3051,3000,370 Rue des Seigneurs,2,2,1123,Apt/Condo,Montreal,Quebec
+3052,1400,6250 Av. Lennox,1,1,705,Apt/Condo,Montreal,Quebec
+3053,1570,6250 Av. Lennox,1,1,700,Apt/Condo,Montreal,Quebec
+3054,1375,1009 Rue de Bleury,1,1,710,Apt/Condo,Montreal,Quebec
+3055,1900,1185 Av. Rougemont,4,1,1500,Apt/Condo,Montreal,Quebec
+3056,3250,2055 Rue Bishop,4,2,1200,Apt/Condo,Montreal,Quebec
+3057,2650,370 Rue des Seigneurs,2,2,1011,Apt/Condo,Montreal,Quebec
+3058,2280,6850 Boul. Newman,3,2,1255,Apt/Condo,Montreal,Quebec
+3059,1535,6250 Av. Lennox,1,1,700,Apt/Condo,Montreal,Quebec
+3060,6999,400 Rue Sherbrooke O.,2,2,1175,Apt/Condo,Montreal,Quebec
+3061,1437,6325 Av. Somerled,2,1,770,Apt/Condo,Montreal,Quebec
+3062,3500,358 Tsse St-Denis,3,2,1800,Apt/Condo,Montreal,Quebec
+3063,2495,800 Rue Muir #903A,2,2,1192,Apt/Condo,Montreal,Quebec
+3064,2200,370 Rue des Seigneurs,1,1,804,House,Montreal,Quebec
+3065,2745,3660 Av. du Musee,2,1,900,House,Montreal,Quebec
+3066,2350,370 Rue des Seigneurs,1,1,888,House,Montreal,Quebec
+3067,3069,4300 Boul. De Maisonneuve O.,2,2,1292,House,Montreal,Quebec
+3068,2115,6850 Boul. Newman,3,2,1166,House,Montreal,Quebec
+3069,1900,1417 Av. Argyle,3,1,1250,House,Montreal,Quebec
+3070,1995,1604 Av. des Pins,2,1,1500,House,Montreal,Quebec
+3071,6500,400 Rue Richmond,2,2,980,House,Montreal,Quebec
+3072,4300,2140 Lucerne,5,3,2000,House,Montreal,Quebec
+3073,2350,370 Rue des Seigneurs,1,1,826,House,Montreal,Quebec
+3074,1590,2020 Boul. Rene-Levesque O.,2,1,690,House,Montreal,Quebec
+3075,2145,6250 Av. Lennox,2,2,980,House,Montreal,Quebec
+3076,2100,6250 Av. Lennox,1,1,705,House,Montreal,Quebec
+3077,1634,6250 Av. Lennox,1,1,750,House,Montreal,Quebec
+3078,1575,6850A Boul. Newman,2,1,832,House,Montreal,Quebec
+3079,1595,1491 Rue Rachel E.,2,1,1400,House,Montreal,Quebec
+3080,1980,6250 Av. Lennox,2,1,945,House,Montreal,Quebec
+3081,2200,1288 Rue St-Antoine O. #2308,2,1,600,House,Montreal,Quebec
+3082,1700,370 Rue des Seigneurs,1,1,659,House,Montreal,Quebec
+3083,1670,6250 Av. Lennox,1,1,750,House,Montreal,Quebec
+3084,1825,6800 Boul. Newman,2,2,979,House,Montreal,Quebec
+3085,1595,2995 Av. Ernest-Hemingway,2,1,1020,House,Montreal,Quebec
+3086,5199,365 Rue St-Andre,2,2,1420,House,Montreal,Quebec
+3087,2150,221 de la Commune O.,1,1,850,House,Montreal,Quebec
+3088,2000,400 Rue Sherbrooke O.,1,1,700,House,Montreal,Quebec
+3089,2000,210 Rue De La Gauchetiere O.,1,1,600,House,Montreal,Quebec
+3090,2500,370 Rue des Seigneurs,2,1,1074,House,Montreal,Quebec
+3091,2950,629 Av. du Docteur-Penfield,4,2,1600,House,Montreal,Quebec
+3092,1315,6760 Boul. Newman,1,1,544,House,Montreal,Quebec
+3093,6150,400 Rue Richmond,3,2,1370,House,Montreal,Quebec
+3094,2000,370 Rue des Seigneurs,1,1,763,House,Montreal,Quebec
+3095,1595,1200 Rue St-Alexandre,1,1,545,House,Montreal,Quebec
+3096,1750,370 Rue des Seigneurs,1,1,659,House,Montreal,Quebec
+3097,2000,400 Rue Sherbrooke O.,1,1,695,House,Montreal,Quebec
+3098,1525,6850 Boul. Newman,2,1,786,House,Montreal,Quebec
+3099,1650,2075 Av. de l'Eglise,2,1,900,House,Montreal,Quebec
+3100,2079,2255 Rue Lambert-Closse,2,1,857,House,Montreal,Quebec
+3101,2159,2255 Rue Lambert-Closse,2,1,1012,House,Montreal,Quebec
+3102,2400,370 Rue des Seigneurs,1,1,804,House,Montreal,Quebec
+3103,4500,1237 Rue St-Marc,4,2,2050,House,Montreal,Quebec
+3104,1500,1400 rue Ottawa,1,1,550,House,Montreal,Quebec
+3105,2850,370 Rue des Seigneurs,2,2,1024,House,Montreal,Quebec
+3106,1925,6250 Av. Lennox,2,1,965,House,Montreal,Quebec
+3107,1900,411 Rue des Recollets,1,1,583,House,Montreal,Quebec
+3108,2300,286,3,1,1320,House,Montreal,Quebec
+3109,2130,6850 Boul. Newman,3,2,1166,House,Montreal,Quebec
+3110,1699,405 Rue de la Concorde,1,1,600,House,Montreal,Quebec
+3111,2200,3480 Rue Simpson,2,2,1000,House,Montreal,Quebec
+3112,1800,2007 Avenue Beaconsfield,2,1,760,House,Montreal,Quebec
+3113,1525,6850 Boul. Newman,2,1,814,House,Montreal,Quebec
+3114,3129,4300 Boul. De Maisonneuve O.,2,2,1150,House,Montreal,Quebec
+3115,1585,6800 Boul. Newman,2,1,843,House,Montreal,Quebec
+3116,2960,6250 Av. Lennox,2,2,992,House,Montreal,Quebec
+3117,3800,376 Rue le Moyne,2,2,1656,House,Montreal,Quebec
+3118,1315,6850 Boul. Newman,1,1,612,House,Montreal,Quebec
+3119,30000,Westmount,8,8,7625,House,Montreal,Quebec
+3120,1900,6250 Av. Lennox,2,2,950,House,Montreal,Quebec
+3121,1269,2255 Rue Lambert-Closse,1,1,422,House,Montreal,Quebec
+3122,2250,370 Rue des Seigneurs,1,1,804,House,Montreal,Quebec
+3123,2500,100 Rue St-Norbert,2,2,1200,House,Montreal,Quebec
+3124,2000,6250 Av. Lennox,1,1,705,House,Montreal,Quebec
+3125,1525,6850 Boul. Newman,2,1,814,House,Montreal,Quebec
+3126,2100,370 Rue des Seigneurs,1,1,773,House,Montreal,Quebec
+3127,2219,2255 Rue Lambert-Closse,2,1,1125,House,Montreal,Quebec
+3128,1565,6850 Boul. Newman,2,1,843,House,Montreal,Quebec
+3129,1715,400 Rue Richmond,1,1,635,House,Montreal,Quebec
+3130,1695,2060 Rue Sherbrooke O.,1,1,950,House,Montreal,Quebec
+3131,1780,6800 Boul. Newman,2,2,979,House,Montreal,Quebec
+3132,2670,6250 Av. Lennox,2,2,940,House,Montreal,Quebec
+3133,2350,1000 Rue de la Commune E.,1,1,1100,House,Montreal,Quebec
+3134,1850,6800 Boul. Newman,2,2,833,House,Montreal,Quebec
+3135,1200,805 25e Avenue,2,1,750,House,Montreal,Quebec
+3136,3800,318 Av. Grosvenor,2,2,1500,House,Montreal,Quebec
+3137,2779,2255 Rue Lambert-Closse,3,2,1462,House,Montreal,Quebec
+3138,2255,6850 Boul. Newman,3,2,1260,House,Montreal,Quebec
+3139,2690,1515 Av. du Docteur-Penfield,2,2,1600,House,Montreal,Quebec
+3140,2150,370 Rue des Seigneurs,1,1,826,House,Montreal,Quebec
+3141,4980,400 Rue Sherbrooke O.,2,2,1076,House,Montreal,Quebec
+3142,7900,1411A Av. Overdale,4,3,2600,House,Montreal,Quebec
+3143,1495,3821 Rue St-Urbain,3,1,760,House,Montreal,Quebec
+3144,2150,6850 Boul. Newman,3,2,1166,House,Montreal,Quebec
+3145,1900,2055 Rue du Fort,2,2,945,House,Montreal,Quebec
+3146,4980,400 Rue Sherbrooke O.,2,2,1055,House,Montreal,Quebec
+3147,1820,6850 Boul. Newman,2,2,976,House,Montreal,Quebec
+3148,1400,1200 Rue St-Alexandre,1,1,630,House,Montreal,Quebec
+3149,1600,2117 Rue Tupper,1,1,830,House,Montreal,Quebec
+3150,1695,1239 Rue Drummond,1,1,550,House,Montreal,Quebec
+3151,1700,1225 Boul. Robert-Bourassa,1,1,525,House,Montreal,Quebec
+3152,1760,6850 Boul. Newman,2,2,943,House,Montreal,Quebec
+3153,3599,400 rue Sherbrooke O.,3,2,1075,House,Montreal,Quebec
+3154,1800,1288 Av. des Canadiens-de-Montréal,1,1,560,House,Montreal,Quebec
+3155,2300,370 Rue des Seigneurs,1,1,804,House,Montreal,Quebec
+3156,1500,1220 Rue Crescent,1,1,600,House,Montreal,Quebec
+3157,1965,6250 Av. Lennox,2,2,940,House,Montreal,Quebec
+3158,1555,6850 Boul. Newman,2,1,814,House,Montreal,Quebec
+3159,1750,2117 Rue Tupper,1,1,550,House,Montreal,Quebec
+3160,3100,370 Rue des Seigneurs,2,2,1470,House,Montreal,Quebec
+3161,9000,400 Rue Sherbrooke O.,2,2,1063,House,Montreal,Quebec
+3162,1325,2300 Rue St-Mathieu,1,1,570,House,Montreal,Quebec
+3163,1540,6850 Boul. Newman,2,1,814,House,Montreal,Quebec
+3164,1775,6850 Boul. Newman,2,2,943,House,Montreal,Quebec
+3165,2750,4501 Rue Drolet,1,1,600,House,Montreal,Quebec
+3166,1595,172 Rue Jean-Talon E.,1,2,900,House,Montreal,Quebec
+3167,5000,370 Rue des Seigneurs,3,2,1696,House,Montreal,Quebec
+3168,1165,6850 Boul. Newman,1,1,543,House,Montreal,Quebec
+3169,2500,320 Rue Sherbrooke O.,2,2,1140,House,Montreal,Quebec
+3170,2350,1300 Boul. Rene-Levesque O.,1,1,740,House,Montreal,Quebec
+3171,1800,6800 Boul. Newman,2,1,1002,House,Montreal,Quebec
+3172,2340,6800 Boul. Newman,3,2,1264,House,Montreal,Quebec
+3173,1800,6800 Boul. Newman,2,2,979,House,Montreal,Quebec
+3174,2285,6850 Boul. Newman,3,2,1255,House,Montreal,Quebec
+3175,2245,6850 Boul. Newman,3,2,1255,House,Montreal,Quebec
+3176,1800,370 Rue des Seigneurs,1,1,659,House,Montreal,Quebec
+3177,3350,4501 Rue Drolet,3,2,800,House,Montreal,Quebec
+3178,3120,400 Rue Sherbrooke O.,1,1,550,House,Montreal,Quebec
+3179,4000,370 Rue des Seigneurs,2,2,1293,House,Montreal,Quebec
+3180,1510,6850 Boul. Newman,2,1,786,House,Montreal,Quebec
+3181,1555,6800 Boul. Newman,2,2,833,House,Montreal,Quebec
+3182,1450,6760 Boul. Newman,2,1,690,House,Montreal,Quebec
+3183,3250,1237 Rue St-Marc,3,2,1050,House,Montreal,Quebec
+3184,1690,212 Rue Ste-Catherine E.,1,1,760,House,Montreal,Quebec
+3185,2050,1392 Av. Overdale,2,1,1150,House,Montreal,Quebec
+3186,1699,1584B Rue De Champlain,2,1,900,House,Montreal,Quebec
+3187,3300,543 Rue Sherbrooke E.,2,1,1100,House,Montreal,Quebec
+3188,2000,408 Rue St-Jacques,1,1,600,House,Montreal,Quebec
+3189,2000,400 Rue Sherbrooke O.,1,1,740,House,Montreal,Quebec
+3190,1590,6250 Av. Lennox,1,1,535,House,Montreal,Quebec
+3191,3849,4300 Boul. De Maisonneuve O.,3,2,1477,House,Montreal,Quebec
+3192,2045,6250 Av. Lennox,2,2,980,House,Montreal,Quebec
+3193,1560,6800 Boul. Newman,2,1,825,House,Montreal,Quebec
+3194,2100,370 Rue des Seigneurs,1,1,763,House,Montreal,Quebec
+3195,1795,1288 Av. des Canadiens-de-Montréal,1,1,560,House,Montreal,Quebec
+3196,2150,370 Rue des Seigneurs,1,1,744,House,Montreal,Quebec
+3197,2910,888 Rue St-François-Xavier,1,1,700,House,Montreal,Quebec
+3198,8999,1200 de Maisonneuve O #PH-D,3,3,2500,House,Montreal,Quebec
+3199,1998,5360 Rue Sherbrooke O.,2,2,1000,House,Montreal,Quebec
+3200,1245,6850 Boul. Newman,1,1,572,House,Montreal,Quebec
+3201,1444,431 Rue St-Martin,1,1,566,House,Montreal,Quebec
+3202,1560,6850 Boul. Newman,2,1,815,House,Montreal,Quebec
+3203,1950,370 Rue des Seigneurs,1,1,696,House,Montreal,Quebec
+3204,3395,3660 Av. du Musée,4,1,1100,House,Montreal,Quebec
+3205,1540,6850 Boul. Newman,2,1,815,House,Montreal,Quebec
+3206,2400,210 Rue De La Gauchetiere O.,2,1,800,House,Montreal,Quebec
+3207,3995,1015 Rue St-Hubert,2,1,1170,House,Montreal,Quebec
+3208,3550,1584C Rue de Champlain,2,2,2500,House,Montreal,Quebec
+3209,3095,3660 Av. du Musée,3,1,900,House,Montreal,Quebec
+3210,1565,6800 Boul. Newman,2,1,843,House,Montreal,Quebec
+3211,3950,73 Rue St-Cuthbert,2,1,900,House,Montreal,Quebec
+3212,2285,6850 Boul. Newman,3,2,1265,House,Montreal,Quebec
+3213,1750,370 Rue des Seigneurs,1,1,659,House,Montreal,Quebec
+3214,1375,456 Rue De La Gauchetiere O.,1,1,650,House,Montreal,Quebec
+3215,1820,6800 Boul. Newman,2,2,979,House,Montreal,Quebec
+3216,2160,6250 Av. Lennox,2,2,965,House,Montreal,Quebec
+3217,1650,1075 Rue De Bleury,2,1,1070,House,Montreal,Quebec
+3218,9500,1288 Av. des Canadiens-de-Montréal,3,2,2085,House,Montreal,Quebec
+3219,2109,2255 Rue Lambert-Closse,2,1,916,House,Montreal,Quebec
+3220,2150,100 Andre-Prevost,1,1,867,House,Montreal,Quebec
+3221,3039,4300 Boul. De Maisonneuve O.,2,2,1071,House,Montreal,Quebec
+3222,2100,6850 Boul. Newman,3,2,1166,House,Montreal,Quebec
+3223,2600,370 Rue des Seigneurs,2,1,940,House,Montreal,Quebec
+3224,6500,400 Rue Richmond,2,2,850,House,Montreal,Quebec
+3225,2045,6250 Av. Lennox,2,2,980,House,Montreal,Quebec
+3226,1395,6250 Av. Lennox,1,1,700,House,Montreal,Quebec
+3227,2295,1200 Rue St-Alexandre,2,1,740,House,Montreal,Quebec
+3228,1200,6760 Boul. Newman,1,1,548,House,Montreal,Quebec
+3229,2000,411 Rue des Recollets,1,1,600,House,Montreal,Quebec
+3230,1800,370 Rue des Seigneurs,1,1,696,House,Montreal,Quebec
+3231,2300,3635 Rue Lorne-Crescent,3,2,1320,House,Montreal,Quebec
+3232,2351,6800 Boul. Newman,3,2,1250,House,Montreal,Quebec
+3233,2995,1200 Boul. De Maisonneuve O.,2,2,1300,House,Montreal,Quebec
+3234,2150,2004 Boul. St-Laurent,2,1,1200,House,Montreal,Quebec
+3235,1580,6800 Boul. Newman,2,1,843,House,Montreal,Quebec
+3236,1145,6850 Boul. Newman,1,1,543,House,Montreal,Quebec
+3237,2265,6850 Boul. Newman,3,2,2265,House,Montreal,Quebec
+3238,2150,370 Rue des Seigneurs,1,1,763,House,Montreal,Quebec
+3239,1665,1180 Rue du Sussex,1,1,562,House,Montreal,Quebec
+3240,15000,1280 Rue Sherbrooke O.,2,2,3165,House,Montreal,Quebec
+3241,6500,400 Rue Richmond,2,2,870,House,Montreal,Quebec
+3242,3200,2015 Rue de la Montagne,2,2,980,House,Montreal,Quebec
+3243,5000,169 Rue Saint-Paul Est,7,4,3950,House,Montreal,Quebec
+3244,2995,1584A Rue de Champlain,2,2,2500,House,Montreal,Quebec
+3245,2340,6800 Boul. Newman,3,2,1264,House,Montreal,Quebec
+3246,2500,2015 Rue de la Montagne,1,1,911,House,Montreal,Quebec
+3247,3189,4300 Boul. De Maisonneuve O.,2,2,1200,House,Montreal,Quebec
+3248,1755,6800 Boul. Newman,2,2,919,House,Montreal,Quebec
+3249,1980,6250 Av. Lennox #206,2,1,950,House,Montreal,Quebec
+3250,2600,408 Rue St-Jacques,2,2,800,House,Montreal,Quebec
+3251,2000,299 rue de la Rotonde,1,1,666,House,Montreal,Quebec
+3252,2159,2255 Rue Lambert-Closse,2,1,1014,House,Montreal,Quebec
+3253,1500,6850 Boul. Newman,2,1,793,House,Montreal,Quebec
+3254,2150,1050 Rue Drummond,2,1,700,House,Montreal,Quebec
+3255,8500,400 Rue Sherbrooke O.,2,2,1000,House,Montreal,Quebec
+3256,3099,4300 Boul. De Maisonneuve O.,2,2,1200,House,Montreal,Quebec
+3257,2100,370 Rue des Seigneurs,1,1,763,House,Montreal,Quebec
+3258,2399,4300 Boul. De Maisonneuve O.,1,1,883,House,Montreal,Quebec
+3259,1650,2300 Rue du Souvenir,2,1,950,House,Montreal,Quebec
+3260,1680,6850 Boul. Newman,2,2,896,House,Montreal,Quebec
+3261,1545,6850 Boul. Newman,2,1,815,House,Montreal,Quebec
+3262,2195,6250 Av. Lennox,2,2,980,House,Montreal,Quebec
+3263,4500,1188 Rue St Antoine Ouest #TH6,3,3,1093,House,Montreal,Quebec
+3264,2995,1013 Rue St-Hubert,2,1,1170,House,Montreal,Quebec
+3265,1600,101 Rue Murray,1,1,500,House,Montreal,Quebec
+3266,1750,370 Rue des Seigneurs,1,1,659,House,Montreal,Quebec
+3267,3500,424 Rue du Champ-de-Mars,2,1,1730,House,Montreal,Quebec
+3268,1700,454 rue de la Gauchetiere O.,1,1,513,House,Montreal,Quebec
+3269,2000,370 Rue des Seigneurs,1,1,763,House,Montreal,Quebec
+3270,45000,14766 Boul. Gouin O.,3,2,1837,House,Montreal,Quebec
+3271,2750,370 Rue des Seigneurs,2,2,977,House,Montreal,Quebec
+3272,6500,400 Rue Richmond,2,2,850,House,Montreal,Quebec
+3273,4980,400 Rue Sherbrooke O.,2,2,1055,House,Montreal,Quebec
+3274,1595,6850 Boul. Newman,2,1,832,House,Montreal,Quebec
+3275,1600,1288 Rue St-Antoine O.,1,1,600,House,Montreal,Quebec
+3276,1850,370 Rue des Seigneurs,1,1,659,House,Montreal,Quebec
+3277,1850,1288 Av. des Canadiens-de-Montréal,1,1,600,House,Montreal,Quebec
+3278,2229,2255 Rue Lambert-Closse,2,1,1114,House,Montreal,Quebec
+3279,1540,6250 Av. Lennox,1,1,705,House,Montreal,Quebec
+3280,1560,6250 Av. Lennox,1,1,745,House,Montreal,Quebec
+3281,2050,2064 Rue Jeanne-Mance,2,1,1200,House,Montreal,Quebec
+3282,1500,400 Boul. Rene-Levesque O.,1,1,450,House,Montreal,Quebec
+3283,1800,6850 Boul. Newman,2,2,976,House,Montreal,Quebec
+3284,1550,370 Rue des Seigneurs,1,1,659,House,Montreal,Quebec
+3285,2255,6800 Boul. Newman,3,2,1247,House,Montreal,Quebec
+3286,2300,370 Rue des Seigneurs,1,1,826,House,Montreal,Quebec
+3287,5490,400 Rue Sherbrooke O.,3,2,1615,House,Montreal,Quebec
+3288,2260,6800 Boul. Newman,3,2,1247,House,Montreal,Quebec
+3289,2810,6250 Av. Lennox,2,2,940,House,Montreal,Quebec
+3290,2749,2255 Rue Lambert-Closse,2,2,1389,House,Montreal,Quebec
+3291,1675,6850 Boul. Newman,2,2,896,House,Montreal,Quebec
+3292,2925,6250 Av. Lennox,2,2,980,House,Montreal,Quebec
+3293,850,7639 Rue Hébert,1,1,650,House,Montreal,Quebec
+3294,3599,2255 Rue Lambert-Closse,3,2,1783,House,Montreal,Quebec
+3295,1520,6850 Boul. Newman,2,1,786,House,Montreal,Quebec
+3296,2139,2255 Rue Lambert-Closse,2,1,968,House,Montreal,Quebec
+3297,1900,370 Rue des Seigneurs,1,1,763,House,Montreal,Quebec
+3298,2550,370 Rue des Seigneurs,2,2,1011,House,Montreal,Quebec
+3299,2900,389 rue St-Paul,1,1,923,House,Montreal,Quebec
+3300,1799,4650 Av. Bonavista,2,1,1400,House,Montreal,Quebec
+3301,1920,6250 Av. Lennox,2,2,965,House,Montreal,Quebec
+3302,4980,400 Rue Sherbrooke O.,2,1,1060,House,Montreal,Quebec
+3303,2215,6800 Boul. Newman,3,2,1247,House,Montreal,Quebec
+3304,1700,4327 rue de Lanaudiere,2,1,567,House,Montreal,Quebec
+3305,1500,479 Rue Prince-Arthur O.,1,1,660,House,Montreal,Quebec
+3306,1375,6250 Av. Lennox,1,1,690,House,Montreal,Quebec
+3307,1819,2255 Rue Lambert-Closse,1,1,1049,House,Montreal,Quebec
+3308,1800,151 Rue de la Rotonde,1,1,630,House,Montreal,Quebec
+3309,1305,6850 Boul. Newman,1,1,612,House,Montreal,Quebec
+3310,2650,370 Rue des Seigneurs,2,2,1030,House,Montreal,Quebec
+3311,2169,2255 Rue Lambert-Closse,2,1,1037,House,Montreal,Quebec
+3312,1650,199 Rue de la Rotonde,2,1,725,House,Montreal,Quebec
+3313,2660,400 Boul. Rene-Levesque O.,2,1,930,House,Montreal,Quebec
+3314,1799,1070 Ste-Elisabeth,2,1,1050,House,Montreal,Quebec
+3315,2220,6850 Boul. Newman,3,2,1247,House,Montreal,Quebec
+3316,2109,2255 Rue Lambert-Closse,2,1,916,House,Montreal,Quebec
+3317,2335,6800 Boul. Newman,3,2,1261,House,Montreal,Quebec
+3318,2195,90 Rue des Soeurs-Grises,1,1,885,House,Montreal,Quebec
+3319,1470,6850 Boul. Newman,2,1,786,House,Montreal,Quebec
+3320,1950,1625 Av. Lincoln,2,2,1400,House,Montreal,Quebec
+3321,1320,6850 Boul. Newman,1,1,612,House,Montreal,Quebec
+3322,2299,1210 Rue St-Antoine E.,2,2,1110,House,Montreal,Quebec
+3323,2149,333 Rue Sherbrooke E.,1,1,930,House,Montreal,Quebec
+3324,1500,3577 Avenue Atwater,1,1,400,House,Montreal,Quebec
+3325,3250,1608 Av. Selkirk,3,1,2100,House,Montreal,Quebec
+3326,3099,4300 Boul. De Maisonneuve O.,2,2,1200,House,Montreal,Quebec
+3327,3000,2268 Rue du Souvenir,4,2,1500,House,Montreal,Quebec
+3328,2235,6800 Boul. Newman,3,2,1247,House,Montreal,Quebec
+3329,2250,370 Rue des Seigneurs,1,1,773,House,Montreal,Quebec
+3330,2719,2255 Rue Lambert-Closse,2,1,995,House,Montreal,Quebec
+3331,1690,212 Rue Ste-Catherine E.,1,1,760,House,Montreal,Quebec
+3332,1580,6250 Av. Lennox,1,1,705,House,Montreal,Quebec
+3333,1850,1455 Rue Saint-Jacques,2,1,826,House,Montreal,Quebec
+3334,1850,370 Rue des Seigneurs,1,1,659,House,Montreal,Quebec
+3335,2550,284,3,1,1580,House,Montreal,Quebec
+3336,2371,400 Boul. Rene-Levesque O.,2,1,770,House,Montreal,Quebec
+3337,1700,1199 Rue Bishop,1,1,750,House,Montreal,Quebec
+3338,2300,1200 Boul. De Maisonneuve O.,1,1,900,House,Montreal,Quebec
+3339,2719,2255 Rue Lambert-Closse,2,2,1333,House,Montreal,Quebec
+3340,3650,1000 Rue de la Commune E.,2,2,1550,House,Montreal,Quebec
+3341,2300,370 Rue des Seigneurs,2,1,763,House,Montreal,Quebec
+3342,1640,6250 Av. Lennox,2,2,940,House,Montreal,Quebec
+3343,1540,6250 Av. Lennox,1,1,705,House,Montreal,Quebec
+3344,1690,4300 Boul. De Maisonneuve O.,1,1,900,House,Montreal,Quebec
+3345,1699,1584A Rue De Champlain,2,1,850,House,Montreal,Quebec
+3346,1520,6850 Boul. Newman,2,1,793,House,Montreal,Quebec
+3347,1530,6250 Av. Lennox,1,1,700,House,Montreal,Quebec
+3348,3800,170 rue Rioux,2,1,1195,House,Montreal,Quebec
+3349,2910,888 Rue St-François-Xavier,1,1,700,House,Montreal,Quebec
+3350,2095,1211 Rue Drummond,2,1,750,House,Montreal,Quebec
+3351,1550,1414 Rue Chomedey,1,1,600,House,Montreal,Quebec
+3352,1390,4683 Rue Garnier,1,1,464,House,Montreal,Quebec
+3353,2550,1155 Rue de la Montagne,2,2,959,House,Montreal,Quebec
+3354,3995,1450 Boul. Rene-Levesque O.,2,2,1400,House,Montreal,Quebec
+3355,2910,888 Rue St-François-Xavier,1,1,700,House,Montreal,Quebec
+3356,1580,6800 Boul. Newman,2,1,825,House,Montreal,Quebec
+3357,1870,6250 Av. Lennox,2,2,940,House,Montreal,Quebec
+3358,1510,6800 Boul. Newman,2,1,779,House,Montreal,Quebec
+3359,1635,6250 Av. Lennox,1,1,750,House,Montreal,Quebec
+3360,2500,7176 Rue D'Aragon,4,2,1330,House,Montreal,Quebec
+3361,1399,1401 Sherwood Crescent,2,1,1200,House,Montreal,Quebec
+3362,1375,456 Rue De La Gauchetière O.,1,1,850,House,Montreal,Quebec
+3363,1160,6850 Boul. Newman,1,1,543,House,Montreal,Quebec
+3364,2300,543 Rue Sherbrooke E.,1,1,700,House,Montreal,Quebec
+3365,2759,2255 Rue Lambert-Closse,2,2,1423,House,Montreal,Quebec
+3366,3200,370 Rue des Seigneurs,2,2,1468,House,Montreal,Quebec
+3367,2650,85 Av. Windsor,2,1,1250,House,Montreal,Quebec
+3368,1525,6850 Boul. Newman,2,1,815,House,Montreal,Quebec
+3369,1800,12224 Rue Joseph-Casavant,3,1,1400,House,Montreal,Quebec
+3370,1900,408 Rue St-Jacques,1,1,500,House,Montreal,Quebec
+3371,1805,6800 Boul. Newman,2,2,979,House,Montreal,Quebec
+3372,2015,6250 Av. Lennox #205,2,2,965,House,Montreal,Quebec
+3373,2260,6800 Boul. Newman,3,2,1260,House,Montreal,Quebec
+3374,3000,370 Rue des Seigneurs,2,2,1123,House,Montreal,Quebec
+3375,1400,6250 Av. Lennox,1,1,705,House,Montreal,Quebec
+3376,1570,6250 Av. Lennox,1,1,700,House,Montreal,Quebec
+3377,1375,1009 Rue de Bleury,1,1,710,House,Montreal,Quebec
+3378,1900,1185 Av. Rougemont,4,1,1500,House,Montreal,Quebec
+3379,3250,2055 Rue Bishop,4,2,1200,House,Montreal,Quebec
+3380,2650,370 Rue des Seigneurs,2,2,1011,House,Montreal,Quebec
+3381,2280,6850 Boul. Newman,3,2,1255,House,Montreal,Quebec
+3382,1535,6250 Av. Lennox,1,1,700,House,Montreal,Quebec
+3383,6999,400 Rue Sherbrooke O.,2,2,1175,House,Montreal,Quebec
+3384,1437,6325 Av. Somerled,2,1,770,House,Montreal,Quebec
+3385,3500,358 Tsse St-Denis,3,2,1800,House,Montreal,Quebec
+3386,2495,800 Rue Muir #903A,2,2,1192,House,Montreal,Quebec
